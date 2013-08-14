@@ -1,0 +1,6280 @@
+a abdou ie
+a wong ky
+d 
+t analysis of linear interpolation schemes for bilevel image applications
+j ibm j research and development
+v 
+p 
+
+a abell r
+d 
+t implementation of a telidon system using unix file structures
+b the telidon book
+e dgodfrey and echang
+i press porcepic
+c toronto on
+p 
+
+a abut h
+a gray rm
+a rebolledo v
+d 
+t vector quantization of speech and speechlike waveforms
+j ieee trans acoustics speech and signal processing
+v acoustics speech and signal processing 
+n 
+p  
+o june
+k 
+
+a achugbue jo
+d 
+t on the line breaking problem in text formatting
+j sigoa newsletter proc acm symposium on text manipulation portland oregon
+v 
+n 
+p 
+o springsummer
+
+a adams dn
+d 
+t the hitchhikers guide to the galaxy
+i pan
+c london england
+
+a adams jb
+d 
+t a probability model of medical reasoning and the mycin model
+j mathematical biosciences
+v 
+p 
+
+a aho av
+a corasick mj
+d 
+t efficient string matching an aid to bibliographic search
+j comm acm
+v 
+n 
+p 
+o june
+
+a aikins js
+d 
+t prototypical knowledge for expert systems
+j artificial intelligence
+v 
+n 
+p 
+o february
+k 
+
+a akers g
+a lennig m
+d 
+t intonation in texttospeech synthesis evaluation of algorithms
+r report
+i bellnorthern research
+c verdun que 
+k 
+
+a allebach jp
+a liu b
+d 
+t analysis of halftone dot profile and aliasing in the discrete binary representation of images
+j optical society of america
+v 
+n 
+k 
+
+a allen bp
+a wright jm
+d 
+t integrating logic programs and schemata
+j proc th international joint conference on artificial intelligence
+p 
+
+a allen em
+d 
+t yaps yet another production system
+r report tr
+i maryland artificial intelligence group computer science department university of maryland
+c maryland md
+o december
+k 
+
+a allen jf
+a perrault cr
+d 
+t analyzing intention in utterances
+j artificial intelligence
+v 
+p 
+k 
+
+a allen jf
+d 
+t towards a general theory of action and time
+j artificial intelligence
+v 
+p 
+k 
+
+a almes gt
+a black ap
+a lazowska el
+a noe jd
+d 
+t the eden system a technical review
+j ieee trans software engineering
+v se
+n 
+p 
+o january
+k 
+
+a alvey p
+d 
+t the problems of designing a medical expert system
+j proc expert systems 
+i churchill college
+c cambridge england
+p 
+o december
+k 
+
+a anderberg mr
+d 
+t cluster analysis for applications
+i academic press
+c new york ny
+
+a anderson dp
+a hedin rc
+d 
+t voice inputoutput module
+j voice data entry systems application conference 
+c san mateo ca
+o september 
+k 
+
+a anderson jr
+t knowledge compilation the general learning mechanism
+k 
+
+a anderson jr
+a reiser bj
+d 
+t the lisp tutor
+j byte
+v 
+n 
+p 
+o april
+
+a andreae jh
+d 
+t numbers in the head
+r manmachine studies progress report ucdse
+p 
+i department of electrical engineering university of canterbury
+c new zealand
+
+a andreae pm
+d 
+t constraint limited generalization acquiring procedures from examples
+j proc american association on artificial intelligence
+c austin tx
+o august
+k 
+
+a andreae pm
+d 
+t justified generalization acquiring procedures from examples
+r phd thesis
+i department of electrical engineering and computer science mit
+
+a andreae pm
+d 
+t justified generalization
+j proc international conference on future advances in computing
+c christchurch new zealand
+o february 
+k 
+
+a andreka h
+a nemeti i
+a sain i
+d 
+t a complete logic for reasoning about programs via nonstandard model theory i
+j theoretical computer science
+v 
+p 
+k 
+
+a andreka h
+a nemeti i
+a sain i
+d 
+t a complete logic for reasoning about programs via nonstandard model theory ii
+j theoretical computer science
+v 
+p 
+k 
+
+a andrew am
+d 
+t autopoiesis em allopoiesis interplay
+e mzeleny
+b autopoiesis  a theory of living organization
+i north holland
+c new york ny
+p 
+
+a anon
+d 
+t holography and computer generated holograms
+i mills and boom
+c london england
+k 
+
+a ansi
+d 
+t videotexteletext presentation level protocol syntax draft
+i american national standards committee x  information processing systems technical committee xl  codes and character sets
+c new york ny
+o june
+
+a anson e
+d 
+t the device model of interaction
+j computer graphics
+v 
+n 
+p 
+o july
+k 
+
+a aoki m
+d 
+t optimal control of partially observable markovian systems
+j j franklin institute
+v 
+n 
+o november
+k 
+
+a ascher rn
+a nagy g
+d 
+t a means for achieving a high degree of compaction on scandigitized printed text
+j ieee trans computers
+v c
+n 
+p 
+o november
+k 
+
+a ash wl
+d 
+t mxec parallel processing with an advanced macro facility
+j comm acm
+v 
+n 
+p 
+k 
+
+a ashby wr
+d 
+t design for a brain the origin of adaptive behavior
+i wiley
+c new york ny
+o second edition
+
+a askwall s
+d 
+t computer supported reading vs reading text on paper a comparison of two reading situations
+j ijmms
+v 
+n 
+p 
+o april
+
+a atkinson hh
+a gargantini i
+a ramanath mvs
+d 
+t determination of the d border by repeated elimination of internal surfaces
+j computing
+v 
+p 
+k 
+
+a attardi g
+a simi m
+d 
+t semantics of inheritance and attributions in the description system omega
+r ai memo 
+i mit artificial intelligence laboratory
+o january
+k 
+
+a axelrod r
+d 
+t the evolution of cooperation
+i basic books
+c new york ny
+
+a backer d
+a gano s
+d 
+t dynamically alterable videodisk displays
+j proc graphics interface 
+c toronto on
+p 
+o may 
+
+a baecker r
+a marcus a
+d 
+t on enhancing the interface to the source code of computer programs
+j proc acm chi  human factors in computing systems
+p 
+c boston ma
+o december 
+k 
+
+a bailey d
+d 
+t university of salford lispprolog system
+j software  practice and experience
+v 
+n 
+p 
+o june
+k 
+
+a ball gh
+a hall dj
+d 
+t isodata a novel method of data analysis and pattern classification
+r report ad 
+i stanford research institute
+c stanford ca
+
+a bandyopadhyay s
+a hughes jg
+a smith fj
+a sen k
+t a generalized scientific information system
+r report
+i computer science department queens university of belfast
+c belfast northern ireland
+k 
+
+a barber gr
+d 
+t record of the workshop on research in office semantics
+r ai memo 
+i mit
+o february
+k 
+
+a barber gr
+d 
+t office semantics
+r phd thesis
+i mit
+o february
+
+a barber gr
+d 
+t supporting organizational problem solving with a workstation
+j acm trans office information systems
+v 
+n 
+p 
+o january
+k 
+
+a barber gr
+a dejong ps
+a hewitt c
+d 
+t semantic support for work in organizations
+r ai memo 
+i mit artificial intelligence laboratory
+o april
+k 
+
+a barnett ja
+d 
+t computational methods for a mathematical theory of evidence
+j proc th international joint conference on artificial intelligence
+p 
+c vancouver bc
+o august
+
+a barrow hg
+d 
+t artificial intelligence state of the art
+r technical note 
+i sri international
+c menlo park ca
+o october
+
+a barsky ba
+a beatty jc
+d 
+t varying the betas in betasplines
+r report cs
+i university of waterloo
+o december
+k 
+
+a barwise j
+a perry j
+d 
+t situations and attitudes
+i mit press
+c cambridge ma
+
+a barwise j
+d 
+t the situation in logic ii conditionals and conditional information
+r report csli
+i center for the study of language and information stanford university
+c stanford ca
+o january
+k 
+
+a bates e
+d 
+t the emergence of symbols
+i academic press
+
+a beer s
+d 
+r preface to fiautopoiesis and cognitionfr maturana and varela 
+
+a bell tc
+d 
+t better opml text compression
+r internal report
+i computer science department university of canterbury
+c christchurch new zealand
+k 
+
+a bell tc
+a moffat am
+d 
+t a note on the dmc data compression scheme
+r internal report
+i computer science department university of canterbury
+c christchurch new zealand
+
+a bell tc
+d 
+t an introduction to text compression
+r internal report
+i computer science department university of canterbury
+c christchurch new zealand
+
+a bellanger mg
+a daguet jl
+a lepagnol gp
+d 
+t interpolation extrapolation and reduction of computation speed in digital filters
+j ieee trans acoustics speech and signal processing
+v assp
+n 
+p 
+o august
+k 
+
+a benest id
+a jones g
+d 
+t computer emulation of books
+j proc iee conference manmachine systems
+p 
+c manchester england
+o july
+
+a benest id
+a potok mhn
+d 
+t wayfinding an approach using signposting techniques
+j behaviour and information technology
+v 
+n 
+p 
+k 
+
+a bentley jl
+a friedman jh
+d 
+t data structures for range searching
+j computing surveys
+v 
+n 
+p 
+o december
+k 
+
+a bentley jl
+d 
+t multidimensional divideandconquer
+j comm acm
+v 
+n 
+p 
+k 
+
+a bentley jl
+a sleator dd
+a tarjan re
+a wei vk
+d 
+t a locally adaptive data compression scheme
+j comm acm
+v 
+n 
+p 
+o april
+
+a berglund ej
+a cheriton dr
+t amaze  a distributed multiplayer game program using the distributed v kernel
+k 
+
+a bewley wl
+a roberts tl
+a schroit d
+a verplank wl
+d 
+t human factors testing in the design of xeroxs  star office workstation
+j proc acm chi  human factors in computing systems
+p 
+c boston ma
+o december 
+k 
+
+a bezdek jc
+d 
+t a convergence theorem for the fuzzy isodata clustering algorithms
+j ieee trans pattern analysis and machine intelligence
+v pami
+n 
+p 
+o january
+k 
+
+a bibel w
+d 
+t matings in matrices
+j comm acm
+v 
+n 
+p 
+o november
+k 
+
+a biederman i 
+d 
+t human image understanding recent research and a theory
+j computer vision graphics and image processing
+v 
+n 
+p 
+o october
+
+a bigelow c
+a day d
+d 
+t digital typography
+j scientific american
+v 
+n 
+p 
+o august
+k 
+
+a bigelow c
+d 
+t principles of font design for the personal workstation
+r research report
+i stanford university
+k 
+
+a bigelow c
+d 
+t notes on typeface protection
+k 
+
+a birkhoff g
+d 
+t lattice theory
+i american mathematical society
+c providence ri
+
+a birrell ad
+a levin r
+a needham rm
+a schroeder md
+d 
+t grapevine an exercise in distributed computing
+j comm acm
+v 
+n 
+p 
+o april
+k 
+
+a birtwistle gm
+a dahl oj
+a myhrhaug b
+a nygaard k
+d 
+t simula begin
+i auerbach
+c philadelphia pa
+
+a birtwistle g
+a cleary jg
+a joyce j
+a liblong b
+a unger bw
+a witten ih
+a wyvill blm
+d 
+t a simulation environment
+j proc canadian information processing society conference
+c calgary al
+p 
+o may
+k kconference
+
+a blakeslee tr
+d 
+t the right brain
+i macmillan
+c london england
+
+a bobrow dg
+d 
+t if prolog is the answer what is the question or what it takes to support ai programming paradigms
+j ieee trans software engineering
+v se
+n 
+p 
+o november
+k 
+
+a boehmdavis da
+a fregly am
+d 
+t documentation of concurrent programs
+j proc acm chi  human factors in computing systems
+p 
+c boston ma
+o december 
+k 
+
+a bonham m
+a witten ih
+d 
+t towards distributed document preparation with interactive and noninteractive viewing
+j proc canadian information processing society conference
+c calgary al
+p 
+o may
+k kconference
+
+a bonham m
+a witten ih
+d 
+t towards distributed document preparation with interactive and noninteractive viewing
+j infor
+v 
+n 
+p 
+o november
+k kjournal
+
+a bonham m
+a witten ih
+d 
+t more on a large font virtual terminal interface a software prosthesis for the visually impaired
+j comm acm
+v 
+n 
+p 
+o november
+k kcorrespondence
+
+a bonham m
+a witten ih
+d 
+t shape em a unifying concept in document layout
+j proc protext ii  second international conference on text processing systems
+i boole press
+c dublin ireland
+p 
+o october
+k kconference
+
+a bonner s
+a shin k
+d 
+t a comparative study of robot languages
+j ieee computer
+v 
+n 
+p 
+
+a boose jh
+d 
+t rapid acquisition and combination of knowledge from multiple experts in the same domain
+j proc international conference on future advances in computing
+c christchurch new zealand
+o february 
+k 
+
+a booth tl
+d 
+t computer education
+j ieee computer
+v 
+n 
+p 
+o october
+k 
+
+a borning a
+d 
+t the programming language aspects of thinglab a constraintoriented simulation laboratory
+j acm trans programming languages and systems
+v 
+n 
+p 
+o october
+k 
+
+a bouachache b
+d 
+t wigner analysis of timevarying signals
+b signal processing ii theories and applications
+e hwschussler
+i elsevier science publishers bv north holland
+p 
+k 
+
+a bouachache b
+a rodriguez f
+d 
+t recognition of timevarying signals in the timefrequency domain by means of the wigner distribution
+j proc international circuits and systems symposium
+k 
+
+a bouachache b
+a whitehouse hj
+d 
+t seismic applications of the wignerville distribution
+j proc international circuits and systems symposium
+c san jose ca
+o may 
+k 
+
+a boulton pip
+a lee es
+d 
+t the performance of hubnet
+j proc international electrical electronics conference
+v 
+p 
+c toronto on
+o september 
+k 
+
+a bower gh
+a black jb
+d 
+t scripts in memory for text
+j cognitive psychology
+v 
+p 
+k 
+
+a brachman rj
+d 
+t what isa is and isnt an analysis of taxonomic links in semantic networks
+j ieee computer
+v 
+n 
+p 
+o october
+k 
+
+a brachman rj
+a schmolze jg
+d 
+t an overview of the klone knowledge representation scheme
+j cognitive science
+v 
+n ii
+p 
+k 
+
+a bramer maeditor
+d 
+t research and development in expert systems
+i cambridge university press
+c cambridge england
+o proc th conference of bcs group on expert systems december 
+
+a bramwell b
+d 
+t browsing around a manual
+j proc canadian information processing society conference
+c calgary al
+p 
+o may
+k 
+
+a britton bk
+a black jbeditors
+d 
+t understanding expository text a theoretical and practical handbook for analyzing explanatory text
+i erlbaum
+c hillsdale nj
+
+a brown kq
+d 
+t voroni diagrams from convex hulls
+j information processing letters
+v 
+n 
+p 
+o december
+k 
+
+a brown pj
+d 
+t interactive documentation
+r internal report
+i computing laboratory university of kent
+o april
+k 
+
+a brown js
+a burton rr
+d 
+t multiple representations of knowledge for tutorial reasoning
+b representation of learning
+e dg bobrow and a collins
+i academic press
+c new york ny
+
+a brownston l
+a farrell r
+a kant e
+a martin n
+d 
+t programming expert systems in ops an introduction to rulebased programming
+i addisonwesley
+c reading ma
+
+a brunner j
+d 
+t the shockwave rider
+i ballantine
+c new york ny
+
+a bruynooghs m
+d 
+t adding redundancy to obtain more reliable and more readable prolog programs
+j proc st international logic programming conference
+c marseille france
+p 
+o september 
+k 
+
+a bryant j
+d 
+t on the clustering of multidimensional pictorial data
+j pattern recognition
+v 
+p 
+k 
+
+a buchman c
+a berry dm
+t an adaptation of the unix ditroff for formatting bidirectional text
+i computer science department university of california
+c los angeles ca
+k 
+
+a bundy a
+a silver b
+a plummer d
+d 
+t an analytical comparison of some rulelearning programs
+j artificial intelligence
+v 
+p 
+
+a bundy a
+d 
+t the computer modelling of mathematical reasoning
+a academic press
+c london england
+
+a burton rr
+a brown js
+d 
+t an investigation of computer coaching for informal learning activities
+j ijmms
+v 
+n 
+p 
+o january
+
+a bush v
+d 
+t as we may think
+j atlantic monthly
+p 
+o july
+
+a byrd rj
+a smith se
+a dejong sp
+d 
+t an actorbased programming system
+j proc sigoa conference on office information systems
+p 
+c philadelphia pa
+o june 
+k 
+
+a campbell fw
+a robson jg
+d 
+t application of fourier analysis to the visibility of gratings
+j physiol
+n 
+p 
+i university of cambridge
+k 
+
+a cannon wb
+d 
+t the wisdom of the body
+i london
+
+a carroll jb
+d 
+t on sampling from a lognormal model of wordfrequency distribution
+b computational analysis of presentday american english
+e kucera h and francis wn
+i brown university press
+c providence ri
+p 
+k 
+
+a carroll jb
+d 
+t wordfrequency studies and the lognormal distribution
+e emzale
+b proc conference on language and language behavior
+i appletoncenturycrofts
+c new york ny
+p 
+k 
+
+a carroll jm
+a thomas jc
+d 
+t metaphor and the cognitive representation of computing systems
+j ieee trans systems man and cybernetics
+v smc
+n 
+p 
+o marchapril
+k 
+
+a carter ka
+d 
+t the rainbow workstation in briefa window manager for the rainbow workstation
+r rainbow group note
+i computer laboratory university of cambridge
+o may
+k 
+
+a casey rg
+a friedman td
+a wong ky
+d 
+t automatic scaling of digital fonts
+j ibm j research and development
+v 
+p 
+
+a casey rg
+a nagy g
+d 
+t decision tree design using a probabilistic model
+tj ieee trans information theory
+v it
+n 
+p 
+o january
+k 
+
+a cater jp
+d 
+t electronically speaking computer speech generation
+i howard w sams
+c indianapolis in
+
+a catmull e
+d 
+t new frontiers in computer animation
+j american cinematographer
+p 
+o october
+
+a cendrowska j
+a bramer ma
+d 
+t a rational reconstruction of the mycin consultation system
+j ijmms
+v 
+p 
+
+a chapanis a
+d 
+t taming and civilizing computers
+b computer culture the scientific intellectual and social impact of the computer
+e heinz r pagels
+i new york academy of sciences
+c new york ny
+p 
+k 
+
+a chazelle b
+d 
+t a decision procedure for optimal polyhedron partitioning
+j information processing letters
+v 
+p 
+o february 
+k 
+
+a cheeseman p
+d 
+t in defense of probability
+j proc th international joint conference on artificial intelligence
+p r
+
+a cheriton dr
+a zwaenepoel w
+d 
+t the distributed v kernel and its performance for diskless workstations
+r report no stancs
+i stanford university computer science department
+c stanford ca
+o july
+k 
+
+a christodoulakis s
+a faloutsos c
+d 
+t design considerations for a message file server
+j ieee trans software engineering
+v se
+n 
+p 
+o march
+k 
+
+a ciminiere l
+a valenzano a
+d 
+t iapx  hardware fault handling mechanisms
+k 
+
+a clancey wj
+d 
+t tutoring rules for guiding a case method dialogue
+j ijmms
+v 
+p 
+k 
+
+a clancey wj
+d 
+t the epistemology of a rulebased expert system em a framework for explanation
+j artificial intelligence
+v 
+p 
+k 
+
+a clancey wj
+a shortliffe eh editors
+d 
+t readings in medical artificial intelligence
+i addisonwesley
+c reading ma
+
+a clarkson t
+t eye position sensor
+r section  of a report
+i kings college
+c london england
+k 
+
+a cleary jg
+d 
+t analysis of an algorithm for finding nearest neighbors in euclidean space
+j acm trans mathematical software
+v 
+n 
+p 
+o june
+k 
+
+a cleary jg
+d 
+t compact hash tables using bidirectional linear probing
+j ieee trans computers
+v c
+n 
+p 
+o september
+
+a cleary jg
+a darragh jj
+d 
+t a fast compact representation of trees using hash tables
+r research report 
+i computer science department university of calgary
+o submitted to fiieee trans computersfp
+
+a cleary jg
+a witten ih
+d in preparation
+t universal data compression
+
+a clocksin wa
+d 
+t introduction to prolog
+b artificial intelligence  tools techniques and applications
+e toshea and meisenstadt
+i harper and row
+c new york ny
+
+a codd ef
+d 
+t cellular automata
+i academic press
+c london england
+
+a codd ef
+d 
+t how about recently
+b databases improving usability and responsiveness
+e b shneiderman ed
+i academic press
+c new york ny
+p 
+
+a cohen es
+a smith et
+a iverson la
+d 
+t constraintbased tiled windows
+r research report
+i computer science department carnegiemellon university
+
+a cohen j
+d 
+t describing prolog by its interpretation and compilation
+j comm acm
+v 
+n 
+p 
+o december
+k 
+
+a colby km
+d 
+t simulations of belief systems
+e rcschank and kmcolby
+b computer models of thought and language
+i freeman
+c san francisco ca
+p 
+
+a colmaurer a
+a colmaurer c
+d 
+t prolog en  figures
+j tsi
+v 
+n 
+o julyaugust
+k 
+
+a colmerauer a
+d 
+t prolog in  figures
+j comm acm
+v 
+n 
+p 
+o december
+k 
+
+a colmaurer a
+t an interesting subset of natural language
+k 
+
+a comer de
+a peterson ll
+t conversationbased mail
+j acm transactions on computer systems
+v 
+n 
+o november
+k 
+
+a computersciencedepartment
+d 
+t cpsc student handbook
+i university of calgary
+
+a coombs m
+a alty j
+d 
+t expert systems an alternative paradigm
+j ijmms
+v 
+n 
+p 
+o january
+k 
+
+a corbett c
+d 
+t mc nrofftroff macros reference manual
+r report eesmms
+i department of electrical engineering science university of essex
+c colchester essex uk
+k 
+
+a corbett c
+d 
+t figure processing within nroff
+j presented at euug meeting
+c dublin ireland
+o september
+k 
+
+a cormack gv
+a horspool rn
+d 
+t algorithms for adaptive huffman codes
+j information processing letters
+v 
+n 
+p 
+o march
+k 
+
+a cormack gv
+a horspool rn
+d 
+t data compression using dynamic markov modelling
+r research report
+i computer science department university of waterloo
+o april submitted to comm acm
+k 
+
+a costigan dm
+d 
+t electronic delivery of documents and graphics
+i van nostrand reinhold
+c new york ny
+
+a coulon d
+a kayser d
+d 
+t construction of natural language sentence acceptors by a supervisedlearning technique
+j ieee trans pattern analysis and machine intelligence
+v pami
+n 
+p 
+o january
+k 
+
+a cove jf
+a walsh bc
+d 
+t a taxonomy of browsing
+r working paper 
+i computer science department university of liverpool
+o april
+k 
+
+a cox bj
+d 
+t object oriented programming
+i addisonwesley
+c reading ma
+
+a crochiere re
+a rabiner lr
+d 
+t optimum fir digital filter implementations for decimation interpolation and narrowband filtering
+j ieee trans acoustics speech and signal processing
+v assp
+n 
+p 
+o october
+k 
+
+a crochiere re
+a rabiner lr
+d 
+t further considerations in the design of decimators and interpolators
+j ieee trans acoustics speech and signal processing
+v assp
+n 
+p 
+o august
+k 
+
+a croft wb
+a lefkowitz ls
+d 
+t task support in an office system
+j acm trans office information systems
+v 
+n 
+p 
+o july
+k 
+
+a croft wb
+d 
+t the role of context and adaptation in user interfaces
+j ijmms
+v 
+n 
+p 
+o october
+
+a csuri c
+d 
+t computer graphics and art
+j proc ieee
+o april
+
+a cuff rn
+d 
+t database query using menus and natural language fragments
+r phd thesis
+i manmachine systems laboratory department of electrical engineering science university of essex
+c colchester essex uk
+
+a cuff rn
+d 
+t hercules database query using natural language fragments
+j proc rd british national conference on database systems
+c leeds
+o july
+k 
+
+a cullingford re
+d 
+t script application computer understanding of newspaper stories
+r phd thesis research report 
+i yale university
+
+a cullingford re
+a krueger mw
+a selfridge m
+a bienkowski ma
+d 
+t automated explanations as a component of a computeraided design system
+j ieee trans systems man and cybernetics
+v smc
+n 
+p 
+o marchapril
+k 
+
+a cullingford re
+a pazzani mj
+d 
+t wordmeaning selection in multiprocess language understanding programs
+j ieee trans pattern analysis and machine intelligence
+v pami
+n 
+p 
+o july
+k 
+
+a curry g
+a baer l
+a lipkie d
+a lee b
+d 
+t traits an approach to multipleinheritance subclassing
+j acm conference on office information systems
+p 
+o june
+k 
+
+a damper ri
+a macdonald sl
+d 
+t template adaptation in speech recognition
+j proc institute of acoustics
+v 
+n 
+p 
+k 
+
+a damper ri
+a macdonald sl
+d 
+t statistical clustering procedures applied to lowcost speech recognition
+j j biomed engineering
+v 
+p 
+o october
+k 
+
+a darragh jj
+a witten ih
+a cleary jg
+d 
+t adaptive text compression to enhance a modem
+r research report 
+i computer science department university of calgary
+k kreport
+
+a davis r
+d 
+t interactive transfer of expertise acquisition of new inference rules
+j artificial intelligence
+v 
+n 
+p 
+k 
+
+a davis r
+a lenat db
+d 
+t knowledgebased systems in artificial intelligence
+i mcgraw hill
+c new york ny
+
+a day jd
+a zimmermann h
+d 
+t the osi reference model
+j proc ieee
+v 
+n 
+p 
+o december
+
+a defude b
+d 
+t knowledge based systems versus thesaurus an architecture problem about expert systems design
+j proc rd joint bcs and acm symposium kings college cambridge
+i cambridge university press
+p 
+o july
+k 
+
+a debeaugrande r
+d 
+t text discourse and process towards a multidisciplinary science of texts
+i ablex publishing corporation
+c norwood nj
+
+a dejong g
+d 
+t prediction and substantiation two processes that comprise understanding
+j proc international joint conference on artificial intelligence
+c tokyo japan
+p 
+o august
+
+a dejong g
+d 
+t generalizations based on explanations
+j proc ijcai 
+p 
+k 
+
+a dejong sp
+d 
+t the system for business automation sba a unified application development system
+b information processing 
+e shlavington
+p 
+i north holland
+k 
+
+a deleon l
+a harris wg
+a evens m
+d 
+t is there really trouble with unix
+j proc acm chi  human factors in computing systems
+p 
+c boston ma
+o december 
+
+a dietterich tg
+a michalski rs
+d 
+t a comparative review of selected methods for learning from examples
+b machine learning
+e rs michalski jg carbonell and tm mitchell
+i tioga
+p 
+
+a denning pj
+d 
+t computerbased predictive writing
+j comm acm
+v 
+n 
+p 
+o may
+k 
+
+a denning pj
+d 
+t educational ruminations
+j comm acm
+v 
+n 
+p 
+o october
+
+a denning pj
+d 
+t the science of computing what is computer science
+j american scientist
+v 
+o januaryfebruary
+k 
+
+a dewdney ak
+d 
+t computer recreations
+j scientific american
+v 
+n 
+p 
+o may
+
+a downs t
+a cook as
+a rogers g
+d 
+t a partitioning approach to yield estimation for large circuits and systems
+j ieee trans circuits and systems
+v cas
+n 
+p 
+o may
+k 
+
+a downs t
+d 
+t an approach to the modeling of software testing with some applications
+j ieee trans software engineering
+v se
+n 
+p 
+o april
+k 
+
+a drummond m
+d 
+t a proposal to study the costeffectiveness of planning acting and sensing
+r dai working paper
+i department of artificial intelligence university of edinburgh
+k 
+
+a dubes r
+a jain ak
+d 
+t validity studies in clustering methodologies
+j pattern recognition
+v 
+p 
+k 
+
+a duda r
+a gaschnig j
+a hart p
+d 
+t model design in the prospector consultant system for mineral exploration
+e d michie
+b expert systems in the microelectronic age
+i edinburgh university press
+k 
+
+a dumais s
+a landauer t
+d 
+t psychological investigations of natural terminology for command and query languages
+b directions in humancomputer interactions
+e badre and shneiderman
+i ablex publishing corporation
+c norwood nj
+p 
+
+a dumais s
+a landauer t
+d 
+t using examples to describe categories
+j proc acm chi  human factors in computing systems
+p 
+c boston ma
+o december 
+k 
+
+a dunham mo
+a gray rm
+d 
+t an algorithm for the design of labeledtransition finitestate vector quantization
+j ieee trans communications
+v com
+n 
+p 
+o january
+k 
+
+a dyer mg
+d 
+t indepth understanding
+i mit press
+c cambridge ma
+
+a dynkin eb
+d 
+t controlled random sequences
+j theoretical probability and its applications
+v x
+n 
+k 
+
+a eason kd
+a damodaran l
+d 
+t design procedures for user involvement and user support
+j infotech  man computer communications
+c london england
+
+a edelsbrunner h
+a maurer ha
+d 
+t finding extreme points in three dimensions and solving the postoffice problem in the plane
+j information processing letters
+v 
+p 
+o  july
+k 
+
+a efron b
+a thisted r
+d 
+t estimating the number of unseen species how many words did shakespeare know
+j biometrika
+v 
+n 
+p 
+k 
+
+a eisenstadt e
+a hasemar t
+d 
+t an improved user interface for prolog
+e bshackel
+b humancomputer interaction proceedings interact 
+i north holland
+p 
+k 
+
+a ekeberg o
+d 
+t robust dictionary lookup using associative methods
+r research report
+i computer vision and associative pattern processing laboratory department of computing science royal institute of technology
+c stockholm sweden
+k 
+
+a elias p
+d 
+t predictive coding part i and part ii
+j ire trans information theory
+v it
+n 
+p 
+k 
+
+a elias p
+d 
+t bounds on performance of optimum quantizers
+j ieee trans information theory
+v it
+n 
+p 
+o march
+k 
+
+a elias p
+d 
+t universal codeword sets and representations of the integers
+j ieee trans information theory
+v it
+n 
+p 
+o march
+k 
+
+a elliott sj
+a nelson pa
+d 
+t an algorithm for multichannel lms adaptive filtering
+r research report
+i institute of sound and vibration research university of southampton
+c southampton england
+k 
+
+a ellis ca
+a nutt gj
+d 
+t on the equivalence of office models
+r research report ssl
+i xerox parc
+o december
+k 
+
+a ellis ca
+t formal and informal models of office activity
+r research report
+i xerox parc
+k 
+
+a ellis ca
+a bernal m
+d 
+t officetalkd an experimental office information system
+j proc acm conference 
+p 
+k 
+
+a embley dw
+a nagy g
+d 
+t behavioral aspects of text editors
+j computing surveys
+v 
+n 
+p 
+o march
+k 
+
+a engel fl
+a andriessen jj
+a schmitz hjr
+d 
+t what where and whence means for improving electronic data access
+j ijmms
+v 
+p 
+
+a englebart dc
+a english wk
+d 
+t a research center for augmenting human intellect
+j proc fall joint computer conference
+v 
+p 
+i afips press
+c arlington va
+
+a ernvall j
+a nevalainen o
+d 
+t estimating the length of minimal spanning trees in compression of files
+j bit
+v 
+p 
+k 
+
+a even s
+a rodeh m
+d 
+t economical encodings of commas between strings
+j comm acm
+v 
+p 
+o april
+k 
+
+a even s
+a pratt v
+a rodeh m
+d 
+t linear algorithm for data compression via string matching
+j j acm
+v 
+n 
+p 
+o january
+
+a everitt b
+d 
+t cluster analysis
+i heineman
+c london england
+
+a fano rm
+d 
+t the transmission of information
+r technical report 
+i research laboratory of electronics mit
+c cambridge ma
+
+a feigenbaum ea
+a mccorduck p
+d 
+t the fifth generation
+i addisonwesley
+c reading ma
+
+a ferrans jc
+d 
+t sedl em a language for specifying integrity constraints on office forms
+j sigoa newsletter proc sigoa conference on office information systems
+v 
+n 
+p 
+c philadelphia pa
+o june 
+k 
+
+a fikes r
+a kehler t
+d 
+t the role of framebased representation in reasoning
+j comm acm
+v 
+n 
+p 
+o september
+k 
+
+a filipski a
+a hanko j
+d 
+t making unix secure
+j byte
+p 
+o april
+
+a fillmore cj
+d 
+t the case for case
+e ebach and rtharms
+b universals in linguistic theory
+p 
+i holt reinhart and winston
+c chicago il
+k 
+
+a finkel ra
+a bentley jl
+d 
+t quad trees  a data structure for retrieval on composite keys
+j acta informatica
+v 
+n 
+p 
+
+a fischer g
+a lemke a
+a schwab t
+d 
+t knowledgebased help systems
+j proc human factors in computer systems
+c san francisco ca
+p 
+o april
+k 
+
+a fitter m
+d 
+t toward more natural interactive systems
+j ijmms
+v 
+p 
+
+a fogel lj
+a owens aj
+a walsh mj
+d 
+t artificial intelligence through simulated evolution
+i wiley
+
+a foley jd
+a wallace vl
+a chan p
+d 
+t the human factors of computer graphics interaction techniques
+j ieee computer graphics and applications
+v 
+n 
+p 
+o november
+k 
+
+a foster j
+a gray rm
+a dunham mo
+d 
+t finitestate vector quantization for waveform coding
+j ieee trans information theory
+v it
+o may
+
+a freij gj
+a cheetham bmg
+d 
+t improved sequential linear prediction by selective timedomain coefficient extraction
+r report
+k 
+
+a friedman jh
+a baskett f
+a shustek lj
+d 
+t an algorithm for finding nearest neighbors
+j ieee trans computers
+v c
+p 
+o october
+k 
+
+a friedman jh
+a bentley jl
+a finkel ra
+d 
+t an algorithm for finding best matches in logarithmic expected time
+j acm trans mathematical software
+v 
+n 
+p 
+o september
+k 
+
+a fukunaga k
+a narendra pm
+d 
+t a branch and bound algorithm for computing fikfpnearest neighbors
+j ieee trans computers
+v c
+p 
+o july
+k 
+
+a fulton ma
+t a social cognition research model for studying humancomputer communication
+r research report
+i oklahoma state university business college
+c stillwater ok
+k 
+
+a gaines br
+d 
+t on a danger in the assumption of causality
+j ieee trans systems man and cybernetics
+v smc
+p 
+
+a gaines br
+d 
+t autopoiesis some questions
+e mzeleny
+b autopoiesis  a theory of living organization
+i north holland
+c new york ny
+p 
+
+a gaines br
+d 
+t the technology of interaction  dialog programming rules
+j ijmms
+v 
+n 
+p 
+o january
+
+a gaines br
+d 
+t from word processing to image processing in office systems
+j proc international electrical electronics conference
+v 
+p 
+c toronto on
+o september 
+k 
+
+a gaines br
+d 
+t fundamentals of decision probabilistic possibilistic and other forms of uncertainty in decision analysis
+j studies in the management sciences
+v 
+p 
+
+a gaines br
+d 
+t expert systems and simulation in planning flexible manufacturing systems
+j proc workshop on coupling symbolic and numerical computing in expert systems
+i boeing computer services ai center
+c bellevue wa
+o august 
+
+a gaines br
+d 
+t the design of expert systems for planning flexible manufacturing
+r research report
+i computer science department university of calgary
+
+a gaines br
+a shaw mlg
+d 
+t foundations of dialog engineering the development of humancomputer interaction part ii
+j ijmms
+v 
+n 
+p 
+o february
+
+a gaines br
+d 
+t an overview of knowledge acquisition and transfer
+j proc aaai workshop on knowledge acquisition for knowledgebased systems
+c banff al
+o november
+
+a galitz wo
+d 
+t human factors in office automation
+i life office management association
+c atlanta ga 
+
+a gardner m
+t in which monster curves force redefinition of the word curve
+j scientific american
+p 
+k
+
+a gargantini i
+a atkinson hh
+d 
+t linear quadtrees a blocking technique for contour filling
+j pattern recognition
+v 
+n 
+p 
+k 
+
+a gargantini ia
+d 
+t recent results on linear quadtrees and related techniques
+r report 
+i computer science department university of western ontario
+c london on
+o december to appear in fipattern recognitionfp
+k 
+
+a garudadri h
+a beddoes mp
+a gilbert jhv
+a benguerel ap
+t identification of invariant acoustic cues in stop consonants using the wigner distribution
+j 
+k 
+
+a garvey td
+a lowrance jd
+a fischler ma
+d 
+t an inference technique for integrating knowledge from disparate sources
+j proc th international joint conference on artificial intelligence
+p 
+c vancouver bc
+o august
+k 
+
+a gehani nh
+d 
+t an electronic form system  an experience in prototyping
+j software  practice and experience
+v 
+p 
+k 
+
+a gehani nh
+d 
+t high level form definition in office information systems
+j computer j
+v 
+n 
+p 
+k 
+
+a geller vj
+a lesk me
+d 
+t how users search a comparison of menu and attribute retrieval systems on a library catalog
+r internal report
+i bell laboratories
+k 
+
+a genesereth mr
+a ginsberg ml
+d 
+t logic programming
+j comm acm
+v 
+n 
+p 
+o september
+k 
+
+a genesereth mr
+a ginsberg ml
+a rosenschein js
+d 
+t solving the prisoners dilemma
+r research report stancs
+i computer science department stanford university
+c stanford ca
+k 
+
+a giles r
+d 
+t lucasiewicz logic and fuzzy set theory
+j ijmms
+v 
+p 
+
+a ginsberg ml
+d 
+t does probability have a place in nonmonotonic reasoning
+j proc ijcai
+p 
+k 
+
+a georgeff m
+a lansky al
+a bessiere p
+d 
+t a procedural logic
+j proc international joint conference on artificial intelligence
+c los angeles ca
+o august
+k 
+
+a gersham av
+d 
+t a framework for conceptual analyzers
+e wg lenhert and mh ringle
+b strategies for natural language processing
+i lawrence erlbaum associates
+p 
+
+a gersho a
+d 
+t asymptotically optimal block quantization
+j ieee trans information theory
+v it
+n 
+p 
+o july
+k 
+
+a gevarter wb
+d 
+t an overview of computerbased natural language processing
+r nasa technical memorandum 
+c washington dc
+
+a gevarter wb
+d 
+t expert systems limited but powerful
+j ieee spectrum
+p 
+o august
+
+a gibbon d
+a richter heditors
+d 
+t intonation accent and rhythm
+i de gruyter
+c berlin
+
+a gibbs rw
+a tenney yj
+d 
+t the concept of scripts in understanding stories
+j j psycholinguistic research
+v 
+n 
+p 
+k 
+
+a gibson b
+a wittig r
+d 
+t the develnet lan architecture and experience
+j proc international electrical electronics conference
+v 
+p 
+c toronto on
+o september 
+k 
+
+a girill tr
+a luk ch
+d 
+t document an interactive online solution to four documentation problems
+j comm acm
+v 
+n 
+p 
+o may
+
+a glinert ep
+a tanimoto sl
+d 
+t pict an interactive graphical programming environment
+j ieee computer
+v 
+n 
+p 
+o november
+k 
+
+a glinert ep
+a ladner re
+d 
+t a large font virtual terminal interface
+j comm acm
+v 
+n 
+p 
+o june
+k 
+
+a godfrey d
+a chang eeditors
+d 
+t the telidon book
+i press porcepic
+c toronto on
+
+a goldshlager lm
+d 
+t short algorithms for spacefilling curves
+j software  practice and experience
+v 
+p 
+o september
+k 
+
+a good di
+d 
+t the proof of a distributed system in gypsy
+r technical report 
+i institute for computing science university of texas at austin
+c austin tx
+o september
+k 
+
+a gordon j
+a shortliffe eh
+d 
+t the dempstershafer theory of evidence
+b rulebased expert systems
+e bgbuchanan and ehshortliffe
+i addisonwesley
+c reading ma
+p 
+
+a gordon j
+a shortliffe eh
+d 
+t a method for managing evidential reasoning in a hierarchical hypothesis space
+j artificial intelligence
+v 
+p 
+
+a gosling ja
+d 
+t a redisplay algorithm
+j sigoa newsletter proc acm symposium on text manipulation
+c portland or
+v 
+n 
+p 
+o springsummer
+
+a gosling ja
+a rosenthal dsh
+d 
+t a network windowmanager
+r report
+i information technology center carnegiemellon university
+c pittsburgh pa
+k 
+
+a grampp ft
+a morris rh
+d 
+t unix operating system security
+j bell system technical j
+v 
+n  part 
+p 
+o october
+
+a grasser ac
+d 
+t prose comprehension beyond the word
+i springerverlag
+c new york ny
+
+a gray rm
+a kieffer jc
+a linde y
+d 
+t locally optimal block quantizer design
+j information and control
+v 
+p 
+k 
+
+a gray rm
+d 
+t hardware realization of waveform vector quantizers
+j ieee trans
+v sac
+n 
+
+a green m
+d 
+t towards a user interface prototyping system
+j proc graphics interface 
+p 
+k 
+
+a greenberg s
+d 
+t user modeling in interactive computer systems
+r msc thesis
+i computer science department university of calgary
+
+a greenberg s
+a witten ih
+d 
+t comparison of menu displays for ordered lists
+j proc canadian information processing society conference
+c calgary al
+p 
+o may
+k kconference
+
+a greenberg s
+a witten ih
+d 
+t adaptive personalized interfaces  a question of viability
+j behaviour and information technology
+v 
+n 
+p 
+o januarymarch
+k kjournal
+
+a greenberg s
+a witten ih
+d 
+t interactive enduser creation of workbench hierarchies within a window system
+j proc canadian information processing society conference
+c montreal que
+p 
+o may
+k kconference
+
+a greenberg s
+a peterson m
+a witten ih
+d 
+t issues and experiences in the design of a window management system
+j proc canadian information processing society conference
+c edmonton al
+p 
+k kconference
+
+a grice hp
+d 
+t meaning
+j philosophical review
+v lxvi
+n 
+p 
+k 
+
+a grice hp
+d 
+t utterers meaning and intentions
+j philosophical review
+v lxxviii
+n 
+p 
+k 
+
+a grossner cp
+a radhakrishnan t
+a pospiech a
+d 
+t an integrated workstation for the visually handicapped
+j ieee micro
+p 
+o june
+k 
+
+a gullichsen e
+a chang e
+d 
+t generative design in architecture using an expert system
+r research report
+i computer science department university of victoria
+o february
+k 
+
+a hagelbarger dw
+a thompson ra
+d 
+t experiments in teleterminal design
+j ieee spectrum
+p 
+o october
+k 
+
+a halbert dc
+d 
+t programming by example
+r technical report
+i xerox parc office products division
+c palo alto ca
+o december
+
+a hammond p
+a sergot m
+d 
+t a prolog shell for logic based expert systems
+j proc expert systems 
+i churchill college
+c cambridge england
+p 
+o december
+k 
+
+a hammond p
+d 
+t representation of dhss regulations as a logic program
+j proc expert systems 
+i churchill college
+c cambridge england
+p 
+o december
+k 
+
+a hanson sj
+a kraut re
+a farber jm
+d 
+t interface design and multivariate analysis of unix command use
+j acm trans office information systems
+v 
+n 
+o march
+
+a harrison af
+a bramson rm
+t the art of thinking
+i berkley books
+c new york ny
+k 
+
+a harth e
+d 
+t windows on the mind
+i harvester press
+c brighton sussex
+
+a hartigan ja
+d 
+t clustering algorithms
+i wiley
+
+a hartley j
+d 
+t designing instructional text
+i kogan page
+c london england
+
+a hartley j
+d 
+t designing instructional text
+e dh jonassen
+b the technology of text
+i educational technology publications
+c englewood cliffs nj
+
+a hasling dw
+a clancey wj
+a rennels g
+d 
+t strategic explanations for a diagnostic consultation system
+j ijmms
+v 
+p 
+k 
+
+a haugeland j
+d 
+t understanding natural language
+v lxxvi
+n 
+p 
+o november
+k 
+
+a hayes p
+t the naive physics manifesto
+k 
+
+a hayes pj
+a ball e
+a reddy r
+d 
+t breaking the manmachine communication barrier
+j ieee computer
+p 
+o march
+k 
+
+a hayes pj
+d 
+t executable interface definitions using formbased interface abstractions
+r report cmscs
+i computer science department carnegiemellon university
+k 
+
+a hayes pj
+a szekely pa
+a lerner ra
+d 
+t design alternatives for user interface management systems based on experience with cousin
+j proc human factors in computer systems
+c san francisco ca
+p 
+o april
+k 
+
+a hayes pj
+a lerner ra
+a szekely pa
+t the cousin user interface project
+k 
+
+a hayesroth f
+d 
+t rulebased systems
+j comm acm
+v 
+n 
+p 
+o september
+k 
+
+a hays dg
+d 
+t dependency theory  a formalism and some observations
+j language
+v 
+p 
+
+a heath fg
+a foulk pw
+a li dy
+d 
+t analysis and restructuring of concurrent systems using prolog
+j proc ieee part e
+v 
+n 
+p 
+o september
+k 
+
+a heckbert p
+d 
+t color image quantization for frame buffer display
+j proc siggraph 
+c boston ma
+p 
+o july
+k 
+
+a held g
+d 
+t data compression techniques and applications
+i wiley
+c new york ny
+
+a hendrix gg
+a sacerdoti ed
+a sagalowicz d
+a slocum j
+d 
+t developing a natural language interface to complex data
+j acm trans database systems
+v 
+n 
+o june
+
+a hester jh
+a hirschberg ds
+d 
+t selforganizing linear search
+j computing surveys
+v 
+n 
+p 
+o september
+
+a hewitt c
+d 
+t viewing control structures as patterns of passing messages
+j artificial intelligence
+v 
+p 
+
+a hewitt c
+a dejong ps
+d 
+t open systems
+r ai memo 
+i mit artificial intelligence laboratory
+o december
+k 
+
+a hewitt c
+a dejong ps
+d 
+t analyzing the roles of descriptions and actions in open systems
+r ai memo 
+i mit artificial intelligence laboratory
+o april
+k 
+
+a hewitt c
+a dejong ps
+d 
+t message passing semantics as a foundation for reasoning in open systems
+r research report
+i mit artificial intelligence laboratory
+o may
+k 
+
+a hibbard p
+d 
+t user manual for mint  the spice document preparation system
+r technical report
+i computer science department carnegiemellon university
+c pittsburgh pa
+
+a hilbert d
+d 
+t ueber die stetige abbildung einer linie auf ein flachenstuck
+j math annalen
+v 
+p 
+k 
+
+a hill dr
+a dohrn c
+a darragh j
+a esau r
+a levinson d
+a unger b
+a witten ih
+d 
+t using speech output as a medium for humancomputer dialogue
+j proc canadian information processing society conference
+c calgary al
+p 
+o may
+k kconference
+
+a hill dr
+a witten ih
+a neal r
+a lomow g
+d 
+t jecl and hide practical questions for the jade user interface
+j proc canadian information processing society conference
+c calgary al
+p 
+o may
+k kconference
+
+a hiltz sr
+a turoff m
+d 
+t structuring computermediated communication systems to avoid information overload
+j cacm
+v 
+n 
+p 
+o july
+
+a hintikka kj
+d 
+t the intentions of intentionality
+i d reidel
+c dordrecht holland
+
+a ho cs
+a hong yc
+a kuo ts
+d 
+t a society model for office information systems
+j acm trans office information systems
+v 
+n 
+p 
+o april
+k 
+
+a horspool rn
+a cormack gv
+d 
+t a generalpurpose data compression technique with practical computer applications
+j proc canadian information processing society conference
+c calgary al
+p 
+o may
+k 
+
+a horspool rn
+a cormack gv
+d 
+t comments on data compression using static huffman codedecode tables
+o submitted to cacm november 
+k 
+
+a horspool rn
+a cormack gv
+d 
+t dynamic markov modelling  a prediction technique
+j proc international conference on the system sciences
+c honolulu ha
+o january
+k 
+
+a hosticka bj
+d 
+t performance comparison of analog and digital circuits
+j proc ieee
+v 
+n 
+p 
+o january
+
+a hou hs
+a andrews hc
+d 
+t cubic splines for image interpolation and digital filtering
+j ieee trans acoustics speech and signal processing
+v assp
+n 
+p 
+o december
+k 
+
+a hovy eh
+t integrating text planning and production in generation
+j proc ijcai
+p 
+k 
+
+a hunter r
+a robinson ah
+d 
+t international digital facsimile coding standards
+j proc ieee
+v 
+n 
+p 
+o july
+k 
+
+a hutchings e
+d 
+t the autonomous viking
+j science
+v 
+p 
+o february 
+
+a jackendoff r
+d 
+t semantics and cognition
+i mit press
+c cambridge ma
+
+a jakobsson m
+d 
+t compression of character strings by an adaptive dictionary
+j bit
+v 
+n 
+p 
+k 
+
+a jantsch e
+d 
+t autopoiesis a central aspect of dissipative selforganization
+e mzeleny
+b autopoiesis  a theory of living organization
+i north holland
+c new york ny
+p 
+
+a jarvis jf
+d 
+t robotics
+j ieee computer
+p 
+o october
+k 
+
+a jarvis ra
+d 
+t growing polyhedral obstacles for planning collisionfree paths
+j australian computer j
+v 
+n 
+p 
+o august
+k 
+
+a jaynes j
+d 
+t the origin of consciousness in the breakdown of the bicameral mind
+i houghton mifflin
+c boston ma
+
+a jefferson dr
+d 
+t virtual time
+j acm trans programming languages and systems
+v 
+n 
+p 
+o july
+k 
+
+a johnson wl
+a soloway e
+a cutler b
+a draper sw
+d 
+t bug catalogue i
+r research report
+i cognition and programming project computer science department yale university
+o october
+k 
+
+a jones h
+d 
+t stanley morison displayed
+i frederick muller
+c london england
+
+a jones lp
+a iyengar ss
+d 
+t space and time efficient virtual quadtrees
+j ieee trans pattern analysis and machine intelligence
+v pami
+n 
+p 
+o march
+k 
+
+a kaczmarek t
+a mark w
+a sondheimer n
+d 
+t the consulcue interface an integrated interactive environment
+j proc acm chi  human factors in computing systems
+p 
+c boston ma
+o december 
+k 
+
+a kaehler t
+a patterson d
+d 
+t a taste of smalltalk
+i ww norton
+c new york ny
+
+a kang anc
+a lee rct
+a chang cl
+a chang sk
+d 
+t storage reduction through minimal spanning trees and spanning forests
+j ieee trans computers
+v c
+n 
+p 
+o may
+k 
+
+a kawaguchi e
+a endo t
+d 
+t on a method of binarypicture representation and its application to data compression
+j ieee trans pattern analysis and machine intelligence
+v pami
+n 
+p 
+o january
+k 
+
+a kawaguchi e
+a endo t
+a matsunaga ji
+d 
+t depthfirst picture expression viewed from digital picture processing
+j ieee trans pattern analysis and machine intelligence
+v pami
+n 
+p 
+o july
+k 
+
+a kelley jf
+a chapanis a
+d 
+t how professional persons keep their calendars implications for computerization
+j j occupational psychology
+v 
+p 
+k 
+
+a kennedy hceditor
+d 
+t selected works of guiseppe peano
+i allen and unwin
+c winchester ma
+
+a keye m
+d 
+t technique for real time pitch period estimation
+r submitted to fielectronics lettersfp
+k 
+
+a kidd al
+a cooper mb
+d 
+t manmachine interface issues in the construction and use of an expert system
+j ijmms
+v 
+p 
+k 
+
+a kigger j
+d 
+t the depthbreadth tradeoff in the design of menudriven user interfaces
+j ijmms
+v 
+
+a klir gj
+a parviz b
+d 
+t general reconstruction characteristics of probabilistic and possibilistic systems
+r research report
+k 
+
+a knuth de
+a plass mf
+d 
+t breaking paragraphs into lines
+j software  practice and experience
+v 
+p 
+
+a knuth de
+d 
+t the web system of structured documentation
+r report stancs
+i computer science department university of stanford
+c stanford ca
+
+a knuth de
+d 
+t literate programming
+j computer j
+v 
+n 
+p 
+k 
+
+a kolata g
+d 
+t shakespeares new poem an ode to statistics
+j science
+v 
+p 
+o  january
+
+a kolodner j
+d 
+t towards an understanding of the role of experience from novice to expert
+j ijmms
+v 
+k 
+
+a kolodner jl
+d 
+t reconstructive memory a computer model
+j cognitive science
+v 
+p 
+k 
+
+a kolodner jl
+d 
+t maintaining organization in a dynamic longterm memory
+j cognitive science
+v 
+p 
+k 
+
+a konopasek m
+a jayaraman s
+d 
+t expert systems for personal computers the tksolver approach
+j byte
+p 
+o may
+k 
+
+a koontz h
+a odonnell c
+d 
+t principles of management an analysis of managerial functions
+i mcgraw hill
+
+a korein j
+a badler n
+d 
+t temporal antialiasing in computer generated animation
+j computer graphics
+v 
+n 
+p 
+o july
+k 
+
+a kornfeld wa
+a hewitt ce
+d 
+t the scientific community metaphor
+j ieee trans systems man and cybernetics
+v smc
+n 
+p 
+o january
+k 
+
+a kowalski r
+d 
+t logic for expert systems
+j proc expert systems 
+i churchill college
+c cambridge england
+p 
+o december
+k 
+
+a kraut re
+a hanson sj
+a farber jm
+d 
+t command use and interface design
+j proc acm chi  human factors in computing systems
+p 
+c boston ma
+o december 
+k 
+
+a klir gj
+d 
+t architecture of systems problem solving
+i plenum press
+c new york ny
+
+a kunin js
+d 
+t analysis and specification of office procedures
+r phd thesis
+i department of electrical engineering and computer science mit
+o february
+
+a lamb m
+a buckley v
+d 
+t new techniques for gesturebased dialogue
+j proc st ifip conference on humancomputer interaction
+c london england
+o  september
+k 
+
+a langdon gg
+d 
+t tutorial on arithmetic coding
+r research report rj
+i ibm research laboratory
+c san jose ca
+k 
+
+a langdon gg
+d 
+t an introduction to arithmetic coding
+j ibm j research and development
+v 
+n 
+p 
+o march
+k 
+
+a langdon gg
+d 
+t a note on the zivlempel model for compressing individual sequences
+j ieee trans information theory
+v it
+p 
+o march
+k 
+
+a langdon gg
+a rissanen jj
+d 
+t a doublyadaptive file compression algorithm
+j ieee trans communications
+v com
+n 
+p 
+o november
+k 
+
+a langdon gg
+a rissanen jj
+d 
+t a simple general binary source code
+j ieee trans information theory
+v it
+p 
+o september
+
+a langley p
+d 
+t learning search strategies through discrimination
+j ijmms
+v 
+p 
+k 
+
+a lansky al
+d 
+t behavioral planning for multiagent domains
+r nsf proposal
+i sri international
+k 
+
+a latremouille s
+a lee e
+d 
+t the design of videotex tree indexes the use of descriptors and the enhancement of single index pages
+j telidon behavioural research
+v 
+i department of communications
+o may
+
+a lauer hc
+a needham rm
+d 
+t on the duality of operating system structures
+j operating systems theory and practice
+k 
+
+a lazowska ed
+a levy hm
+a almes gt
+a fischer mj
+a fowler rj
+a vestal sc
+d 
+t the architecture of the eden system
+j proc eighth symposium on operating system principles
+p 
+c pacific grove ca
+o december
+k 
+
+a lebowitz m
+d 
+t generalization and memory in an integrated understanding system
+r phd thesis
+i yale university
+c new haven ct
+
+a lebowitz m
+d 
+t the nature of generalization in understanding
+j proc ijcai 
+p 
+k 
+
+a lebowitz m
+d 
+t generalization from natural language text
+j cognitive science
+v 
+p 
+k 
+
+a lee a
+a lochovsky fh
+d 
+t enhancing the usability of an office information system through direct manipulation
+j proc acm chi  human factors in computing systems
+p 
+c boston ma
+o december 
+k 
+
+a lee dt
+d 
+t on fikfpnearest neighbor voroni diagrams in the plane
+j ieee trans computers
+v c
+n 
+p 
+o june
+k 
+
+a lee dt
+a preparata fp
+d 
+t computational geometry  a survey
+j ieee trans computers
+v c
+n 
+p 
+o december
+
+a lefebvre va
+d 
+t the structure of awareness
+i sage publications
+c beverly hills ca
+o english translation by arapoport
+
+a lehar af
+a stevens rj
+d 
+t highspeed manipulation of the color chromaticity of digital images
+j ieee computer graphics and applications
+p 
+o february
+k 
+
+a lehnert wg
+d 
+t a conceptual theory of question answering
+j proc international joint conference on artificial intelligence
+i mit
+c cambridge ma
+p 
+o august
+
+a lehnert wg
+d 
+t the process of question answering
+i lawrence erlbaum associates
+c hillsdale nj
+k 
+
+a lehnert wg
+a dyer mg
+a johnson pn
+a yang cj
+a harley s
+d 
+t boris an experiment in indepth understanding of narratives
+j artificial intelligence
+v 
+p 
+k 
+
+a lemer l
+d 
+t arthur the life and opinions of a digital computer
+i harvester press
+c sussex england
+
+a lempel a
+a ziv j
+t compression of twodimensional data
+k 
+
+a lenat d
+d 
+t the role of heuristics in learning by discovery three case studies
+b machine learning
+e rs michalski jg carbonell and tm mitchell
+i tioga
+p 
+
+a lenat db
+a sutherland wr
+a gibbons j
+d 
+t heuristic search for new microcircuit structures an application of artificial intelligence
+j ai magazine
+p 
+o summer
+k 
+
+a lenat db
+d 
+t eurisko a program that learns new heuristics and domain concepts
+j artificial intelligence
+v 
+p 
+k 
+
+a lenat db
+a brown js
+d 
+t why am and eurisko appear to work
+j artificial intelligence
+v 
+p 
+
+a lenat db
+a prakesh m
+a shepherd m
+d 
+t cyc using common sense knowledge to overcome brittleness and knowledge acquisition bottlenecks
+j the ai magazine
+p 
+o winter
+k 
+
+a lewis j
+d 
+t typography basic principles  influences and trends since the th century
+i van nostrand reinhold
+c new york ny
+
+a lewis jw
+d 
+t an effective graphics user interface for rules
+j proc acm chi  human factors in computing systems
+p 
+c boston ma
+o december 
+k 
+
+a lewis jm
+t analysing the action of unixusers
+d 
+o march
+i university of edinburgh department of artificial intelligence
+k 
+
+a li dy
+a heath fg
+d 
+t ilex an intelligent relational database system
+j proc acm conference on personal and small computers
+c san diego ca
+p 
+o december
+k 
+
+a liang fm
+d 
+t word hyphenation by computer
+r phd thesis
+i computer science department stanford university
+c stanford ca
+k 
+
+a lieberman h
+d 
+t how to color in a coloring book
+j proc siggraph 
+p 
+k 
+
+a lieberman h
+d 
+t seeing what your programs are doing
+j ijmms
+v 
+n 
+p 
+o october
+
+a linde y
+a buzo a
+a gray rm
+d 
+t an algorithm for vector quantizer design
+j ieee trans communications
+v com
+n 
+p 
+o january
+k 
+
+a linington pf
+d 
+t fundamentals of the layer service definitions and protocol specifications
+j proc ieee
+v 
+n 
+p 
+o december
+
+a ljolje a
+a fallside f
+d 
+t synthesis of natural sounding pitch contours in isolated utterances using hidden markov models
+j ieee trans acoustics speech and signal processing
+v assp
+n 
+p 
+o october
+k 
+
+a lloyd jw
+d 
+t foundations of logic programming
+i springerverlag
+c berlin
+
+a lowrance r
+a wagner ra
+d 
+t an extension of the stringtostring correction problem
+j j acm
+v 
+n 
+p 
+o april
+k 
+
+a lozanoperez t
+a wesley ma
+d 
+t an algorithm for planning collisionfree paths among polyhedral obstacles
+j comm acm
+v 
+n 
+p 
+o october
+k 
+
+a lozanoperez t
+d 
+t automatic planning of manipulator transfer movements
+j ieee trans systems man and cybernetics
+v smc
+n 
+p 
+o october
+
+a lozanoperez t
+d 
+t robot programming
+j proc ieee
+v 
+n 
+p 
+o july
+
+a lu mi
+a chen cf
+t modified huffman code
+r research report
+i departmental of electrical engineering tatung institute of technology
+c taipei taiwan
+k 
+
+a lynch tj
+d 
+t data compression  techniques and applications
+i lifetime learning publications
+c belmont ca
+
+a macmillan sa
+d 
+t user models to personalize an intelligent agent
+r phd thesis
+i stanford university
+
+a macqueen jb
+d 
+t some methods for classification and analysis of multivariate observations
+j proc th berkeley symposium on mathematical statistics and probability
+v 
+p 
+
+a maguire m
+d 
+t an evaluation of published recommendations on the design of mancomputer dialogues
+j ijmms
+v 
+n 
+p 
+o april
+
+a malcolm m
+a dyment d
+d 
+t experience designing the waterloo port user interface
+j proc acm conference on personal and small computers
+c san diego ca
+p 
+o december
+k 
+
+a mannos jl
+a sakrison dj
+d 
+t the effects of a visual fidelity criterion on the encoding of images
+j ieee trans information theory
+v it
+n 
+o july
+k 
+
+a mantei m
+d 
+t disorientation behavior in personcomputer interactions
+r phd thesis
+i university of southern california
+c los angeles ca
+
+a maragos pa
+a schafer rw
+a mersereau rm
+d 
+t twodimensional linear prediction and its application to adaptive predictive coding of images
+j ieee trans acoustics speech and signal processing
+v assp
+n 
+p 
+o december
+k 
+
+a marchetti c
+d 
+t society as a learning system discovery invention and innovation cycles revisited
+j technological forecasting and social change
+v 
+p 
+k 
+
+a martin t
+d 
+t information retrieval
+b human interaction with computers
+e smith and green
+i academic press
+c london england
+p 
+
+a maslow ah
+d 
+t motivation and personality
+i harper and row
+c new york ny
+
+a maslow ah
+d 
+t toward a psychology of being
+i van nostrand reinhold
+c new york ny
+o second edition
+
+a masrani r
+a keenan tp
+d 
+t security and privacy in cellular telephone systems
+j proc afips conference on computer security
+c toronto on
+o september
+k 
+
+a masrani r
+a witten ih
+d 
+t natural language processing in objectoriented prolog
+r unpublished note
+o september
+
+a mathews mv
+d 
+t the technology of computer music
+i mit press
+
+a maturana hr
+d 
+t the organization of the living a theory of the living organization
+j ijmms
+v 
+p 
+
+a maturana hr
+a varela fj
+d 
+t autopoiesis and cognition
+i d reidel
+c dordrecht holland
+
+a mazer ms
+a lochovsky fh
+d 
+t logical routing specification in office information systems
+j acm trans office information systems
+v 
+n 
+p 
+o october
+
+a mccarthy j
+d 
+t circumscription  a form of nonmonotonic reasoning
+j artificial intelligence
+v 
+p 
+k 
+
+a mccracken dl
+a akscyn rm
+d 
+t experience with the zog humancomputer interface system
+j ijmms
+v 
+n 
+p 
+o october
+
+a mcculloch ws
+d 
+t through the den of the metaphysician
+j british j philosophy of science
+v 
+p 
+
+a mcdermott j
+a steele b
+d 
+t extending a knowledgebased system to deal with ad hoc constraints
+j proc th international joint conference on artificial intelligence
+p 
+
+a mcdermott j
+t artificial intelligence meets natural stupidity
+b mind design
+e j haugeland
+i mit press
+c cambridge ma
+p 
+k 
+
+a mcdermott j
+d 
+t a temporal logic for reasoning about processes and plans
+j cognitive science
+v 
+p 
+k 
+
+a mcdonald d
+d 
+t language generation the linguistics component
+j proc international joint conference on artificial intelligence
+p 
+k 
+
+a mcdonald dd
+a pustejovsky jd
+d 
+t descriptiondirected natural language generation
+j proc ijcai
+p 
+k 
+
+a mckeown kr
+a wish m
+a matthews k
+t tailoring explanations for the user
+j proc ijcai
+p 
+k 
+
+a mclean rs
+d 
+t ontario ministry of education specifies its microcomputer
+j proc th canadian symposium on instructional technology
+c winnipeg mn
+o october 
+k 
+
+a meehan jr
+d 
+t talespin an interactive program that writes stories
+j proc th international joint conference on artificial intelligence
+p 
+
+a mervis cb
+a rosch e
+d 
+t categorization of natural objects
+j annual review of psychology
+v 
+p 
+
+a michaelsen rh
+a michie d
+a boulanger a
+d 
+t the technology of expert systems
+j byte
+p 
+o april
+k 
+
+a miller pl
+d 
+t attending critiquing a physicians management plan
+j ieee trans pattern analysis and machine intelligence
+v pami
+n 
+p 
+o september
+k 
+
+a mitchell tm
+d 
+t generalization as search
+j artificial intelligence
+v 
+p 
+k 
+
+a mitchell tm
+d 
+t learning and problem solving
+j proc ijcai 
+p 
+c karlsruhe wgermany
+o august
+k 
+
+a moffat a
+d 
+t predictive text compression based on the future rather than the past
+r research report
+i computer science department university of canterbury
+c christchurch new zealand
+k 
+
+a moher tg
+d 
+t estimating the distribution of software complexity fiwithinfp a program
+j proc human factors in computer systems
+c san francisco ca
+p 
+o april
+k 
+
+a mooney r
+a dejong g
+t learning schemata for natural language processing
+j proc ijcai
+p 
+k 
+
+a morison s
+d 
+t first principles of typography
+i cambridge university press
+c cambridge england
+
+a morrin th
+d 
+t a blackwhite representation of a grayscale picture
+j ieee trans computers
+v c
+p 
+o february
+k 
+
+a morris r
+a cherry ll
+d 
+t computer detection of typographical errors
+j ieee trans professional communications
+v pc
+n 
+p 
+o march
+k 
+
+a morris r
+a thompson k
+d 
+t password security a case history
+j comm acm
+v 
+n 
+p 
+o november
+k 
+
+a moses j
+d 
+t symbolic integration the stormy decade
+j comm acm
+v 
+n 
+p 
+
+a mullen j
+d 
+t unlimited vocabulary speech synthesis with low data rates
+j electronics and power
+p 
+o novemberdecember
+k 
+
+a mycielski j
+d 
+t can mathematics explain natural intelligence
+r research report uc
+i los alamos national laboratory
+c los alamos nm
+o july
+k 
+
+a mycroft a
+a okeefe ra
+d 
+t a polymorphic type system for prolog
+j artificial intelligence
+v 
+p 
+k 
+
+a myers ba
+d 
+t visual programming programming by example and program visualization a taxonomy
+j proc acm chi  human factors in computing systems
+p 
+c boston ma
+o april 
+k 
+
+a nagy g
+a wagle s
+d 
+t geographic data processing
+j computing surveys
+v 
+n 
+p 
+o june
+k 
+
+a nagy g
+a paton k
+d 
+t intelligent facsimile
+p proc harvard computer graphics week
+i graduate school of design harvard university
+k 
+
+a nagy g
+d 
+t candides practical principles of experimental pattern recognition
+j ieee trans pattern analysis and machine intelligence
+v pami
+n 
+p 
+o march
+k 
+
+a nagy g
+d 
+t optical scanning devices
+j ieee computer
+p 
+o may
+k 
+
+a nagy g
+a seth s
+t hierarchical image representation with application to optically scanned documents
+r discussion paper
+k 
+
+a nagy g
+d 
+t advances in information extraction techniques
+j remote sensing of environment
+v 
+p 
+k 
+
+a naiman a
+d 
+t some new ingredients for the cookbook approach to antialiased text
+j proc graphics interface 
+i national computer graphics association of canada
+p 
+o may
+
+a nakatani lh
+a rohrlich ja
+d 
+t soft machines a philosophy of usercomputer interface design
+j proceedings human factors in computer systems
+c boston ma
+o december 
+k 
+
+a nasanen r
+d 
+t visibility of halftone dot textures
+j ieee trans systems man and cybernetics
+v smc
+n 
+p 
+o novemberdecember
+k 
+
+a nau ds
+d 
+t expert computer systems
+j ieee computer
+v 
+n 
+p 
+o february
+
+a neal rm
+a lomow ga
+a peterson mw
+a unger bw
+a witten ih
+d 
+t interprocess communication in a distributed programming environment
+j proc canadian information processing society conference
+c calgary al
+p 
+o may
+k kconference
+
+a nelson ga
+a pfeifer ll
+a wood rc
+d 
+t highspeed octave band digital filtering
+j ieee trans audio and electroacoustics
+v au
+p 
+o march
+k 
+
+a niblett beditor
+d 
+t computer science and law
+i cambridge university press
+c cambridge england
+
+a nicol rc
+a fenn ba
+a turkington rd
+d 
+t transmission techniques for picture viewdata
+j proc international broadcasting convention
+k 
+
+a nicholson rt
+d 
+t usage patterns in an integrated voice and data communications system
+j acm trans office information systems
+v 
+n 
+p 
+o july
+
+a nierstrasz om
+d 
+t an objectoriented system
+e dtsichritzis
+b office automation
+i springerverlag
+c berlin
+p 
+
+a nilsson nj
+d 
+t probabilistic logic
+j artificial intelligence
+v 
+p 
+
+a nilsson nj
+d 
+t principles of artificial intelligence
+i tioga
+c palo alto ca
+
+a nilsson nj
+d 
+t the interplay between experimental and theoretical methods in artificial intelligence
+r technical note 
+i sri international
+o september
+k 
+
+a nilsson nj
+d 
+t artificial intelligence engineering science or slogan
+r technical note 
+i sri international
+o july
+k 
+
+a nix r
+d 
+t editing by example
+r phd dissertation
+i computer science department yale university
+c new haven ct
+
+a nix r
+d 
+t editing by example
+j proc th acm symposium on principles of programming languages
+c salt lake city ut
+p 
+o january
+
+a noakes pd
+a aish r
+d 
+t a new peripheral for threedimensional computer input
+j ieee micro
+v 
+n 
+p 
+o october
+
+a nooteboom sg
+d 
+t the temporal organization of speech and the process of spokenword recognition
+j ipo annual progress report
+v 
+p 
+k 
+
+a norman da
+d 
+t the trouble about unix
+j datamation
+v 
+n 
+p 
+
+a norman da
+d 
+t stages and levels in humanmachine interaction
+j ijmms
+v 
+n 
+p 
+o october
+
+a norman da
+a draper sweditors
+d 
+t user centered system design em new perspectives on humancomputer interaction
+i lawrence erlbaum associates
+c hillsdale nj
+
+a norman kl
+a weldon lj
+a shneiderman b
+d 
+t cognitive representations of windows and multiple screen layouts of computer interfaces
+r research report cartr cstr
+i computer science department university of maryland
+o may
+
+a null a
+d 
+t spacefilling curves or how to waste time with a plotter
+j software  practice and experience
+v 
+p 
+k 
+
+a oren ti
+a brzozowski ja
+a gilmore pc
+d 
+t crisis in canadian academic computer science facts and recommendations
+r report prepared by the executive committee of canadian computer science departments chairmen
+o january
+
+a oshea t
+a self j
+d 
+t learning and teaching with computers artificial intelligence in education
+i prenticehall
+c englewood cliffs nj
+
+a oshea t
+a eisenstadt meditors
+d 
+t artificial intelligence tools techniques and applications
+i harper and row
+c new york ny
+
+a ogawa y
+a shima k
+a sugawara t
+a takagi s
+d 
+t knowledge representation and inference environment krine  an approach to integration of frame prolog and graphics
+j proc international conference on fifth generation computer systems
+i icot
+p 
+k 
+
+a pake ge
+d 
+t research at xerox parc a founders assessment
+j ieee spectrum
+v 
+n 
+p 
+o october
+
+a paliwal kk
+a espeland o
+d 
+t some considerations about the shape of the window filter in an adaptive gradient lattice algorithm
+r report
+i division of telecommunications university of trondheim
+c trondheimnth norway
+k 
+
+a papamichalis pe
+d 
+t markovhuffman coding of lpc parameters
+j ieee trans acoustics speech and signal processing
+c assp
+n 
+p 
+o april
+
+a park oc
+a tennyson rd
+d 
+t computerbased instructional systems for adaptive education a review
+j contemporary education review
+v 
+n 
+p 
+o fall
+k 
+
+a parkerrhodes af
+d 
+t inferential semantics
+i harvester press
+c brighton sussex
+
+a patil rs
+a szolovits p
+a schwartz wb
+d 
+t causal understanding of patient illness in medical diagnosis
+j proc th international joint conference on artificial intelligence
+p 
+k 
+
+a patil rs
+a szolovits p
+a schwartz wb
+t information acquisition in diagnosis
+j proc international joint conference on artificial intelligence
+p 
+k 
+
+a patten t
+d 
+t interpreting systemic grammar as a computational representation a problem solving approach to text generation
+r phd thesis
+i university of edinburgh
+
+a paulus e
+d 
+t the concept of the nnerror risk with respect to an arbitrary separating surface and its applications to clustering
+j proc ieee conference
+k 
+
+a pavlidis t
+d 
+t contour filling in raster graphics
+j acm computer graphics
+v 
+n 
+p 
+o august
+k 
+
+a pawlak z
+d 
+t rough sets
+j int j computer and information systems
+v 
+n 
+p 
+k 
+
+a pawlak z
+d 
+t rough sets and fuzzy sets
+j fuzzy sets and systems
+p 
+k 
+
+a paxton al
+a turner ej
+d 
+t the application of human factors to the needs of the novice computer user
+j ijmms
+v 
+n 
+p 
+o february
+
+a peano g
+d 
+t sur une courbe qui remplit toute une aire plane
+j math annalen
+v 
+p 
+k 
+
+a pearl j
+d 
+t fusion propagation and structuring in bayesian networks
+r technical report csd r revision i
+i cognitive systems laboratory computer science department ucla
+o june
+
+a pearl j
+d 
+t fusion propagation and structuring in belief networks
+j artificial intelligence
+v 
+n 
+p 
+o september
+
+a peng xt
+a tu xc
+a wang pz
+d 
+t studies on parametric fuzzy controllers
+r research report
+k 
+
+a pereiro lm
+a nagr r
+d 
+t deltaprolog a distributed logic programming language
+r submitted to int conference on th generation systems
+c tokyo japan
+o november 
+k 
+
+a perlman g
+d 
+t two papers in cognitive engineering the design of an interface to a programming system and menunix a menubased interface to unix user manual
+r research report 
+i center for human information processing university of california
+c san diego ca
+o november
+k 
+
+a perlman g
+d 
+t natural artificial languages lowlevel processes
+j ijmms
+v 
+n 
+p 
+o april
+
+a perry ts
+a wallich p
+d 
+t inside the parc the information architects
+j ieee spectrum
+v 
+n 
+p 
+o october
+
+a peters am
+d 
+t the units of language acquisition
+i cambridge university press
+c cambridge england
+
+a phillips j
+d 
+t selfdescribing programming environments
+r phd thesis
+i computer science department stanford university
+c stanford ca
+
+a pierce jr
+d 
+t symbols signals and noise
+i hutchinson
+c london england
+
+a pike r
+d 
+t graphics in overlapping bitmap layers
+j acm trans graphics
+v 
+n 
+p 
+o april
+k 
+
+a poggio a
+a garcia luna aceves jj
+a craighill ej
+a moran d
+a aguilar l
+a worthington d
+a hight j
+d 
+t ccws a computerbased multimedia information system
+j ieee computer
+v 
+n 
+p 
+o october
+
+a poritz ab
+d 
+t linear predictive hidden markov models and the speech signal
+j proc 
+p 
+k 
+
+a post e
+d 
+t real programmers dont use pascal
+j datamation
+p 
+o july
+k 
+
+a postel jb
+d 
+t internetwork protocol approaches
+j ieee trans communications
+v com
+n 
+p 
+o april
+k 
+
+a potmesil m
+a chakravarty i
+d 
+t modeling motion blur in computergenerated images
+j acm computer graphics
+v 
+n 
+p 
+o july
+k 
+
+a poulton as
+d 
+t microcomputer speech synthesis and recognition
+i sigma technical press
+c wilmslow cheshire uk
+
+a preucil m
+a sebela z
+d 
+t computerassisted simulation of a coalmine winding system
+j proc th formator symposium on mathematical methods for the analysis of largescale systems
+c prague
+p 
+o may 
+k 
+
+a prusinkiewicz p
+a christopher m
+d 
+t hologramlike transmission of pictures
+r technical report cs
+i computer science department university of regina
+o november
+k 
+
+a purvy r
+a farrell j
+a klose p
+d 
+t the design of stars records processing data processing for the noncomputer professional
+j acm trans office information systems
+v 
+n 
+p 
+o january
+k 
+
+a quinlan jr
+d 
+t inferno a cautious approach to uncertain inference
+j computer j
+v 
+n 
+p 
+
+a qureshi suh
+d 
+t adaptive equalization
+j proc ieee
+v 
+n 
+p 
+o september
+
+a rabiner lr
+a crochiere re
+d 
+t a novel implementation for narrowband fir digital filters
+j ieee trans acoustics speech and signal processing
+v assp
+n 
+p 
+o october
+k 
+
+a radhakrishnan t
+a grossner cp
+d 
+t cuenet em a distributed computing facility
+j ieee micro
+p 
+o february
+k 
+
+a raeder g
+d 
+t a survey of current graphical programming techniques
+j ieee computer
+v 
+n 
+p 
+
+a rashid rf
+d 
+t an interprocess communication facility for unix
+r technical report
+i computer science department carnegiemellon university
+o february
+
+a rashid rf
+a robertson gg
+d 
+t accent a communication oriented network operating system kernel
+j proc eighth symposium on operating system principles
+p 
+c pacific grove ca
+o december
+
+a rasmussen j
+d 
+t skills rules and knowledge signals signs and symbols and other distinctions in human performance models
+j ieee trans systems man and cybernetics
+v smc
+n 
+p 
+o mayjune
+k 
+
+a rassbach me
+d 
+t classy an adaptive clustering algorithm
+j proc ieee conference
+p 
+k 
+
+a rawlings c
+a fox j
+d 
+t the unit package  a critical appraisal of a framebased knowledge representation system
+j proc expert systems 
+i churchill college
+c cambridge england
+p 
+o december
+k 
+
+a redell dd
+a white je
+d 
+t interconnecting electronic mail systems
+j ieee computer
+v 
+n 
+p 
+o september
+k 
+
+a reeds ja
+a weinberger pj
+d 
+t file security and the unix system ficryptfp command
+j bell system technical j
+v 
+n  part 
+p 
+o october
+
+a reichardt j
+d 
+t the computer in art
+i studio vista
+c london england
+
+a reiter r
+d 
+t a logic for default reasoning
+j artificial intelligence
+v 
+p 
+k 
+
+a reynolds jk
+a postel jb
+a katz ar
+a finn gc
+a deschon al
+d 
+t the darpa experimental multimedia mail system
+j ieee computer
+v 
+n 
+p 
+o october
+
+a rich c
+d 
+t knowledge representation languages and predicate calculus how to have your cake and eat it too
+j proc national conference on artificial intelligence
+p 
+
+a rich e
+d 
+t the gradual expansion of artificial intelligence
+j ieee computer
+v 
+n 
+p 
+o may
+
+a riesbeck ck
+d 
+t conceptual analysis
+b conceptual information processing
+e rcschank
+i north holland
+c amsterdam
+
+a riesbeck ck
+d 
+t failuredriven reminding for incremental learning
+j proc ijcai 
+p 
+k 
+
+a riesbeck ck
+d 
+t realistic language comprehension
+e wg lenhert and mh ringle
+b strategies for natural language processing
+i lawrence erlbaum associates
+p 
+
+a riesbeck ck
+d 
+t knowledge reorganization and reasoning style
+j ijmms
+v 
+p 
+k 
+
+a rissanen j
+a langdon gg
+t arithmetic coding
+j ibm j research and development
+d 
+v 
+n 
+p 
+o march
+k 
+
+a rissanen j
+d 
+t complexity of strings in the class of markov sources
+r research report
+i ibm research laboratory
+c san jose ca
+k 
+
+a rissanen j
+d 
+t stochastic complexity and sufficient statistics
+r research report
+
+a ritchie dm
+d 
+t on the security of unix
+r programmers manual for unix system iii volume ii supplementary documents
+i western electric corporation
+
+a ritchie gd
+a hanna fk
+d 
+t am a case study in ai methodology
+j artificial intelligence
+v 
+p 
+k 
+
+a roberts mg
+d 
+t local order estimating markovian analysis for noiseless source coding and authorship identification
+r phd thesis
+i stanford university
+
+a rogers h
+d 
+t paragraphs on printing
+i william e rudges
+c new york ny
+o republished by dover publications new york 
+
+a rosenthal dsh
+d 
+t managing graphical resources
+j computer graphics
+v 
+n 
+p 
+o december
+k 
+
+a ross p
+a jones j
+a millington m
+d 
+t user modelling in commanddriven computer systems
+r dai research paper no 
+i department of artificial intelligence university of edinburgh
+k 
+
+a rouse sh
+a rouse wb
+d 
+t computerbased manuals for procedural information
+j ieee trans systems man and cybernetics
+v smc
+n 
+p 
+o august
+
+a rowe nc
+d 
+t modelling degrees of item interest for a general database query system
+j ijmms
+v 
+n 
+p 
+o may
+k 
+
+a runciman c
+a thimbleby h
+d 
+t equal opportunity interactive systems
+r report
+i computer science department university of york
+c york 
+k 
+
+a rychener md
+d 
+t a semantic network of production rules in a system for describing computer structures
+j proc th joint conference on artificial intelligence
+p 
+
+a ryman r
+a singh b
+d 
+t the benesh notation computerized editor
+j proc dance in canada conference
+o june
+
+a sagan h
+d 
+t approximating polygons for lebesgues and schoenbergs space filling curves
+j american mathematical monthly
+p 
+o may
+k 
+
+a sammut c
+a banerji r
+d 
+t hierarchical memories an aid to concept learning
+j proc international machine learning workshop
+p 
+i allerton house
+c monticello il
+o june 
+k 
+
+a sammut c
+a banerji r
+d 
+t learning concepts by asking questions
+b machine learning volume 
+e rs michalski jg carbonell and tm mitchell
+i morgan kaufmann inc
+c los altos ca
+p 
+k 
+
+a sandewall e
+t a functional approach to nonmonotonic logic
+j proc ijcai
+p 
+k 
+
+a sakata s
+a ueda t
+d 
+t a distributed interoffice mail system
+j ieee computer
+v 
+n 
+p 
+o october
+
+a samet h
+d 
+t a quadtree medial axis transform
+j comm acm
+v 
+n 
+p 
+o september
+
+a samet h
+d 
+t the quadtree and related hierarchical data structures
+j computing surveys
+v 
+n 
+p 
+o june
+
+a santisteban a
+d 
+t the perceptual color space of digital image display terminals
+j ibm j research and development
+v 
+n 
+p 
+o march
+k 
+
+a sawaragi y
+a yoshikawa
+d 
+t discretetime markovian decision processes with incomplete state observation
+j the annals of mathematical statistics
+v 
+n 
+p 
+k 
+
+a schank rceditor
+d 
+t conceptual information processing
+i north holland
+
+a schank rc
+a abelson r
+d 
+t scripts plans goals and understanding
+i lawrence erlbaum associates
+
+a schank rc
+d 
+t language and memory
+j cognitive science
+v 
+p 
+k 
+
+a schank rc
+a slade s
+t advisory systems
+k 
+
+a scharf tf
+d 
+t sounding out speech synthesis
+j electronics and power
+p 
+o novemberdecember
+k 
+
+a schroeder me
+d 
+t images from computers
+j ieee spectrum
+o march
+k 
+
+a schulert aj
+a rogers gt
+a hamilton ja
+d 
+t adm em a dialog manager
+j proc acm chi  human factors in computing systems
+p 
+o april
+k 
+
+a searle jr
+d 
+t minds brains and programs
+j behavioral and brain sciences
+v 
+p 
+k 
+
+a searle jr
+d 
+t intentionality
+i cambridge university press
+c cambridge england
+
+a seelybrown j
+a burton rr
+a bell ag
+d 
+t sophie em a step toward creating a reactive learning environment
+j ijmms
+v 
+n 
+p 
+o september
+
+a segre am
+a sherwood ba
+a dickerson wb
+d 
+t an expert system for the production of phoneme strings from unmarked english text using machine induced rules
+j proc association for computational linguistics
+c pisa italy
+o september
+k 
+
+a selim sz
+a ismail ma
+d 
+t fikfpmeanstype algorithms a generalized convergence theorem and characterization of local optimality
+j ieee trans pattern analysis and machine intelligence
+v pami
+n 
+p 
+o january
+k 
+
+a sergot m
+t prospects for representing the law as logic programs
+b in clark and tarnlunds book
+k 
+
+a seybold
+d 
+t apple laserwriter
+j seybold report on publishing systems
+v 
+n 
+o january 
+k 
+
+a shafer g
+d 
+t a mathematical theory of evidence
+i princeton university press
+c princeton nj
+
+a shamos mi
+a hoey d
+d 
+t closestpoint problems
+j proc th ieee symposium on foundations of computer science
+p 
+o october
+
+a shamos mi
+d 
+t computational geometry
+i springerverlag
+c new york ny
+a shannon ce
+d 
+t a mathematical theory of communication
+j bell system technical j
+v 
+p 
+o july
+
+a shannon ce
+d 
+t presentation of a mazesolving machine
+b trans th conference josiah macy foundation
+e hvon foerster
+c new york ny
+p 
+
+a shannon ce
+d 
+t prediction and entropy of printed english
+j bell system technical j
+p 
+o january
+k 
+
+a shapiro e
+d 
+t a subset of concurrent prolog and its interpreter
+r icot technical report tr
+o january
+k 
+
+a shapiro e
+d 
+t systems programming in concurrent prolog
+r icot technical report tr
+o november
+k 
+
+a shapiro e
+a takeuchi a
+d 
+t object oriented programming in concurrent prolog
+j new generation computing
+v 
+p 
+k 
+
+a shaw mlg
+a gaines br
+d 
+t does the human component in the network have a protocol
+j proc international electrical electronics conference
+v 
+p 
+c toronto on
+o september 
+k 
+
+a shaw mlg
+a gaines br
+d 
+t knowledge engineering tools for expert systems
+b computer models for decision making
+e gmitra
+i north holland
+c amsterdam
+k 
+
+a shneiderman b
+d 
+t response time and display rate in human performance with computers
+j computing surveys
+v 
+n 
+p 
+o september
+
+a shneiderman b
+a norman k
+a rogers j
+a arifin r
+a weldon l
+d 
+t a multiscreen programmer work station based on the ibm pc
+r research report
+i computer science department university of maryland
+o april
+
+a shoch jf
+a hupp ja
+d 
+t the worm programs em early experience with a distributed computation
+j comm acm
+v 
+n 
+p 
+o march
+k 
+
+a shoemake k
+t animating rotation with quaternion curves
+d 
+j acm
+v 
+n 
+o july
+k 
+
+a shortliffe eh
+a buchanan bg
+d 
+t a model of inexact reasoning in medicine
+j mathematical biosciences
+v 
+p 
+
+a shortliffe eh
+d 
+t computerbased medical consultations mycin
+i elsevier science
+c new york ny
+k 
+
+a shortliffe eh
+d 
+t consultation systems for physicians the role of artificial intelligence techniques
+j proc canadian society for computational studies of intelligence
+i university of victoria
+c victoria bc
+k 
+
+a shrager jc
+t invoking a beginners aid process by recognizing dcl goals
+d 
+r msc thesis
+i university of pennsylvania
+
+a shrager jc
+a finin t
+d 
+t an expert system that volunteers advice
+j proc national conference on artificial intelligence
+p 
+k 
+k 
+
+a shu cs
+d 
+t formal a formsoriented visualdirected application development system
+j ieee computer
+v 
+n 
+p 
+
+a sierpinski w
+d 
+t sur une nouvelle courbe qui remplit toute une aire plaine
+j bull acad sci cracovie
+v serie a
+p 
+k 
+
+a simons gl
+d 
+t robots in industry
+i national computing centre
+c manchester england
+
+a simpson rj
+a terrell tj
+d 
+t digital filtering using the nec pd signal processor
+j microprocessing and microprogramming
+v 
+p 
+k 
+
+a sleeman d
+d 
+t assessing aspects of competence in basic algebra
+b intelligent tutoring systems
+e d sleeman and js brown
+i academic press
+c london england
+p 
+
+a sloman a
+a croucher m
+d 
+t why robots will have emotions
+j proc th international joint conference on artificial intelligence
+v 
+p 
+c vancouver bc
+k 
+
+a smith k
+d 
+t watch out hackers public encryption chips are coming
+j electronics week
+p 
+o may 
+k 
+
+a smith r
+d 
+t tint fill
+j proc acm conference
+p 
+k 
+
+a solomon h
+d 
+t data dependent clustering techniques
+b classification and clustering
+e j van ryzin
+i academic press
+c new york ny
+p 
+
+a southall r
+d 
+t first principles of typographic design for document production
+j tugboat tex users group newsletter
+v 
+n 
+p 
+k 
+
+a sowa jf
+d 
+t generating language from conceptual graphs
+b computational linguistics
+e ncercone
+p 
+i pergamon
+c oxford england
+k 
+
+a sparckjones k
+d 
+t user models and expert systems
+r technical report
+i computer laboratory university of cambridge
+c cambridge england
+k 
+
+a spector az
+d 
+t performing remote operations efficiently on a local computer network
+j comm acm
+v 
+n 
+p 
+o april
+k 
+
+a spencer h
+d 
+t the visible word
+i lund humphries
+c london england
+
+a stankovic ja
+d 
+t software communication mechanisms procedure call versus messages
+j ieee computer
+p 
+o april
+k 
+
+a stankovic ja
+d 
+t a perspective on distributed computer systems
+j ieee trans computers
+v c
+n 
+p 
+o december
+k 
+
+a staunstrup j
+d 
+t message passing communication versus procedure call communication
+j software  practice and experience
+v 
+p 
+k 
+
+a stefik m
+d 
+t an examination of a framestructured representation system
+j proc th international conference on artificial intelligence
+p 
+k 
+
+a stefik m
+a conway l
+d 
+t towards the principled engineering of knowledge
+j ai magazine
+p 
+o summer
+k 
+
+a stefik m
+a bobrow dg
+a mittal s
+a conway l
+d 
+t knowledge programming in loops report on an experimental course
+j ai magazine
+p 
+o fall
+k 
+
+a stefik mj
+a bobrow dg
+a kahn km
+d 
+t integrating accessoriented programming into a multiparadigm environment
+j ieee software
+p 
+o january
+k 
+
+a stefik mj
+a bobrow dg
+d 
+t objectoriented programming themes and variations
+j ai magazine
+v 
+n 
+p 
+o winter
+
+a stevens me
+a little jl
+d 
+t automatic typographicquality typesetting techniques a stateoftheart review
+i national bureau of standards
+
+a stevens rj
+a lehar af
+a preston fh
+d 
+t manipulation and presentation of multidimensional image data using the peano scan
+j ieee trans pattern analysis and machine intelligence
+p 
+o september
+
+a stoffel jg
+a moreland jf
+d 
+t a survey of electronic techniques for pictorial image reproduction
+j ieee trans communications
+v com
+n 
+p 
+o december
+k 
+
+a stroustrup b
+d 
+t the c programming language
+r computing science technical report 
+i bell laboratories
+c murray hill nj
+o january
+k 
+
+a stroustrup b
+d 
+t data abstraction in c
+r computing science technical report 
+i bell laboratories
+c murray hill nj
+o january
+k 
+
+a suchman la
+d 
+t toward a sociology of humanmachine interaction pragmatics of instructionfollowing
+r working paper
+i xerox parc intelligent systems laboratory
+c palo alto ca
+
+a suchman la
+d 
+t humanmachine interaction and the idea of a selfexplanatory machine
+j paper presented at the annual meeting of the american anthropological society
+c washington dc
+o december
+k 
+
+a suchman la
+d 
+t the role of common sense in interface design
+b office automation jekyll or hyde
+e dmarschall and jgregory
+i working women education fund
+c cleveland oh
+p 
+
+a suchman la
+d 
+t office procedure as practical action models of work and system design
+j acm trans office information systems
+v 
+n 
+p 
+o october
+k 
+
+a suchman la
+d 
+t plans and situated actions the problem of humanmachine communication
+r phd thesis
+i xerox parc
+c palo alto ca
+k 
+
+a sugeno m
+a nishida m
+d 
+t fuzzy control of model car
+k 
+
+a summers pd
+a grossman dd
+d 
+t xprobe an experimental system for programming robots by example
+j int j robotics research
+v 
+n 
+p 
+o spring
+
+a sussman gj
+d 
+t a computer model of skill acquisition
+i american elsevier
+c new york ny
+
+a tannenbaum a
+t political history of unix
+r report
+i masscomp
+c westford ma 
+k 
+
+a tanner w
+d 
+t industrial robots  volume  fundamentals
+i society of manufacturing engineers
+c dearborn mi
+
+a tennant hr
+a ross km
+a thompson cw
+d 
+t usable natural language interfaces through menubased natural language understanding
+j proc acm chi  human factors in computing systems
+p 
+c boston ma
+o december 
+k 
+
+a test ja
+d 
+t the nunix window system
+r internal report
+i laboratory for computer science mit
+c cambridge ma
+k 
+
+a thimbleby h
+d 
+t dialogue determination
+j ijmms
+v 
+n 
+p 
+o october
+
+a thomsett r
+d 
+t people and project management
+i yourden press
+c new york ny
+
+a thompson ba
+a thompson wa
+d 
+t inside an expert system
+j byte
+p 
+o april
+k 
+
+a thompson k
+d 
+t reflections on trusting trust
+j comm acm
+v 
+n 
+p 
+o august
+
+a ting d
+a prasada b
+d 
+t digital processing techniques for encoding of graphics
+j proc ieee
+v 
+n 
+p 
+o july
+
+a tokuda h
+a manning eg
+d 
+t an interprocess communication model for a distributed software testbed
+j proc acm sigcomm 
+i university of texas
+c austin tx
+o march
+k 
+
+a tokuda h
+a radia sp
+a manning eg
+d 
+t shoshin os a messagebased operating system for a distributed software testbed
+j proc th annual hawaii international conference on system sciences
+p 
+k 
+
+a tou it
+a gonzalez rc
+d 
+t pattern recognition principles
+i addisonwesley
+c reading ma
+
+a truin pgm
+d 
+t the speaking tablet as an aid in the acquisition of reading skills by dyslexic children
+j ipo annual progress report
+v 
+p 
+k 
+
+a tsichritzis deditor
+d 
+t beta gamma
+r technical report csrg
+i computer systems research group university of toronto
+c toronto on
+
+a tsichritzis d
+d 
+t objectworld
+e dtsichritzis
+b office automation
+i springerverlag
+c berlin
+p 
+
+a turkle s
+d 
+t the subjective computer a study in the psychology of personal computation
+j social studies of science
+v 
+n 
+p 
+k 
+
+a tyree a
+d 
+t expert systems and the law
+j current affairs bulletin
+p 
+p march
+k 
+
+a ulichney ra
+a troxel de
+d 
+t scaling binary images with the telescoping template
+j ieee trans pattern analysis and machine intelligence
+v pami
+n 
+p 
+
+a umphress d
+a williams g
+d 
+t identity verification through keyboard characteristics
+j ijmms submitted
+k 
+
+a unger b
+a birtwistle g
+a cleary j
+a hill d
+a lomow g
+a neal r
+a peterson m
+a witten ih
+a wyvill b
+d 
+t jade a simulation and software prototyping environment
+j proc conference on simulation in strongly typed languages
+c san diego ca
+o february
+k kconference
+
+a unger bw
+a lomow ga
+a birtwistle g
+d 
+t simulation software and ada
+i society for computer simulation
+k 
+
+a universityofchicagopress
+d 
+t a manual of style
+i university of chicago 
+
+a uribe rb
+d 
+t modeling autopoiesis
+e mzeleny
+b autopoiesis  a theory of living organization
+i north holland
+c new york ny
+p 
+
+a vandijk ta
+a kintsch w
+d 
+t strategies of discourse comprehension
+i academic press
+c new york ny
+
+a vanlehn k
+d 
+t felicity conditions for human skill acquisition validating an aibased theory
+r research report cis
+i xerox parc
+c palo alto ca
+o november
+
+a varela fj
+a maturana hr
+a uribe rb
+d 
+t autopoiesis the organization of living systems its characterization and a model
+j biosystems
+v 
+p 
+
+a varela fj
+d 
+t principles of biological autonomy
+i north holland
+c new york ny
+
+a varela fj
+d 
+t describing the logic of the living
+e mzeleny
+b autopoiesis  a theory of living organization
+i north holland
+c new york ny
+p 
+
+a wade n
+d 
+t literal pictures
+j word and  image
+v 
+n 
+p 
+o julyseptember
+k 
+
+a wagner ra
+a fischer mj
+d 
+t the stringtostring correction problem
+j j acm
+v 
+n 
+p 
+o january
+k 
+
+a wall rs
+a apon aw
+a beal j
+a gately mt
+a oren lg
+d 
+t an evaluation of commercial expert system building tools
+r computer science laboratory technical report 
+i texas instruments
+c dallas tx
+o november
+k 
+
+a waltz dl
+d 
+t natural language access to a large data base
+j advance papers of the international joint conference on artificial intelligence
+i mit
+c cambridge ma
+
+a waterman da
+d 
+t a rulebased approach to knowledge acquisition for manmachine interface programs
+j ijmms
+v 
+p 
+k 
+
+a waters rc
+d 
+t the programmers apprentice a session with kbemacs
+j ieee trans software engineering
+v se
+n 
+p 
+o november
+k 
+
+a webber bl
+a nilsson nj
+d 
+t readings in artificial intelligence
+i tioga
+c palo alto ca
+
+a weinreb d
+a moon d
+d 
+t lisp machine manual
+i third edition
+o march
+
+a weizenbaum j
+d 
+t computer power and human reason
+i freeman
+c san francisco ca
+
+a welch ta
+d 
+t a technique for highperformance data compression
+j ieee computer
+v 
+n 
+p 
+o june
+k 
+
+a weyer sa
+d 
+t searching for information in a dynamic book
+r phd thesis
+i school of education stanford university
+o also report scg xerox parc
+
+a whalen t
+a mason c
+d 
+t the use of treestructured index which contains three types of design defects
+j telidon behavioural research
+v 
+i department of communications
+o may
+
+a whalen t
+a latremouille s
+d 
+t the effectiveness of a treestructured index when the existence of information is uncertain
+j telidon behavioural research
+v 
+i department of communications
+o may
+
+a wijk cvan
+a kempen g
+d 
+t from sentence structure to intonation contour
+e bsmuller
+t sprachsynthese zur synthese von naturlich gesprochener sprache aus texten und konzepten
+i georg olms verlag
+c hildesheim
+k 
+
+a wilensky r
+a arens y
+a chin d
+d 
+t talking to unix in english an overview of uc
+j comm acm
+v 
+n 
+p 
+o june
+k 
+
+a wilkes aj
+a singer dw
+a gibbons jj
+a king tr
+a robinson p
+a wiseman ne
+d 
+t the rainbow workstation
+j computer j
+v 
+n 
+o may
+k 
+
+a wilkes aj
+a wiseman ne
+d 
+t a softedged character set and its derivation
+j computer j
+v 
+n 
+p 
+o february
+k 
+
+a wilkinson w
+d 
+t viewdata the prestel system
+b videotext the coming revolution in homeoffice information retrieval
+e sigel e
+i harmony books
+c new york ny
+p 
+
+a wilks y
+d 
+t good and bad arguments about semantic primitives
+r research report
+i department of artificial intelligence university of edinburgh
+o may
+k 
+
+a wilks y
+d 
+t beliefs points of view and multiple environments
+b artificial and human intelligence
+e aelithorn and rbanerji
+i elsevier science
+p 
+k 
+
+a willems nj
+d 
+t step a model of standard english intonation patterns
+j ipo annual progress report
+v 
+p 
+k 
+
+a williams g
+d 
+t the apple macintosh computer
+j byte
+v 
+n 
+p 
+o february
+
+a winograd t
+d 
+t understanding natural language
+i academic press
+c new york ny
+
+a winograd t
+d 
+t moving the semantic fulcrum
+r report csli
+i center for the study of language and information stanford university
+c stanford ca
+o december
+k 
+
+a witten ih
+d 
+t the department of computer science university of calgary
+j computer science association newsletter
+v 
+n 
+p 
+o december
+k karticle
+
+a witten ih
+a cleary jg
+d 
+t foretelling the future by adaptive modeling
+j abacus
+v 
+n 
+p 
+o spring
+k karticle
+
+a witten ih
+a fremont d
+d 
+t a student information service for a university computer science department
+j proc th ontario universities computing conference
+i lakehead university
+c thunder bay on
+o june
+k kinvited
+
+a witten ih
+d 
+t elements of computer typography
+j ijmms
+v 
+n 
+p 
+o december
+k kjournal
+
+a witten ih
+a bramwell b
+d 
+t a system for interactive viewing of structured documents
+j comm acm
+v 
+n 
+p 
+o march
+k kjournal
+
+a witten ih
+d 
+t dynamic documents
+j proc protext i  first international conference on text processing systems
+i boole press
+c dublin ireland
+p 
+o october
+k kconference
+
+a witten ih
+a greenberg s
+d 
+t user interfaces for office systems
+b oxford surveys in information technology volume 
+e pi zorkoczy
+i oxford university press
+c oxford england
+p 
+k kjournal
+
+a witten ih
+d 
+t making computers talk em an introduction to speech synthesis
+i prenticehall
+c englewood cliffs nj
+
+a witten ih
+d 
+t computer speech
+b the encyclopaedia of physical science and technology volume 
+e robert a meyers
+i academic press
+p 
+k kinvited
+
+a witten ih
+a bonham m
+a bramwell b
+a greenberg s
+d in preparation
+t interacting with dynamic documents  the new age of reading
+r proposal submitted to mit press
+
+a witten ih
+d 
+t selected topics in computer science i
+r report
+i institute of information processing graz austria
+o november
+k kreport
+
+a witten ih
+d 
+t modeling behaviour sequences principles practice prospects
+j proc international conference on future advances in computing
+c christchurch new zealand
+o february 
+k kconference
+
+a witten ih
+d 
+t in search of autonomy
+j proc international conference on future advances in computing
+c christchurch new zealand
+o february 
+k kconference
+
+a witten ih
+d 
+t expert systems
+j manmachine studies
+v ucdse
+n 
+p 
+i university of canterbury
+c christchurch new zealand
+o may
+k karticle
+
+a witten ih
+d 
+t thoughts on artificial intentionality
+j manmachine studies
+v ucdse
+n 
+p 
+i university of canterbury
+c christchurch new zealand
+o january
+k karticle
+
+a witten ih
+a neal r
+a cleary jg
+d 
+t arithmetic coding for data compression
+j comm acm
+v 
+n 
+p 
+o june reprinted in fic gazettefp december 
+k kjournal
+
+a witten ih
+d 
+t a course on expert systems for electrical engineering students
+j proc acm sigcse technical symposium on computer science education
+c st louis mo
+p 
+o february published as sigcse bulletin fifr
+k kconference
+
+a wong skm
+a ziarko w
+a ye r li
+d 
+t comparison of roughset and statistical methods in inductive learning
+r technical report cs
+i computer science department university of regina
+k 
+
+a wood rj
+d 
+t a window based display management system
+r internal report
+i university of maryland
+
+a woods wa
+d 
+t progress in natural language understanding  an application to lunar geology
+j proc national computer conference
+c montvale nj
+i afips press
+
+a woolf b
+a mcdonald dd
+d 
+t humancomputer discourse in the design of a pascal tutor
+j proc acm chi  human factors in computing systems
+p 
+c boston ma
+o december 
+k 
+
+a woolf b
+a mcdonald dd
+d 
+t building a computer tutor design issues
+j ieee computer
+v 
+n 
+p 
+o september
+
+a wright we
+d 
+t gravitational clustering
+j pattern recognition
+v 
+p 
+k 
+
+a wu x
+a witten ih
+d 
+t a fast fikfpmeans type clustering algorithm
+r research report 
+i computer science department university of calgary
+o june
+
+a wupit a
+d 
+t comparison of unix networks
+j proc acm conference on personal and small computers
+c san diego ca
+p 
+o december
+
+a wyvill blm
+d 
+t three computer science plays  fisquanderellafp fidigital alicefp and fitwenty eightyfourfp
+r research report
+i computer science department university of calgary
+
+a wyvill blm
+a witten ih
+d 
+t three computer science plays
+r research report 
+i computer science department university of calgary
+o december
+k kreport
+
+a xeroxcorp
+d 
+t the role of electronic printing in the office of the future
+r executive presentation ii
+k 
+
+a yankelovich n
+a meyrowitz n
+a van dam a
+d 
+t reading and writing the electronic book
+j ieee computer
+v 
+n 
+p 
+o october
+
+a yoeli m
+a brzozowski ja
+d 
+t a mathematical model of digital cmos networks
+r research report cs
+i computer science department university of waterloo
+o august
+k 
+
+a young jz
+d 
+t programs of the brain
+i oxford university press
+c oxford england
+
+a zaniolo c
+d 
+t objectoriented programming in prolog
+j proc international symposium on logic programming
+c atlantic city nj
+p 
+o february 
+k 
+
+a zeleny m
+d 
+t selforganization of living systems a formal model of autopoiesis
+j int j general systems
+v 
+n 
+p 
+
+a zeleny m
+d 
+t aplautopoiesis experiments in selforganization of complexity
+b progress in cybernetics and systems research iii
+e rtrappl gjklir and lricciardi
+p 
+i hemisphere
+c washington dc
+
+a zeleny meditor
+d 
+t autopoiesis  a theory of living organization
+i north holland
+c new york ny
+
+a zeleny m
+d 
+t what is autopoiesis
+e mzeleny
+b autopoiesis  a theory of living organization
+i north holland
+c new york ny
+p 
+
+a zimmermann h
+d 
+t osi reference model em the iso model of architecture for open systems interconnection
+j ieee trans communications
+p 
+o april
+
+a zisman mm
+d 
+t representation specification and automation of office procedures
+r phd dissertation
+i wharton school university of pennsylvania
+
+a zissos ay
+a witten ih
+d 
+t user modelling for a computer coach a case study
+j ijmms
+v 
+n 
+p 
+o december
+k kjournal
+
+a ziv j
+a lempel a
+d 
+t a universal algorithm for sequential data compression
+j ieee trans information theory
+v it
+n 
+p 
+o may
+k 
+
+a ziv j
+a lempel a
+d 
+t compression of individual sequences via variablerate coding
+j ieee trans information theory
+v it
+p 
+o september
+k 

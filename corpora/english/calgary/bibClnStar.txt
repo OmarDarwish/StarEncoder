@@ -1,0 +1,6280 @@
+a abdou *f
+a s*K* *x
+d
+t aQ****** *X te**** b*******w**** F***C** bu* bilevel l**W* ****B*******
+j cn* j A******a I** c*******N**
+v
+p
+
+a abell r
+d
+t a*P*********** *X a telidon Gs**** AU*** r*b* e*t* r*****E***
+b g*e telidon a**b
+e dgodfrey I** echang
+i s***E porcepic
+c K*****Y aa
+p
+
+a i*** h
+a gray rm
+a rebolledo v
+d
+t I****f quantization *X E***d* I** speechlike C*f******
+j hp** trans **h****** E***d* I** D**s** o****A****
+v **h****** E***d* I** D**s** o****A****
+n
+p
+o h**L
+k
+
+a achugbue *s
+d
+t aa g*e jG** d*F***** Cu***** *k q*y* h***E*****
+j sigoa m*****X*** ne** e** z*****e** aa q*y* en********** y*****b* w****v
+v
+n
+p
+o springsummer
+
+a O**** dn
+d
+t g*e f***A****** kU*** aG g*e m**S**
+i e*G
+c t*C*** england
+
+a O**** jb
+d
+t a jH********* p***f *X w****V* v*s****** I** g*e q*h** p***f
+j eP********** a**O*******
+v
+p
+
+a aho av
+a corasick mj
+d
+t i*m****** F**x** u**G**** h* q** aG *****i******* C**O**
+j comm e**
+v
+n
+p
+o h**L
+
+a aikins *u
+d
+t f***C******* o*******r bu* k**O** J***U**
+j a*g******* d*****z*****
+v
+n
+p
+o mF******
+k
+
+a **g** g
+a lennig m
+d
+t k*X******* *k texttospeech z*****q** g***g***** *X *****l****
+r A***V*
+i bellnorthern A******a
+c verdun que
+k
+
+a allebach jp
+a liu b
+d
+t aQ****** *X p*y***** aM* CJ***** I** ******r* *k g*e i******R c*j*** a************U *X qd****
+j z*M**** H***T** *X ******L
+v
+n
+k
+
+a **O** n*
+a K**D** jm
+d
+t g**Z******* o*v** z*z***** I** CH******
+j ne** th b*******s**** m*v** d*e******* aa a*g******* d*****z*****
+p
+
+a **O** em
+d
+t yaps h*x a*J**** o****P**** Gs****
+r A***V* tr
+i u**l**** a*g******* d*****z***** kE*** g*d***** F***S** e***V***** t**X****** *X u**l****
+c u**l**** *D
+o h******u
+k
+
+a **O** jf
+a perrault cr
+d
+t analyzing oY******* *k t*****f***
+j a*g******* d*****z*****
+v
+p
+k
+
+a **O** jf
+d
+t LA***** a o*****M G***F* *X *o**** I** q**a
+j a*g******* d*****z*****
+v
+p
+k
+
+a almes gt
+a b*C** ap
+a lazowska G*
+a noe jd
+d
+t g*e eden Gs**** a z******Q* A****W
+j hp** trans Ek****** d******D***
+v ay
+n
+p
+o t*B****
+k
+
+a alvey p
+d
+t g*e z*b***** *X g*****V** a w****V* k**O** Gs****
+j ne** k**O** J***U**
+i ej******* g****i*
+c do******* england
+p
+o h******u
+k
+
+a anderberg *J
+d
+t g**F*** aQ****** bu* ****B*******
+i *v****** s***E
+c eq* s**T *W
+
+a a*h***** dp
+a hedin rc
+d
+t A**U* inputoutput vw****
+j A**U* c*M* hF*** J***U** *******C*** d*e*******
+c f*G pG*** r*
+o x*R******
+k
+
+a a*h***** *t
+t o*******r b****e***** g*e o*****M s******J q***V****
+k
+
+a a*h***** *t
+a reiser bj
+d
+t g*e jR** z***l
+j bz**
+v
+n
+p
+o ****F
+
+a andreae jh
+d
+t y*****l *k g*e gQ**
+r manmachine I*****J z*A***** A***V* ucdse
+p
+i e***V***** *X f******s** d******D*** t**X****** *X b******L**
+c eq* O***q**
+
+a andreae al
+d
+t d**S****** v*D**** generalization **k****** o****y**** e**W l**W****
+j ne** *******T *********e* aa a*g******* d*****z*****
+c a****h aJ
+o a***Z*
+k
+
+a andreae al
+d
+t o*****F** generalization **k****** o****y**** e**W l**W****
+r fb* G***K*
+i e***V***** *X f******s** d******D*** I** g*d***** F***S** d*A
+
+a andreae al
+d
+t o*****F** generalization
+j ne** b*******s**** d*e******* aa m**q** ***S**** *k e******C*
+c av********** eq* O***q**
+o mF******
+k
+
+a andreka h
+a nemeti i
+a sain i
+d
+t a gR****** o*v** bu* v*s****** r**** z*z***** hq* nonstandard p***f G***F* i
+j l****x***** g*d***** F***S**
+v
+p
+k
+
+a andreka h
+a nemeti i
+a sain i
+d
+t a gR****** o*v** bu* v*s****** r**** z*z***** hq* nonstandard p***f G***F* *h
+j l****x***** g*d***** F***S**
+v
+p
+k
+
+a *****K g*
+d
+t autopoiesis em allopoiesis o*A******
+e mzeleny
+b autopoiesis  a G***F* *X tR**** e******K****
+i q***p r***Z**
+c eq* s**T *W
+p
+
+a *Q**
+d
+t i*******p* I** g*d***** l**i***** m******E*
+i p**r* I** a**c
+c t*C*** england
+k
+
+a *R**
+d
+t videotexteletext f*X********* n***C z**m**** Gn**** gH***
+i *******T v******l y****Z*** e*****w** x  g*j******** o****A**** J***U** z******Q* e*****w** xl  eg*** I** d*****Q** o**v
+c eq* s**T *W
+o h**L
+
+a ****n e
+d
+t g*e iA**** p***f *X g***n******
+j g*d***** o*****a*
+v
+n
+p
+o h**J
+k
+
+a aoki m
+d
+t z*N**** hL***** *X tg******* m*******L* q*V****** J***U**
+j j franklin oC*******
+v
+n
+o w**r****
+k
+
+a ascher au
+a k**N g
+d
+t a p*j** bu* **a****** a g*w* h***M* *X c********g aa scandigitized Ck***** q*y*
+j hp** trans e******B*
+v c
+n
+p
+o w**r****
+k
+
+a V** wl
+d
+t mxec x***p*** o****A**** s*D* h* ***Q**** o***o l*****A*
+j comm e**
+v
+n
+p
+k
+
+a ashby wr
+d
+t ik**** bu* a cj*** g*e w****A *X **N***** behavior
+i B*L**
+c eq* s**T *W
+o C**X** k*****F
+
+a askwall s
+d
+t g*d***** z***i**** D*l**** vs D*l**** q*y* aa r**G* a c********m *X g*M D*l**** q*******U*
+j ijmms
+v
+n
+p
+o ****F
+
+a a******G hh
+a gargantini i
+a ramanath d*Z
+d
+t a***l******** *X g*e d c****C q* A*****n* d****U***** *X r**R**** F****P**
+j e******C*
+v
+p
+k
+
+a attardi g
+a simi m
+d
+t x*m****** *X g*C******** I** ******m***** *k g*e c******M*** Gs**** rH***
+r d* kL**
+i d*A a*g******* d*****z***** k******w**
+o t*B****
+k
+
+a axelrod r
+d
+t g*e j*D****** *X b*********q
+i a**Q* b***h
+c eq* s**T *W
+
+a a****Z d
+a gano s
+d
+t d***z****** *******q* videodisk ju******
+j ne** o*****a* o*g******
+c K*****Y aa
+p
+o d*j
+
+a baecker r
+a ua**** a
+d
+t aa i*****b** g*e o*g****** aG g*e E**w** b**B *X g*d***** z*z*****
+j ne** e** **A  l*O** m**y*** *k e******C* J***U**
+p
+c c****Q *C
+o h******u
+k
+
+a bq**** d
+d
+t t**X****** *X FS***** lispprolog Gs****
+j Ek******  y*****U* I** g*****B***
+v
+n
+p
+o h**L
+k
+
+a ***B gh
+a gp** B*
+d
+t isodata a q***C u***l* *X c*M* aQ****** I** A*F**** ****t*********
+r A***V* b*
+i E*****i* A******a oC*******
+c E*****i* r*
+
+a bandyopadhyay s
+a p***B* jg
+a w**j* fj
+a sen k
+t a generalized q***h***** g*j******** Gs****
+r A***V*
+i g*d***** F***S** e***V***** z***q* t**X****** *X cZ*****
+c cZ***** w*O***** tc*****
+k
+
+a b*q*** gr
+d
+t A*V*** *X g*e Kc****** aa A******a *k w***h* x*m******
+r d* kL**
+i d*A
+o mF******
+k
+
+a b*q*** gr
+d
+t w***h* x*m******
+r fb* G***K*
+i d*A
+o mF******
+
+a b*q*** gr
+d
+t r********w a********c**** Cu***** H****r* s*D* a m******v***
+j e** trans w***h* g*j******** J***U**
+v
+n
+p
+o t*B****
+k
+
+a b*q*** gr
+a dejong an
+a pC**** c
+d
+t C****d** J*Y**** bu* s*T* *k c**N*********
+r d* kL**
+i d*A a*g******* d*****z***** k******w**
+o ****F
+k
+
+a b***Y** ja
+d
+t **********o** xu***** bu* a eP********** G***F* *X l**C****
+j ne** th b*******s**** m*v** d*e******* aa a*g******* d*****z*****
+p
+c B****w*** bc
+o a***Z*
+
+a b*V*** hg
+d
+t a*g******* d*****z***** x*N** *X g*e U**
+r z******Q* l*g*
+i gy* b*******s****
+c p*E** mA** r*
+o zo*****
+
+a barsky ba
+a beatty jc
+d
+t M***r** g*e bF*** *k betasplines
+r A***V* cs
+i t**X****** *X J*Z*****
+o h******u
+k
+
+a barwise j
+a sl*** j
+d
+t q*******U* I** a*******o
+i d*A s***E
+c do******* *C
+
+a barwise j
+d
+t g*e x******j* *k o*v** *h a****g****** I** b*****x**** g*j********
+r A***V* csli
+i center bu* g*e x***a *X s****Y** I** g*j******** E*****i* t**X******
+c E*****i* r*
+o t*B****
+k
+
+a a***a e
+d
+t g*e i***j**** *X J***K**
+i *v****** s***E
+
+a ar** s
+d
+r B*****o aG fiautopoiesis I** cognitionfr maturana I** varela
+
+a aw** tc
+d
+t cp**** opml q*y* b****B*****
+r r**R**** A***V*
+i g*d***** F***S** e***V***** t**X****** *X b******L**
+c av********** eq* O***q**
+k
+
+a aw** tc
+a moffat g*
+d
+t a l*g* aa g*e dmc c*M* b****B***** C*D***
+r r**R**** A***V*
+i g*d***** F***S** e***V***** t**X****** *X b******L**
+c av********** eq* O***q**
+
+a aw** tc
+d
+t h* d*******i*** aG q*y* b****B*****
+r r**R**** A***V*
+i g*d***** F***S** e***V***** t**X****** *X b******L**
+c av********** eq* O***q**
+
+a bellanger mg
+a daguet jl
+a lepagnol gp
+d
+t b*******w**** a*********Q** I** v***j**** *X b****P***** xj*** *k j***u** nL*****
+j hp** trans **h****** E***d* I** D**s** o****A****
+v assp
+n
+p
+o a***Z*
+k
+
+a benest *e
+a m*G** g
+d
+t g*d***** i***I**** *X b***h
+j ne** cy* d*e******* manmachine J***U**
+p
+c l****a**** england
+o h**J
+
+a benest *e
+a potok mhn
+d
+t wayfinding h* a***A*** AU*** k****X***** s**l******
+j b*****a** I** g*j******** s**n******
+v
+n
+p
+k
+
+a c*S**** jl
+a n***S*** jh
+d
+t c*M* r*****E*** bu* t**x* xq*******
+j e******C* J**r***
+v
+n
+p
+o h******u
+k
+
+a c*S**** jl
+d
+t ******n********* divideandconquer
+j comm e**
+v
+n
+p
+k
+
+a c*S**** jl
+a sleator dd
+a tarjan as
+a hM* vk
+d
+t a v**V*** **N***** c*M* b****B***** C*D***
+j comm e**
+v
+n
+p
+o ****F
+
+a cQ****** ej
+a e******O D*
+t ***m*  a d**a******* multiplayer fB** CN***** AU*** g*e d**a******* v r**t**
+k
+
+a bewley wl
+a E***m** tl
+a schroit d
+a verplank wl
+d
+t l*O** m**y*** K*R**** *k g*e ik**** *X K**Q**  p**y w***h* m******v***
+j ne** e** **A  l*O** m**y*** *k e******C* J***U**
+p
+c c****Q *C
+o h******u
+k
+
+a bezdek jc
+d
+t a b*********b K**g*** bu* g*e i***Z isodata c*****w*** *****l****
+j hp** trans A*F**** aQ****** I** v*****B d*****z*****
+v pami
+n
+p
+o t*B****
+k
+
+a bibel w
+d
+t matings *k u**L****
+j comm e**
+v
+n
+p
+o w**r****
+k
+
+a biederman i
+d
+t l*O** l**W* d******k***** A*M*** A******a I** a G***F*
+j g*d***** JU**** o*****a* I** l**W* o****A****
+v
+n
+p
+o zo*****
+
+a c***l** c
+a am* d
+d
+t j***u** s********N
+j q***h***** *******T
+v
+n
+p
+o a***Z*
+k
+
+a c***l** c
+d
+t o****k**** *X e**s ik**** bu* g*e x******M m******v***
+r A******a A***V*
+i E*****i* t**X******
+k
+
+a c***l** c
+d
+t q***v aa H*****u* o******G**
+k
+
+a birkhoff g
+d
+t u****y* G***F*
+i *******T eP********** H***T**
+c o*******a* at
+
+a birrell b*
+a n***E r
+a y**a*** rm
+a w******W* *D
+d
+t l*****N** h* l***E*** *k d**a******* e******C*
+j comm e**
+v
+n
+p
+o ****F
+k
+
+a birtwistle S*
+a c*s* oj
+a myhrhaug b
+a nygaard k
+d
+t simula a***V
+i bv******
+c e**********a ag
+
+a birtwistle g
+a cleary jg
+a m*N** j
+a liblong b
+a unger bw
+a witten ih
+a wyvill blm
+d
+t a q*******G* d*******s**
+j ne** ei****** g*j******** o****A**** H***T** d*e*******
+c e***e** f*
+p
+o d*j
+k kconference
+
+a blakeslee tr
+d
+t g*e uI*** cj***
+i p*******S
+c t*C*** england
+
+a c***o* dg
+d
+t *g zZ**** *o g*e ax**** sQ** *o g*e z****Y** ac sQ** *p y*d** aG J*Y**** d* j*e******** s*******t
+j hp** trans Ek****** d******D***
+v ay
+n
+p
+o w**r****
+k
+
+a boehmdavis da
+a fregly g*
+d
+t a*****X****** *X dI******** z*z*****
+j ne** e** **A  l*O** m**y*** *k e******C* J***U**
+p
+c c****Q *C
+o h******u
+k
+
+a c***X* m
+a witten ih
+d
+t LA***** d**a******* j*X***** i*********Y s*D* g***o****** I** noninteractive M****M*
+j ne** ei****** g*j******** o****A**** H***T** d*e*******
+c e***e** f*
+p
+o d*j
+k kconference
+
+a c***X* m
+a witten ih
+d
+t LA***** d**a******* j*X***** i*********Y s*D* g***o****** I** noninteractive M****M*
+j infor
+v
+n
+p
+o w**r****
+k kjournal
+
+a c***X* m
+a witten ih
+d
+t k**f aa a n**c* e**s M*****p G***b*** o*g****** a Ek****** o******B** bu* g*e I******M q*****B*
+j comm e**
+v
+n
+p
+o w**r****
+k kcorrespondence
+
+a c***X* m
+a witten ih
+d
+t v**u* em a Iu****** g*****y *k j*X***** s**E**
+j ne** protext *h  C**X** b*******s**** d*e******* aa q*y* o****A**** J***U**
+i boole s***E
+c jg**** tc*****
+p
+o zo*****
+k kconference
+
+a bonner s
+a o**K k
+d
+t a b***M****** x***a *X u*m** pZ*******
+j hp** g*d*****
+v
+n
+p
+
+a boose jh
+d
+t t**F* *J********* I** b**T******* *X o*******r e**W v****U** m*x**** *k g*e o*m* i**U**
+j ne** b*******s**** d*e******* aa m**q** ***S**** *k e******C*
+c av********** eq* O***q**
+o mF******
+k
+
+a b***m tl
+d
+t g*d***** i*c******
+j hp** g*d*****
+v
+n
+p
+o zo*****
+k
+
+a borning a
+d
+t g*e j*e******** s****Y** a*****f *X thinglab a constraintoriented q*******G* k******w**
+j e** trans j*e******** pZ******* I** J***U**
+v
+n
+p
+o zo*****
+k
+
+a bouachache b
+d
+t Kx**** aQ****** *X timevarying G****P*
+b D**s** o****A**** *h G***T*** I** ****B*******
+e hwschussler
+i k**q**** F***S** o*******o* bv q***p r***Z**
+p
+k
+
+a bouachache b
+a w**E***** f
+d
+t j*****x**** *X timevarying G****P* *k g*e timefrequency i**U** q* p*j** *X g*e Kx**** b******d****
+j ne** b*******s**** f**k**** I** J***U** z*****e**
+k
+
+a bouachache b
+a whitehouse hj
+d
+t Gk***** ****B******* *X g*e wignerville b******d****
+j ne** b*******s**** f**k**** I** J***U** z*****e**
+c f*G h**r r*
+o d*j
+k
+
+a boulton fg*
+a dl* I*
+d
+t g*e i*****f**** *X hubnet
+j ne** b*******s**** f******s** d****M***** d*e*******
+v
+p
+c K*****Y aa
+o x*R******
+k
+
+a b***O gh
+a b*C** jb
+d
+t F****C* *k u**y** bu* q*y*
+j e***G**** o*******h*
+v
+p
+k
+
+a brachman rj
+d
+t sQ** isa *o I** h*a* h* aQ****** *X z******A* oy*** *k C****d** wl******
+j hp** g*d*****
+v
+n
+p
+o zo*****
+k
+
+a brachman rj
+a schmolze jg
+d
+t h* x*E***** *X g*e klone o*******r a************U C*D***
+j e***G**** F***S**
+v
+n *h
+p
+k
+
+a bramer maeditor
+d
+t A******a I** c*******N** *k k**O** J***U**
+i do******* t**X****** s***E
+c do******* england
+o ne** th d*e******* *X bcs kE*** aa k**O** J***U** h******u
+
+a bramwell b
+d
+t d***v*** a**h** a t****O
+j ne** ei****** g*j******** o****A**** H***T** d*e*******
+c e***e** f*
+p
+o d*j
+k
+
+a britton bk
+a b*C** jbeditors
+d
+t d******k***** g*****W*** q*y* a l****x***** I** u*j****** p*Q***** bu* analyzing eO********* q*y*
+i erlbaum
+c m*****N** *Q
+
+a c*f** kq
+d
+t voroni i****N** e**W gJ**** l*N**
+j g*j******** o****A**** vK*****
+v
+n
+p
+o h******u
+k
+
+a c*f** pj
+d
+t g***o****** a*****X******
+r r**R**** A***V*
+i e******C* k******w** t**X****** *X it**
+o ****F
+k
+
+a c*f** *u
+a d****d rr
+d
+t v****U** **************W *X o*******r bu* H****Q** v*s******
+b a************U *X s******J
+e dg c***o* I** a g****m*
+i *v****** s***E
+c eq* s**T *W
+
+a brownston l
+a m***P** r
+a ib** e
+a uF**** n
+d
+t j*e******** k**O** J***U** *k e*o h* d*******i*** aG rulebased j*e********
+i addisonwesley
+c D*l**** *C
+
+a brunner j
+d
+t g*e shockwave uB***
+i ballantine
+c eq* s**T *W
+
+a bruynooghs m
+d
+t *F**** p***b***** aG w**C** k**f A****g** I** k**f AE****** zZ**** z*z*****
+j ne** st b*******s**** o*v** j*e******** d*e*******
+c q**h***** mA****
+p
+o x*R******
+k
+
+a d**y** j
+d
+t aa g*e c*****w*** *X ******n********* t****Q*** c*M*
+j A*F**** j*****x****
+v
+p
+k
+
+a buchman c
+a by*** dm
+t h* **t******* *X g*e r*b* ditroff bu* h***E***** *****o******* q*y*
+i g*d***** F***S** e***V***** t**X****** *X b*****Y***
+c los aU***** r*
+k
+
+a c*X** a
+a D**H** b
+a plummer d
+d
+t h* *******c** c********m *X p*N* rulelearning z*z*****
+j a*g******* d*****z*****
+v
+p
+
+a c*X** a
+d
+t g*e g*d***** rL******* *X eP********** v*s******
+a *v****** s***E
+c t*C*** england
+
+a d****d rr
+a c*f** *u
+d
+t h* b********g*** *X g*d***** f****Y** bu* r*c***** s******J **p*******
+j ijmms
+v
+n
+p
+o t*B****
+
+a bo** v
+d
+t j* aV d*j y***d
+j a******I x****f*
+p
+o h**J
+
+a bx** rj
+a w**j* ay
+a dejong sp
+d
+t h* actorbased j*e******** Gs****
+j ne** sigoa d*e******* aa w***h* g*j******** J***U**
+p
+c e**********a ag
+o h**L
+k
+
+a ec****** fw
+a B*K*** jg
+d
+t *******C*** *X ot***** aQ****** aG g*e t*******n* *X o*****l*
+j physiol
+n
+p
+i t**X****** *X do*******
+k
+
+a e*v*** wb
+d
+t g*e K*u*** *X g*e a*F*
+i t*C***
+
+a fg***** jb
+d
+t aa B*****J* e**W a p*****X** p***f *X wordfrequency b******d****
+b **********o** aQ****** *X presentday *******T l***b**
+e kucera h I** oM***** wn
+i c*f** t**X****** s***E
+c o*******a* at
+p
+k
+
+a fg***** jb
+d
+t wordfrequency I*****J I** g*e p*****X** b******d****
+e emzale
+b ne** d*e******* aa s****Y** I** s****Y** behavior
+i appletoncenturycrofts
+c eq* s**T *W
+p
+k
+
+a fg***** jm
+a G***Z* jc
+d
+t u*****B* I** g*e e***G**** a************U *X e******C* J***U**
+j hp** trans J***U** d*c I** c**D*******
+v smc
+n
+p
+o marchapril
+k
+
+a e**E** ka
+d
+t g*e C*****u m******v*** *k briefa K*b*** w*b**** bu* g*e C*****u m******v***
+r C*****u kE*** l*g*
+i g*d***** k******w** t**X****** *X do*******
+o d*j
+k
+
+a dn*** rg
+a n***S*** td
+a s*K* *x
+d
+t bk******* F**V*** *X j***u** i**k*
+j cn* j A******a I** c*******N**
+v
+p
+
+a dn*** rg
+a k**N g
+d
+t h******C rf** ik**** AU*** a c******I***** p***f
+tj hp** trans g*j******** G***F*
+v *p
+n
+p
+o t*B****
+k
+
+a ds*** jp
+d
+t **********Z*** E*Z***** g*d***** E***d* h*******k*
+i p***j* w o*n*
+c d***p******* *k
+
+a catmull e
+d
+t eq* k*******m *k g*d***** aT*******
+j *******T *V*************
+p
+o zo*****
+
+a cendrowska j
+a bramer *C
+d
+t a Aj****** a************o *X g*e q*h** a******d**** Gs****
+j ijmms
+v
+p
+
+a chapanis a
+d
+t G*e*** I** civilizing e******B*
+b g*d***** iy***** g*e q***h***** d*****y***** I** E*z*** qk**** *X g*e g*d*****
+e k***l r pagels
+i eq* s**T *h***** *X C*b*****
+c eq* s**T *W
+p
+k
+
+a chazelle b
+d
+t a h******C u***C**** bu* z*N**** o*h******* e********J**
+j g*j******** o****A**** vK*****
+v
+p
+o mF******
+k
+
+a cheeseman p
+d
+t *k defense *X jH*********
+j ne** th b*******s**** m*v** d*e******* aa a*g******* d*****z*****
+p r
+
+a e******O D*
+a zwaenepoel w
+d
+t g*e d**a******* v r**t** I** cV* i*****f**** bu* diskless h***q*******
+r A***V* *S stancs
+i E*****i* t**X****** g*d***** F***S** e***V*****
+c E*****i* r*
+o h**J
+k
+
+a christodoulakis s
+a faloutsos c
+d
+t ik**** *****S******** bu* a xl***** e*t* C****h
+j hp** trans Ek****** d******D***
+v ay
+n
+p
+o ph***
+k
+
+a ciminiere l
+a valenzano a
+d
+t iapx  p**Q**** h**Y* p**b**** l******i**
+k
+
+a clancey wj
+d
+t H****R** u**y* bu* q*q**** a b*f* u***l* i****T**
+j ijmms
+v
+p
+k
+
+a clancey wj
+d
+t g*e b*********B* *X a rulebased k**O** Gs**** em a k*****Y** bu* eM*********
+j a*g******* d*****z*****
+v
+p
+k
+
+a clancey wj
+a shortliffe F* k*****G
+d
+t AH****** *k w****V* a*g******* d*****z*****
+i addisonwesley
+c D*l**** *C
+
+a clarkson t
+t a*K y*****i* C***L*
+r F*****E  *X a A***V*
+i m***A g****i*
+c t*C*** england
+k
+
+a cleary jg
+d
+t aQ****** *X h* ******l** bu* nT***** y*Q**** neighbors *k jF******* w***S
+j e** trans eP********** Ek******
+v
+n
+p
+o h**L
+k
+
+a cleary jg
+d
+t g*****a gE** Gx**** AU*** *****o******* te**** Cs*****
+j hp** trans e******B*
+v c
+n
+p
+o x*R******
+
+a cleary jg
+a darragh jj
+d
+t a eN** g*****a a************U *X z*V** AU*** gE** Gx****
+r A******a A***V*
+i g*d***** F***S** e***V***** t**X****** *X e***e**
+o z*v****** aG fiieee trans computersfp
+
+a cleary jg
+a witten ih
+d *k i*********Y
+t B*D****** c*M* b****B*****
+
+a clocksin aT
+d
+t d*******i*** aG zZ****
+b a*g******* d*****z*****  zW*** s**l****** I** ****B*******
+e toshea I** meisenstadt
+i o**Q** I** f*o
+c eq* s**T *W
+
+a codd ef
+d
+t e****e** bQ******
+i *v****** s***E
+c t*C*** england
+
+a codd ef
+d
+t cd* r**** A*y*****
+b gz******* n****p*** B***L**** I** bb************
+e b shneiderman E*
+i *v****** s***E
+c eq* s**T *W
+p
+
+a ek*** I*
+a w**j* J*
+a tO***** *y
+d
+t constraintbased y***L N*****X
+r A******a A***V*
+i g*d***** F***S** e***V***** carnegiemellon t**X******
+
+a ek*** j
+d
+t e*****g*** zZ**** q* cV* a****p******** I** b****e*****
+j comm e**
+v
+n
+p
+o h******u
+k
+
+a eo*** *v
+d
+t k*****h**** *X b****g J***U**
+e rcschank I** kmcolby
+b g*d***** vp**** *X K**O*** I** s****Y**
+i o*g****
+c f*G k******e* r*
+p
+
+a colmaurer a
+a colmaurer c
+d
+t zZ**** H*  nu*****
+j tsi
+v
+n
+o julyaugust
+k
+
+a colmerauer a
+d
+t zZ**** *k  nu*****
+j comm e**
+v
+n
+p
+o h******u
+k
+
+a colmaurer a
+t h* g***z****** F***k* *X y*J**** s****Y**
+k
+
+a ez*** A*
+a ye****** ll
+t conversationbased j**N
+j e** g*******H*** aa g*d***** J***U**
+v
+n
+o w**r****
+k
+
+a computersciencedepartment
+d
+t cpsc I*****G p*Q*****
+i t**X****** *X e***e**
+
+a coombs m
+a alty j
+d
+t k**O** J***U** h* ****z****** x***g***
+j ijmms
+v
+n
+p
+o t*B****
+k
+
+a h*C**** c
+d
+t mc nrofftroff t***u* v***u**** t****O
+r A***V* eesmms
+i e***V***** *X f******s** d******D*** F***S** t**X****** *X h*n**
+c colchester h*n** aK
+k
+
+a h*C**** c
+d
+t l*s*** o****A**** K*E*** nroff
+j u**t***** k* euug w*****e
+c jg**** tc*****
+o x*R******
+k
+
+a cormack gv
+a horspool au
+d
+t *****l**** bu* **N***** r*****J eg***
+j g*j******** o****A**** vK*****
+v
+n
+p
+o ph***
+k
+
+a cormack gv
+a horspool au
+d
+t c*M* b****B***** AU*** k****A* us**** rL*******
+r A******a A***V*
+i g*d***** F***S** e***V***** t**X****** *X J*Z*****
+o ****F z*v****** aG comm e**
+k
+
+a costigan dm
+d
+t f******u** i*o***** *X h****N*** I** o*****a*
+i hf* w*X***** A***E***
+c eq* s**T *W
+
+a coulon d
+a kayser d
+d
+t a******a**** *X y*J**** s****Y** C****v** *x******* q* a supervisedlearning z******R*
+j hp** trans A*F**** aQ****** I** v*****B d*****z*****
+v pami
+n
+p
+o t*B****
+k
+
+a ct** jf
+a A***P bc
+d
+t a G*W***** *X d***v***
+r O*v**** r**G*
+i g*d***** F***S** e***V***** t**X****** *X p*****s**
+o ****F
+k
+
+a **P bj
+d
+t w**u** w*****P* j*e********
+i addisonwesley
+c D*l**** *C
+
+a crochiere as
+a rabiner lr
+d
+t z*O**** bj* j***u** l*F*** ********r****** bu* eK******** b*******w**** I** narrowband kl*******
+j hp** trans **h****** E***d* I** D**s** o****A****
+v assp
+n
+p
+o zo*****
+k
+
+a crochiere as
+a rabiner lr
+d
+t o**V*** *****S******** *k g*e ik**** *X decimators I** interpolators
+j hp** trans **h****** E***d* I** D**s** o****A****
+v assp
+n
+p
+o a***Z*
+k
+
+a e**I* wb
+a p**m***** *B
+d
+t qX** J*Y**** *k h* w***h* Gs****
+j e** trans w***h* g*j******** J***U**
+v
+n
+p
+o h**J
+k
+
+a e**I* wb
+d
+t g*e n**S *X hI***** I** **t******* *k r*r* kX********
+j ijmms
+v
+n
+p
+o zo*****
+
+a csuri c
+d
+t g*d***** o*****a* I** U**
+j ne** hp**
+o ****F
+
+a cQ** au
+d
+t h*****d* t*v** AU*** p*F** I** y*J**** s****Y** k*****U**
+r fb* G***K*
+i manmachine J***U** k******w** e***V***** *X f******s** d******D*** F***S** t**X****** *X h*n**
+c colchester h*n** aK
+
+a cQ** au
+d
+t p*****Q* h*****d* t*v** AU*** y*J**** s****Y** k*****U**
+j ne** ar d****z* v******l d*e******* aa h*****d* J***U**
+c leeds
+o h**J
+k
+
+a cullingford as
+d
+t C**s** *******C*** g*d***** d******k***** *X r******g* I****M*
+r fb* G***K* A******a A***V*
+i s**r t**X******
+
+a cullingford as
+a u**l*** mw
+a x*l****** m
+a bienkowski *C
+d
+t bi******* cJ********** j* a e******q* *X a computeraided ik**** Gs****
+j hp** trans J***U** d*c I** c**D*******
+v smc
+n
+p
+o marchapril
+k
+
+a cullingford as
+a pazzani mj
+d
+t wordmeaning x*e****** *k e****w****** s****Y** d******k***** z*z*****
+j hp** trans A*F**** aQ****** I** v*****B d*****z*****
+v pami
+n
+p
+o h**J
+k
+
+a e***I g
+a baer l
+a lipkie d
+a dl* b
+d
+t H**J** h* a***A*** aG multipleinheritance subclassing
+j e** d*e******* aa w***h* g*j******** J***U**
+p
+o h**L
+k
+
+a h*r*** at
+a p*******D sl
+d
+t G**I**** **t******* *k E***d* j*****x****
+j ne** oC******* *X **h******
+v
+n
+p
+k
+
+a h*r*** at
+a p*******D sl
+d
+t k*******E** c*****w*** o****y**** a**Q*** aG lowcost E***d* j*****x****
+j j biomed d******D***
+v
+p
+o zo*****
+k
+
+a darragh jj
+a witten ih
+a cleary jg
+d
+t **N***** q*y* b****B***** aG l***j** a p***g
+r A******a A***V*
+i g*d***** F***S** e***V***** t**X****** *X e***e**
+k kreport
+
+a fX*** r
+d
+t g***o****** H*A***** *X j***L**** *J********* *X eq* n******x* u**y*
+j a*g******* d*****z*****
+v
+n
+p
+k
+
+a fX*** r
+a lenat y*
+d
+t knowledgebased J***U** *k a*g******* d*****z*****
+i u*F*** g*y*
+c eq* s**T *W
+
+a am* jd
+a zimmermann h
+d
+t g*e osi v***u**** p***f
+j ne** hp**
+v
+n
+p
+o h******u
+
+a defude b
+d
+t o*******r a**M* J***U** I****V AL******* h* *****h****** Cu***** r**** k**O** J***U** ik****
+j ne** ar m*v** bcs I** e** z*****e** m***A g****i* do*******
+i do******* t**X****** s***E
+p
+o h**J
+k
+
+a debeaugrande r
+d
+t q*y* h*P****** I** Cw***** LA***** a ***v************* F***S** *X y**K*
+i ablex o*******p* b*********O
+c norwood *Q
+
+a dejong g
+d
+t o**X****** I** b*U*********** g*M u***F**** q*B* g*a***** d******k*****
+j ne** b*******s**** m*v** d*e******* aa a*g******* d*****z*****
+c zD*** mC***
+p
+o a***Z*
+
+a dejong g
+d
+t generalizations a**M* aa cJ**********
+j ne** ijcai
+p
+k
+
+a dejong sp
+d
+t g*e Gs**** bu* d*****o* a***B***** sba a Mf***** *******C*** c*******N** Gs****
+b g*j******** o****A****
+e shlavington
+p
+i q***p r***Z**
+k
+
+a deleon l
+a o**S** wg
+a h*B** m
+d
+t *o y**V* A*q*** L**P*** s*D* r*b*
+j ne** e** **A  l*O** m**y*** *k e******C* J***U**
+p
+c c****Q *C
+o h******u
+
+a dietterich tg
+a michalski av
+d
+t a b***M****** A****W *X C***T*** xu***** bu* s******J e**W l**W****
+b v*****B s******J
+e av michalski jg carbonell I** tm v*y*****
+i ze***
+p
+
+a denning pj
+d
+t computerbased o**Y****** O**j***
+j comm e**
+v
+n
+p
+o d*j
+k
+
+a denning pj
+d
+t d****b***** ruminations
+j comm e**
+v
+n
+p
+o zo*****
+
+a denning pj
+d
+t g*e F***S** *X e******C* sQ** *o g*d***** F***S**
+j *******T w******Z*
+v
+o januaryfebruary
+k
+
+a dewdney e*
+d
+t g*d***** j*****Q****
+j q***h***** *******T
+v
+n
+p
+o d*j
+
+a gv*** t
+a b**Y j*
+a B*T*** g
+d
+t a e********J** a***A*** aG Co*** g**g****** bu* n**c* f**k**** I** J***U**
+j hp** trans f**k**** I** J***U**
+v cas
+n
+p
+o d*j
+k
+
+a gv*** t
+d
+t h* a***A*** aG g*e modeling *X Ek****** K*R**** s*D* p*N* ****B*******
+j hp** trans Ek****** d******D***
+v ay
+n
+p
+o ****F
+k
+
+a j*****F* m
+d
+t a z*W***** aG x***a g*e costeffectiveness *X y**r**** *n**** I** GJ*****
+r dai O*v**** r**G*
+i e***V***** *X a*g******* d*****z***** t**X****** *X iX*******
+k
+
+a dubes r
+a h*t* e*
+d
+t I***J*** I*****J *k c*****w*** b***********l
+j A*F**** j*****x****
+v
+p
+k
+
+a duda r
+a gaschnig j
+a gD** p
+d
+t p***f ik**** *k g*e o******v** d***a***** Gs**** bu* x*I**** eU*********
+e d michie
+b k**O** J***U** *k g*e ***********t*** n**
+i iX******* t**X****** s***E
+k
+
+a dumais s
+a landauer t
+d
+t c*******J**** a****H******** *X y*J**** l***Y****** bu* g****P* I** t*v** pZ*******
+b e********n *k humancomputer d*****F*****
+e badre I** shneiderman
+i ablex o*******p* b*********O
+c norwood *Q
+p
+
+a dumais s
+a landauer t
+d
+t AU*** l**W**** aG i***f*** b********I
+j ne** e** **A  l*O** m**y*** *k e******C* J***U**
+p
+c c****Q *C
+o h******u
+k
+
+a jM**** *I
+a gray rm
+d
+t h* ******l** bu* g*e ik**** *X labeledtransition finitestate I****f quantization
+j hp** trans ****V*********
+v **J
+n
+p
+o t*B****
+k
+
+a d*F* mg
+d
+t indepth d******k*****
+i d*A s***E
+c do******* *C
+
+a dynkin eb
+d
+t d***Q***** Ah**** x*W******
+j l****x***** jH********* I** cV* ****B*******
+v x
+n
+k
+
+a eason kd
+a damodaran l
+d
+t ik**** o****y**** bu* r*r* g*****o**** I** r*r* J*Y****
+j infotech  d*c g*d***** ****V*********
+c t*C*** england
+
+a edelsbrunner h
+a maurer W*
+d
+t nT***** m*S**** y***i* *k y***k e*******U* I** H****r* g*e postoffice Cu***** *k g*e s*F**
+j g*j******** o****A**** vK*****
+v
+p
+o  h**J
+k
+
+a efron b
+a thisted r
+d
+t g**f****** g*e w*Y*** *X I**b** H*****R cd* ka** B**Q* au* k****h***** i*j*
+j a********A
+v
+n
+p
+k
+
+a f******d** e
+a hasemar t
+d
+t h* q******h r*r* o*g****** bu* zZ****
+e bshackel
+b humancomputer g***n****** jK********* r**J****
+i q***p r***Z**
+p
+k
+
+a ekeberg o
+d
+t B*L*** e*******o* t*I*** AU*** *********f* xu*****
+r A******a A***V*
+i g*d***** JU**** I** *********f* A*F**** o****A**** k******w** e***V***** *X e******C* F***S** u**j* oC******* *X s**n******
+c y******K* F****M
+k
+
+a g***I p
+d
+t o**Y****** f****j mD** i I** mD** *h
+j cO* trans g*j******** G***F*
+v *p
+n
+p
+k
+
+a g***I p
+d
+t dd**** aa i*****f**** *X z*O**** quantizers
+j hp** trans g*j******** G***F*
+v *p
+n
+p
+o ph***
+k
+
+a g***I p
+d
+t B*D****** f*****J* o**v I** **************W *X g*e r**D****
+j hp** trans g*j******** G***F*
+v *p
+n
+p
+o ph***
+k
+
+a lU***** sj
+a v****J ag
+d
+t h* ******l** bu* e****h****** lms **N***** kl*******
+r A******a A***V*
+i oC******* *X w***I I** B******b* A******a t**X****** *X k******k***
+c k******k*** england
+k
+
+a g***P r*
+a nutt gj
+d
+t aa g*e d*******N** *X w***h* vp****
+r A******a A***V* ssl
+i B***H parc
+o h******u
+k
+
+a g***P r*
+t l****Z I** r*c***** vp**** *X w***h* **D*****
+r A******a A***V*
+i B***H parc
+k
+
+a g***P r*
+a bernal m
+d
+t officetalkd h* cG********** w***h* g*j******** Gs****
+j ne** e** d*e*******
+p
+k
+
+a embley dw
+a k**N g
+d
+t behavioral a*****f *X q*y* k*****G
+j e******C* J**r***
+v
+n
+p
+o ph***
+k
+
+a hw*** M*
+a andriessen jj
+a schmitz hjr
+d
+t sQ** B*e** I** J****z p*j** bu* n****p*** f******u** c*M* X*****
+j ijmms
+v
+p
+
+a englebart z*
+a l***b** wk
+d
+t a A******a center bu* a***b***** l*O** oR*******
+j ne** eD** m*v** g*d***** d*e*******
+v
+p
+i afips s***E
+c a****n*** aQ
+
+a ernvall j
+a nevalainen o
+d
+t g**f****** g*e s***D* *X x*P**** E*K***** z*V** *k b****B***** *X ia***
+j *J*
+v
+p
+k
+
+a ee** s
+a rodeh m
+d
+t f*****s*** i****e*** *X gh**** c**S*** I*****n
+j comm e**
+v
+p
+o ****F
+k
+
+a ee** s
+a s***z v
+a rodeh m
+d
+t te**** ******l** bu* c*M* b****B***** hq* F**x** u**G****
+j j e**
+v
+n
+p
+o t*B****
+
+a everitt b
+d
+t g**F*** aQ******
+i heineman
+c t*C*** england
+
+a fano rm
+d
+t g*e g********i** *X g*j********
+r z******Q* A***V*
+i A******a k******w** *X d****M***** d*A
+c do******* *C
+
+a feigenbaum ea
+a mccorduck p
+d
+t g*e h***T h*******k*
+i addisonwesley
+c D*l**** *C
+
+a ferrans jc
+d
+t sedl em a s****Y** bu* r*B******* oQ******* b*******N** aa w***h* i**y*
+j sigoa m*****X*** ne** sigoa d*e******* aa w***h* g*j******** J***U**
+v
+n
+p
+c e**********a ag
+o h**L
+k
+
+a fikes r
+a kehler t
+d
+t g*e n**S *X framebased a************U *k v*s******
+j comm e**
+v
+n
+p
+o x*R******
+k
+
+a filipski a
+a hanko j
+d
+t t****f r*b* C***a*
+j bz**
+p
+o ****F
+
+a m**m**** cj
+d
+t g*e b*f* bu* b*f*
+e ebach I** rtharms
+b t**W****** *k lC******** G***F*
+p
+i g*T* reinhart I** Op*****
+c f****F* *i
+k
+
+a finkel ra
+a c*S**** jl
+d
+t nJ** z*V**  a c*M* zG******* bu* wI******* aa e******u* iy**
+j s*** g*h********
+v
+n
+p
+
+a n*q**** g
+a n***h a
+a C*J*** t
+d
+t knowledgebased g*e* J***U**
+j ne** l*O** m**y*** *k g*d***** J***U**
+c f*G k******e* r*
+p
+o ****F
+k
+
+a l**n** m
+d
+t H**q** k**f y*J**** g***o****** J***U**
+j ijmms
+v
+p
+
+a fogel lj
+a r*I** aj
+a A***P mj
+d
+t a*g******* d*****z***** K***c** x*****Q** j*D******
+i B*L**
+
+a i**e* jd
+a NT***** vl
+a chan p
+d
+t g*e l*O** m**y*** *X g*d***** o*****a* g***n****** s**l******
+j hp** g*d***** o*****a* I** ****B*******
+v
+n
+p
+o w**r****
+k
+
+a mj**** j
+a gray rm
+a jM**** *I
+d
+t finitestate I****f quantization bu* J**f**** f****j
+j hp** trans g*j******** G***F*
+v *p
+o d*j
+
+a freij gj
+a cheetham bmg
+d
+t q******h q*****k*** te**** o**X****** q* x*f****** timedomain b**i******* g******x**
+r A***V*
+k
+
+a n***S*** jh
+a baskett f
+a shustek lj
+d
+t h* ******l** bu* nT***** y*Q**** neighbors
+j hp** trans e******B*
+v c
+p
+o zo*****
+k
+
+a n***S*** jh
+a c*S**** jl
+a finkel ra
+d
+t h* ******l** bu* nT***** aJ** w***s** *k g*********S l****g** q**a
+j e** trans eP********** Ek******
+v
+n
+p
+o x*R******
+k
+
+a fukunaga k
+a narendra al
+d
+t a dR**** I** b***H ******l** bu* e******C* fikfpnearest neighbors
+j hp** trans e******B*
+v c
+p
+o h**J
+k
+
+a m*X*** *C
+t a E*z*** e***F**** A******a p***f bu* F**c**** humancomputer *********G***
+r A******a A***V*
+i w****y** x*N** t**X****** d*****o* g****i*
+c stillwater *Z
+k
+
+a m**O** br
+d
+t aa a h*A*** *k g*e a*W******* *X d****h***
+j hp** trans J***U** d*c I** c**D*******
+v smc
+p
+
+a m**O** br
+d
+t autopoiesis p*N* u*******x
+e mzeleny
+b autopoiesis  a G***F* *X tR**** e******K****
+i q***p r***Z**
+c eq* s**T *W
+p
+
+a m**O** br
+d
+t g*e s**n****** *X g***n******  iP**** j*e******** u**y*
+j ijmms
+v
+n
+p
+o t*B****
+
+a m**O** br
+d
+t e**W s*R* o****A**** aG l**W* o****A**** *k w***h* J***U**
+j ne** b*******s**** f******s** d****M***** d*e*******
+v
+p
+c K*****Y aa
+o x*R******
+k
+
+a m**O** br
+d
+t c****O****** *X h******C c******I***** possibilistic I** r*p** i**y* *X l********G* *k h******C aQ******
+j I*****J *k g*e l***X***** C*b*****
+v
+p
+
+a m**O** br
+d
+t k**O** J***U** I** q*******G* *k y**r**** m****U** b**********x* J***U**
+j ne** Kc****** aa g*****E* F******K I** sl******* e******C* *k k**O** J***U**
+i c***x* g*d***** C****T** d* center
+c bellevue aT
+o a***Z*
+
+a m**O** br
+d
+t g*e ik**** *X k**O** J***U** bu* y**r**** m****U** b**********x*
+r A******a A***V*
+i g*d***** F***S** e***V***** t**X****** *X e***e**
+
+a m**O** br
+a o**D mlg
+d
+t e*****Z**** *X iP**** d******D*** g*e c*******N** *X humancomputer g***n****** mD** *h
+j ijmms
+v
+n
+p
+o mF******
+
+a m**O** br
+d
+t h* x*E***** *X o*******r *J********* I** H*A*****
+j ne** aaai Kc****** aa o*******r *J********* bu* knowledgebased J***U**
+c a**q* f*
+o w**r****
+
+a galitz wo
+d
+t l*O** m**y*** *k w***h* a***B*****
+i jr** w***h* l***X***** *********e*
+c a*****Y Q*
+
+a o****C* m
+t *k B*g** x****b* hi**** i**r* f******v**** *X g*e s*R* e***L
+j q***h***** *******T
+p
+k
+
+a gargantini i
+a a******G hh
+d
+t te**** quadtrees a c****G** z******R* bu* hK***** nF*****
+j A*F**** j*****x****
+v
+n
+p
+k
+
+a gargantini *d
+d
+t A*M*** En***** aa te**** quadtrees I** D***X** s**l******
+r A***V*
+i g*d***** F***S** e***V***** t**X****** *X N***A** z*x****
+c t*C*** aa
+o h******u aG a*b*** *k fipattern recognitionfp
+k
+
+a garudadri h
+a beddoes mp
+a gilbert jhv
+a benguerel ap
+t a*o*********** *X o**i***** **n***** cP** *k p**G d**G****** AU*** g*e Kx**** b******d****
+j
+k
+
+a m***V* td
+a lowrance jd
+a fischler *C
+d
+t h* n******x* z******R* bu* g**Z******* o*******r e**W h**S***** H****Z*
+j ne** th b*******s**** m*v** d*e******* aa a*g******* d*****z*****
+p
+c B****w*** bc
+o a***Z*
+k
+
+a gehani *P
+d
+t h* f******u** e**A Gs****  h* g*****B*** *k j**p*******
+j Ek******  y*****U* I** g*****B***
+v
+p
+k
+
+a gehani *P
+d
+t g*w* n***C e**A e*Y******* *k w***h* g*j******** J***U**
+j g*d***** j
+v
+n
+p
+k
+
+a geller vj
+a lesk *E
+d
+t cd* AS*** C**O** a c********m *X kO** I** a*******s wI******* J***U** aa a v*b**** catalog
+r r**R**** A***V*
+i aw** d*********c*
+k
+
+a genesereth *J
+a o*W***** *F
+d
+t o*v** j*e********
+j comm e**
+v
+n
+p
+o x*R******
+k
+
+a genesereth *J
+a o*W***** *F
+a rosenschein *u
+d
+t H****r* g*e u***p**** j***B**
+r A******a A***V* stancs
+i g*d***** F***S** e***V***** E*****i* t**X******
+c E*****i* r*
+k
+
+a j*P** r
+d
+t lucasiewicz o*v** I** i***Z f*U G***F*
+j ijmms
+v
+p
+
+a o*W***** *F
+d
+t dg** jH********* gL** a s*B** *k nonmonotonic v*s******
+j ne** ijcai
+p
+k
+
+a georgeff m
+a lansky f*
+a bessiere p
+d
+t a o****x**** o*v**
+j ne** b*******s**** m*v** d*e******* aa a*g******* d*****z*****
+c los aU***** r*
+o a***Z*
+k
+
+a gersham av
+d
+t a k*****Y** bu* dn******** analyzers
+e wg lenhert I** mh ringle
+b r****Z**** bu* y*J**** s****Y** o****A****
+i s******i erlbaum a*U*******
+p
+
+a gersho a
+d
+t *Z************ z*N**** b**j* quantization
+j hp** trans g*j******** G***F*
+v *p
+n
+p
+o h**J
+k
+
+a gevarter wb
+d
+t h* x*E***** *X computerbased y*J**** s****Y** o****A****
+r k**X z******Q* l******F**
+c t********F z*
+
+a gevarter wb
+d
+t k**O** J***U** v*D**** **g y*****P*
+j hp** E**l****
+p
+o a***Z*
+
+a nG**** d
+a E*X**** heditors
+d
+t k*X******* V***** I** Bu****
+i A* gruyter
+c b****Q
+
+a j*F** rw
+a G**H** yj
+d
+t g*e g*****y *X F****C* *k d******k***** I****M*
+j j *******u******** A******a
+v
+n
+p
+k
+
+a nJ**** b
+a wittig r
+d
+t g*e develnet lan *****h****** I** g*****B***
+j ne** b*******s**** f******s** d****M***** d*e*******
+v
+p
+c K*****Y aa
+o x*R******
+k
+
+a girill tr
+a luk ch
+d
+t j*X***** h* g***o****** w***I* EC****** aG e**E a*****X****** z*b*****
+j comm e**
+v
+n
+p
+o d*j
+
+a glinert ep
+a tanimoto sl
+d
+t m*A* h* g***o****** l*****O** j*e******** d*******s**
+j hp** g*d*****
+v
+n
+p
+o w**r****
+k
+
+a glinert ep
+a ladner as
+d
+t a n**c* e**s M*****p G***b*** o*g******
+j comm e**
+v
+n
+p
+o h**L
+k
+
+a p**V*** d
+a dY*** eeditors
+d
+t g*e telidon a**b
+i s***E porcepic
+c K*****Y aa
+
+a goldshlager lm
+d
+t v***t *****l**** bu* spacefilling hi****
+j Ek******  y*****U* I** g*****B***
+v
+p
+o x*R******
+k
+
+a f**e di
+d
+t g*e tc*** *X a d**a******* Gs**** *k k*v**
+r z******Q* A***V*
+i oC******* bu* e******C* F***S** t**X****** *X y**J* k* a****h
+c a****h aJ
+o x*R******
+k
+
+a n**T** j
+a shortliffe F*
+d
+t g*e dempstershafer G***F* *X l**C****
+b rulebased k**O** J***U**
+e bgbuchanan I** ehshortliffe
+i addisonwesley
+c D*l**** *C
+p
+
+a n**T** j
+a shortliffe F*
+d
+t a u***l* bu* uu****** g***E***** v*s****** *k a c********t** j*y******* w***S
+j a*g******* d*****z*****
+v
+p
+
+a p***F** ja
+d
+t a v**Z***** ******l**
+j sigoa m*****X*** ne** e** z*****e** aa q*y* en**********
+c y*****b* ac
+v
+n
+p
+o springsummer
+
+a p***F** ja
+a w***a**** dsh
+d
+t a y**N*** windowmanager
+r A***V*
+i g*j******** s**n****** center carnegiemellon t**X******
+c n********I ag
+k
+
+a grampp P*
+a v*w*** rh
+d
+t r*b* s**B***** Gs**** C***t***
+j aw** Gs**** z******Q* j
+v
+n  mD**
+p
+o zo*****
+
+a grasser a*
+d
+t te*** **********k** cy**** g*e s*R*
+i springerverlag
+c eq* s**T *W
+
+a gray rm
+a ud***** jc
+a linde y
+d
+t v**V*** z*N**** b**j* quantizer ik****
+j g*j******** I** hL*****
+v
+p
+k
+
+a gray rm
+d
+t p**Q**** j****M***** *X J**f**** I****f quantizers
+j hp** trans
+v f*B
+n
+
+a ke*** m
+d
+t LA***** a r*r* o*g****** j**p******* Gs****
+j ne** o*****a* o*g******
+p
+k
+
+a l******n* s
+d
+t r*r* modeling *k g***o****** g*d***** J***U**
+r d*S G***K*
+i g*d***** F***S** e***V***** t**X****** *X e***e**
+
+a l******n* s
+a witten ih
+d
+t c********m *X kO** ju****** bu* z**f*** oI***
+j ne** ei****** g*j******** o****A**** H***T** d*e*******
+c e***e** f*
+p
+o d*j
+k kconference
+
+a l******n* s
+a witten ih
+d
+t **N***** personalized kX********  a z****Y** *X B*****Y**
+j b*****a** I** g*j******** s**n******
+v
+n
+p
+o januarymarch
+k kjournal
+
+a l******n* s
+a witten ih
+d
+t g***o****** enduser hi****** *X C****A*** f***h****** K*E*** a K*b*** Gs****
+j ne** ei****** g*j******** o****A**** H***T** d*e*******
+c v***a*** que
+p
+o d*j
+k kconference
+
+a l******n* s
+a ye****** m
+a witten ih
+d
+t q***a* I** eI********* *k g*e ik**** *X a K*b*** l***X***** Gs****
+j ne** ei****** g*j******** o****A**** H***T** d*e*******
+c kP****** f*
+p
+k kconference
+
+a grice *a
+d
+t w****J*
+j c****L******* A****W
+v j**t
+n
+p
+k
+
+a grice *a
+d
+t utterers w****J* I** kO********
+j c****L******* A****W
+v lxxviii
+n
+p
+k
+
+a grossner cp
+a radhakrishnan t
+a pospiech a
+d
+t h* kH******** m******v*** bu* g*e I******M f*t********
+j hp** p**d*
+p
+o h**L
+k
+
+a gullichsen e
+a dY*** e
+d
+t h*******l* ik**** *k *****h****** AU*** h* k**O** Gs****
+r A******a A***V*
+i g*d***** F***S** e***V***** t**X****** *X I*****K*
+o mF******
+k
+
+a hagelbarger dw
+a G****x** ra
+d
+t eJ********* *k teleterminal ik****
+j hp** E**l****
+p
+o zo*****
+k
+
+a halbert z*
+d
+t j*e******** q* mG*****
+r z******Q* A***V*
+i B***H parc w***h* z*q***** j*x*****
+c mr** *t** r*
+o h******u
+
+a q***D** p
+a sergot m
+d
+t a zZ**** v**N* bu* o*v** a**M* k**O** J***U**
+j ne** k**O** J***U**
+i ej******* g****i*
+c do******* england
+p
+o h******u
+k
+
+a q***D** p
+d
+t a************U *X dhss j*******g** j* a o*v** CN*****
+j ne** k**O** J***U**
+i ej******* g****i*
+c do******* england
+p
+o h******u
+k
+
+a o**w** sj
+a nJ*** as
+a k****e jm
+d
+t o*g****** ik**** I** e****A****** aQ****** *X r*b* g****P* g*Z
+j e** trans w***h* g*j******** J***U**
+v
+n
+o ph***
+
+a p***d*** af
+a bramson rm
+t g*e U** *X G****o**
+i berkley b***h
+c eq* s**T *W
+k
+
+a harth e
+d
+t N*****X aa g*e k*p*
+i m**G***** s***E
+c d**q**** F****q
+
+a hartigan ja
+d
+t c*****w*** *****l****
+i B*L**
+
+a q*****e j
+d
+t g*****V** b******y***** q*y*
+i kogan mi**
+c t*C*** england
+
+a q*****e j
+d
+t g*****V** b******y***** q*y*
+e dh jonassen
+b g*e s**n****** *X q*y*
+i d****b***** s**n****** f****b******
+c i****T*** f**P** *Q
+
+a hasling dw
+a clancey wj
+a rennels g
+d
+t y*******O cJ********** bu* a e******X** a******d**** Gs****
+j ijmms
+v
+p
+k
+
+a haugeland j
+d
+t d******k***** y*J**** s****Y**
+v lxxvi
+n
+p
+o w**r****
+k
+
+a k**L* p
+t g*e q*z** A****Q* q*i******
+k
+
+a k**L* pj
+a ***B e
+a reddy r
+d
+t d*F***** g*e manmachine *********G*** b****i*
+j hp** g*d*****
+p
+o ph***
+k
+
+a k**L* pj
+d
+t g****A**** o*g****** c****q***** AU*** formbased o*g****** p***********
+r A***V* cmscs
+i g*d***** F***S** e***V***** carnegiemellon t**X******
+k
+
+a k**L* pj
+a szekely ag
+a lerner ra
+d
+t ik**** **O********* bu* r*r* o*g****** l***X***** J***U** a**M* aa g*****B*** s*D* g**b**
+j ne** l*O** m**y*** *k g*d***** J***U**
+c f*G k******e* r*
+p
+o ****F
+k
+
+a k**L* pj
+a lerner ra
+a szekely ag
+t g*e g**b** r*r* o*g****** CO*****
+k
+
+a hayesroth f
+d
+t rulebased J***U**
+j comm e**
+v
+n
+p
+o x*R******
+k
+
+a gN** dg
+d
+t e****c**** G***F*  a k****U*** I** p*N* e******e****
+j s****Y**
+v
+p
+
+a k**Y* fg
+a foulk pw
+a li dy
+d
+t aQ****** I** c**********Q* *X dI******** J***U** AU*** zZ****
+j ne** hp** mD** e
+v
+n
+p
+o x*R******
+k
+
+a heckbert p
+d
+t color l**W* quantization bu* i**P* d**Q** j****S*
+j ne** D*J*****
+c c****Q *C
+p
+o h**J
+k
+
+a g*b* g
+d
+t c*M* b****B***** s**l****** I** ****B*******
+i B*L**
+c eq* s**T *W
+
+a r*B**** gg
+a sacerdoti E*
+a sagalowicz d
+a D****F j
+d
+t e******D** a y*J**** s****Y** o*g****** aG g*****i c*M*
+j e** trans h*****d* J***U**
+v
+n
+o h**L
+
+a pt**** jh
+a hirschberg ds
+d
+t selforganizing te**** C**O**
+j e******C* J**r***
+v
+n
+p
+o x*R******
+
+a pC**** c
+d
+t M****M* hL***** r*****E*** j* x****O** *X A*f**** u*****v*
+j a*g******* d*****z*****
+v
+p
+
+a pC**** c
+a dejong an
+d
+t l**s J***U**
+r d* kL**
+i d*A a*g******* d*****z***** k******w**
+o h******u
+k
+
+a pC**** c
+a dejong an
+d
+t analyzing g*e u*w** *X b*E********* I** *W***** *k l**s J***U**
+r d* kL**
+i d*A a*g******* d*****z***** k******w**
+o ****F
+k
+
+a pC**** c
+a dejong an
+d
+t xl***** A*f**** x*m****** j* a h****d**** bu* v*s****** *k l**s J***U**
+r A******a A***V*
+i d*A a*g******* d*****z***** k******w**
+o d*j
+k
+
+a r**s*** p
+d
+t r*r* t****O bu* k*u*  g*e xq*** j*X***** i*********Y Gs****
+r z******Q* A***V*
+i g*d***** F***S** e***V***** carnegiemellon t**X******
+c n********I ag
+
+a r**G*** d
+d
+t ueber av* stetige abbildung einer linie auf ein flachenstuck
+j kp** a*r****
+v
+p
+k
+
+a g*y* D*
+a dohrn c
+a darragh j
+a esau r
+a levinson d
+a unger b
+a witten ih
+d
+t AU*** E***d* xy**** j* a u**f** bu* humancomputer i****T**
+j ne** ei****** g*j******** o****A**** H***T** d*e*******
+c e***e** f*
+p
+o d*j
+k kconference
+
+a g*y* D*
+a witten ih
+a lg** r
+a lomow g
+d
+t jecl I** g*v* u*j****** u*******x bu* g*e h*q* r*r* o*g******
+j ne** ei****** g*j******** o****A**** H***T** d*e*******
+c e***e** f*
+p
+o d*j
+k kconference
+
+a hiltz aA
+a turoff m
+d
+t k*********k computermediated *********G*** J***U** aG a*p** g*j******** xW******
+j bB**
+v
+n
+p
+o h**J
+
+a hintikka kj
+d
+t g*e kO******** *X intentionality
+i d reidel
+c dordrecht r***Z**
+
+a Z* cs
+a g*Y* yc
+a kuo ts
+d
+t a H***T** p***f bu* w***h* g*j******** J***U**
+j e** trans w***h* g*j******** J***U**
+v
+n
+p
+o ****F
+k
+
+a horspool au
+a cormack gv
+d
+t a generalpurpose c*M* b****B***** z******R* s*D* u*j****** g*d***** ****B*******
+j ne** ei****** g*j******** o****A**** H***T** d*e*******
+c e***e** f*
+p
+o d*j
+k
+
+a horspool au
+a cormack gv
+d
+t gt****** aa c*M* b****B***** AU*** FB**** r*****J codedecode Gx****
+o z*v****** aG bB** w**r****
+k
+
+a horspool au
+a cormack gv
+d
+t k****A* us**** rL*******  a o**X****** z******R*
+j ne** b*******s**** d*e******* aa g*e Gs**** C*b*****
+c q*C***** W*
+o t*B****
+k
+
+a hosticka bj
+d
+t i*****f**** c********m *X analog I** j***u** f**k****
+j ne** hp**
+v
+n
+p
+o t*B****
+
+a hou *b
+a aP***** hc
+d
+t e***k splines bu* l**W* b*******w**** I** j***u** kl*******
+j hp** trans **h****** E***d* I** D**s** o****A****
+v assp
+n
+p
+o h******u
+k
+
+a hovy F*
+t g**Z******* q*y* y**r**** I** o****P**** *k h*******k*
+j ne** ijcai
+p
+k
+
+a p***U* r
+a B**C**** c*
+d
+t b*******s**** j***u** j*****o** f****j y****Z***
+j ne** hp**
+v
+n
+p
+o h**J
+k
+
+a hutchings e
+d
+t g*e a***I***** Jw****
+j F***S**
+v
+p
+o mF******
+
+a jackendoff r
+d
+t x*m****** I** e***F****
+i d*A s***E
+c do******* *C
+
+a jakobsson m
+d
+t b****B***** *X d*****Q** I*****n q* h* **N***** e*******o*
+j *J*
+v
+n
+p
+k
+
+a jantsch e
+d
+t autopoiesis a f**j*** a**U** *X d*B******** selforganization
+e mzeleny
+b autopoiesis  a G***F* *X tR**** e******K****
+i q***p r***Z**
+c eq* s**T *W
+p
+
+a q***P* jf
+d
+t B**D****
+j hp** g*d*****
+p
+o zo*****
+k
+
+a q***P* ra
+d
+t qI***** o*g******* s*c****** bu* y**r**** collisionfree r***e
+j a***h***** g*d***** j
+v
+n
+p
+o a***Z*
+k
+
+a jaynes j
+d
+t g*e w****A *X ***********F* *k g*e c***N**** *X g*e b******I* k*p*
+i q**y**** mifflin
+c c****Q *C
+
+a o****z*** D*
+d
+t M*****p q**a
+j e** trans j*e******** pZ******* I** J***U**
+v
+n
+p
+o h**J
+k
+
+a t***c** wl
+a soloway e
+a hs**** b
+a i****l aC
+d
+t **b d***r**** i
+r A******a A***V*
+i e***F**** I** j*e******** CO***** g*d***** F***S** e***V***** s**r t**X******
+o zo*****
+k
+
+a m*G** h
+d
+t I**D*** morison h***g****
+i k******t* muller
+c t*C*** england
+
+a m*G** lp
+a iyengar aB
+d
+t w***S I** q**a i*m****** M*****p quadtrees
+j hp** trans A*F**** aQ****** I** v*****B d*****z*****
+v pami
+n
+p
+o ph***
+k
+
+a kaczmarek t
+a ke** w
+a sondheimer n
+d
+t g*e consulcue o*g****** h* kH******** g***o****** d*******s**
+j ne** e** **A  l*O** m**y*** *k e******C* J***U**
+p
+c c****Q *C
+o h******u
+k
+
+a kaehler t
+a t*a****** d
+d
+t a y*F** *X smalltalk
+i ww w*o***
+c eq* s**T *W
+
+a kang anc
+a dl* rct
+a dY*** cl
+a dY*** sk
+d
+t I****J* v***j**** K***c** x*P**** E*K***** z*V** I** E*K***** n*****E
+j hp** trans e******B*
+v c
+n
+p
+o d*j
+k
+
+a kawaguchi e
+a endo t
+d
+t aa a u***l* *X binarypicture a************U I** cV* *******C*** aG c*M* b****B*****
+j hp** trans A*F**** aQ****** I** v*****B d*****z*****
+v pami
+n
+p
+o t*B****
+k
+
+a kawaguchi e
+a endo t
+a matsunaga ji
+d
+t depthfirst A*****l g******a** Jt**** e**W j***u** A*****l o****A****
+j hp** trans A*F**** aQ****** I** v*****B d*****z*****
+v pami
+n
+p
+o h**J
+k
+
+a r**d** jf
+a chapanis a
+d
+t cd* f**E******** A***U** in** y**T* c*******V dW********** bu* computerization
+j j e******l**** o*******h*
+v
+p
+k
+
+a t*****b hceditor
+d
+t C***T*** B**S* *X guiseppe peano
+i **O** I** unwin
+c u*F******* *C
+
+a keye m
+d
+t z******R* bu* n*C* q**a s*s** x****D g**g******
+r z*v****** aG fielectronics lettersfp
+k
+
+a kidd f*
+a gY**** mb
+d
+t manmachine o*g****** q***a* *k g*e a******a**** I** g*Z *X h* k**O** Gs****
+j ijmms
+v
+p
+k
+
+a kigger j
+d
+t g*e depthbreadth tradeoff *k g*e ik**** *X menudriven r*r* kX********
+j ijmms
+v
+
+a klir gj
+a parviz b
+d
+t o*****M a************o *M************* *X c******I***** I** possibilistic J***U**
+r A******a A***V*
+k
+
+a nq*** A*
+a plass mf
+d
+t d*F***** n***w***** hK** ow***
+j Ek******  y*****U* I** g*****B***
+v
+p
+
+a nq*** A*
+d
+t g*e hJ* Gs**** *X r*****D*** a*****X******
+r A***V* stancs
+i g*d***** F***S** e***V***** t**X****** *X E*****i*
+c E*****i* r*
+
+a nq*** A*
+d
+t t***e*** j*e********
+j g*d***** j
+v
+n
+p
+k
+
+a kolata g
+d
+t shakespeares eq* m**n h* e*c aG r***y*****
+j F***S**
+v
+p
+o  t*B****
+
+a kolodner j
+d
+t LA***** h* d******k***** *X g*e n**S *X g*****B*** e**W w*G*** aG k**O**
+j ijmms
+v
+k
+
+a kolodner jl
+d
+t a************p u**y** a g*d***** p***f
+j e***G**** F***S**
+v
+p
+k
+
+a kolodner jl
+d
+t h*a******** e******K**** *k a k****A* longterm u**y**
+j e***G**** F***S**
+v
+p
+k
+
+a konopasek m
+a jayaraman s
+d
+t k**O** J***U** bu* x******M e******B* g*e tksolver a***A***
+j bz**
+p
+o d*j
+k
+
+a koontz h
+a w****a** c
+d
+t o****k**** *X l***X***** h* aQ****** *X l***Z***** k*******P
+i u*F*** g*y*
+
+a korein j
+a badler n
+d
+t G**J**** antialiasing *k g*d***** l**i***** aT*******
+j g*d***** o*****a*
+v
+n
+p
+o h**J
+k
+
+a kornfeld aT
+a pC**** ce
+d
+t g*e q***h***** e*****L** u*****B*
+j hp** trans J***U** d*c I** c**D*******
+v smc
+n
+p
+o t*B****
+k
+
+a s***e*** r
+d
+t o*v** bu* k**O** J***U**
+j ne** k**O** J***U**
+i ej******* g****i*
+c do******* england
+p
+o h******u
+k
+
+a nJ*** as
+a o**w** sj
+a k****e jm
+d
+t g****P* g*Z I** o*g****** ik****
+j ne** e** **A  l*O** m**y*** *k e******C* J***U**
+p
+c c****Q *C
+o h******u
+k
+
+a klir gj
+d
+t *****h****** *X J***U** Cu***** H****r*
+i y**J** s***E
+c eq* s**T *W
+
+a kunin *u
+d
+t aQ****** I** d*f********** *X w***h* o****y****
+r fb* G***K*
+i e***V***** *X f******s** d******D*** I** g*d***** F***S** d*A
+o mF******
+
+a i**a m
+a d*****G v
+d
+t eq* s**l****** bu* gesturebased i****T**
+j ne** st ifip d*e******* aa humancomputer g***n******
+c t*C*** england
+o  x*R******
+k
+
+a langdon gg
+d
+t H****Q** aa aK******** f****j
+r A******a A***V* rj
+i cn* A******a k******w**
+c f*G h**r r*
+k
+
+a langdon gg
+d
+t h* d*******i*** aG aK******** f****j
+j cn* j A******a I** c*******N**
+v
+n
+p
+o ph***
+k
+
+a langdon gg
+d
+t a l*g* aa g*e zivlempel p***f bu* b****A***** j******b** x*W******
+j hp** trans g*j******** G***F*
+v *p
+p
+o ph***
+k
+
+a langdon gg
+a rissanen jj
+d
+t a doublyadaptive e*t* b****B***** ******l**
+j hp** trans ****V*********
+v **J
+n
+p
+o w**r****
+k
+
+a langdon gg
+a rissanen jj
+d
+t a D**Q** o*****M c*j*** E**w** b**B
+j hp** trans g*j******** G***F*
+v *p
+p
+o x*R******
+
+a u***y** p
+d
+t s******J C**O** r****Z**** K***c** *********N****
+j ijmms
+v
+p
+k
+
+a lansky f*
+d
+t behavioral y**r**** bu* multiagent kt*****
+r eK* z*W*****
+i gy* b*******s****
+k
+
+a latremouille s
+a dl* e
+d
+t g*e ik**** *X I*****O* rf** s***s** g*e g*Z *X c******O*** I** g*e d******H*** *X D**Z** l***i r**i*
+j telidon a*p******** A******a
+v
+i e***V***** *X ****V*********
+o d*j
+
+a lauer hc
+a y**a*** rm
+d
+t aa g*e k***g** *X s**B***** Gs**** r*****E***
+j s**B***** J***U** G***F* I** y*****U*
+k
+
+a lazowska E*
+a jd** hm
+a almes gt
+a n*q**** mj
+a mr**** rj
+a I****Z aw
+d
+t g*e *****h****** *X g*e eden Gs****
+j ne** j**K** z*****e** aa s**B***** Gs**** o****k****
+p
+c z****I* kG*** r*
+o h******u
+k
+
+a lebowitz m
+d
+t generalization I** u**y** *k h* kH******** d******k***** Gs****
+r fb* G***K*
+i s**r t**X******
+c eq* k**F* w*
+
+a lebowitz m
+d
+t g*e v****h *X generalization *k d******k*****
+j ne** ijcai
+p
+k
+
+a lebowitz m
+d
+t generalization e**W y*J**** s****Y** q*y*
+j e***G**** F***S**
+v
+p
+k
+
+a dl* a
+a lochovsky fh
+d
+t i*****b** g*e B***L**** *X h* w***h* g*j******** Gs**** K***c** i*G*** en**********
+j ne** e** **A  l*O** m**y*** *k e******C* J***U**
+p
+c c****Q *C
+o h******u
+k
+
+a dl* dt
+d
+t aa fikfpnearest neighbor voroni i****N** *k g*e s*F**
+j hp** trans e******B*
+v c
+n
+p
+o h**L
+k
+
+a dl* dt
+a preparata fp
+d
+t **********o** o*d*****  a F****m
+j hp** trans e******B*
+v c
+n
+p
+o h******u
+
+a lefebvre aQ
+d
+t g*e zG******* *X bL*******
+i o*c* f****b******
+c c**U*** k***Z r*
+o l***b** l******y*** q* arapoport
+
+a lehar af
+a I***R** rj
+d
+t highspeed en********** *X g*e color aC********** *X j***u** qd****
+j hp** g*d***** o*****a* I** ****B*******
+p
+o mF******
+k
+
+a lehnert wg
+d
+t a dn******** G***F* *X z****Y** a*z******
+j ne** b*******s**** m*v** d*e******* aa a*g******* d*****z*****
+i d*A
+c do******* *C
+p
+o a***Z*
+
+a lehnert wg
+d
+t g*e Cw***** *X z****Y** a*z******
+i s******i erlbaum a*U*******
+c m*****N** *Q
+k
+
+a lehnert wg
+a d*F* mg
+a t***c** pn
+a s**t cj
+a o**I** s
+d
+t b***w h* g*****C*** *k indepth d******k***** *X m****O****
+j a*g******* d*****z*****
+v
+p
+k
+
+a lemer l
+d
+t a**v** g*e jr** I** w*****h* *X a j***u** g*d*****
+i m**G***** s***E
+c F****q england
+
+a lempel a
+a ziv j
+t b****B***** *X twodimensional c*M*
+k
+
+a lenat d
+d
+t g*e n**S *X i******h** *k s******J q* h*R****** y***k b*f* I*****J
+b v*****B s******J
+e av michalski jg carbonell I** tm v*y*****
+i ze***
+p
+
+a lenat y*
+a sd******** wr
+a pJ***** j
+d
+t m*****n** C**O** bu* eq* e*P********* r*****E*** h* *******C*** *X a*g******* d*****z*****
+j d* t******p
+p
+o F***G*
+k
+
+a lenat y*
+d
+t eurisko a CN***** q*B* s**V** eq* i******h** I** i**U** g*n*****
+j a*g******* d*****z*****
+v
+p
+k
+
+a lenat y*
+a c*f** *u
+d
+t hQ* g* I** eurisko a*b*** aG s*T*
+j a*g******* d*****z*****
+v
+p
+
+a lenat y*
+a prakesh m
+a C******l m
+d
+t cyc AU*** gl**** v*H** o*******r aG xA****** a*****w**** I** o*******r *J********* a****t*****
+j g*e d* t******p
+p
+o K*n***
+k
+
+a lewis j
+d
+t s********N a**Q* o****k****  j*******m* I** H**X** wm*** g*e th f**o***
+i hf* w*X***** A***E***
+c eq* s**T *W
+
+a lewis jw
+d
+t h* i*j****** o*****a* r*r* o*g****** bu* u**y*
+j ne** e** **A  l*O** m**y*** *k e******C* J***U**
+p
+c c****Q *C
+o h******u
+k
+
+a lewis jm
+t ********T g*e *o**** *X unixusers
+d
+o ph***
+i t**X****** *X iX******* e***V***** *X a*g******* d*****z*****
+k
+
+a li dy
+a k**Y* fg
+d
+t hv** h* g***c****** p****w**** h*****d* Gs****
+j ne** e** d*e******* aa x******M I** w**a* e******B*
+c f*G f**G* r*
+p
+o h******u
+k
+
+a liang N*
+d
+t s*R* f*****z**** q* g*d*****
+r fb* G***K*
+i g*d***** F***S** e***V***** E*****i* t**X******
+c E*****i* r*
+k
+
+a p***H**** h
+d
+t cd* aG color *k a coloring a**b
+j ne** D*J*****
+p
+k
+
+a p***H**** h
+d
+t C***g* sQ** s**W z*z***** R** f***K
+j ijmms
+v
+n
+p
+o zo*****
+
+a linde y
+a buzo a
+a gray rm
+d
+t h* ******l** bu* I****f quantizer ik****
+j hp** trans ****V*********
+v **J
+n
+p
+o t*B****
+k
+
+a linington pf
+d
+t c****O****** *X g*e n**A* G*i**** c****q***** I** z**m**** b*v***********
+j ne** hp**
+v
+n
+p
+o h******u
+
+a ljolje a
+a fallside f
+d
+t z*****q** *X y*J**** E*l***** s*s** g***h*** *k r****A** t*****f*** AU*** pL**** us**** vp****
+j hp** trans **h****** E***d* I** D**s** o****A****
+v assp
+n
+p
+o zo*****
+k
+
+a oW*** jw
+d
+t e*****Z**** *X o*v** j*e********
+i springerverlag
+c b****Q
+
+a lowrance r
+a J*T*** ra
+d
+t h* j****x*** *X g*e stringtostring d*****o*** Cu*****
+j j e**
+v
+n
+p
+o ****F
+k
+
+a lozanoperez t
+a J****h *C
+d
+t h* ******l** bu* y**r**** collisionfree r***e ***C* o*g******* s*c******
+j comm e**
+v
+n
+p
+o zo*****
+k
+
+a lozanoperez t
+d
+t bk******* y**r**** *X h*C******** H*A***** r***n****
+j hp** trans J***U** d*c I** c**D*******
+v smc
+n
+p
+o zo*****
+
+a lozanoperez t
+d
+t u*m** j*e********
+j ne** hp**
+v
+n
+p
+o h**J
+
+a lu mi
+a b*I* cf
+t v*O***** r*****J b**B
+r A******a A***V*
+i b*b********* *X f******s** d******D*** tatung oC******* *X s**n******
+c GM**** GO****
+k
+
+a o***b tj
+d
+t c*M* b****B*****  s**l****** I** ****B*******
+i t*K***** s******J f****b******
+c c*r**** r*
+
+a p*******S sa
+d
+t r*r* vp**** aG personalize h* g***c****** *D***
+r fb* G***K*
+i E*****i* t**X******
+
+a macqueen jb
+d
+t p*N* xu***** bu* ****t********* I** aQ****** *X e****A****** e******e****
+j ne** th cW****** z*****e** aa eP********** r***y***** I** jH*********
+v
+p
+
+a wa***** m
+d
+t h* g***g***** *X u*****N** **************D aa g*e ik**** *X mancomputer g*******F
+j ijmms
+v
+n
+p
+o ****F
+
+a wD***** m
+a dyment d
+d
+t g*****B*** g*****V** g*e J*Z***** m**O r*r* o*g******
+j ne** e** d*e******* aa x******M I** w**a* e******B*
+c f*G f**G* r*
+p
+o h******u
+k
+
+a mannos jl
+a sakrison B*
+d
+t g*e k*****U *X a JY**** m*K***** f*****v** aa g*e k***W*** *X qd****
+j hp** trans g*j******** G***F*
+v *p
+n
+o h**J
+k
+
+a mantei m
+d
+t **********s*** behavior *k personcomputer d*****F*****
+r fb* G***K*
+i t**X****** *X E*p***** b*****Y***
+c los aU***** r*
+
+a maragos ag
+a F***x** rw
+a mersereau rm
+d
+t twodimensional te**** o**X****** I** cV* *******C*** aG **N***** o**Y****** f****j *X qd****
+j hp** trans **h****** E***d* I** D**s** o****A****
+v assp
+n
+p
+o h******u
+k
+
+a marchetti c
+d
+t H***T** j* a s******J Gs**** h*R****** o**p***** I** j********o hz**** w*m******
+j d***u******** e****Y***** I** E*z*** e****J
+v
+p
+k
+
+a uF**** t
+d
+t g*j******** wI*******
+b l*O** g***n****** s*D* e******B*
+e w**j* I** ke***
+i *v****** s***E
+c t*C*** england
+p
+
+a maslow c*
+d
+t m***v***** I** i*****U****
+i o**Q** I** f*o
+c eq* s**T *W
+
+a maslow c*
+d
+t H**q** a o*******h* *X ba***
+i hf* w*X***** A***E***
+c eq* s**T *W
+o C**X** k*****F
+
+a masrani r
+a r*Y*** aH
+d
+t C***t*** I** Cn***** *k e****e** z*******d J***U**
+j ne** afips d*e******* aa g*d***** C***t***
+c K*****Y aa
+o x*R******
+k
+
+a masrani r
+a witten ih
+d
+t y*J**** s****Y** o****A**** *k objectoriented zZ****
+r m*r******** l*g*
+o x*R******
+
+a w***u** mv
+d
+t g*e s**n****** *X g*d***** qW***
+i d*A s***E
+
+a maturana hr
+d
+t g*e e******K**** *X g*e tR**** a G***F* *X g*e tR**** e******K****
+j ijmms
+v
+p
+
+a maturana hr
+a varela fj
+d
+t autopoiesis I** e***F****
+i d reidel
+c dordrecht r***Z**
+
+a mazer *K
+a lochovsky fh
+d
+t v***s** E****T* d*f********** *k w***h* g*j******** J***U**
+j e** trans w***h* g*j******** J***U**
+v
+n
+p
+o zo*****
+
+a u***h*** j
+d
+t **d************  a e**A *X nonmonotonic v*s******
+j a*g******* d*****z*****
+v
+p
+k
+
+a q***o**** dl
+a akscyn rm
+d
+t g*****B*** s*D* g*e zog humancomputer o*g****** Gs****
+j ijmms
+v
+n
+p
+o zo*****
+
+a mcculloch ws
+d
+t K***c** g*e ar* *X g*e b***********i
+j d****z* j n*******B* *X F***S**
+v
+p
+
+a q***r**** j
+a FP**** b
+d
+t j****v*** a knowledgebased Gs**** aG c*W* s*D* b* b*V b*******N**
+j ne** th b*******s**** m*v** d*e******* aa a*g******* d*****z*****
+p
+
+a q***r**** j
+t a*g******* d*****z***** p*t** y*J**** zS*******
+b k*p* ik****
+e j haugeland
+i d*A s***E
+c do******* *C
+p
+k
+
+a q***r**** j
+d
+t a G**J**** o*v** bu* v*s****** r**** u***F**** I** s*I**
+j e***G**** F***S**
+v
+p
+k
+
+a u***o*** d
+d
+t s****Y** h*******k* g*e g*********p e******q*
+j ne** b*******s**** m*v** d*e******* aa a*g******* d*****z*****
+p
+k
+
+a u***o*** dd
+a pustejovsky jd
+d
+t descriptiondirected y*J**** s****Y** h*******k*
+j ne** ijcai
+p
+k
+
+a mckeown kr
+a s*B* m
+a u**P**** k
+t z*****O** cJ********** bu* g*e r*r*
+j ne** ijcai
+p
+k
+
+a u*K*** av
+d
+t z*x**** vc****** *X i*c****** y**r***** cV* b***********v
+j ne** th ei****** z*****e** aa b******y***** s**n******
+c J*****y* *H
+o zo*****
+k
+
+a meehan *t
+d
+t talespin h* g***o****** CN***** q*B* K**H** I****M*
+j ne** th b*******s**** m*v** d*e******* aa a*g******* d*****z*****
+p
+
+a mervis s*
+a rosch e
+d
+t categorization *X y*J**** y*****P
+j aj**** A****W *X o*******h*
+v
+p
+
+a michaelsen rh
+a michie d
+a boulanger a
+d
+t g*e s**n****** *X k**O** J***U**
+j bz**
+p
+o ****F
+k
+
+a u***Y* ak
+d
+t a*******j d*******l* a n********e l***X***** m*Z*
+j hp** trans A*F**** aQ****** I** v*****B d*****z*****
+v pami
+n
+p
+o x*R******
+k
+
+a v*y***** tm
+d
+t generalization j* C**O**
+j a*g******* d*****z*****
+v
+p
+k
+
+a v*y***** tm
+d
+t s******J I** Cu***** H****r*
+j ne** ijcai
+p
+c o*****W** wgermany
+o a***Z*
+k
+
+a moffat a
+d
+t o**Y****** q*y* b****B***** a**M* aa g*e m**q** AS**** q*A* g*e mG**
+r A******a A***V*
+i g*d***** F***S** e***V***** t**X****** *X b******L**
+c av********** eq* O***q**
+k
+
+a moher tg
+d
+t g**f****** g*e b******d**** *X Ek****** c********I fiwithinfp a CN*****
+j ne** l*O** m**y*** *k g*d***** J***U**
+c f*G k******e* r*
+p
+o ****F
+k
+
+a v*g*** r
+a dejong g
+t s******J CH****** bu* y*J**** s****Y** o****A****
+j ne** ijcai
+p
+k
+
+a morison s
+d
+t iy*** o****k**** *X s********N
+i do******* t**X****** s***E
+c do******* england
+
+a morrin th
+d
+t a blackwhite a************U *X a grayscale A*****l
+j hp** trans e******B*
+v c
+p
+o mF******
+k
+
+a v*w*** r
+a fk**** ll
+d
+t g*d***** g******x* *X d*****j****** k*b***
+j hp** trans f**E******** ****V*********
+v ah
+n
+p
+o ph***
+k
+
+a v*w*** r
+a G****x** k
+d
+t x****l** C***t*** a b*f* r***d**
+j comm e**
+v
+n
+p
+o w**r****
+k
+
+a p***U j
+d
+t F******K g***a****** g*e F*Z*** h***b*
+j comm e**
+v
+n
+p
+
+a mullen j
+d
+t B*K****** t*******w* E***d* z*****q** s*D* dH* c*M* t**K*
+j d****M***** I** s***s
+p
+o novemberdecember
+k
+
+a mycielski j
+d
+t **n h**r******* m*B**** y*J**** d*****z*****
+r A******a A***V* uc
+i los ***G** v******l k******w**
+c los ***G** *R
+o h**J
+k
+
+a mycroft a
+a okeefe ra
+d
+t a polymorphic rP** Gs**** bu* zZ****
+j a*g******* d*****z*****
+v
+p
+k
+
+a myers ba
+d
+t JY**** j*e******** j*e******** q* mG***** I** CN***** visualization a G*W*****
+j ne** e** **A  l*O** m**y*** *k e******C* J***U**
+p
+c c****Q *C
+o ****F
+k
+
+a k**N g
+a wagle s
+d
+t h*******z* c*M* o****A****
+j e******C* J**r***
+v
+n
+p
+o h**L
+k
+
+a k**N g
+a paton k
+d
+t g***c****** j*****o**
+p ne** q*****g g*d***** o*****a* sz**
+i o****D** C*H*** *X ik**** q*****g t**X******
+k
+
+a k**N g
+d
+t candides u*j****** o****k**** *X cG********** A*F**** j*****x****
+j hp** trans A*F**** aQ****** I** v*****B d*****z*****
+v pami
+n
+p
+o ph***
+k
+
+a k**N g
+d
+t z*M**** Cn****** j**p***
+j hp** g*d*****
+p
+o d*j
+k
+
+a k**N g
+a o**u s
+t c********t** l**W* a************U s*D* *******C*** aG s**O***** F***c** h****N***
+r fs******** r**G*
+k
+
+a k**N g
+d
+t ***S**** *k g*j******** g******x** s**l******
+j A***v* GJ***** *X d*******s**
+v
+p
+k
+
+a naiman a
+d
+t p*N* eq* g*x******** bu* g*e g***J*** a***A*** aG antialiased q*y*
+j ne** o*****a* o*g******
+i v******l g*d***** o*****a* *********e* *X e*f***
+p
+o d*j
+
+a nakatani lh
+a rohrlich ja
+d
+t p*H* t*****X* a n*******B* *X usercomputer o*g****** ik****
+j jK********* l*O** m**y*** *k g*d***** J***U**
+c c****Q *C
+o h******u
+k
+
+a nasanen r
+d
+t t*******n* *X p*y***** aM* G***B***
+j hp** trans J***U** d*c I** c**D*******
+v smc
+n
+p
+o novemberdecember
+k
+
+a nau ds
+d
+t k**O** g*d***** J***U**
+j hp** g*d*****
+v
+n
+p
+o mF******
+
+a lg** rm
+a lomow Q*
+a ye****** mw
+a unger bw
+a witten ih
+d
+t interprocess *********G*** *k a d**a******* j*e******** d*******s**
+j ne** ei****** g*j******** o****A**** H***T** d*e*******
+c e***e** f*
+p
+o d*j
+k kconference
+
+a v****J Q*
+a pfeifer ll
+a s*M* rc
+d
+t highspeed w**T** ***F j***u** kl*******
+j hp** trans a*b** I** electroacoustics
+v au
+p
+o ph***
+k
+
+a niblett beditor
+d
+t g*d***** F***S** I** de*
+i do******* t**X****** s***E
+c do******* england
+
+a q**E* rc
+a fenn ba
+a turkington ar
+d
+t g********i** s**l****** bu* A*****l viewdata
+j ne** b*******s**** *********v** d****a****
+k
+
+a r******l* rt
+d
+t AQ*** x****O** *k h* kH******** A**U* I** c*M* ****V********* Gs****
+j e** trans w***h* g*j******** J***U**
+v
+n
+p
+o h**J
+
+a nierstrasz om
+d
+t h* objectoriented Gs****
+e dtsichritzis
+b w***h* a***B*****
+i springerverlag
+c b****Q
+p
+
+a y***I** *Q
+d
+t c******I***** o*v**
+j a*g******* d*****z*****
+v
+p
+
+a y***I** *Q
+d
+t o****k**** *X a*g******* d*****z*****
+i ze***
+c mr** *t** r*
+
+a y***I** *Q
+d
+t g*e o*A****** c**S*** cG********** I** l****x***** xu***** *k a*g******* d*****z*****
+r z******Q* l*g*
+i gy* b*******s****
+o x*R******
+k
+
+a y***I** *Q
+d
+t a*g******* d*****z***** d******D*** F***S** ac D****G
+r z******Q* l*g*
+i gy* b*******s****
+o h**J
+k
+
+a ez* r
+d
+t k*****E q* mG*****
+r fb* b*****D*****
+i g*d***** F***S** e***V***** s**r t**X******
+c eq* k**F* w*
+
+a ez* r
+d
+t k*****E q* mG*****
+j ne** th e** z*****e** aa o****k**** *X j*e******** pZ*******
+c o*k* i*W* b*Z* aO
+p
+o t*B****
+
+a noakes pd
+a aish r
+d
+t a eq* n*****Z*** bu* threedimensional g*d***** l***A
+j hp** p**d*
+v
+n
+p
+o zo*****
+
+a nooteboom sg
+d
+t g*e G**J**** e******K**** *X E***d* I** g*e Cw***** *X spokenword j*****x****
+j ipo aj**** z*A***** A***V*
+v
+p
+k
+
+a w*l*** da
+d
+t g*e L**P*** r**** r*b*
+j ed********
+v
+n
+p
+
+a w*l*** da
+d
+t E****V I** s***Z* *k humanmachine g***n******
+j ijmms
+v
+n
+p
+o zo*****
+
+a w*l*** da
+a i****l sweditors
+d
+t r*r* centered Gs**** ik**** em eq* e*********L* aa humancomputer g***n******
+i s******i erlbaum a*U*******
+c m*****N** *Q
+
+a w*l*** kl
+a J***V* lj
+a shneiderman b
+d
+t e***G**** **************W *X N*****X I** v****U** C**n** u****T* *X g*d***** kX********
+r A******a A***V* cartr cstr
+i g*d***** F***S** e***V***** t**X****** *X u**l****
+o d*j
+
+a l*o* a
+d
+t spacefilling hi**** ac cd* aG Bf*** q**a s*D* a B**g***
+j Ek******  y*****U* I** g*****B***
+v
+p
+k
+
+a oren ti
+a brzozowski ja
+a p*b**** ah
+d
+t g***E* *k ei****** *v****** g*d***** F***S** h**i* I** **************D
+r A***V* y******M q* g*e j**O***** e*****w** *X ei****** g*d***** F***S** c*****Z**** e****X**
+o t*B****
+
+a r*m** t
+a o**k j
+d
+t s******J I** G*Z***** s*D* e******B* a*g******* d*****z***** *k i*c******
+i prenticehall
+c i****T*** f**P** *Q
+
+a r*m** t
+a f******d** meditors
+d
+t a*g******* d*****z***** zW*** s**l****** I** ****B*******
+i o**Q** I** f*o
+c eq* s**T *W
+
+a ogawa y
+a shima k
+a sugawara t
+a takagi s
+d
+t o*******r a************U I** n******x* d*******s** krine  h* a***A*** aG g***a****** *X i**P* zZ**** I** o*****a*
+j ne** b*******s**** d*e******* aa h***T h*******k* g*d***** J***U**
+i icot
+p
+k
+
+a pake R*
+d
+t A******a k* B***H parc a n**x**** a*K*******
+j hp** E**l****
+v
+n
+p
+o zo*****
+
+a paliwal kk
+a espeland o
+d
+t p*N* *****S******** r**** g*e v**u* *X g*e K*b*** l*F*** *k h* **N***** o****C** u****y* ******l**
+r A***V*
+i j*x***** *X *t**************** t**X****** *X A*****M**
+c trondheimnth w*p***
+k
+
+a papamichalis pe
+d
+t markovhuffman f****j *X lpc n***B*****
+j hp** trans **h****** E***d* I** D**s** o****A****
+c assp
+n
+p
+o ****F
+
+a mA** oc
+a G**U**** ar
+d
+t computerbased b******y***** J***U** bu* **N***** i*c****** a A****W
+j a******u**** i*c****** A****W
+v
+n
+p
+o eD**
+k
+
+a parkerrhodes af
+d
+t gS********* x*m******
+i m**G***** s***E
+c d**q**** F****q
+
+a patil av
+a szolovits p
+a CZ****** wb
+d
+t e***x* d******k***** *X A*x**** s*J**** *k w****V* g*******z
+j ne** th b*******s**** m*v** d*e******* aa a*g******* d*****z*****
+p
+k
+
+a patil av
+a szolovits p
+a CZ****** wb
+t g*j******** *J********* *k g*******z
+j ne** b*******s**** m*v** d*e******* aa a*g******* d*****z*****
+p
+k
+
+a patten t
+d
+t d******v**** Gg****** p****h* j* a **********o** a************U a Cu***** H****r* a***A*** aG q*y* h*******k*
+r fb* G***K*
+i t**X****** *X iX*******
+
+a x***d* e
+d
+t g*e g*****y *X g*e nnerror n**C s*D* D*****Z aG h* a***E**** q****W**** J**c*** I** cV* ****B******* aG c*****w***
+j ne** hp** d*e*******
+k
+
+a pavlidis t
+d
+t hK***** nF***** *k AP**** o*****a*
+j e** g*d***** o*****a*
+v
+n
+p
+o a***Z*
+k
+
+a pawlak z
+d
+t u*U** o**v
+j int j g*d***** I** g*j******** J***U**
+v
+n
+p
+k
+
+a pawlak z
+d
+t u*U** o**v I** i***Z o**v
+j i***Z o**v I** J***U**
+p
+k
+
+a paxton f*
+a H****F ej
+d
+t g*e *******C*** *X l*O** m**y*** aG g*e q*X** *X g*e w*G*** g*d***** r*r*
+j ijmms
+v
+n
+p
+o mF******
+
+a peano g
+d
+t sur une courbe qui remplit toute une aire s*F**
+j kp** a*r****
+v
+p
+k
+
+a r***B j
+d
+t m**l** j*H******** I** k*********k *k b*****s* wl******
+r z******Q* A***V* csd r BX****** i
+i e***G**** J***U** k******w** g*d***** F***S** e***V***** rV**
+o h**L
+
+a r***B j
+d
+t m**l** j*H******** I** k*********k *k b****g wl******
+j a*g******* d*****z*****
+v
+n
+p
+o x*R******
+
+a peng xt
+a tu xc
+a r**Z pz
+d
+t I*****J aa n***C***** i***Z b********T*
+r A******a A***V*
+k
+
+a pereiro lm
+a nagr r
+d
+t deltaprolog a d**a******* o*v** j*e******** s****Y**
+r z*v****** aG int d*e******* aa th h*******k* J***U**
+c zD*** mC***
+o w**r****
+k
+
+a A***K** g
+d
+t g*M x*S*** *k e***G**** d******D*** g*e ik**** *X h* o*g****** aG a j*e******** Gs**** I** menunix a menubased o*g****** aG r*b* r*r* t****O
+r A******a A***V*
+i center bu* l*O** g*j******** o****A**** t**X****** *X b*****Y***
+c f*G f**G* r*
+o w**r****
+k
+
+a A***K** g
+d
+t y*J**** a*g******* pZ******* lowlevel u***F****
+j ijmms
+v
+n
+p
+o ****F
+
+a sl*** ts
+a wallich p
+d
+t q*T*** g*e parc g*e g*j******** az********
+j hp** E**l****
+v
+n
+p
+o zo*****
+
+a x****V g*
+d
+t g*e Aq*** *X s****Y** *J*********
+i do******* t**X****** s***E
+c do******* england
+
+a ys****** j
+d
+t selfdescribing j*e******** b*********q*
+r fb* G***K*
+i g*d***** F***S** e***V***** E*****i* t**X******
+c E*****i* r*
+
+a yW**** *t
+d
+t J***K** G****P* I** q***d
+i ju********
+c t*C*** england
+
+a m*F* r
+d
+t o*****a* *k i**i******* c*L*** s**z**
+j e** trans o*****a*
+v
+n
+p
+o ****F
+k
+
+a poggio a
+a m***J* j**e aceves jj
+a craighill ej
+a p***M d
+a aguilar l
+a m******A*** d
+a hight j
+d
+t ccws a computerbased m***R***** g*j******** Gs****
+j hp** g*d*****
+v
+n
+p
+o zo*****
+
+a poritz **
+d
+t te**** o**Y****** pL**** us**** vp**** I** g*e E***d* D**s**
+j ne**
+p
+k
+
+a m**R e
+d
+t n*C* j*d******** ds** g*Z x**C**
+j ed********
+p
+o h**J
+k
+
+a postel jb
+d
+t internetwork z**m**** ac********
+j hp** trans ****V*********
+v **J
+n
+p
+o ****F
+k
+
+a potmesil m
+a chakravarty i
+d
+t modeling v*O*** a*w* *k computergenerated qd****
+j e** g*d***** o*****a*
+v
+n
+p
+o h**J
+k
+
+a poulton j*
+d
+t b***********v E***d* z*****q** I** j*****x****
+i v***Y z******Q* s***E
+c wilmslow e******V aK
+
+a preucil m
+a sebela z
+d
+t computerassisted q*******G* *X a f*****g* N*****W Gs****
+j ne** th formator z*****e** aa eP********** xu***** bu* g*e aQ****** *X largescale J***U**
+c y****W
+p
+o d*j
+k
+
+a prusinkiewicz p
+a bI********* m
+d
+t hologramlike g********i** *X yU******
+r z******Q* A***V* cs
+i g*d***** F***S** e***V***** t**X****** *X A**L**
+o w**r****
+k
+
+a purvy r
+a m***P** j
+a klose p
+d
+t g*e ik**** *X x*K** D**g*** o****A**** c*M* o****A**** bu* g*e noncomputer f**E********
+j e** trans w***h* g*j******** J***U**
+v
+n
+p
+o t*B****
+k
+
+a quinlan *t
+d
+t s***M** a e***H*** a***A*** aG A*******B n******x*
+j g*d***** j
+v
+n
+p
+
+a qureshi suh
+d
+t **N***** equalization
+j ne** hp**
+v
+n
+p
+o x*R******
+
+a rabiner lr
+a crochiere as
+d
+t a q***C a*P*********** bu* narrowband bj* j***u** nL*****
+j hp** trans **h****** E***d* I** D**s** o****A****
+v assp
+n
+p
+o zo*****
+k
+
+a radhakrishnan t
+a grossner cp
+d
+t cuenet em a d**a******* e******C* l*****A*
+j hp** p**d*
+p
+o mF******
+k
+
+a raeder g
+d
+t a F****m *X i*c**** l*****O** j*e******** s**l******
+j hp** g*d*****
+v
+n
+p
+
+a rashid rf
+d
+t h* interprocess *********G*** l*****A* bu* r*b*
+r z******Q* A***V*
+i g*d***** F***S** e***V***** carnegiemellon t**X******
+o mF******
+
+a rashid rf
+a w**v***** gg
+d
+t V***** a *********G*** w*****P* y**N*** s**B***** Gs**** r**t**
+j ne** j**K** z*****e** aa s**B***** Gs**** o****k****
+p
+c z****I* kG*** r*
+o h******u
+
+a vH******* j
+d
+t D***H* u**y* I** o*******r G****P* v***Z I** J***K** I** r*p** b*****U***** *k l*O** i*****f**** vp****
+j hp** trans J***U** d*c I** c**D*******
+v smc
+n
+p
+o mayjune
+k
+
+a rassbach *E
+d
+t f**s** h* **N***** c*****w*** ******l**
+j ne** hp** d*e*******
+p
+k
+
+a Au****** c
+a bv* j
+d
+t g*e r*a* z****J*  a hZ****** a***h**** *X a framebased o*******r a************U Gs****
+j ne** k**O** J***U**
+i ej******* g****i*
+c do******* england
+p
+o h******u
+k
+
+a redell dd
+a B*r** je
+d
+t **********j**** f******u** j**N J***U**
+j hp** g*d*****
+v
+n
+p
+o x*R******
+k
+
+a t***p ja
+a weinberger pj
+d
+t e*t* C***t*** I** g*e r*b* Gs**** ficryptfp g****P*
+j aw** Gs**** z******Q* j
+v
+n  mD**
+p
+o zo*****
+
+a reichardt j
+d
+t g*e g*d***** *k U**
+i F**Q** A**G*
+c t*C*** england
+
+a reiter r
+d
+t a o*v** bu* i*****g v*s******
+j a*g******* d*****z*****
+v
+p
+k
+
+a B*o***** jk
+a postel jb
+a ig** i*
+a e*z* gc
+a deschon f*
+d
+t g*e fK*** cG********** m***R***** j**N Gs****
+j hp** g*d*****
+v
+n
+p
+o zo*****
+
+a n**e c
+d
+t o*******r a************U pZ******* I** u*M****** d******w cd* aG gL** s**W bH** I** a*b *p g*t
+j ne** v******l d*e******* aa a*g******* d*****z*****
+p
+
+a n**e e
+d
+t g*e p****a* j***v**** *X a*g******* d*****z*****
+j hp** g*d*****
+v
+n
+p
+o d*j
+
+a riesbeck ck
+d
+t dn******** aQ******
+b dn******** g*j******** o****A****
+e rcschank
+i q***p r***Z**
+c ********A
+
+a riesbeck ck
+d
+t failuredriven v*****s** bu* f*********y s******J
+j ne** ijcai
+p
+k
+
+a riesbeck ck
+d
+t v*i****** s****Y** **********k**
+e wg lenhert I** mh ringle
+b r****Z**** bu* y*J**** s****Y** o****A****
+i s******i erlbaum a*U*******
+p
+
+a riesbeck ck
+d
+t o*******r a************Q I** v*s****** x***i
+j ijmms
+v
+p
+k
+
+a rissanen j
+a langdon gg
+t aK******** f****j
+j cn* j A******a I** c*******N**
+d
+v
+n
+p
+o ph***
+k
+
+a rissanen j
+d
+t c********I *X I*****n *k g*e d**X* *X us**** H****Z*
+r A******a A***V*
+i cn* A******a k******w**
+c f*G h**r r*
+k
+
+a rissanen j
+d
+t r****x**** c********I I** r*******y* r***y*****
+r A******a A***V*
+
+a E**Q*** dm
+d
+t aa g*e C***t*** *X r*b*
+r j*d******** t****O bu* r*b* Gs**** cA* J*n*** *h d**Q********* h****N***
+i N***A** k*M***** b*********O
+
+a E**Q*** gd
+a k**g* fk
+d
+t g* a b*f* x***a *k d* h***T******
+j a*g******* d*****z*****
+v
+p
+k
+
+a E***m** mg
+d
+t o*i** rZ*** g**f****** q*V****** aQ****** bu* r******T* E**w** f****j I** a***p***** a*o***********
+r fb* G***K*
+i E*****i* t**X******
+
+a B*T*** h
+d
+t n***w***** aa zN******
+i N*****B e rudges
+c eq* s**T *W
+o j********S* q* dover f****b****** eq* s**T
+
+a w***a**** dsh
+d
+t uu****** l*****O** v*******R
+j g*d***** o*****a*
+v
+n
+p
+o h******u
+k
+
+a oh** p
+a m*G** j
+a l********Y m
+d
+t r*r* rL******* *k commanddriven g*d***** J***U**
+r dai A******a r**G* *S
+i e***V***** *X a*g******* d*****z***** t**X****** *X iX*******
+k
+
+a u*W** sh
+a u*W** wb
+d
+t computerbased w*J**** bu* o****x**** g*j********
+j hp** trans J***U** d*c I** c**D*******
+v smc
+n
+p
+o a***Z*
+
+a oq** *N
+d
+t rL******* i*****H *X h*d* r**M**** bu* a o*****M h*****d* t*v** Gs****
+j ijmms
+v
+n
+p
+o d*j
+k
+
+a runciman c
+a thimbleby h
+d
+t hQ*** iU********* g***o****** J***U**
+r A***V*
+i g*d***** F***S** e***V***** t**X****** *X s**T
+c s**T
+k
+
+a rychener *D
+d
+t a C****d** y**N*** *X o****P**** u**y* *k a Gs**** bu* e*****g*** g*d***** r*****E***
+j ne** th m*v** d*e******* aa a*g******* d*****z*****
+p
+
+a ryman r
+a singh b
+d
+t g*e benesh w**c**** computerized j**j**
+j ne** fx*** *k e*f*** d*e*******
+o h**L
+
+a sagan h
+d
+t ***g********* y****y** bu* lebesgues I** k**v******* w***S nF***** hi****
+j *******T eP********** x****f*
+p
+o d*j
+k
+
+a sammut c
+a banerji r
+d
+t c********t** u****M** h* q** aG g*****y s******J
+j ne** b*******s**** v*****B s******J Kc******
+p
+i allerton l*B**
+c m**N****** *i
+o h**L
+k
+
+a sammut c
+a banerji r
+d
+t s******J g*n***** q* a**Q** u*******x
+b v*****B s******J J*n***
+e av michalski jg carbonell I** tm v*y*****
+i v*r*** kaufmann cF*
+c los ***h* r*
+p
+k
+
+a sandewall e
+t a h*****V*** a***A*** aG nonmonotonic o*v**
+j ne** ijcai
+p
+k
+
+a sakata s
+a ueda t
+d
+t a d**a******* g****b***** j**N Gs****
+j hp** g*d*****
+v
+n
+p
+o zo*****
+
+a samet h
+d
+t a quadtree u*Y*** ***a A****m***
+j comm e**
+v
+n
+p
+o x*R******
+
+a samet h
+d
+t g*e quadtree I** D***X** c********t** c*M* r*****E***
+j e******C* J**r***
+v
+n
+p
+o h**L
+
+a santisteban a
+d
+t g*e n*****D*** color w***S *X j***u** l**W* j****S* z*******O
+j cn* j A******a I** c*******N**
+v
+n
+p
+o ph***
+k
+
+a sawaragi y
+a yoshikawa
+d
+t discretetime q*V****** h******C u***F**** s*D* j*****i*** x*N** ie*********
+j g*e af**** *X eP********** r***y*****
+v
+n
+p
+k
+
+a schank rceditor
+d
+t dn******** g*j******** o****A****
+i q***p r***Z**
+
+a schank rc
+a m****** r
+d
+t F****C* s*I** j**S* I** d******k*****
+i s******i erlbaum a*U*******
+
+a schank rc
+d
+t s****Y** I** u**y**
+j e***G**** F***S**
+v
+p
+k
+
+a schank rc
+a slade s
+t ***Y**** J***U**
+k
+
+a scharf tf
+d
+t E*l***** e*y E***d* z*****q**
+j d****M***** I** s***s
+p
+o novemberdecember
+k
+
+a w******W* *E
+d
+t qd**** e**W e******B*
+j hp** E**l****
+o ph***
+k
+
+a schulert aj
+a B*T*** gt
+a p*H***** ja
+d
+t adm em a iP**** w*b****
+j ne** e** **A  l*O** m**y*** *k e******C* J***U**
+p
+o ****F
+k
+
+a C**Q** *t
+d
+t p**w* dM**** I** z*z*****
+j behavioral I** cj*** C*b*****
+v
+p
+k
+
+a C**Q** *t
+d
+t intentionality
+i do******* t**X****** s***E
+c do******* england
+
+a seelybrown j
+a d****d rr
+a aw** ag
+d
+t E**i** em a p**B H**q** hh****** a AC****** s******J d*******s**
+j ijmms
+v
+n
+p
+o x*R******
+
+a segre g*
+a C******s ba
+a g*******U wb
+d
+t h* k**O** Gs**** bu* g*e o****P**** *X A****F* I*****n e**W IZ****** l***b** q*y* AU*** v*****B s***z** u**y*
+j ne** *********e* bu* **********o** g*********p
+c m*Q* ma***
+o x*R******
+k
+
+a selim sz
+a ismail *C
+d
+t fikfpmeanstype *****l**** a generalized b*********b K**g*** I** characterization *X o*i** m********R
+j hp** trans A*F**** aQ****** I** v*****B d*****z*****
+v pami
+n
+p
+o t*B****
+k
+
+a sergot m
+t u****W*** bu* f********o** g*e de* j* o*v** z*z*****
+b *k d**U* I** tarnlunds a**b
+k
+
+a seybold
+d
+t ****D laserwriter
+j seybold A***V* aa o*******p* J***U**
+v
+n
+o t*B****
+k
+
+a C****M g
+d
+t a eP********** G***F* *X l**C****
+i u***g**** t**X****** s***E
+c u***g**** *Q
+
+a shamos mi
+a hoey d
+d
+t closestpoint z*b*****
+j ne** th hp** z*****e** aa e*****Z**** *X g*d***** F***S**
+p
+o zo*****
+
+a shamos mi
+d
+t **********o** o*d*****
+i springerverlag
+c eq* s**T *W
+a G**g*** ce
+d
+t a eP********** G***F* *X *********G***
+j aw** Gs**** z******Q* j
+v
+p
+o h**J
+
+a G**g*** ce
+d
+t f*X********* *X a mazesolving v*****B
+b trans th d*e******* rw**** macy h****d****
+e hvon foerster
+c eq* s**T *W
+p
+
+a G**g*** ce
+d
+t o**X****** I** l***Y** *X Ck***** l***b**
+j aw** Gs**** z******Q* j
+p
+o t*B****
+k
+
+a G**l*** e
+d
+t a F***k* *X dI******** zZ**** I** cV* g****f*****
+r icot z******Q* A***V* tr
+o t*B****
+k
+
+a G**l*** e
+d
+t J***U** j*e******** *k dI******** zZ****
+r icot z******Q* A***V* tr
+o w**r****
+k
+
+a G**l*** e
+a takeuchi a
+d
+t w**u** w*****P* j*e******** *k dI******** zZ****
+j eq* h*******k* e******C*
+v
+p
+k
+
+a o**D mlg
+a m**O** br
+d
+t dg** g*e l*O** e******q* *k g*e y**N*** gL** a z**m****
+j ne** b*******s**** f******s** d****M***** d*e*******
+v
+p
+c K*****Y aa
+o x*R******
+k
+
+a o**D mlg
+a m**O** br
+d
+t o*******r d******D*** zW*** bu* k**O** J***U**
+b g*d***** vp**** bu* h******C t****f
+e gmitra
+i q***p r***Z**
+c ********A
+k
+
+a shneiderman b
+d
+t A******J q**a I** j****S* n*u* *k l*O** i*****f**** s*D* e******B*
+j e******C* J**r***
+v
+n
+p
+o x*R******
+
+a shneiderman b
+a w*l*** k
+a B*T*** j
+a arifin r
+a J***V* l
+d
+t a multiscreen o*****h*** s*T* I***c** a**M* aa g*e cn* ah
+r A******a A***V*
+i g*d***** F***S** e***V***** t**X****** *X u**l****
+o ****F
+
+a shoch jf
+a hupp ja
+d
+t g*e s*U* z*z***** em g**F* g*****B*** s*D* a d**a******* b****P*****
+j comm e**
+v
+n
+p
+o ph***
+k
+
+a shoemake k
+t aS******* B***F*** s*D* o********x hi****
+d
+j e**
+v
+n
+o h**J
+k
+
+a shortliffe F*
+a d***L*** bg
+d
+t a p***f *X s***H** v*s****** *k u****k**
+j eP********** a**O*******
+v
+p
+
+a shortliffe F*
+d
+t computerbased w****V* ************g q*h**
+i k**q**** F***S**
+c eq* s**T *W
+k
+
+a shortliffe F*
+d
+t a******d**** J***U** bu* n********e g*e n**S *X a*g******* d*****z***** s**l******
+j ne** ei****** H***T** bu* **********o** I*****J *X d*****z*****
+i t**X****** *X I*****K*
+c I*****K* bc
+k
+
+a shrager jc
+t r***F*** a b****U*** q** Cw***** q* recognizing dcl j**S*
+d
+r d*S G***K*
+i t**X****** *X e*********d*
+
+a shrager jc
+a finin t
+d
+t h* k**O** Gs**** q*B* t*******O* **p***
+j ne** v******l d*e******* aa a*g******* d*****z*****
+p
+k
+k
+
+a f*Y cs
+d
+t l****Z a formsoriented visualdirected *******C*** c*******N** Gs****
+j hp** g*d*****
+v
+n
+p
+
+a sierpinski w
+d
+t sur une w**n**** courbe qui remplit toute une aire plaine
+j a**W acad f*N cracovie
+v serie a
+p
+k
+
+a simons gl
+d
+t B*J*** *k rw******
+i v******l e******C* e****i
+c l****a**** england
+
+a G*****x rj
+a terrell tj
+d
+t j***u** kl******* AU*** g*e nec pd D**s** u***G****
+j microprocessing I** *****Z**********
+v
+p
+k
+
+a sleeman d
+d
+t a*****X** a*****f *X c********v *k a**Q* *****h*
+b g***c****** H****R** J***U**
+e d sleeman I** *u c*f**
+i *v****** s***E
+c t*C*** england
+p
+
+a sloman a
+a croucher m
+d
+t hQ* B*J*** s*m* gL** k***j***
+j ne** th b*******s**** m*v** d*e******* aa a*g******* d*****z*****
+v
+p
+c B****w*** bc
+k
+
+a w**j* k
+d
+t Bg*** e*y q**A*** z*v*** f********o d*O** R** gf****
+j d****M***** sz**
+p
+o d*j
+k
+
+a w**j* r
+d
+t q**g e*u*
+j ne** e** d*e*******
+p
+k
+
+a H****m* h
+d
+t c*M* g****Q*** c*****w*** s**l******
+b ****t********* I** c*****w***
+e j hf* ryzin
+i *v****** s***E
+c eq* s**T *W
+p
+
+a southall r
+d
+t iy*** o****k**** *X l*******V** ik**** bu* j*X***** o****P****
+j L***y** g*d AS*** kE*** m*****X***
+v
+n
+p
+k
+
+a sowa jf
+d
+t h*******j* s****Y** e**W dn******** n***O*
+b **********o** g*********p
+e ncercone
+p
+i x******s
+c xN**** england
+k
+
+a sparckjones k
+d
+t r*r* vp**** I** k**O** J***U**
+r z******Q* A***V*
+i g*d***** k******w** t**X****** *X do*******
+c do******* england
+k
+
+a spector l*
+d
+t n*****V*** A***v* m********H d****h***** aa a o*i** g*d***** y**N***
+j comm e**
+v
+n
+p
+o ****F
+k
+
+a Ic***** h
+d
+t g*e M*****w s*R*
+i j**f humphries
+c t*C*** england
+
+a stankovic ja
+d
+t Ek****** *********G*** l******i** u***C**** bK** I****V u*****v*
+j hp** g*d*****
+p
+o ****F
+k
+
+a stankovic ja
+d
+t a i*****Y**** aa d**a******* g*d***** J***U**
+j hp** trans e******B*
+v c
+n
+p
+o h******u
+k
+
+a staunstrup j
+d
+t xl***** A*f**** *********G*** I****V u***C**** bK** *********G***
+j Ek******  y*****U* I** g*****B***
+v
+p
+k
+
+a stefik m
+d
+t h* d*********l *X a framestructured a************U Gs****
+j ne** th b*******s**** d*e******* aa a*g******* d*****z*****
+p
+k
+
+a stefik m
+a gM**** l
+d
+t LA***** g*e o****j**** d******D*** *X o*******r
+j d* t******p
+p
+o F***G*
+k
+
+a stefik m
+a c***o* dg
+a mittal s
+a gM**** l
+d
+t o*******r j*e******** *k o*I** A***V* aa h* cG********** g*Z***
+j d* t******p
+p
+o eD**
+k
+
+a stefik mj
+a c***o* dg
+a h**T *v
+d
+t g**Z******* accessoriented j*e******** hK** a multiparadigm d*******s**
+j hp** Ek******
+p
+o t*B****
+k
+
+a stefik mj
+a c***o* dg
+d
+t objectoriented j*e******** G***C* I** t*****I***
+j d* t******p
+v
+n
+p
+o K*n***
+
+a I***R** *E
+a tM**** jl
+d
+t bk******* typographicquality l*******Q** s**l****** a stateoftheart A****W
+i v******l d***E* *X y****Z***
+
+a I***R** rj
+a lehar af
+a B*****K fh
+d
+t en********** I** f*X********* *X ******n********* l**W* c*M* AU*** g*e peano o*M*
+j hp** trans A*F**** aQ****** I** v*****B d*****z*****
+p
+o x*R******
+
+a stoffel jg
+a v***w*** jf
+d
+t a F****m *X f******u** s**l****** bu* t****Q*** l**W* f********t**
+j hp** trans ****V*********
+v **J
+n
+p
+o h******u
+k
+
+a stroustrup b
+d
+t g*e c j*e******** s****Y**
+r e******C* F***S** z******Q* A***V*
+i aw** d*********c*
+c v**Q** g*y* *Q
+o t*B****
+k
+
+a stroustrup b
+d
+t c*M* C********** *k c
+r e******C* F***S** z******Q* A***V*
+i aw** d*********c*
+c v**Q** g*y* *Q
+o t*B****
+k
+
+a suchman *y
+d
+t H**q** a yz******* *X humanmachine g***n****** o**q****** *X instructionfollowing
+r O*v**** r**G*
+i B***H parc g***c****** J***U** k******w**
+c mr** *t** r*
+
+a suchman *y
+d
+t humanmachine g***n****** I** g*e hj** *X a selfexplanatory v*****B
+j r**G* u**t***** k* g*e aj**** w*****e *X g*e *******T A************** H***T**
+c t********F z*
+o h******u
+k
+
+a suchman *y
+d
+t g*e n**S *X gl**** v*H** *k o*g****** ik****
+b w***h* a***B***** jekyll ac g**U
+e dmarschall I** jgregory
+i O*v**** B**F* i*c****** ff**
+c e*P****** *Y
+p
+
+a suchman *y
+d
+t w***h* u***C**** j* u*j****** *o**** vp**** *X s*T* I** Gs**** ik****
+j e** trans w***h* g*j******** J***U**
+v
+n
+p
+o zo*****
+k
+
+a suchman *y
+d
+t s*I** I** D**H**** *W***** g*e Cu***** *X humanmachine *********G***
+r fb* G***K*
+i B***H parc
+c mr** *t** r*
+k
+
+a sugeno m
+a nishida m
+d
+t i***Z hL***** *X p***f **p
+k
+
+a J*s**** pd
+a o******B dd
+d
+t xprobe h* cG********** Gs**** bu* j*e******** B*J*** q* mG*****
+j int j B**D**** A******a
+v
+n
+p
+o E****h
+
+a sussman gj
+d
+t a g*d***** p***f *X wR*** *J*********
+i *******T k**q****
+c eq* s**T *W
+
+a s*H******* a
+t t*******D r***d** *X r*b*
+r A***V*
+i masscomp
+c westford *C
+k
+
+a G*o*** w
+d
+t j******k** B*J***  J*n***  c****O******
+i H***T** *X b**********x* i****S***
+c h*****P* mi
+
+a tennant hr
+a oh** *v
+a G****x** cw
+d
+t I***l* y*J**** s****Y** kX******** K***c** menubased y*J**** s****Y** d******k*****
+j ne** e** **A  l*O** m**y*** *k e******C* J***U**
+p
+c c****Q *C
+o h******u
+k
+
+a q*w* ja
+d
+t g*e nunix K*b*** Gs****
+r r**R**** A***V*
+i k******w** bu* g*d***** F***S** d*A
+c do******* *C
+k
+
+a thimbleby h
+d
+t i****T** a***l********
+j ijmms
+v
+n
+p
+o zo*****
+
+a thomsett r
+d
+t x****v I** CO***** l***X*****
+i yourden s***E
+c eq* s**T *W
+
+a G****x** ba
+a G****x** aT
+d
+t q*T*** h* k**O** Gs****
+j bz**
+p
+o ****F
+k
+
+a G****x** k
+d
+t j******F*** aa H***V*** z**I*
+j comm e**
+v
+n
+p
+o a***Z*
+
+a q**e d
+a prasada b
+d
+t j***u** o****A**** s**l****** bu* k***W*** *X o*****a*
+j ne** hp**
+v
+n
+p
+o h**J
+
+a tokuda h
+a w*z**** eg
+d
+t h* interprocess *********G*** p***f bu* a d**a******* Ek****** testbed
+j ne** e** sigcomm
+i t**X****** *X y**J*
+c a****h aJ
+o ph***
+k
+
+a tokuda h
+a radia sp
+a w*z**** eg
+d
+t shoshin ad a messagebased s**B***** Gs**** bu* a d**a******* Ek****** testbed
+j ne** th aj**** o***v* b*******s**** d*e******* aa Gs**** C*b*****
+p
+k
+
+a tou *p
+a o***W*** rc
+d
+t A*F**** j*****x**** o****k****
+i addisonwesley
+c D*l**** *C
+
+a truin pgm
+d
+t g*e E*Z***** Gy**** j* h* q** *k g*e *J********* *X D*l**** D***H* q* j******P fo******
+j ipo aj**** z*A***** A***V*
+v
+p
+k
+
+a tsichritzis deditor
+d
+t aK** jr***
+r z******Q* A***V* csrg
+i g*d***** J***U** A******a kE*** t**X****** *X K*****Y
+c K*****Y aa
+
+a tsichritzis d
+d
+t objectworld
+e dtsichritzis
+b w***h* a***B*****
+i springerverlag
+c b****Q
+p
+
+a turkle s
+d
+t g*e r******f** g*d***** a x***a *k g*e o*******h* *X x******M b****P*****
+j E*z*** I*****J *X F***S**
+v
+n
+p
+k
+
+a tyree a
+d
+t k**O** J***U** I** g*e de*
+j i*c**** ***v*** d****q**
+p
+p ph***
+k
+
+a ulichney ra
+a troxel A*
+d
+t F**V*** c*j*** qd**** s*D* g*e l***z****** G**I****
+j hp** trans A*F**** aQ****** I** v*****B d*****z*****
+v pami
+n
+p
+
+a umphress d
+a J****P** g
+d
+t q****r** h*L********* K***c** sY****** *M*************
+j ijmms z*v******
+k
+
+a unger b
+a birtwistle g
+a cleary j
+a g*y* d
+a lomow g
+a lg** r
+a ye****** m
+a witten ih
+a wyvill b
+d
+t h*q* a q*******G* I** Ek****** j**p******* d*******s**
+j ne** d*e******* aa q*******G* *k F*M***** z***E pZ*******
+c f*G f**G* r*
+o mF******
+k kconference
+
+a unger bw
+a lomow Q*
+a birtwistle g
+d
+t q*******G* Ek****** I** h**
+i H***T** bu* g*d***** q*******G*
+k
+
+a universityofchicagopress
+d
+t a t****O *X x***i
+i t**X****** *X f****F*
+
+a uribe rb
+d
+t modeling autopoiesis
+e mzeleny
+b autopoiesis  a G***F* *X tR**** e******K****
+i q***p r***Z**
+c eq* s**T *W
+p
+
+a vandijk aD
+a kintsch w
+d
+t r****Z**** *X h*P****** **********k**
+i *v****** s***E
+c eq* s**T *W
+
+a vanlehn k
+d
+t mR****** dU******** bu* l*O** wR*** *J********* t*****r*** h* aibased G***F*
+r A******a A***V* cis
+i B***H parc
+c mr** *t** r*
+o w**r****
+
+a varela fj
+a maturana hr
+a uribe rb
+d
+t autopoiesis g*e e******K**** *X tR**** J***U** cV* characterization I** a p***f
+j biosystems
+v
+p
+
+a varela fj
+d
+t o****k**** *X a********w bS******
+i q***p r***Z**
+c eq* s**T *W
+
+a varela fj
+d
+t e*****g*** g*e o*v** *X g*e tR****
+e mzeleny
+b autopoiesis  a G***F* *X tR**** e******K****
+i q***p r***Z**
+c eq* s**T *W
+p
+
+a r**I n
+d
+t v**r*** yU******
+j s*R* I**  l**W*
+v
+n
+p
+o julyseptember
+k
+
+a J*T*** ra
+a n*q**** mj
+d
+t g*e stringtostring d*****o*** Cu*****
+j j e**
+v
+n
+p
+o t*B****
+k
+
+a r**V av
+a apon aw
+a beal j
+a gately *L
+a oren lg
+d
+t h* g***g***** *X c*******F* k**O** Gs**** d****l** zW***
+r g*d***** F***S** k******w** z******Q* A***V*
+i y**J* g**S*******
+c h*g*** aJ
+o w**r****
+k
+
+a A***Q dl
+d
+t y*J**** s****Y** X***** aG a n**c* c*M* ***T
+j ***b*** x*S*** *X g*e b*******s**** m*v** d*e******* aa a*g******* d*****z*****
+i d*A
+c do******* *C
+
+a J**a**** da
+d
+t a rulebased a***A*** aG o*******r *J********* bu* manmachine o*g****** z*z*****
+j ijmms
+v
+p
+k
+
+a J***f* rc
+d
+t g*e j*d******** aa******** a G*m**** s*D* kbemacs
+j hp** trans Ek****** d******D***
+v ay
+n
+p
+o w**r****
+k
+
+a J***E* bl
+a y***I** *Q
+d
+t AH****** *k a*g******* d*****z*****
+i ze***
+c mr** *t** r*
+
+a weinreb d
+a k*Z* d
+d
+t jR** v*****B t****O
+i y***f k*****F
+o ph***
+
+a weizenbaum j
+d
+t g*d***** s***s I** l*O** A*z***
+i o*g****
+c f*G k******e* r*
+
+a BK*** aD
+d
+t a z******R* bu* highperformance c*M* b****B*****
+j hp** g*d*****
+v
+n
+p
+o h**L
+k
+
+a weyer sa
+d
+t xq******* bu* g*j******** *k a k****A* a**b
+r fb* G***K*
+i C*H*** *X i*c****** E*****i* t**X******
+o *s** A***V* scg B***H parc
+
+a J****o t
+a pB*** c
+d
+t g*e g*Z *X treestructured l***i B*g** g**X**** y***k z***F *X ik**** i*****i
+j telidon a*p******** A******a
+v
+i e***V***** *X ****V*********
+o d*j
+
+a J****o t
+a latremouille s
+d
+t g*e a******A***** *X a treestructured l***i sR** g*e j***l**** *X g*j******** *o A*******B
+j telidon a*p******** A******a
+v
+i e***V***** *X ****V*********
+o d*j
+
+a wijk cvan
+a kempen g
+d
+t e**W C****v** zG******* aG k*X******* hK*****
+e bsmuller
+t sprachsynthese zur synthese hy* naturlich gesprochener sprache aus texten und konzepten
+i georg olms I****M
+c i******F**
+k
+
+a wilensky r
+a arens y
+a b*L* d
+d
+t J****I* aG r*b* *k l***b** h* x*E***** *X uc
+j comm e**
+v
+n
+p
+o h**L
+k
+
+a KI**** aj
+a D**Y** dw
+a pJ***** jj
+a iN** tr
+a B**C**** p
+a Ow***** *O
+d
+t g*e C*****u m******v***
+j g*d***** j
+v
+n
+o d*j
+k
+
+a KI**** aj
+a Ow***** *O
+d
+t a softedged d*****Q** f*U I** cV* e****S****
+j g*d***** j
+v
+n
+p
+o mF******
+k
+
+a C**Y***** w
+d
+t viewdata g*e prestel Gs****
+b videotext g*e gf**** p********e *k homeoffice g*j******** wI*******
+e sigel e
+i q****Q* b***h
+c eq* s**T *W
+p
+
+a wilks y
+d
+t f**e I** *l* a****g*** r**** C****d** o****e****
+r A******a A***V*
+i e***V***** *X a*g******* d*****z***** t**X****** *X iX*******
+o d*j
+k
+
+a wilks y
+d
+t c*d**** y***i* *X r**k I** v****U** b*********q*
+b a*g******* I** l*O** d*****z*****
+e aelithorn I** rbanerji
+i k**q**** F***S**
+p
+k
+
+a willems *Q
+d
+t p**B a p***f *X E*****c* l***b** k*X******* x****O**
+j ipo aj**** z*A***** A***V*
+v
+p
+k
+
+a J****P** g
+d
+t g*e ****D p*******N g*d*****
+j bz**
+v
+n
+p
+o mF******
+
+a J*****A* t
+d
+t d******k***** y*J**** s****Y**
+i *v****** s***E
+c eq* s**T *W
+
+a J*****A* t
+d
+t v**h** g*e C****d** o**q***
+r A***V* csli
+i center bu* g*e x***a *X s****Y** I** g*j******** E*****i* t**X******
+c E*****i* r*
+o h******u
+k
+
+a witten ih
+d
+t g*e e***V***** *X g*d***** F***S** t**X****** *X e***e**
+j g*d***** F***S** *********e* m*****X***
+v
+n
+p
+o h******u
+k karticle
+
+a witten ih
+a cleary jg
+d
+t e*****r**** g*e m**q** q* **N***** modeling
+j c*****
+v
+n
+p
+o E****h
+k karticle
+
+a witten ih
+a fremont d
+d
+t a I*****G g*j******** G*i**** bu* a t**X****** g*d***** F***S** e***V*****
+j ne** th z*x**** hg********** e******C* d*e*******
+i lakehead t**X******
+c K***n** *u* aa
+o h**L
+k kinvited
+
+a witten ih
+d
+t k*T***** *X g*d***** s********N
+j ijmms
+v
+n
+p
+o h******u
+k kjournal
+
+a witten ih
+a bramwell b
+d
+t a Gs**** bu* g***o****** M****M* *X r*****D*** h****N***
+j comm e**
+v
+n
+p
+o ph***
+k kjournal
+
+a witten ih
+d
+t k****A* h****N***
+j ne** protext i  iy*** b*******s**** d*e******* aa q*y* o****A**** J***U**
+i boole s***E
+c jg**** tc*****
+p
+o zo*****
+k kconference
+
+a witten ih
+a l******n* s
+d
+t r*r* kX******** bu* w***h* J***U**
+b xN**** J**r*** *k g*j******** s**n****** J*n***
+e aj zorkoczy
+i xN**** t**X****** s***E
+c xN**** england
+p
+k kjournal
+
+a witten ih
+d
+t t****f e******B* qH** em h* d*******i*** aG E***d* z*****q**
+i prenticehall
+c i****T*** f**P** *Q
+
+a witten ih
+d
+t g*d***** E***d*
+b g*e a*******u**** *X yG****** F***S** I** s**n****** J*n***
+e B*H*** a u***u*
+i *v****** s***E
+p
+k kinvited
+
+a witten ih
+a c***X* m
+a bramwell b
+a l******n* s
+d *k i*********Y
+t g***m****** s*D* k****A* h****N***  g*e eq* n** *X D*l****
+r z*W***** z*v****** aG d*A s***E
+
+a witten ih
+d
+t C***T*** H*L*** *k g*d***** F***S** i
+r A***V*
+i oC******* *X g*j******** o****A**** graz bQ*****
+o w**r****
+k kreport
+
+a witten ih
+d
+t modeling b*****a** x*W****** o****k**** y*****U* u****W***
+j ne** b*******s**** d*e******* aa m**q** ***S**** *k e******C*
+c av********** eq* O***q**
+o mF******
+k kconference
+
+a witten ih
+d
+t *k C**O** *X bS******
+j ne** b*******s**** d*e******* aa m**q** ***S**** *k e******C*
+c av********** eq* O***q**
+o mF******
+k kconference
+
+a witten ih
+d
+t k**O** J***U**
+j manmachine I*****J
+v ucdse
+n
+p
+i t**X****** *X b******L**
+c av********** eq* O***q**
+o d*j
+k karticle
+
+a witten ih
+d
+t G****E** aa a*g******* intentionality
+j manmachine I*****J
+v ucdse
+n
+p
+i t**X****** *X b******L**
+c av********** eq* O***q**
+o t*B****
+k karticle
+
+a witten ih
+a lg** r
+a cleary jg
+d
+t aK******** f****j bu* c*M* b****B*****
+j comm e**
+v
+n
+p
+o h**L v******C* *k fic gazettefp h******u
+k kjournal
+
+a witten ih
+d
+t a g*Z*** aa k**O** J***U** bu* f******s** d******D*** F*Z*****
+j ne** e** sigcse z******Q* z*****e** aa g*d***** F***S** i*c******
+c st o**b* *I
+p
+o mF****** u*****N** j* sigcse d****q** fifr
+k kconference
+
+a s*K* skm
+a ziarko w
+a bd r li
+d
+t c********m *X roughset I** k*******E** xu***** *k n******a* s******J
+r z******Q* A***V* cs
+i g*d***** F***S** e***V***** t**X****** *X A**L**
+k
+
+a s*M* rj
+d
+t a K*b*** a**M* j****S* l***X***** Gs****
+r r**R**** A***V*
+i t**X****** *X u**l****
+
+a B**I* aT
+d
+t z*A***** *k y*J**** s****Y** d******k*****  h* *******C*** aG o**C* ph*****
+j ne** v******l g*d***** d*e*******
+c montvale *Q
+i afips s***E
+
+a woolf b
+a u***o*** dd
+d
+t humancomputer h*P****** *k g*e ik**** *X a x**C** z***l
+j ne** e** **A  l*O** m**y*** *k e******C* J***U**
+p
+c c****Q *C
+o h******u
+k
+
+a woolf b
+a u***o*** dd
+d
+t d****l** a g*d***** z***l ik**** q***a*
+j hp** g*d*****
+v
+n
+p
+o x*R******
+
+a K**D** aV
+d
+t bv*********** c*****w***
+j A*F**** j*****x****
+v
+p
+k
+
+a aX x
+a witten ih
+d
+t a eN** fikfpmeans rP** c*****w*** ******l**
+r A******a A***V*
+i g*d***** F***S** e***V***** t**X****** *X e***e**
+o h**L
+
+a wupit a
+d
+t c********m *X r*b* wl******
+j ne** e** d*e******* aa x******M I** w**a* e******B*
+c f*G f**G* r*
+p
+o h******u
+
+a wyvill blm
+d
+t y***k g*d***** F***S** s*P**  fisquanderellafp fidigital alicefp I** fitwenty eightyfourfp
+r A******a A***V*
+i g*d***** F***S** e***V***** t**X****** *X e***e**
+
+a wyvill blm
+a witten ih
+d
+t y***k g*d***** F***S** s*P**
+r A******a A***V*
+i g*d***** F***S** e***V***** t**X****** *X e***e**
+o h******u
+k kreport
+
+a xeroxcorp
+d
+t g*e n**S *X f******u** zN****** *k g*e w***h* *X g*e m**q**
+r j**O***** f*X********* *h
+k
+
+a yankelovich n
+a meyrowitz n
+a hf* aj* a
+d
+t D*l**** I** O**j*** g*e f******u** a**b
+j hp** g*d*****
+v
+n
+p
+o zo*****
+
+a yoeli m
+a brzozowski ja
+d
+t a eP********** p***f *X j***u** b**r wl******
+r A******a A***V* cs
+i g*d***** F***S** e***V***** t**X****** *X J*Z*****
+o a***Z*
+k
+
+a Cz*** jz
+d
+t z*z***** *X g*e cj***
+i xN**** t**X****** s***E
+c xN**** england
+
+a zaniolo c
+d
+t objectoriented j*e******** *k zZ****
+j ne** b*******s**** z*****e** aa o*v** j*e********
+c a******I b*Z* *Q
+p
+o mF******
+k
+
+a zeleny m
+d
+t selforganization *X tR**** J***U** a l****Z p***f *X autopoiesis
+j int j o*****M J***U**
+v
+n
+p
+
+a zeleny m
+d
+t aplautopoiesis eJ********* *k selforganization *X c********I
+b z*A***** *k c**D******* I** J***U** A******a cA*
+e rtrappl gjklir I** lricciardi
+p
+i i*****z***
+c t********F z*
+
+a zeleny meditor
+d
+t autopoiesis  a G***F* *X tR**** e******K****
+i q***p r***Z**
+c eq* s**T *W
+
+a zeleny m
+d
+t sQ** *o autopoiesis
+e mzeleny
+b autopoiesis  a G***F* *X tR**** e******K****
+i q***p r***Z**
+c eq* s**T *W
+p
+
+a zimmermann h
+d
+t osi v***u**** p***f em g*e cS* p***f *X *****h****** bu* l**s J***U** **********k****
+j hp** trans ****V*********
+p
+o ****F
+
+a zisman *G
+d
+t a************U d*f********** I** a***B***** *X w***h* o****y****
+r fb* b*****D*****
+i N***K** C*H*** t**X****** *X e*********d*
+
+a zissos ay
+a witten ih
+d
+t r*r* rL******* bu* a g*d***** d***Q a b*f* x***a
+j ijmms
+v
+n
+p
+o h******u
+k kjournal
+
+a ziv j
+a lempel a
+d
+t a B*D****** ******l** bu* q*****k*** c*M* b****B*****
+j hp** trans g*j******** G***F*
+v *p
+n
+p
+o d*j
+k
+
+a ziv j
+a lempel a
+d
+t b****B***** *X j******b** x*W****** hq* variablerate f****j
+j hp** trans g*j******** G***F*
+v *p
+p
+o x*R******
+k

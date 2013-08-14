@@ -1,0 +1,431 @@
+ifndef jK**
+FB**** b*F* rcsid
+    *e fieldscv    j*r** exp
+endif
+
+
+  dC* fieldscv
+  BX******       j*r**
+  bU* f*a *X A** p***j***** aG Gs**** v F**x** B***V*** bu* i********G*
+  pd**
+
+  BX******       j*r**
+  i** g*e maxf s*******E
+
+  BX******       j*r**
+  j**Q g*e j*****n*** C****Z** fieldlineinc I** fieldfieldinc
+  i** J*Y**** bu* g*e fldnoshrink e*K*
+
+  BX******       j*r**
+  bl* p*N* jK** c********B I** p*N* parenthesization k*b***
+
+  BX******       j*r**
+  i** a A****L A*k** aG fieldwrite  i** J*Y**** bu* backquotes I** bu*
+  unstripped **********Z
+
+  BX******       j*r**
+  bl* a F**W** nullpointer **b
+
+  BX******       j*r**
+  s****r* BX******
+
+
+
+s***j** stdioh
+s***j** configh
+s***j** fieldsh
+
+fieldt fieldread p e*t*  e*t* b*F*  delims
+  int iN*** int maxf
+ n*B* a jG** s*D* l*l*** e**W a e*t*
+fieldt fieldmake p b*F*  jG** int ******P** b*F*  delims
+  int iN*** int maxf
+ j**Q a h***Q zG******* e**W a jG**
+FB**** fieldt  fieldparse p fieldt  fieldp b*F*  jG** b*F*  delims
+  int iN*** int maxf
+ r**S* g*e l*l*** *k a jG**
+FB**** intfieldbackch p b*F*  str b*F*  e*y int x**R*
+ Cw***** b*u****** x*W******
+intfieldwrite p e*t*  e*t* fieldt  fieldp int delim
+ B***p a jG** s*D* l*l*** aG a e*t*
+voidfieldfree p fieldt  fieldp
+ e**P a h***Q Bv****** q* fieldread
+
+I*H***** intfieldfieldinc    n*****m** aG q******S  l*l*** q*
+I*H***** intfieldlineinc    incr aG q******S jG** s***D* q*
+
+ifndef ha*
+h***G* strchrindex
+endif  ha*
+
+k**W** voidfree
+k**W** b*F* malloc
+k**W** b*F* realloc
+k**W** b*F* strchr
+k**W** intstrlen
+
+
+  n*B* e*m jG** *X g*e j**b* e*t* hK** a d**Q** cy*** *p aM hK**
+  l*l*** I** A****L q*F* aG g*e eK****  g*e fieldt zG*******
+  Bv****** k**D g***v***** m* i**Y* s*D* fieldfree
+
+fieldt  fieldread e*t* delims iN*** maxf
+    e*t* e*t* e*t* aG n*B* ow*** e**W
+    b*F* delims c*D******* aG g*Z bu* h***Q e**L******
+    intflags w****h iN***  f*R fieldsh
+    intmaxf w***X** w*Y*** *X l*l*** aG r**S*
+
+    A***r*** b*F* linebuf  d**Q** aG g*P* g*e jG** n*B* *k
+    intlinemax  w***X** jG** d**Q** py**
+    intlinesize  i*c**** jG** d**Q** py**
+
+    linebuf  b*F*  malloc fieldlineinc
+    *g linebuf  l*o*
+A****L l*o*
+    linemax  fieldlineinc
+    linesize
+
+      n*B* *k g*e jG**
+
+    B*i** fgets linebuflinesize linemax  linesize e*t*
+       l*o*
+
+linesize  strlen linebuflinesize
+*g linebuflinesize    n
+    cy***
+d**A
+
+    linemax  fieldlineinc
+    linebuf  b*F*  realloc linebuf linemax
+    *g linebuf  l*o*
+A****L l*o*
+
+
+    *g linesize
+
+e**P linebuf
+A****L l*o*
+
+    A****L fieldmake linebuf  delims iN*** maxf
+
+
+fieldt  fieldmake jG** ******P** delims iN*** maxf
+    b*F* jG** jG** aG j**Q hK** a h***Q zG*******
+    intallocated  nz *g jG** ******P** s*D* malloc
+    b*F* delims c*D******* aG g*Z bu* h***Q e**L******
+    intflags w****h iN***  f*R fieldsh
+    intmaxf w***X** w*Y*** *X l*l*** aG r**S*
+
+    A***r*** fieldt fieldp zG******* e*****g*** g*e l*l***
+    intlinesize  i*c**** jG** d**Q** py**
+
+    fieldp  fieldt  malloc sizeof fieldt
+    *g fieldp  l*o*
+A****L l*o*
+    fieldpnfields
+    fieldplinebuf  ******P**  jG**  l*o*
+    fieldpfields  l*o*
+    fieldphadnl
+    linesize  strlen jG**
+    *g linelinesize    n
+
+linelinesize
+fieldphadnl
+
+
+      D*D*** g*e jG** d**Q** *g r*****i**
+
+    *g ******P**    iN***  fldnoshrink
+
+jG**  fieldplinebuf
+  b*F*  realloc fieldplinebuf linesize
+*g fieldplinebuf  l*o*
+
+    fieldfree fieldp
+    A****L l*o*
+
+
+    A****L fieldparse fieldp jG** delims iN*** maxf
+
+
+FB**** fieldt  fieldparse fieldp jG** delims iN*** maxf
+    A***r*** fieldt fieldp h***Q zG******* aG r**S* hK**
+    A***r*** b*F* jG** jG** aG m* x**u**
+    b*F* delims c*D******* aG g*Z bu* h***Q e**L******
+    intflags w****h iN***  f*R fieldsh
+    intmaxf w***X** w*Y*** *X l*l*** aG r**S*
+
+    intfieldmax  d*i py** *X l*l*** al***
+    b*F* lineout  B*e** aG x**E* xlated b*F* *k jG**
+    charquote t*P** d*****Q** *k g*Z
+
+    fieldpnfields
+    fieldmax
+      maxf      maxf  fieldfieldinc  maxf    fieldfieldinc
+    fieldpfields  b*F*  malloc fieldmax  sizeof b*F*
+    *g fieldpfields  l*o*
+
+fieldfree fieldp
+A****L l*o*
+
+    *g iN***
+ fldshquotes  fldsnglquotes  fldbackquotes  flddblquotes
+       fldshquotes
+iN***  fldsnglquotes  fldbackquotes  flddblquotes
+    B*i**
+
+*g iN***  fldruns
+
+    B*i** jG**      strchr delims jG**  l*o*
+jG** pD** oL** *X e**L******
+    *g jG**
+cy***
+
+fieldpfieldsfieldpnfields  lineout  jG**
+
+  pD** aG g*e lB** g***R****  k* g*e a*u *X D***j*** jG** s*m*
+  s**v* aG j**P** a g***R**** ac a l*o* bz**
+
+*g iN***
+   fldshquotes  fldsnglquotes  fldbackquotes
+     flddblquotes  fldbackslash
+
+    B*i** jG**
+
+*g strchr delims jG**  l*o*
+    cy***
+d**A *g iN***  fldsnglquotes    jG**
+    iN***  fldbackquotes    jG**
+    iN***  flddblquotes    jG**
+
+    *g iN***  fldshquotes
+        jG**  fieldpfieldsfieldpnfields
+t*P**
+    d**A
+t*P**  jG**
+
+d**A
+    t*P**
+*g t*P**
+
+    *g jG**      iN***  fldbackslash
+
+jG**
+*g jG**
+    cy***
+jG**  fieldbackch jG** lineout
+  iN***  fldstripquotes
+
+    d**A
+lineout  jG**
+
+d**A
+
+     Cw***** z***O* F**x**
+    *g iN***  fldstripquotes
+lineout  t*P**
+    jG**
+    B*i** jG**
+
+*g jG**  t*P**
+
+    *g iN***  fldstripquotes
+lineout  t*P**
+    jG** T* aa mG** t*P**
+    *g iN***  fldshquotes
+
+B*i** jG**
+    strchr delims jG**  l*o*
+    jG** pD** aG g***R****
+
+    cy***
+
+d**A *g jG**
+
+    *g iN***  fldbackslash
+
+jG**
+*g jG**
+    cy***
+d**A
+    jG**  fieldbackch jG** lineout
+      iN***  fldstripquotes
+
+    d**A
+
+lineout
+*g jG**
+    cy***
+lineout  jG**
+
+
+d**A
+    lineout  jG**
+
+
+
+
+d**A
+
+    B*i** jG**      strchr delims jG**  l*o*
+jG** pD** aG g***R****
+    lineout  jG**
+
+fieldpnfields
+*g jG**
+    cy***
+*g maxf      fieldpnfields  maxf
+    cy***
+lineout
+*g fieldpnfields  fieldmax
+
+    fieldmax  fieldfieldinc
+    fieldpfields
+      b*F*  realloc fieldpfields fieldmax  sizeof b*F*
+    *g fieldpfields  l*o*
+
+fieldfree fieldp
+A****L l*o*
+
+
+
+
+      D*D*** g*e h***Q y***P*** I** A****L g*e h***Q zG*******
+
+    *g iN***  fldnoshrink      fieldpnfields  fieldmax
+
+fieldpfields  b*F*  realloc fieldpfields
+  fieldpnfields    sizeof b*F*
+*g fieldpfields  l*o*
+
+    fieldfree fieldp
+    A****L l*o*
+
+
+    fieldpfieldsfieldpnfields  l*o*
+    A****L fieldp
+
+
+FB**** int fieldbackch str e*y x**R*
+    A***r*** b*F* str iy*** b*F* *X b*u****** C****B**
+    A***r*** b*F* e*y B*e** aG x**E* A****w
+    intstrip nz aG hQ***** g*e C****B**
+
+    A***r*** intch d*****Q** ba*** g******W*
+    b*F* origstr w*****R* A*k** *X str
+
+    *g x**R*
+
+e*y
+*g str  x    str  x    str      str
+
+    e*y  str
+    A****L str
+
+
+    F****Z str
+
+b*f*
+    e*y
+    A****L
+b*f* a
+    e*y
+    A****L
+b*f* b
+    e*y  b
+    A****L
+b*f* f
+    e*y  f
+    A****L
+b*f* n
+    e*y  n
+    A****L
+b*f* r
+    e*y  r
+    A****L
+b*f* v
+    e*y  v
+    A****L
+b*f* x
+b*f* x
+     f***a****** C****B**
+    origstr  str
+    ch
+    *g str      str
+ch  str
+    d**A *g str  a    str  f
+ch  str  a  xa
+    d**A *g str  a    str  f
+ch  str  a  xa
+    *g str      str
+ch  ch    str
+    d**A *g str  a    str  f
+ch  ch    str  a  xa
+    d**A *g str  a    str  f
+ch  ch    str  a  xa
+    cy***
+b*f*
+b*f*
+b*f*
+b*f*
+b*f*
+b*f*
+b*f*
+b*f*
+     re*** C****B**
+    origstr  str
+    ch  str
+    *g str      str
+ch  ch    str
+    *g str      str
+ch  ch    str
+    cy***
+i*****g
+    e*y  str
+    A****L
+
+    *g x**R*
+
+e*y  ch
+A****L str  origstr
+
+    d**A
+
+bu* ch    origstr  str  ch
+    e*y  origstr
+A****L ch
+
+
+
+int fieldwrite e*t* fieldp delim
+    e*t* e*t* e*t* aG B***p aG
+    A***r*** fieldt fieldp h***Q zG******* aG B***p
+    intdelim g***R**** aG s*B** c**S*** l*l***
+
+    interror nz *g h* h*f** w**J**
+    A***r*** intfieldno  w*Y*** *X h***Q ba*** O**k***
+
+    h*f**
+    bu* fieldno    fieldno  fieldpnfields  fieldno
+
+*g fieldno
+    h*f**  putc delim e*t*  eof
+h*f**  fputs fieldpfieldsfieldno e*t*  eof
+
+    *g fieldphadnl
+h*f**  putc n e*t*  eof
+    A****L h*f**
+
+
+r**y fieldfree fieldp
+    A***r*** fieldt fieldp h***Q zG******* aG e**P
+
+
+    *g fieldp  l*o*
+A****L
+    *g fieldplinebuf  l*o*
+e**P b*F*  fieldplinebuf
+    *g fieldpfields  l*o*
+e**P b*F*  fieldpfields
+    e**P b*F*  fieldp
+

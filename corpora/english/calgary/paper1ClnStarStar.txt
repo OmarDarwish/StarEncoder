@@ -1,0 +1,1250 @@
+pn
+*B
+eq
+delim
+H*
+K*
+h*
+vs
+K*
+
+sp
+h*
+ce
+aK******** f****j bu* c*M* b****B*****
+h*
+sp
+ce
+cm* h witten radford m lg** I** h**m g cleary
+sp
+ce
+e***V***** *X g*d***** F***S**
+g*e t**X****** *X e***e**
+ t**X****** g*e** *V
+e***e** e*f*** aF n
+sp
+ce
+a***Z*  E*i**** t*B****
+sp
+ini
+lli
+g*e x*N** *X g*e U** *k c*M* b****B***** *o aK******** f****j eG*
+g*e betterknown r*****J u***l*
+aK******** f****j j**d* p*****b b****B***** *o k****t bu* **N***** vp****
+I** g*z**** x*P****** g*e p***f e**W g*e f***c** k***W***
+q*J* r**G* y******U a u*j****** a*P*********** *X g*e z******R*
+sp
+*k i
+ti i
+ficr b********I I** Jk***** descriptorsfr
+br
+e c*M* f****j I** g*j******** G***F* em c*M* c********g I** b****B*****
+br
+h vp**** I** o****k**** J***U** I** g*j******** G***F* em g*j******** G***F*
+sp
+ti i
+figeneral termsfr  *****l**** i*****f****
+sp
+ti i
+fiadditional c*J B**Q* I** phrasesfr  aK******** f****j r*****J f****j **N***** modeling
+lli
+*k
+n*
+sh d*******i***
+pp
+aK******** f****j *o F****w** *k k**k A******E aG g*e betterknown r*****J
+ u***l*
+
+r*****J  u***l* a******a**** minimumredundancy eg***
+
+*p p*****R*** g*j******** k* n**T* j* e*****R** y*e****** a*****v***** k**f
+l*
+cV* i*****f**** *o z*N**** OE***** g*e lm** bu* c****G** *X l***A c*M*
+*p f********i a d***d q****X**** c**S*** g*e p***f bu* f********o** c*M* I**
+g*e k***W*** *X g*j******** s*D* D*****Z aG q*B* p***f
+*p G*********** **N***** vp**** j*M***
+*p *o **O************ i*m******
+h*x ka** bS***** I** c*****K****** o**f L*****m *X g*e z******R*
+qP**** y**V* *o a u*n******* b****g q*B* r*****J f****j e*w*** m* q******h
+r*d*
+pp
+q*J* r**G* R*** aG D**l*** g*e x******j* q* o***D***** h* *p********
+a*P*********** *X aK******** f****j I** g******u* cV* i*****f****
+*M*************
+g*e lB** F*****E d****h* E*g**** a**Q* g*n***** *X c*M* b****B***** I**
+k**h****** g*e modelbased a***A*** B*g** Bk******* k**k vr**** s**l******
+aV q*G* z***u** g*e hj** *X aK******** f****j AU*** a D**Q** mG*****
+k***p**** q*B* z*z***** R** u**t***** bu* a**n k***W*** I** h******P *k B*g**
+g*e p***f w***M*** a C****z** vw**** l* q*B* hf******* l**h **n j*M*** m*
+r*q*
+lB** aV j****C* g*e a******a**** *X iH*** I** **N***** vp****
+g*e r******J** F*****E j*W**** g*e b****B***** f*****R*** I** j**N***** q**a
+*X g*e z*z***** n*****a** g*e j**s** *X hf******* aK******** s*R* vl***** aa
+b****B***** f*****R***
+nP***** aV z***u** a bb* ****B******* B*e** aK******** f****j *o *******U***
+sh c*M* b****B*****
+pp
+aG ka** c*M* b****B***** g**r**** g^* h* a*V******* *X fiad hocfr
+s**l****** p**O j* d****i**** E**J** *k q*y* aG qx** hh****** H*****Q eg***
+bu* gl**** B**Q* a* runlength f****j *X A*****l c*M* eg f*R g*b*
+
+g*b*  c*M* b****B***** s**l****** ****B*******
+
+q*J* f*F****** s*D* g*e k**f vr**** modelbased x***g*** bu*
+f****j B*e** e**W h* fiinput stringfr *X J***K** I** a fimodelfr h*
+fiencoded stringfr *o z*n***** B*g** *o M**m*** a c********W M****l* *X
+g*e l***A
+g*e i****I* B*g** k**D gL** X***** aG g*e o*m* p***f
+j******T*** g*e h*I** l***A F**x** e**W g*e l**v*** F**x**
+l***A J***K** R** gP*** e**W p*N* welldefined f*U p**O j* g*e at*** a*
+c*j*** *******m*
+g*e l**v*** F**x** *o a s*D** C****B** *X a*h*
+g*e p***f *o a hI* *X a******s*** *k L** j**b* hI***** g*e b******d**** *X
+c******J***** bu* g*e lB** l***A Gj****
+*p k**D m* y*****l* bu* g*e i****I* aG CE***** mB***** g*e o*m* jH*********
+b******d**** *k g*e o*m* hI*****
+b****B***** *o **d***** q* g********k** g*e k**f zX****** J***K** *k h***J
+a*h* q*A* g*e i**X zX****** l**h
+pp
+bu* mG***** g*e p***f d*j a***b* a c*****X****** jH********* aG d*J* Gj****
+*k g*e at*** *******k
+*S hI***** *o r***G***
+y**W* c******J***** d*j m* e******e** q* g*****z* e******H*** *k
+a************V F*p**** *X q*y* aG m* l******D***
+p**O a fifixedfr p***f *o a**O******** *k ***b*** aG a**n l**w*** I**
+i****I* *w*** B*g** *p *o r*q* bu* ka** u*****v*
+pp
+*I*********** g*e c******J***** g*e p***f a*****u d*j e****J j* d*J* Gj****
+*o l******D*** a**M* aa g*e Gj**** e******H*** o**g fiso farfr *k q*J*
+xl*****
+q*J* *o h* fiadaptivefr p***f
+y**V* *o *S lm** bu* a a************V Ch**** *X q*y* b*****V d*J* xl*****
+*o L*B**** j* h* f*********N r*a* E*****A* e**W F****r*
+g*e k***V*** p***f f***b** s*D* d*J* Gj**** l******D*** I** g*e h******O
+f***b** s*D* d*J* Gj**** A*v***** *k F******M
+pp
+k**f g*****i vp**** **n C*s**** k**f *U****** c******I***** i*********B I**
+k***w *G***** p*****b b****B*****
+bu* mG***** G*y**** c*D******* *X zw****** hI***** e*u** e*******o g*e
+nextsymbol jH*********
+p**O xu***** gL** l**h*** mixedcase l***b** q*y* aG m* l**v*** *k a**h**
+ bitchar s*D* g*M t*J** hf******* m***z *X p***f
+cleary  witten b cormack  horspool
+
+cleary witten  c*M* b****B*****
+d b
+
+
+cormack horspool  k****A* us****
+o ****F
+
+s**l****** B*g** C* eG* C****z** modeling e**W f****j l* f**B****** ju**
+q*B* *X ziv  lempel  C* eG* o**f aG o**T p**O ka*** uX******* bu*
+b****B***** *******r q*H* d*j m* *******U*** sR** g*e s** *o fN* xj*** AS****
+q*A* b****B***** i*****f**** BK***
+
+ziv lempel  b****B***** *X j******b** x*W******
+
+
+BK***  c*M* b****B*****
+
+pp
+g*e a******A***** *X L** p***f **n m* u***T*** q* g*e fientropyfr *X g*e
+xl***** s*D* D*****Z aG *p M**m*** j****k*** *k bitssymbol
+shannons e*******k** K**g*** *X f****j FA**** q*B* j**b* u*****v* z******O
+l**i***** e**W a p***f *p *o j***O***** aG j****l q*F* hK** i**X a*h*
+aa b*d**** q*A* g*e l***Y** *X q*B* p***f G**g***  J***B*
+
+G**g*** J***B*
+
+pp
+a xl***** **n m* ee*** s*D* D*****Z aG a p***f AU*** j**P** r*****J a*
+aK******** f****j
+g*e mc**** u***l* *o h*****a*** ****g**** j* g*e aJ** y*****l* z******R* bu*
+A**E**** g*e l**v*** c*M* n*u*
+**g *p *o eG*
+j**b* q*B* d*J* Gj**** *k g*e *******k k**D A****q*** hK** h* r**E**** w*Y***
+*X a*h* *k g*e k***W*** r*****J f****j qP**** **f***** x*Q****
+p***b*****
+*k r*p** B**Q* *p x******o s**Q***** *g A** Gj**** c******J***** R**
+r**E**** y****U *X
+**g q*J* *o eG* w*L***** g*e b*f* *k y*****U*
+qP**** r*****J f****j **n qE** g^* aG e*m h*T** *J* e*Y Gj****
+g*e B**Y* b*f* *o AR****** q* a E**w** *k B*g** e*m Gj**** b*y jH*********
+*******R*** Ar***
+J***K** i**w***** e**W p**O a E**w** gK**** m*****x*** g*j******** aa b*d****
+**g D*****z k* n**T* e*m *J* aG H*E***** lH*******
+
+lH*******  t*****I*** aa a y**U* q* r*****J
+
+aK******** f****j h**X***** s*D* g*e j*********L q*B* d*J* Gj**** s******C**
+hK** h* r**E**** w*Y*** *X a*h* K**k*** f****j k**f d****h*****
+*p **F***** **f***** g*e l****x***** l***Y** b***H aG b****B***** f*****R***
+bu* L** E**w** n*****a** g*e e*m h**R q****Z***
+pp
+*k o*****M dY*********** vp**** k**S** g*e a**********x *X r*****J f****j
+k**f I**P*** q*A* D**Q** l**h
+q*J* *o b*****V q*H* k**f rn*** B*****m J***K** s*D* c******J***** d***D aG
+e*m g*e B**Y* b*f* bu* r*****J f****j
+bu* mG***** g*e s**l****** q****Z*** s**** B*g** b**B l***b** q*y* *k
+ bitchar a**n g*Z aK******** f****j j* g*e ih*** p**B I** i*****f****
+B***b m* q*****A* C*****e* *g r*****J f****j sL** lj*********
+e*****v***** wm*** e*x z*e** *o f****j I** eG* modeling g*e b**x********* *k
+q*J* r**G* A** j****d D**Q** vp****
+ee** q*G* j* aV v**o* f*R r*****J f****j *o rI****** aG aK******** f****j
+pp
+g*e a**Q* g*****y *X aK******** f****j **n m* H**y** ***n aG g***I *k g*e
+g**F* s f*R N*******  pp
+
+N*******
+
+u*j****** s**l****** sL** iy*** k**f****** q* rissanen  I**
+pasco  I** g******W* o**V*** *k rissanen
+
+rissanen  generalized kraft j******u**
+
+
+pasco
+
+
+rissanen  w*Y*** **************W
+
+
+langdon  H****Q** aK******** f****j
+
+j*W**** *X g*e a*P*********** u**t***** g*l* gL** eG* a***f*** *k g*e
+lW******** b***I* u**n*  *o g**l*** aG e*x a***A***
+
+u**n*  aK******** F**o** f****j
+
+g*e A*o*** kV******** *k g*e d****G* d**X* *X aK******** eg*** *o A**N****
+aG rissanen  langdon
+
+rissanen langdon  aK******** f****j
+
+a H****Q** *o bu******* *k langdon
+
+langdon  H****Q** aK******** f****j
+
+j*O**** y**W* f****b****** g*e u***l* *o eG* Kj**** nn***
+a w*Y*** *X A*M*** b***h I** x*S*** aa c*M* b****B***** w*****Q *p l**i *k
+A*f**** a* eG* k* A**
+sh g*e hj** *X aK******** f****j
+pp
+*k aK******** f****j a xl***** *o j********D* q* h*
+r**X**** *X n*C* y*****l c**S***  I**
+j* g*e xl***** ca***** t*G*** g*e r**X**** v****A aG v******v* *p ca*****
+H**p*** I** g*e w*Y*** *X a*h* v****A aG H*****S q*B* r**X**** kJ***
+r*******n* J***K** *X g*e xl***** A**o** g*e py** *X g*e
+r**X**** *k *z******** s*D* g*e Gj**** c******J***** l**i***** q* g*e
+p***f
+g*e k**f s****G J***K** A**o** g*e t**x* q* i**X q*A* g*e IP****** J***K**
+I** k***w i** h***J a*h* aG g*e xl*****
+pp
+b***I* a**C**** *o l******D*** g*e t**x* bu* g*e xl***** *o g*e kg****
+r**X****  dg
+fn
+dg   jH***** g*e halfopen r**X**** fixfr
+ef
+j* d*J* Gj**** *o u***E**** g*e t**x* *o v******d aG q*B* B***R** *X *p
+******P** aG g*e Gj****
+bu* mG***** J*Z**** g*e *******k *o fia e i o u fr I** a
+iH*** p***f *o r*q* s*D* c******J***** v***x *k yN***
+s*O**** g********k** g*e xl***** fieaiifr
+n*******r a**n l**w*** I** i****I* i*j* q*B* g*e t**x* *o
+*w*** C***g* g*e iy*** Gj**** fiefr g*e l**w*** y*w**** *p aG
+  g*e t**x* g*e p***f ******Q** aG q*J* Gj****
+g*e C**X** Gj**** fiafr s*m* v****a q*J* eq* t**x* aG g*e iy***  *X *p
+wm*** fiafr b*y ap** ******P**
+q*J* z*p*****   wm*** g*e zw****** t**x* hG*  Aq*** j*v* I**
+ *X q*B* *o
+g*e lB** Gj**** fiifr *o ******P**   B*g** sR** a**Q*** aG
+  j**d* g*e H**p*** t**x*
+o****z**** *k q*J* hI* g*e l**v*** xl***** d**Y** g^* j* n****F*
+*z
+nf
+b^* wafter C***g*   u i w u
+n*******r
+*w*** seeingfiefr
+fiafr
+fiifr
+fiifr
+fifr
+fi
+le
+l*s***  v***y a*J**** a************U *X g*e k***W*** Cw*****
+g*e I*****p* ***R s*D* y***C v******v* g*e Gj**** c******J***** r****t****
+q* g*e p***f
+*w*** g*e iy*** Gj**** fiefr b*y ap** u***E**** g*e p***f *o C*n***
+hK** g*e t**x*   j* v***x *k mD** a
+g*e C**X** Gj**** fiafr C*o*** *p *x*** hK** g*e t**x*
+**g g*e A*****l e*w*** m* f*x****** *k q*J* hI* OE***** a l***n***** j**k*
+a*****p***** l*s*** b v***y g*e Al**** l****d** aG fc** o****x k* h*D**
+x*s** I** uo**** s*D* a vm*** B*g** j**d* g*e i****B*** j* y*****l
+pp
+J*Z**** A** g*e i****I* no*** r**** g*e xl***** *o g*e ih*** t**x*
+
+*p **n f******N*** h***p* q*B* g*e iy*** d*****Q** hG* fiefr wm*** g*e
+t**x* jp** k*****V* K*E*** g*e w***S g*e p***f *X yN***  ******Q** bu*
+fiefr
+eI* *p **n D**l**** g*e s**C***** *X g*e fienfrcoder
+*z
+nf
+b^* wafter C***g*   u i w u
+n*******r
+*w*** seeingfiefr
+fi
+le
+q*J* o***G *p d***d q*B* g*e C**X** d*****Q** *X g*e xl***** *o fiafr
+wm*** q*J* s*m* CE***** g*e t**x*
+*z
+nf
+b^* wafter C***g*   u i w u
+*w*** seeingfiafr
+fi
+le
+B*g** k*****V* k***U*** g*e j**b* t**x*
+o****z**** ju** q*J* g*e i****I* **n q****q** g*e B*t** xl*****
+pp
+*p *o eG* A*q*** r*****i** bu* g*e i****I* aG i*j* a**n d**H *X g*e t**x*
+z*n***** q* g*e l**w***
+s****Z* a D**Z** w*Y*** K*E*** g*e t**x* em bu* mG*****  em s*m*
+JV*****
+r*p** y*****l ju**   a* ee**  B***b C* h**R j*
+sG**  c
+r*****w g*e i****I* s*m* et** g*e Cu***** *X g******w* g*e a*u *X g*e
+xl***** aG g******D* sR** aG p**G h******P
+*w*** A** g*e D**Z** w*Y***  e*u** v******v* L** *X fiafr fiaafr
+fiaaafr fiaaaafr
+aG D*****W g*e *******O* aV kc**** q*B* d*J* xl***** d**H s*D* a H*****Q
+eof Gj**** nn*** aG a**n l**w*** I** i****I*
+bu* g*e *******k *X yN***  fifr s*m* m* r*q* aG z*******P u*****v*
+I** l**i aG z*******P u*****v*
+sR** g*e i****I* o**j q*J* Gj**** *p x**D* h******P
+pp
+A***V*** aG g*e iH*** p***f *X yN***  g*e l***Y** *X g*e Gj**** xl*****
+fieaiifr *o
+*z
+  dC*      dC*      dC*      dC*      dC*      dC*    a*g***
+le
+AU*** ***T  wm*** g*e s**** k***W*** hG* t**I***** *k i****A*
+q*J* l****v** hQ* *p y*d**  i****A* i*j*** aG j****l g*e xl*****
+*k eu** g*e py** *X g*e ih*** t**x* *o
+I** g*e l***Y** *o g*e v******R p*****T** *X q*J* l*s***
+*X g*Z*** aV w*L***** s*T* *k c*j*** g********k** c*j*** i*j*** I**
+q***Q**** l***Y** *k a*h*
+pp
+e*H* i****A* i*j*** v*u** a dF* aG j****l a xl***** da******** e**E J*y***
+*p *o A***y** mn********* q*B* e*x mG***** hq*** g^* q* j***u**** AS**** q*A*
+b****A*****
+v******N aG f*M r*****w hf******* vp**** s*m* f*A* hf******* i******a*
+g*e aJ** singlecharacter p***f *X g*e xl***** fieaiifr *o g*e f*U *X
+Gj**** e******H***
+fiefr   fiafr   fiifr   fifr
+B*g** j**d* h* l***Y** bu* fieaiifr *X  i****A* i*j***
+AU*** q*J* p***f g*e k***W*** B***b m* l**i  i*j*** j*v*
+v***x*** j* q***u k****O* k**f dY*********** vp**** f*A* k**q cp****
+i*****f**** *k o*****M
+sh a CN***** bu* aK******** f****j
+pp
+l*s***  v***y a pseudocode n**Q**** B*g** summarizes g*e k***W*** I**
+h******P o****y**** g******W* *k g*e i**q F*****E
+J***K** R** w**C****
+g*e k******J* t**x* bu* g*e ith Gj**** *o e**W cumfreqi aG
+cumfreqi
+cumfreqi n*****l** j* i g**n***** I** cumfreq
+g*e A*z*** bu* q*J* b*C****** d****a**** *o q*B* n**n* cumfreq
+s*m* hD***** a normalizing k***v* I** *p s*m* m* d***Z***** aG gL** *p
+a***V g*e al***  c
+g*e i*c**** r**X**** *o dH* g*w* I** bu* a**n k***W*** I**
+h******P q*J* D*m*** m* initialized aG
+pp
+d******C***** l*s***  *o xF**** q*******D*
+*k y*****U* y**V* R** G*y**** m**y*** B*g** c********M a**n k***W*** I**
+h******P
+*z
+np
+f*********y g********i** I** v*M******
+br
+g*e j****l ******l** j* g*****H** dg** eG* H*E***** a**C**** AB*** g*e kg****
+xl***** b*y ap** l**v*** y**l*** dg** g*e h***m* ******l** a***V h******P
+AB*** *p b*y A*v***** g*e gR****** g********i**
+*k k**k ****B******* h* f*********y k*M* *X s**C***** *o r*****i**
+sp
+np
+g*e il**** aG g*Z s*****j aK********
+br
+g*e u*B****** A*****P* aG v******v* g*e dH* g*w* r**X**** kJ*** s*D*
+g*e s***D* *X g*e xl*****
+f*********y s**C***** s*m* g*e* xA****** q*J* **g g*e uX******* bu* xH******
+I** Be******* k**D x**l* m* l**R**** d*Z******
+sp
+np
+f********o** g*e p***f l* q*B* *p **n m* f*g****** d****h*****
+br
+g*e a************U r*q* bu* g*e p***f D*m*** minimize g*e q**a A*****P* bu*
+g*e h***m* ******l** aG q****q** g*e lB** Gj****
+v***x*** h* **N***** p***f D*m*** m* s***p**** aG minimize g*e
+timeconsuming qX** *X h*a******** d********g e******H***
+le
+pp
+l*s***  v***y O*v**** b**B *k c bu* aK******** k***W*** I** h******P
+*p *o a*****v***** k**f i***J*** q*A* g*e barebones D***z* *X l*s***
+********r****** *X g*M hf******* vp**** R** j**b* *k l*s***
+g*e l*s***  b**B **n g*Z j**P** e*m
+pp
+g*e v*****h** *X q*J* F*****E l**U**** g*e b**B *X l*s***  k**f g**j***
+n*****a** a tc*** q*B* h******P *o x**l* h**b*** *k g*e s*****j
+a*P*********** I** a A****W *X b*******N** aa s*R* vl***** *k g*e CN*****
+rh f********o** g*e p***f
+********r****** *X vp**** R** h*T****** *k g*e lB** F*****E g*l* aV
+R** e******M* l**i s*D* g*e o*g****** aG g*e p***f ow***
+*k c a bz** *o j********D* j* h* s*****j c**S***  I**  bK** q*J* a
+b*F*
+k*u******* aV v******v* a bz** j* h* s*****j c**S***  I**  n*****c**
+bK** q*J* h* l***i eof ba*** L*B**** j* a th Gj****
+*p *o *F********** aG p*V* g*e p***f hK** k******J* rZ*** aG minimize g*e
+w*Y*** *X g****B**** *X g*e h******P j*z* jG**
+aG x****H p**O p*****s*** g*e charindex l******y*** *o f*******L** j*
+a mm** *X Gx**** indextochar   I** chartoindex
+*k e*m *X e*x vp**** y**W* Gx**** D**R** e**A g*e l***i q* *F****  aG g*e
+b*F* **g a*J**** j***D***** a k**f g*****i l******y*** B*g** a*****u w**a*
+s***s** aG frequentlyused J***K**
+pp
+g*e c******J***** *k g*e p***f R** j********D* j* s*****j k******J* g*V***
+I** d********g g*V*** R** F*U*** *k g*e al*** cumfreq
+j* o***Z***** q*J* al*** *o b*C****** I** g*e z*q** k******J* e*v** em
+B*g** *o r*q* aG normalize A** e******H*** em a**L*** *k cumfreq
+d********g g*V*** k**D eG* k**m** a c*****X****** w***X** maxfrequency
+I** g*e p***f a*P*********** k**D B*****S xH****** q* F**V*** ***a*********
+*p k**D *s** kc**** q*B* neighboring I***L* *k g*e cumfreq   al***
+i*g*** q* k* n**T*  s***Q**** g*e ****q*** Gj**** e*u** eG* m* l******D***
+rh f*********y g********i** I** v*M******
+I*E*** l*s***  g*e CN***** *X l*s***  p*****R*** dH* I** g*w* j*
+r**D****
+a H*****Q c*M* rP** codevalue *o i*****q bu* y**W* o********r
+G******w s*D* p*N* I***n* fY*******  c
+topvalue f********o** g*e u***Z** y*****l* codevalue I**
+firstqtr go** I** thirdqtr f********o** r**U* *X g*e t**x*
+ow***
+N***X** *k l*s***  g*e i*c**** r**X**** *o j********D* q*
+dH* g*w* *k l*s***  *p *o dH* g*w* q*B* *o g*e t**x* eI*
+q******P g*e A*k** *X g*w*
+**F***** *p *o k**f *U****** G****e k**f e*******X aG f*M q*B* *k g*e
+CN***** *X l*s***  g*e r**X**** j********D* *o
+dH* g*w*
+q*J* *o b*****V sR** g*e dd**** R** C*n*** g^* aG q******S g*e u*B****** s
+R** G**Y*** hK** g*e loworder a*h* *X dH* **g s R** G**Y*** hK** g*w*
+B*i** *p *o y*****l* aG B***p g*e CN***** aG g*Z a hf******* d****a****
+q*J* e*m b*y p*N* ***z****** *k k*****g**** g*e b**B
+pp
+j* g*e b**B t**x* y*w**** g*e g*u a*h* *X dH* I** g*w* s*m* b***q* g*e
+o*m*
+L** a*h* B*g** R** g*e o*m* **n m* l******D*** f******N*** wm*** q*H* e*w***
+m* ****q*** q* m**q** r****Q***
+bu* k***W*** wm*** aV i*j* q*B* dH*    g*w* q*J* A*****Q* b**B ju**
+*z nnnn
+nf
+b^* wnnnnu wif g*w*  u whalf  u woutputbit dH*  lowhalf g*w*  highhalf u
+*O
+bu*
+*g g*w* go** outputbit dH*  dH* g*w*  g*w*
+*g dH* go** outputbit dH*  lowhalf g*w*  highhalf
+
+fi
+le nnnn
+B*g** l***D** q*B* r*d* c********F dH*    go**    g*w*
+q*J* **n m* i**G* *k ow***  *X encodesymbol
+*******r y**V* R** p*N* h*T** **********f** e***y* q* Be******* c*****A******
+f*R lB** r******I**
+bY** *o y*b** bY** aG v**U* s *k k* g*e c****W sR** g*w* *o C*n*** j*
+q***u s****
+pp
+f*********y v*M****** *o dp** AU*** a w*Y*** eJ**** A*k** j* *k l*s***
+*k B*g** u***E**** a*h* e**e e*y g*e g*u highsignificance a*u I**
+newlyreceived l**h e**e *k g*e c****W
+startdecoding   ow***  ic*** A*k** s*D* A*v***** a*h* n*******r
+l**g decodesymbol   b*y j*P******* g*e lB** l***A Gj**** *p DK**** e*y
+nowuseless highorder a*h* B*g** R** g*e o*m* *k dH* I** g*w* C******y
+A*k** q* g*e o*m* *****p I** v******i* j*I* a*h* q* i***c l***A a*h* k* g*e
+c****W a*u
+*z nnnn
+nf
+b^* wnnnnu wif g*w*  u whalf  u wvalue  valuehalfinputbit dH*  lowhalf g*w*  highhalf u
+*O
+bu*
+*g g*w* go** A*k**  valueinputbit dH*  dH* g*w*  g*w*
+*g dH* go** A*k**  valuehalfinputbit dH*  lowhalf g*w*  highhalf
+
+fi
+le nnnn
+f*R ow***  *x*** b****q***** q* i*********i ***J*** Be*******
+h*T****** bj***
+rh tc*** *X h******P b*********Y
+k* q*J* s**v* *p *o B**Z* e******r q*B* g*e a*o*********** *X g*e lB**
+Gj**** q* decodesymbol   B**S* z*Q*****
+A*I*** e**W l*s***  q*B* decodesymbol   k**D g*Z A*k** aG e*w* q*B*
+Gj**** B*g** sR** l**v*** D**N*** g*e t**x* aG e*m q*B* x**l* q******P
+A*k**
+ow***  *k decodesymbol   q****q** g*e Gj**** bu* B*g**
+*z
+cumfreqsymbol
+i**O f valuelowcumfreq   l**S highlow uI*** f
+   cumfreqsymbol
+le
+B*e** i**O f  uI*** f jH***** g*e s*****j mD** *X n*****b* q*B*
+eA*** e**W s*****j j*x***** s*D* s********b
+*p *o v***x *k g*e a***k*** q*B* q*J* s**z***
+*z nnnn
+dH*  i**O f highlowcumfreqsymbol l**S cumfreq uI*** f
+   v
+dH*  i**O f highlowcumfreqsymbol l**S cumfreq uI*** f
+le nnnn
+l* A*k** jp** K*E*** g*e eq* r**X**** q*B* decodesymbol
+b*****Q*** *k ow***
+q*J* *o r*******y* aG l*******B q*B* g*e h******P s**C***** j*R******* d*J*
+Gj**** f***n****
+rh Be*******
+j* l*s***  v***y aK******** f****j B**S* q* F**V*** g*e d********g
+c******J***** j**b* q* g*e p***f hK** g*e r**X**** dH* g*w* bu*
+d*J* d*****Q** l******D***
+J*Z**** dH* I** g*w* R** r*Z* d***D G******w l* d***D q*B* q*J* F**V***
+s**C***** kb** p*N* hf******* J***K** *X g*e p***f aa aG g*e o*m* s*****j *k
+g*e dH* g*w* r**X****
+q*J* B***b m* e********y b*****V *g p**O a Gj**** **F***** w***N*** *p B***b
+eG* m* y*****l* aG g***e*** k***W***
+a*****p***** g*e l**w*** k**D l*******B q*B* g*e r**X**** dH* g*w* *o
+****T* n**c* j****Q aG B*****S q*J*
+g*e D**j**** hI* *o aG kc**** q*B* q*J* r**X**** *o k* n**T* j* n**c* j*
+maxfrequency g*e w***X** *****I* d********g k******J* e*v** jG**
+pp
+cd* e*u** q*J* e*******o m* I******q
+g*e bitshifting s**C***** j***P**** s**** l***D** q*B* dH* I** g*w* **n
+l**i b***q* d***D G******w sR** q*H* FQ****** go**
+J*Z**** *k eu** q*H* b***q* j* d***D j*
+*z
+firstqtr    dH*  go**    g*w*  thirdqtr
+le
+q*G* g*e lB** g*M a*h* o**o s*m* gL** w*****k* y***X*** j**P**  a*
+bu* mG***** *g g*e lB** *J* z***i e*y aG m*  *f g*w* i***d*** bj***
+go** I**  go** *o l****d** aG g*e fc** r**X**** g*e *J* *w***
+q*B* s*m* m*  wm*** g*e t**x* b*y aG m* s**** g*e u******f *X g*e l****d**
+r**X****
+d****e**** *g g*e lB** *J* q****u* aG m*  g*e e*m *w*** q*B* s*m* m*
+AE******* g*e r**X**** **n B****v m* l****d** uI*** eI* *g l**i aV A****z**
+q*B* J***k*** *J* **F***** eA*** lB** cV* w*****k* k**D m* l******D***
+****z***** j* sG**
+q*P* ow***  k**K** firstqtr thirdqtr hK** g*e B*t** r**X****
+j*******R** *k bitstofollow q*B* g*e *J* q*B* *o xy**** lB** k**D m*
+m******X q* h* w*****k* *J*
+q*J* l****v** hQ* A** xy**** *o dp** hq* bitplusfollow
+ow***  s****Z* *X i******o s*D* outputbit
+pp
+**g sQ** *g *w*** q*J* s**C***** *p *o fistillfr rs** q*B*
+*z
+firstqtr    dH*  go**    g*w*  thirdqtr
+le
+l*s***  f******E*** q*J* x******j* B*e** g*e i*c**** dH* g*w*
+t**x* v***x j* a y**Z* jG** b*y ap** l****d** a z*q** *X y***k y***S
+J*Z**** g*e lB** *J* s*m* rG** e*y aG m*  j* n*****K** q* g*e am*** *k
+l*s*** a ba*** bj*** g*e q***e** s**v*
+q*G* g*e lB** fithreefr a*h* s*m* m* s wm*** eG* l**i *o g*e am*** *k g*e
+g*u go** *X g*e c****W go** *X g*e w*****R* t**x* *p *o *k g*e g*u C***Q**
+I** v***x*** g*e g*u j**K** *X q*B* go** em q*B* *o hQ* g*e j***v****
+**n ra*** y***k y***S
+x*****J** j* l*s*** b v***y *g g*e lB** *J* z***i e*y aG m* a  *p s*m*
+m* m******X q* y***k s
+a*****p***** aV lm** l**i e*v** g*e w*Y*** *X g*****m*** I** l****v g*e lB**
+*J* q* q*B* w*Y*** *X s**K***** ow***  I**
+pp
+AU*** q*J* z******R* g*e l**w*** **n l*******B q*B* *w*** g*e C******y
+m********H j**P**
+*z
+b^* nluniur
+dH*  firstqtr  go**    higha
+le
+a*
+*z
+b^* nluniur
+dH*  go**  thirdqtr    highb
+le
+AE******* j* j*v* j* g*e s*****j t**x* H*****w q* g*e d********g e******H***
+e*G* hK** a C***Q** *X q*B* z**v**** q* codevalues g*e Be******* Cu*****
+e*w*** ra***
+q*J* cc********* aG g*e e*******o
+*z
+maxfrequency    topvalue l**S
+le
+B*g** *o w*****B** q* l*s***  wm*** maxfrequency   gI*    I**
+topvalue   gI*    ow***
+k**f q*A*  a*h* e*w*** m* r*q* aG v******v* d********g k******J*
+g*V*** OE***** j*****k*** g*e w*Y*** *X a*h* ******P** aG codevalues
+pp
+aV gL** h*T****** Be******* *k g*e l**w*** l**i
+wm*** g*e h******O c*r l**g d*J* Gj**** b*y ap** i****H* *o aG z*G** g*e
+s**C***** *X g*e l**w*** Be******* s*m* m* b*n**** *g *p x******o g*e o*m*
+j***v**** s**C***** Ah*** g*e o*m* dU********
+rh xH******
+eI* g**H**** g*e i********P* *X xH****** *k g*e s*****j ***********W***
+af*********** aG y***j *X l*s***  B*g** ra*** *k ow***  I**
+*X l*s***
+xH****** e*w*** ra*** z**v**** g*e CF*****
+*z
+t**x*  maxfrequency
+le
+e*G* K*E*** g*e s*****j s*R* s***D* bu******* wm*** d********g e******H***
+e*w*** k**m** maxfrequency
+t**x* p**j* m* j* n**c* j* topvalue  l* g*e u***Z** y*****l* CF*****
+*k l*s***  *o  gI*    gI*     B*g** *o i**X q*A*  gI*
+j*v* a*********R* R** r*q* bu* codevalue jG**  I** t**x*
+ow***   aG kc**** q*B* aK******** *o dp** aG *J* u*B******
+rh b*******N** aa g*e a*P***********
+g*e b*******N** aa s*R* s***D* s**D*** q* Be******* I** xH****** **n
+m* q*******A* q* a******l k******J* g*V*** R** j********D* *k f a*h* I**
+codevalues *k c a*h*
+g*e a*P*********** s*m* s*T* f***n**** z**v****
+*z
+f    c
+br
+f  c    p g*e u*B****** aG B*g** aK******** *o t**I*****
+le
+*k k**k c ********r****** p *g j*v* r**D**** R** r*q* I** p
+*g q*H* R** I*H*****  j*v*
+*k l*s***  f I** c
+s*D* ***a********* v*O***** a*********R* I*H*****  j*v* aK******** s*D*
+f c e*u** m* r*q*
+*k a*****T* s****Y** c *o a y*J**** fX**** b*****V *p j***D**** p*N*
+b***O****** I** *J* b**********v* eg y***j *X ow***  I**
+pp
+*g p *o p*******h* aG  a*h* g*e aJ** I***L* y*****l* R** c I**
+f t****f *p j***O***** aG j****l a fc** *******k *X  J***K** j* d*J*
+Gj**** k**D gL** a e*v** *X k* n**T*
+a H**p*** *******k eg g*e vK***** a* *J* y***n** e*u** x**l* m*
+q***R**
+rh l***V******
+aG l*Q*** g*e g********i** *p *o r*****i** aG o**n a I*q*** l***U******
+Gj**** eofsymbol jG**  I** q*G* l****v *p q* j****Q a*h* aG kc****
+q*B* g*e l**v*** F**x** h**y* K*E*** g*e ih*** t**x*
+wm*** doneencoding   ow***  **n m* qh** q*B*
+dH* I** g*w* R** b*******M** q* j**P** a a* b s**** *p lm** l**i
+H*E*****  *k g*e iy*** b*f* a*  *k g*e C**X** aG A***w* g*e v*****i**
+*******O*
+*p *o d***Z***** aG C* q*J* AU*** g*e bitplusfollow   u***C****
+h*T****** k****O*
+g*e inputbit   u***C**** s*m* **F***** n*B* a bb* k**f a*h* q*A* sL**
+o**o q* outputbit   j* *p q*X** aG in** g*e dH* a*u *X g*e d**Q** fc**
+*p dg** eG* u*i*** sQ** A*k** y**W* a*h* gL** j* g*e eof *o Iz******
+e******e** q* g*e i**q g*M a*h* **F***** l******D***
+sh vp**** bu* aK******** f****j
+pp
+g*e CN***** *X l*s***  k**D m* r*q* s*D* a p***f B*g** z**x****
+a mm** *X l******y*** Gx**** indextochar   I** chartoindex
+I** a d********g k******J* al*** cumfreq
+g*e f********z** aa g*e s**g** R** q*B*
+*z
+np
+cumfreq i     cumfreq i
+np
+h* bk***** *o q**o* j**H aG j****l a Gj**** i bu* B*g**
+cumfreqi  cumfreqi
+np
+cumfreq    maxfrequency
+le
+z**v**** y**W* dU******** R** w*****B** g*e I***L* *k g*e al*** lm** aj**
+*S f*******z*** aG g*e *t**** d********g Gj**** e******H*** *k u*****v*
+k***W*** I** h******P s*m* x**l* s*T* f***n**** *******r i****e*** s*m*
+w**I** i**X w***S *g g*e e******H*** R** *U******
+A*I*** e*x g****A****** k***W*** fieaiifr *M******* aG g*e p***f *X
+yN***  B*g** dg** eG* **F***** D***e** g*e e******H*** *k g*e xl*****  c
+rh iH*** vp****
+g*e D**j**** iM** *X p***f *o e*m *k B*g** Gj**** e******H*** R** iH***
+g*e iy*** p***f *k l*s***  b*y Gj**** e******H*** B*g** *******X*** y***j
+*X l***b** y*b** e**W a mD** *X g*e c*f** g*B*** kucera  oM*****
+
+a kucera h
+a oM***** wn
+d
+t **********o** aQ****** *X presentday *******T l***b**
+i c*f** t**X****** s***E
+c o*******a* k*
+
+r*****w c**J* B*g** au* eG* ra*** *k q*B* Ch**** gL** ap** j**b* k******J*
+g*V*** *X  *k b*f* q*H* C* ra*** *k u*****v* aG m* l**v***
+l* bu* mG***** q*J* p***f s*m* x**l* s*T* bu* c*j*** ia*** *k B*g** A**
+ c**J* ra***
+e******H*** gL** ap** normalized aG z*q**
+g*e initialization u***C**** startmodel   D**R** g*e***** a d********g
+M****l* *X y**W* e******H*** ow***  o***t* iy*** initialized g*e
+l******y*** Gx**** ow***
+j**N***** xj*** B***b m* q******h *g y**W* Gx**** sL** r*q* aG D****T*
+J***K** I** e******H*** l* q*B* g*e k**k n***G*** bM** iy*** *k g*e
+cumfreq   al***
+wm*** g*e p***f *o iH*** g*e u***C**** updatemodel   B*g** *o
+eJ**** e**W a**n encodec I** decodec *o l*o*
+pp
+h* fiexactfr p***f *o e*m B*e** g*e Gj**** e******H*** *k g*e xl***** R**
+mB***** j* o***A***** q* g*e p***f
+bu* mG***** g*e iH*** p***f *X l*s***  *o d***D aG h* h*I** p***f
+bu* g*e n***Z***** mJ***** *X g*e c*f** g*B*** e**W B*g** *p hG* y*b**
+aG m* z**D* h*I** r*****w J***K** q*B* au* eG* ra*** *k g*e mJ***** B***b
+m* a******b g*V*** *X  eG*  k*D******** g*e b******R** *X
+g********k** u*****v* d***i***** y***j J***K**
+v***x*** g*e k******J* g*V*** B***b eG* m* C*n*** aG a c*****X******
+d********g k******J* j* q*H* gL** ap** *k l*s***
+g*e h*I** p***f d*j m* b*****P*** I** l******D*** b***I* GF***** g*e xl*****
+*p *o v***x *k cleary  witten a q*B* Ah*** t*J** o*****M dU********
+q*J* s*m* finotfr f*A* cp**** z****f* b****B***** q*A* **N***** f****j
+g*****H** lB**
+
+cleary witten  d*******l** **N***** eg***
+d a
+
+rh **N***** vp****
+h* **N***** p***f p*****R*** g*e e*****p* Gj**** e******H*** o**g fiso farfr
+*k g*e xl*****
+n*******r A** g*V*** p**j* m* g*e o*m* p***r***** *S s****r* g*j********
+**g q*H* R** M*t**** j* d*J* Gj**** *o o**g aG *******X*** g*e w***q***
+e******H***
+z**v**** a**n l**w*** I** i****I* g*Z g*e o*m* s****r* I***L* eg hQ***
+g*V*** I** g*e o*m* I**u**** ******l** y**T* vp**** s*m* A***l* *k p**B
+g*e l**w*** A*x***** g*e lB** Gj**** l**x*** *p I** M*v**** cV* p***f
+g*e i****I* j*R******* *p *M******* aG cV* i*c**** p***f I** q*G* M*v**** cV*
+p***f
+pp
+g*e C**X** go** *X l*s***  v***y p**O h* **N***** p***f
+q*J* *o g*e rP** *X p***f j*****D**** bu* g*Z s*D* l*s***  bu* *k y*****U*
+*p s*m* nU******** a iH*** p***f *k y**z* *X b****B***** f*****R***
+initialization *o g*e o*m* j* bu* g*e iH*** p***f k**o** q*B* A** e******H***
+R** f*U aG
+g*e u***C**** updatemodelsymbol *o eJ**** q* a**n encodesymbol
+I** decodesymbol   l*s***  ow***  I**  *w*** d*J* Gj**** *o
+u***E****
+pp
+I**u**** g*e p***f *o t*J** j***K**** b*****V *X g*e lm** aG t******P
+d********g H**d**
+*k g*e b**B *X l*s***  k******J* g*V*** B*g** k**D m* l***z***** aJ****
+R** r*q* aG optimize X***** q* t****W* g*e al*** *k k******J* rZ*** em h*
+i*j****** iM** *X selforganizing te**** C**O** pt****  hirschberg
+
+pt**** hirschberg
+
+updatemodel   iy*** e****Y aG f*R *g g*e eq* p***f s*m* k**m**
+g*e cumulativefrequency on*** I** *g l* C*o*** A** e******H*** dJ** q* a
+k***v* *X  GQ**** bY** aG kc**** q*B* *S e*v** C*o*** aG to** I**
+recomputes d********g I***L* l*s***  ow***
+q*G* *g r*****i** updatemodel   A*****d* g*e J***K** aG s*B** g*e
+i*c**** e*m *k cV* h**b*** n*l* *k g*e k******J* w*****B* *******q g*e
+l******y*** Gx**** aG D***e** g*e e****J
+nP***** *p j*****n*** g*e *******U*** k******J* e*v** I** **K**** d********g
+e******H*** *k*********
+sh i*****f****
+pp
+eI* g**H**** g*e i*****f**** *X g*e ******l** *X l*s***  a**n
+*k b****B***** f*****R*** I** j**N***** q**a
+rh b****B***** f*****R***
+*k u***j**** sR** a xl***** *o ee*** AU*** aK******** f****j g*e w*Y*** *X
+a*h* *k g*e l**v*** F**x** *o g*e o*m* j* g*e l***Y** *X q*B* xl***** s*D*
+D*****Z aG g*e p***f r*q* bu* f****j
+y***k m**y*** dw*** i*****f**** aG m* B**X* q*A* q*J* *k y*****U*
+*z
+np
+xl***** l***V****** xM******
+np
+g*e r*q* *X fixedlength AS**** q*A* infiniteprecision aK********
+np
+F**V*** *X g*V*** l* q*B* y**T* z*q** *o k* k**k maxfrequency
+le
+lV** *X y**W* k*****U *o k****W***** j* aV eI* o**T
+*k rZ*** aG ts***** g*e j**s** *X aK******** f****j g*e p***f s*m* m*
+d**x****** aG m* h*I** j* i*****q s****
+pp
+aK******** f****j k**D o**n h*T** a*h* k* g*e a*u *X d*J* xl***** f*v**** a
+xl***** l***V****** xM******
+g*M a*h* R** v****A o**o q* doneencoding   l*s***  ow***
+*k rZ*** aG b***B******* g*e ih*** Gj****
+*k dm*** B*e** a bitstream k**D m* c*****r hK** *J* c*D******* b***I*
+k***W*** *p s*m* m* r*****i** aG u*V** e*y aG g*e a*u *X a b**j*
+e*****a** y**W* h* h*T**  a*h* d*j m* A*****P*
+pp
+g*e xM****** *X AU*** fixedlength aK********
+w**J** b*****V p****M**** R** A*****X** aa j*x*****
+*p **n m* a*****Y* q* e*****W** g*e *****l**** i*****f**** s*D*
+g*e l*s*** w***z*** e**W a l****x***** l***Y** a******t***
+B*g** j*w**** cV* e******H*** e**W g*V*** C*n*** mB***** j* bu* f****j
+*p *o c********D m*****x*** em aa g*e rZ*** *X  gI*  bitssymbol
+pp
+g*e A**J*** mj** q* F**V*** g*V*** *o EM****** s*s*** **g x**l* r*Z*
+w**a*
+bu* v***t u*****v* i**X q*A*  gI*  c**J* *S F**V*** lm** m* dp**
+ee** s*D* u*****v* *X  gI*  aG  gI*  c**J* g*e xM****** hG* i**G*
+************e* aG m* i**X q*A*  *X g*e l**v*** F**x**
+pp
+g*e **N***** p***f *X l*s***  C*o*** dJ** A** g*V*** J***v*** g*e z*q**
+A*j****** aG k**m** maxfrequency
+q*J* b*y g*e j**s** *X C*x****** A*M*** k**c** k**f rJ***** gI****** s*D*
+y***j k****O* *k g*e xl*****
+g*e r***y***** q*P* q*q* aG z*G** f***b** *k g*e l***A C****B** B*g** **n m*
+r*Z* a*******g*
+bu* mG***** aV gL** d******c*** dm*** B*e** t**j**** g*V*** aG  a*  a*h*
+j**d* cp**** En***** q*A* O*v**** aG pO**** u*B******  c
+*X g*Z*** q*J* jX***** aa g*e E**w** ba*** modeled
+c*S**** fiet alfr  g**H**** r*p** k**f l****x** sq** *X
+b****u******* a recency j**s**
+
+c*S**** sleator tarjan hM*  v**V*** **N*****
+j ****V********* *X g*e e**
+
+rh j**N***** q**a
+g*e CN***** *k l*s***  b*y ap** O**k*** bu* gV***** eG* j**N***** xj***
+*k eu** s*D* g*e **N***** p***f *X l*s***  *p y*d** r****  mus e*Y
+l***A bz** aa a hj* aG j****l a q*y* e*t* I** r**** g*e o*m* bu*
+h******P
+r*****w j*M*** bF******* s****Y*** p**O j* u***C**** c***m *p***** bu* k**q
+*X q*J* I** p*N* D**Q** optimizations q******S xj*** q* a k***v* *X
+g*e k***p**** ****u****** sL** j**H aG g*e c M****l* v***x
+*z
+np
+g*e o****y**** inputbit   outputbit   I**
+bitplusfollow   sL** f*V****** aG t***u* aG i**d*****
+procedurecall xM******
+np
+frequentlyused o********r sL** fA* *k A***r*** B****F***
+np
+m***W***** q* g*M sL** A*****t* q* **N****** c
+np
+al*** rb****** hG* A*****t* q* B**S*** en********** *k g*e o*I**
+k* jG**  *X l*s***  I** ow***  *X g*e **N***** p***f *k l*s***
+le
+pp
+q*J* mildlyoptimized c a*P*********** b*y h* j**N***** q**a *X
+ mus mus e*Y l***A bz**
+bu* encodingdecoding  c**J* *X l***b** q*y* aa a hj* j* v***x
+*k yN***
+*s** j**b* R** af*********** nu***** bu* g*e o*m* CN***** aa h*
+****D p*******N I** a gH*
+j* **n m* o**g f****j a c E**w** CN***** *X g*e o*m* s***D* q**K D***W***
+t*G*** *k A** dm*** I** a c*j*** w**u** CN***** t*G*** x**l*
+g*e A*z*** bu* q*J* s*m* m* h*T****** G***D**
+g*M a*g******* q*w* ia*** sL** q******O aG **S** D*g**** aG v******n* g*e
+En*****
+*******k g**J**** *X j****Q g*c*** *X g*e s***W* *******k aG e*u*
+e*y  c*D******* j****p s*D* a partiallycompleted *******k
+skewstatistics g**X****  g*c*** *X g*e F**x**
+fiaaaabaaaacfr *p bG********** q*B* ia*** d*j m* l**v*** hK** i**X q*A*
+ *J* e*Y d*****Q** xy**** py** *X  c**J*   a*h*
+A** En***** z***O* r*q* g*e **N***** p***f *X l*s***
+pp
+a o**V*** k***v* *X  **n m* m**M** q* c**********D* *k a*****T* s****Y**
+a d*Z****** optimized M****l* *X nu*****  I**  **N***** p***f hG*
+O**k*** *k a**n hj* I** m a*****T* s****Y**
+fc** g*Z hG* j**H *X v****e***
+***T***** hG* y*b** *X g*e *J* codevalue aG l****h** p*N* h*****C
+b***O****** I** j**Q g****v****** *X go** L**C***
+g*e i*****f**** *X y**W* ********r****** aa g*e q*w* ia*** *o *s** v***x *k
+yN***  *k rZ*** aG f*A* g*e A*o*** p*N* hj** *X L****S* j**N***** E***e*
+pp
+g*e hj* a*****T* s****Y** K****a* R** d*X*** dJ** *k yN***
+y**W* nu***** sL** w***z*** s*D* g*e usnixs CJ***** l*****A* I** R**
+*U****** l**i aG K*E*** A***y** dg
+fn
+dg q*J* q***V**** d**V****** a m******b* *X CN***** h**K*** I***L* k*
+realtime d***w k*E******* I** JU***** e**W k*******E** B****H*** j* sG** j*
+p*N* s*h******* k*b***
+ef
+dd**** a******t*** A**u** aG g*e s****r* mD** *X encodesymbol
+I** decodesymbol   l*s***  ow***  I**
+B*g** hD***** v****V** I** i**k** m********H
+*J* C******y *o g*e o***E j*z* *k a**n g*e j****l I** h***m* B***V***
+ow***  I**
+g*e ac* a******t*** *k decodesymbol   B*g** A*****Q* a
+multiplydivide I** g*e k***p**** j*z* aG q****q** g*e lB** Gj****
+ow***  *o Gj**** h***m*
+nP***** p***f I**D** A**u** aG g*e **N*****
+updatemodel   u***C**** *X l*s***  ow***
+pp
+j* l****g** g*e dd**** a******t*** I** p***f I**D** qE** g*e o*m* q**a bu*
+a**n k***W*** I** h******P K*E*** cG********** h*f**
+*J* C******y hG* C****l* bu* g*e q*y* e*t* q*A* bu* g*e c CN***** I** w**u**
+e*t* b*****V b****B***** i*****f**** hG* cp****
+g*e h*T** q**a bu* h******P l**S k***W*** *o aS* k*****V* aG g*e Gj****
+h***m* p**B
+q*J* y*d** t*G*** *k g*e c CN***** I** w**u** e*t* y**E* b*****V g*e j*z* *X
+jG**  hG* l***v*** k**f rn*** aa b*d****  y***S  y***S I**
+ y***S f********K**
+q*J* *s** ***w*** g*e p***f I**D** q**a b*****V *p *o g*e w*Y*** *X d********g
+g*V*** B*g** k**D m* f*********z *k l*s***  ow***
+*k g*e B**Y* b*f* sR** g*e Gj**** e******H*** R** B*r****** d**a*******
+y**W* o*I** R** l***v*** h* b*d**** *X  y***S
+worstcase i*****f**** B***b m* q******h q* AU*** a k**f g*****i rf**
+a************U bu* e******H*** **g q*J* B***b s****G m* D****P bu* q*y*
+ia***
+sh p*N* ****B*******
+pp
+****B******* *X aK******** f****j R** s***q*
+q* k********S ficodingfr s*D* D*****Z aG a p***f e**W g*e fimodelingfr
+A*****P* bu* o**X****** *p f********i a B*t** eq* r**k *X c*M* b****B*****
+rissanen  langdon
+
+rissanen langdon  B*D****** modeling I** f****j
+
+q*J* q****X**** *X n*****b* e*q** y****N* *k b****B***** i*****f**** wm***
+aK******** f****j *o i*********d z*N**** s*D* D*****Z aG g*e l***Y** *X
+g*e p***f
+g*l* aV q**d** aG C* *S k**f q*A* JZ***** g*e vH*** *X q*J* r**k
+q* d****h* b*******q**
+*z
+np
+**N***** q*y* b****B*****
+np
+nonadaptive f****j
+np
+b****A***** blackwhite qd****
+np
+f****j arbitrarilydistributed r**D****
+le
+*X g*Z*** j* q***u k****O* p*****b f****j b*******m*** e*u** j*M*** m*
+**d***** s*D* k**f dY*********** vp****
+modeling r*****w *o h* j****z*** z*e** *k cV* e*C uI*** I** *o cy**** g*e
+vH*** *X q*J* r**G*
+pp
+ul
+**N***** q*y* b****B*****
+AU*** singlecharacter **N***** e******H*** v***y e*f aK******** f****j aG
+f**e j**s**
+g*e En***** w***z*** AU*** g*e CN***** *X nu*****  I**  r*G* e**W
+ bitchar bu* v***t l***b** q*y* ia***  gI*  aG  gI*
+c**J* aG  bitchar bu* j*v* l**h  gI*  aG  gI*  c**J*
+*******r **N***** r*****J s**l****** C* h*O** eg lH*******
+cormack  horspool  q*H* i*M* g*e dn******** q*******z* *X
+aK******** f****j
+
+lH*******  t*****I*** aa a y**U* q* r*****J
+
+
+cormack horspool  **N***** r*****J eg***
+
+B*i** b****c***** *k b****B***** f*****R*** bu* ka** ia*** q*H* R** D****P
+bu* mG***** yN***  gK****** g*e i*****f**** *X g*e mildlyoptimized c
+a*P*********** *X aK******** f****j s*D* q*B* *X g*e usnixs
+ficompactfr CN***** B*g** j***D***** **N***** r*****J f****j AU***
+a G*****q modeldg
+fn
+dg ficompactfrs p***f *o d********m* g*e o*m* bu* j*v* ia*** ju** y***j
+*X yN***  **g *o cp**** bu* v***t ia*** q*A* g*e p***f r*q* j* h* mG*****
+*k q*J* r**G*
+ef
+e***e* d*********l *X ficompactfr n*****L** q*B* g*e bY** y*b** *k
+optimization *o E****I* c********j bu* a**n J***U** h*x aK******** f****j
+o*Y*** j**N***** q**a
+b****B***** i*****f**** *o EM****** cp**** s*D* aK******** f****j aa A** g*e
+mG***** ia***
+g*e e*******v* B***b m* Q********** s*D* k**f dY*********** vp**** q*B*
+B*****m J***K** s*D* c******J***** *******R*** e*m Ah*** f**w*** ********q****
+eg s***W* u k***p**** q
+pp
+ul
+nonadaptive f****j
+**n m* t**I***** *O************ AU*** iH*** prespecified vp**** ju** q*B* *k
+g*e iy*** mD** *X l*s***
+b****B***** i*****f**** s*m* m* cp**** q*A* r*****J f****j
+*k rZ*** aG minimize j**N***** q**a g*e z*q** k******J* e*v**
+cumfreq D*m*** m* f*n*** j* a s***s *X g*M l* g*e h****z***
+*k g*e dd**** *********R** l*s***  ow***  I**  **n m* dp**
+j* DK****
+encodedecode y***S *X a**h**  mus mus D*m*** q*G* m* y*****l*
+bu* h* a*****T* s****Y** a*P*********** aa a hj*
+a carefullywritten a*P*********** *X r*****J f****j AU*** yN*** t*I*** bu*
+k***W*** I** h******P B***b m* a *J* k****t *k q*J* *******C***
+pp
+ul
+b****A***** blackwhite qd****
+AU*** aK******** f****j b*y ap** d*******u*** q* langdon  rissanen
+hP* **d***** j*Y****** En***** AU*** a p***f B*g** b*****y**** g*e jH*********
+*X a y**a** ba*** b*C** aa a G**I**** *X y**a** l*I******** *p
+
+langdon rissanen  b****B***** *X blackwhite qd****
+
+g*e G**I**** f*n****** a z*q** *X g*c y**a** C***T*** e**W y***j s**** I**
+aG g*e i**O *X g*e i*c**** e*m l* q*B* q*H* B*****g *p *k g*e AP**** o*M*
+q*J* h****r*  hf******* y*****l* g***c*** I** bu* d*J* g*e jH********* *X
+g*e s*y** ba*** b*C** hG* ja******* **u******* j* g*e A*****l hG* l******D***
+d*J* y**a** y***X*** hG* q*G* ee*** *O************ *M******* aG q*J*
+jH*********
+a  f********p* *k b****B***** hG* a******X l**S k****O* xu*****
+aG q******S f****j xj*** langdon  rissanen r*q* h* *******X*** u***l*
+*X aK******** f****j B*g** b*n**** a*******n***** q* f********o**
+c******J***** j* s*****j y****U *X
+r*****J f****j e*w*** m* i******o r*q* *k q*J* *******C*** j* *p q**o*
+c********X s*D* a twosymbol *******k
+runlength f****j a B***G** u***l* bu* g*Z s*D* twovalued *******m*
+z**x**** a*J**** iU********* bu* aK******** f****j
+g*e p***f D**N*** g*e c*M* aG a C****B** *X vl***** *X oL** *X g*e o*m* Gj****
+eg bu* A*****l f****j runlengths *X b*C** m******X q* B*r** m******X q*
+b*C** m******X q* B*r**
+g*e C****B** *X vl***** k**D m* l******D***
+g*e ccitt j*****o** f****j E*****c* p***U*  B**C****  bu* mG*****
+a**P* a r*****J b**B aa g*e e******H*** s*D* B*g** b*C** I** B*r** oL** *X
+hf******* vl***** ra*** *k Ch**** h****N***
+
+p***U* B**C****  j*****o**
+
+a iH*** aK******** b**B AU*** y**W* o*m* e******H*** B***b f*A* cp****
+i*****f**** **M***** g*e e******H*** aG d*J* n***Z***** j*X***** B***b m*
+cp**** x**l*
+pp
+ul
+f****j arbitrarilydistributed r**D****
+*o rn*** eJ**** bu* sR** AU*** k**f dY*********** vp**** *X q*y* l**W*
+a* r*p** c*M*
+g**H**** bu* r**q**** c*S**** fiet alfrs  locallyadaptive c*M*
+b****B***** C*D*** *k B*g** g*e l**w*** I** i****I* c**T* g*e i**q n
+hf******* B**Q* o**g
+
+c*S**** sleator tarjan hM*  v**V*** **N*****
+j ****V********* *X g*e e**
+
+a s*R* B*****D *k g*e c**T* *o l******D*** q* GF***** g*e s*****j c**T* l***i
+B**Q* eG* *k g*e c**T* R** l******D*** q* GF***** a newword up**** m******X
+q* g*e c*D******* *X g*e s*R*
+q*J* *o h* j*Y****** p***f bu* q*y* *k B*g** B**Q* R** r*q* h*****a*** l**S
+v***t o*G****** I** q*G* eD** hK** j*v* A***C** *X i**b**
+y**T* r**G* h*V****** G*y**** variablelength codings bu* g*e r**D**** r*q*
+j* c**T* s***s**
+aK******** f****j ****y* fianyfr jH********* b******d**** aG m* r*q* j* g*e
+a**U* bu* a variablelength k***W*** n*****a** em ac***** f****c*** xe****
+em g*e l**h s**y*** q* g*e n***Z***** eg*** h*T****** y**V*
+*p *s** A***M** g*Z *X h* **N***** p***f bu* c**T*
+s***s** B*g** *o g*****W** *g g*e b******d**** *X c**T* g*F* *o
+hh******* aG B*****m *k ***b***
+e*******q** s*D* aK******** f****j g*e b**B w***S ******S* aG g*e c**T*
+s***s** **n m* C*n*** dJ** aG *d********* L** j*F**** jH********* bu* g*e
+newword up****
+sh i**************
+pp
+kt******* J*Y**** bu* q*J* s*T* b*y ap** z**v**** q* g*e
+y*J**** C*b***** I** d******D*** A******a h**H*** *X e*f***
+sh p***j*****
+sp
+cI*
+
+jT**
+
+*k
+n*
+sh a***k*** tc*** *X h******P j******u**
+sp
+AU*** s***W* ************* bu* cumfreq Gj**** dH* g*w* I**
+A*k** J*Z****
+*z
+cs    i**O f vl y***S c   l**S hl uI*** f
+cs
+le
+*k r*p** B**Q*
+*z
+b^* nluniur
+cs    vl y***S c   l**S r  l****B*
+cs
+le
+b^* n
+wherer  hl      l****B*    r l**S r
+sp
+g*e i**q j******u** *X  j*w**** e**W g*e eu** q*B* cs k**D m* h*
+s*****j  c
+q*G* aV s*B* aG o**T q*B*  l    v    h  B*e** l I** h
+R** g*e M*t**** I***L* bu* dH* I** g*w* j* i*****q bj***
+sp
+b^* k^*    u
+f*    l  i**O f r y***S cs l**S c uI*** f  ke**
+  l  r l**S c  i**O   vl y***S c   l**S r
+                             l****B*  uI***     e**W
+sp
+lineup   v         l**S c
+sp
+l*   l    v   wm*** a**n v I** l R** r**D****
+I** c
+sp
+bh    l  i**O f r y***S cs l**S c uI*** f  ke**
+  l   r l**S c  i**O   vl y***S c   l**S r
+                                 l****B*  uI***
+    e**W
+sp
+lineup   v    r l**S c  i**O      l**S r
+                                                   r l**S r uI***
+   v
+n*
+sh e*e***** bu* Gx****
+sp
+nf
+b^* wfigure   u
+yN*** mG***** iH*** p***f bu* *******k fia e i o u fr
+yN*** En***** bu* k***W*** I** h******P bz** ia***
+yN*** c***N**** *X K****a* bu* hj* a*****T* s****Y** M****l*
+yN*** c********m *X aK******** I** **N***** r*****J f****j
+fi
+sh e*e***** bu* nu*****
+sp
+nf
+b^* wfigure   u
+l*s*** a a************U *X g*e aK******** f****j Cw*****
+b ju** a **g s*D* g*e r**X**** C*n*** g^* k* d*J* x*s**
+l*s*** pseudocode bu* g*e k***W*** I** h******P o****y****
+l*s*** c a*P*********** *X aK******** k***W*** I** h******P
+l*s*** iH*** I** **N***** vp**** bu* g*Z s*D* l*s***
+l*s*** F**V*** g*e r**X**** aG B*****S Be*******
+fi
+n*
+K*
+nr x wsymbol
+nr x wsymboliwprobability
+nr x wprobabilityi
+nr x w
+nr x nxnxnxnxw
+nr x nlnx
+*k nxu
+b^* nxuc nxuc nxu nxu
+lnxu
+sp
+symbolprobabilityrange
+lnxu
+sp
+fiafr
+fiefr
+fiifr
+fiofr
+fiufr
+fifr
+lnxu
+sp
+*k
+fe yN***   mG***** iH*** p***f bu* *******k fia e i o u fr
+n*
+K*
+nr x iwfivax w**u** programfr      w      wtime mus  wtime mus    wtime mus  wtime mus    wtime mus  wtime mus
+nr x nlnx
+*k nxu
+b^* i wfivax w**u** programfr      u w      u wtime mus  u wtime mus    u wtime mus  u wtime mus    u wtime mus  u
+lnxu
+sp
+vaxmacintoshsun
+xy**** j****l h***m* j****l h***m* j****l h***m*
+bytestime mustime mustime mustime mustime mustime mus
+lnxu
+sp
+u***T* optimized c a*P***********
+sp
+fitext filefr
+fic programfr
+fivax w**u** programfr
+fialphabetfr
+fiskewstatisticsfr
+sp
+d*Z****** optimized a*****T* s****Y** a*P***********
+sp
+fitext filefr
+fic programfr
+fivax w**u** programfr
+fialphabetfr
+fiskewstatisticsfr
+
+lnxu
+sp
+nr x nl
+ll nluniu
+fi
+*k wfinotesfr  u
+ti wfinotesfr  u
+finotesfr  c
+y***S R** u***T*** *k mus e*Y bz** *X g*********I* c*M*
+sp
+g*e hj* b*s a floatingpoint O********** B*g** D**N*** s*****j
+v****V** I** i**k** y***S
+sp
+g*e p*******N r*s* h*  d*v mc s*D* p*N* u**y** r**R FA****
+sp
+g*e gH* r*s* a  d*v mc
+sp
+A** y***S mT***** *l I** s**B***** Gs**** xM****** *k J*Y**** *X *l
+hj* I** gH* nu***** f*A* r*r* q**a e**W g*e usnixs fitimefr
+g****P* aa g*e p*******N *l hG* g*****O*** i******n aG h* al***
+sp
+g*e *Y* c gO****** hG* r*q* bu* hj* I** gH* a*F** c g bu* p*******N
+sp
+ll nxu
+nf
+*k
+fe yN***   En***** bu* k***W*** I** h******P bz** ia***
+n*
+K*
+nr x wfivax w**u** programfr        wbounds a******t***        wtime mus    wtime mus
+nr x nlnx
+*k nxu
+b^* wfivax w**u** programfr        u wbounds a******t***        u wtime mus    u wtime musu
+lnxu
+sp
+ j****l h***m*
+q**a mustime mus
+lnxu
+sp
+fitext filefrbounds a******t***
+*J* C******y
+p***f I**D**
+Gj**** decodeem
+r*p**
+lwulwu
+
+sp
+fic programfrbounds a******t***
+*J* C******y
+p***f I**D**
+Gj**** decodeem
+r*p**
+lwulwu
+
+sp
+fivax w**u** programfrbounds a******t***
+*J* C******y
+p***f I**D**
+Gj**** decodeem
+r*p**
+lwulwu
+
+lnxu
+*k
+fe yN***   c***N**** *X K****a* bu* hj* a*****T* s****Y** M****l*
+n*
+K*
+nr x wfivax w**u** programfr      w      wtime mus  wtime mus    w      wtime mus  wtime mus
+nr x nlnx
+*k nxu
+b^* wfivax w**u** programfr      u w      u wtime mus  u wtime mus    u w      u wtime mus  u wtime musu
+lnxu
+sp
+aK******** codingadaptive r*****J f****j
+xy**** j****l decodeoutput j****l h***m*
+bytestime mustime musbytestime mustime mus
+lnxu
+sp
+fitext filefr
+fic programfr
+fivax w**u** programfr
+fialphabetfr
+fiskewstatisticsfr
+lnxu
+sp
+nr x nl
+ll nluniu
+fi
+*k wfinotesfr  u
+ti wfinotesfr  u
+finotesfr  c
+u***T* optimized c a*P*********** r*q* bu* aK******** f****j
+sp
+usnixs ficompactfr r*q* bu* **N***** r*****J f****j
+sp
+y***S R** bu* a hj* I** mT***** *l I** s**B***** Gs**** xM****** *k
+J*Y**** *X *l
+sp
+ll nxu
+nf
+*k
+fe yN***   c********m *X aK******** I** **N***** r*****J f****j

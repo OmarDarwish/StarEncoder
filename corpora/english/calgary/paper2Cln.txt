@@ -1,0 +1,1731 @@
+pn 
+ls
+eq
+delim 
+en
+ev
+ps
+vs
+ev
+
+sp 
+ps
+ce
+computer insecurity em
+sp
+ce
+infiltrating open systems
+ps
+sp
+ce
+ian h witten
+sp
+ce
+department of computer science
+the university of calgary
+ university drive nw
+calgary canada tn n
+sp
+ce
+november 
+revised march 
+bp 
+ls 
+pp
+shared computer systems today are astonishingly insecure
+and users on the whole are blithely unaware of the weaknesses of the
+systems in which they place em or rather misplace em their trust
+taken literally of course it is meaningless to trust a computer system
+as such for machines are neither trustworthy nor untrustworthy
+these are human qualities
+in trusting a system one is effectively trusting all those who create and
+alter it in other words all who have access whether licit or
+illicit
+security is a fundamentally fihumanfp issue
+pp
+this article aims not to solve security problems but to raise reader
+consciousness
+of the multifarious cunning ways that systems can be infiltrated and the
+subtle but devastating damage that an unscrupulous infiltrator can wreak
+it is comforting but highly misleading to imagine that technical means of
+enforcing security have guaranteed that the systems we use are safe
+it is true that in recent years some ingenious procedures have been invented
+to preserve security
+for example the advent of oneway functions explained below has
+allowed the password file once a computer systems central stronghold to be
+safely exposed to casual inspection by all and sundry
+but despite these innovations astonishing loopholes exist in practice
+pp
+there are manifest advantages in ensuring security by technical means rather
+than by keeping things secret
+not only do secrets leak but as individuals change projects
+join or leave the organization become promoted and so on they need to learn
+new secrets and forget old ones
+with physical locks one can issue and withdraw keys to reflect changing
+security needs
+but in computer systems the keys constitute information which can be given
+out but not taken back because noone can force people to forget
+in practice such secrets require considerable administration to maintain
+properly
+and in systems where security is maintained by tight control of information
+ul
+quis custodiet ipsos custodes
+em who will guard the guards themselves
+pp
+there is a wide range of simple insecurities that many
+systems suffer
+these are in the main exacerbated in open systems where information and
+programs are shared among users em just those features that characterize
+pleasant and productive working environments
+the saboteurs basic tool is the trojan horse
+a widely trusted program which has been surreptitiously modified to do
+bad things in secret
+bad things range from minor but rankling irritations through theft of
+information to holding users to ransom
+the inevitable fragilities of operating systems can
+be exploited by constructing programs which behave in some ways like primitive
+living organisms
+programs can be written which spread bugs like an epidemic
+they hide in binary code effectively undetectable because nobody ever
+examines binaries
+they can remain dormant for months or years perhaps quietly and imperceptibly
+infiltrating their way into the very depths of a system then suddenly pounce
+causing irreversible catastrophe
+a clever and subtle bugdg can survive
+recompilation despite the fact that there is no record of it in the source
+program
+fn
+dg throughout this article the word bug is meant to bring to mind a
+concealed snooping device as in espionage or a microorganism carrying
+disease as in biology rather than an inadvertent programming error
+ef
+this is the ultimate parasite
+it cannot be detected because it lives only in binary code
+and yet it cannot be wiped out by recompiling the source program
+we might wonder whether these techniques which this article develops
+and explains in the context of multiuser timesharing operating systems
+pose any threats to computer networks or even standalone micros
+pp
+although the potential has existed for decades the possibility of the kind of
+deviant software described here has been recognized only recently
+or has it
+probably some in the world of computer wizards and sorcerers have known for
+years how systems can be silently subtly infiltrated em and concealed
+the information for fear that it might be misused or for other reasons
+but knowledge of the techniques is spreading nevertheless and i believe it
+behooves us all em professionals and amateurs alike em to understand just
+how our continued successful use of computer systems hangs upon a thread of
+trust
+those who are ignorant of the possibilities of sabotage can easily be
+unknowingly duped by an unscrupulous infiltrator
+pp
+the moral is simple
+computer security is a human business
+one way of maintaining security is to keep things secret trusting people
+the very people who can do you most harm not to tell
+the alternative is to open up the system and rely on technical means
+of ensuring security
+but a system which is really open is also open to abuse
+the more sharing and productive the environment the more potential exists for
+damage
+you have to trust your fellow users and educate yourself
+if mutual trust is the cornerstone of computer security wed better know it
+sh the trend towards openness
+pp
+many people believe that computer systems can maintain security not
+by keeping secrets but by clever technical mechanisms
+such devices include electronic locks and keys and schemes for maintaining
+different sets of permissions or privileges for each user
+the epitome of this trend towards open systems is the wellknown sunixs
+operating system whose developers dennis ritchie and ken thompson strove
+to design a clean elegant piece of software that could be understood
+maintained and modified by users
+in  they received the prestigious acm turing award for their work  c
+ken thompson has been one of the prime contributors to our knowledge of
+computer insecurity and was responsible for much of the work described in
+this article
+pp
+the most obvious sense in which the sunixs system
+is open is illustrated by looking at its password file
+yes there is nothing to stop you from looking at this file
+each registered user has a line in it and figure  shows mine
+it wont help you to impersonate me however because what it shows in the
+password field is not my password but a scrambled version of it
+there is a program which computes encrypted passwords from plain ones and
+that is how the system checks my identity when i log in
+but the program doesnt work in reverse em its what is called a oneway
+function see panel 
+it is effectively impossible to find the plain version from the encrypted one
+even if you know exactly what the encryption procedure does and try to work
+carefully backward through it
+finobodyfr can recover my plain password from the information stored in the
+computer
+if i forget it not even the system manager can find out what it is
+the best that can be done is to reset my password to some standard one so
+that i can log in and change it to a new secret password
+needless to say this creates a window of opportunity for an imposter  c
+the system keeps no secrets
+only i do
+pp
+before people knew about oneway functions computer systems maintained a
+password file which gave everyones plain password for the login procedure to
+consult
+this was the prime target for anyone who tried to
+break security and the bane of system managers because of the
+completely catastrophic nature of a leak
+systems which keep no secrets avoid an unnecessary achilles heel
+pp
+another sense in which sunixs is open is the accessibility of its
+source code
+the software written in the language c has been distributed
+to universities in source form so that maintenance can be done locally
+the computer science research community has enjoyed numerous benefits from
+this enlightened policy one is that we can actually look at some of the
+security problems discussed in this article
+of course in any other system there will inevitably be a large number of
+people who have or have had access to the source code em even though it may
+not be publicly accessible
+operating systems are highly complex pieces of technology created by large
+teams of people
+a determined infiltrator may well be able to gain illicit access to source
+code
+making it widely available has the very positive effect of bringing the
+problems out into the open and offering them up for public scrutiny
+pp
+were it attainable perfect secrecy would offer a high degree of security
+many people feel that technical innovations like oneway functions and
+open password files provide comparable protection
+the aim of this article is to show that this is a dangerous misconception
+in practice security is often severely compromised by people who have
+intimate knowledge of the inner workings of the system em precisely the
+people you rely on to fiprovidefr the security
+this does not cause problems in research laboratories because they are
+founded on mutual trust and support
+but in commercial environments it is vital to be aware of any limitations on
+security
+we must face the fact that
+in a hostile and complex world computer security is best preserved by
+maintaining secrecy
+sh a potpourri of security problems
+pp
+here are a few simple ways that security might be compromised
+rh guessing a particular users password
+whether your password is stored in a secret file or encrypted by a oneway
+function first it offers no protection if it can easily be guessed
+this will be hard if it is chosen at random from a large enough set
+but for a short sequence of characters from a restricted alphabet
+like the lowercase letters an imposter could easily try all possibilities
+and in an open system which gives access to the password file and oneway
+function this can be done mechanically by a program
+pp
+in figure  the number of different passwords is plotted against the length
+of the password for several different sets of characters
+for example there are about ten million  sup  possibilities for a
+character password chosen from the lowercase letters
+this may seem a lot but if it takes  msec to try each one they can all be
+searched in about  hours
+if character passwords are selected from the  alphanumerics there
+are more than  times as many and the search would take over  days
+pp
+to make matters worse people have a strong propensity to choose as
+passwords such things as
+lb
+np
+english words
+np
+english words spelled backwards
+np
+first names last names street names city names
+np
+the above with initial uppercase letters
+np
+valid car license numbers
+np
+room numbers social security numbers telephone numbers etc
+le
+of course this isnt particularly surprising since passwords have to be
+mnemonic in order to be remembered
+but it makes it easy for an enterprising imposter to gather a substantial
+collection of candidates from dictionaries mailing lists etc and search
+them for your password
+at  msec per possibility it takes only  minutes to search a word
+commercial dictionary
+pp
+a study some years ago of a collection of actual passwords that people used to
+protect their accounts revealed the amazing breakdown reproduced in figure 
+most fell into one of the categories discussed leaving less
+than  of passwords which were hard to guess
+where does your own password stand in the pie diagram
+rh finding any valid password
+there is a big difference between finding a particular persons password and
+finding a valid password for any user
+you could start searching through the candidates noted above until you found
+one which when encrypted matched one of the entries in the password file
+that way you find the most vulnerable user and there are almost certain to be
+some lazy and crazy enough to use easilyguessable passwords fourletter
+words or whatever
+hashing techniques make it almost as quick to check a candidate against a
+group of encrypted passwords as against a single one
+pp
+a technique called salting protects against this kind of attack
+whenever a users password is initialized or changed a small random number
+called the salt is generated perhaps from the time of day
+not only is this combined with the password when it is encrypted but as
+figure  shows it is also stored in the password file for everyone to see
+every time someone claiming to be that user logs in the salt is combined with
+the password offered before being encrypted and compared
+with whatever is stored in the password file
+for example say my password was wxs it isnt
+if the salt is u as in figure  the system will apply its oneway
+function to wxsu to get the encrypted password
+pp
+since all can see the salt it is no harder for anyone to guess
+an individual users password
+one can salt guesses just as the system does
+but it fiisfr harder to search a group of passwords since the salt will be
+different for each rendering it meaningless to compare a single encrypted
+password against all those in the group
+suppose you were checking to see if anyone had the password hello
+without salting you simply apply the oneway function to this word and
+compare the result with everyones encrypted password
+but with salting its not so easy since to see if my password is hello
+you must encrypt hellou and the salt is different for everyone
+rh forcedchoice passwords
+the trouble with letting users choose their own passwords is that they often
+make silly easilyguessed choices
+many systems attempt to force people to choose more random passwords and
+force them to change their password regularly
+all these attempts seem to be complete failures
+the fundamental problem is that people have to be able to remember their
+passwords because security is immediately compromised if they are written
+down
+pp
+there are many amusing anecdotes about how people thwart systems that attempt
+to dictate when they have to change their passwords
+i had been using a new system for some weeks when it insisted that i change my
+password
+resenting it ordering me about i gave my old password as the new one
+but it was programmed to detect this ruse and promptly told me so
+i complained to the user sitting beside me
+i know she said sympathetically
+what i always do is change it to something else and then immediately
+change it back again  c
+another system remembered your last several passwords and insisted on a
+onceamonth change
+so people began to use the name of the current month as their password
+rh wiretaps
+obviously any kind of password protection can be thwarted by a physical
+wiretap
+all one has to do is watch as you log in and make a note of your password
+the only defense is encryption at the terminal
+even then you have to be careful to ensure that someone cant intercept
+your encrypted password and pose as you later on by sending this
+fiencryptedfr string to the computer em after all this is what the
+computer sees when you log in legitimately
+to counter this the encryption can be made timedependent so that the same
+password translates to different strings at different times
+pp
+assuming that you like  of the rest of us dont go to the trouble of
+terminal encryption when was the last time you checked the line between your
+office terminal and the computer for a physical wiretap
+rh search paths
+we will see shortly that you place yourself completely at the mercy of other
+users whenever you execute their programs and they
+can do some really nasty things like spreading infection to your files
+however you dont necessarily have to execute someone elses program overtly
+for many systems make it easy to use other peoples
+programs without even realizing it
+this is usually a great advantage for you can install programs so that you
+or others can invoke them just like ordinary system programs thereby
+creating personalized environments
+pp
+figure  shows part of the file hierarchy in our system
+the whole hierarchy is immense em i alone have something like  files
+organized into  of my own directories under the ian node shown in the
+figure and there are hundreds of other users em and what is shown is just a
+very small fragment
+users can set up a search path which tells the system
+where to look for programs they invoke
+for example my search path includes the  places that are circled
+whenever i ask for a program to be executed the system seeks it in these
+places
+it also searches the current directory em the one where i happen to be
+at the time
+pp
+to make it more convenient for you to set up a good working environment it
+is easy to put someone elses file directories on your search path
+but then they can do arbitrary damage to you sometimes completely
+accidentally
+for example i once installed a spreadsheet calculator called sc in one
+of my directories
+unknown to me another user suddenly found that the simula compiler stopped
+working and entered a curious mode where it cleared his vdt screen and wrote
+a few incomprehensible characters on it
+there was quite a hiatus
+the person who maintained the simula compiler was away
+but people could see no reason for the compiler to have been altered
+of course told like this it is obvious that the user had my directory on his
+search path and i had created a name conflict with fiscfr the simula
+compiler
+but it was not obvious to the user who rarely thought about the search path
+mechanism
+and i never use the simula compiler and had created the conflict in all
+innocence
+moreover i didnt even know that other users had my directory on their search
+paths
+this situation caused only frustration before the problem was diagnosed and
+fixed
+but what if i were a bad guy who had created the new fiscfr program to
+harbor a nasty bug say one which deleted the hapless users files
+pp
+you dont necessarily have to put someone on your search path to run the
+risk of executing their programs accidentally
+as noted above the system usually checks your current working directory
+for the program first
+whenever you change your current workplace to anothers directory you
+might without realizing it begin to execute programs that had been
+planted there
+pp
+suppose a hacker plants a program with the same name as a common
+utility program
+how would you find out
+the sunixs filsfr command lists all the files in a directory
+perhaps you could find imposters using filsfr  em sorry
+the hacker might have planted another program called filsfr which
+simulated the real filsfr exactly except that it lied about its own
+existence and that of the planted command
+the fiwhichfr command tells you which version of a program you
+are using em whether it comes from the current directory another users
+directory or a system directory
+surely this would tell you  em sorry
+the hacker might have written another fiwhichfr which lied about itself
+about filsfr and about the plant
+pp
+if you put someone else on your search path or change into their directory
+youre implicitly trusting them
+you are completely at a users mercy when you execute one of their programs
+whether accidentally or on purpose
+rh programmable terminals
+things are even worse if you use a programmable terminal
+then the computer can send a special sequence of characters to command the
+terminal to transmit a particular message whenever a particular key is struck
+for example on the terminal i am using to type this article you could
+program the sreturns key to transmit the message hello whenever it
+is pressed
+all you need to do to accomplish this is to send my terminal the character
+sequence
+lb
+sescapes p    h e l l o  sescapes
+le
+sescapes stands for the sasciis escape character decimal 
+which is invoked by a key labeled esc  c
+this is a mysterious and ugly incantation and i wont waste time
+explaining the syntax
+but it has an extraordinary effect
+henceforth every time i hit the return key my terminal will transmit the
+string hello instead of the normal sreturns code
+and when it receives this string the computer i am connected to will try to
+execute a program called hello
+pp
+this is a terrible source of insecurity
+someone could program my terminal so that it executed one of fitheirfr
+programs whenever i pressed sreturns
+that program could reinstate the sreturns code to make it
+appear afterwards as though nothing had happened
+before doing that however it could for example delete all my files
+pp
+the terminal can be reprogrammed just by sending it an ordinary character
+string
+the string could be embedded in a file so that the terminal would be bugged
+whenever i viewed the file
+it might be in a seemingly innocuous message
+simply reading mail could get me in trouble
+it could even be part of a file finamefr so that the bug would appear
+whenever i listed a certain directory em not making it my current directory
+as was discussed above but just fiinspectingfr it
+but i shouldnt say appear for thats exactly what it might not do
+i may never know that anything untoward had occurred
+pp
+how can you be safe
+the programming sequences for my terminal all start with sescapes
+which is an sasciis control character
+anyone using such a terminal should whenever possible work through a
+program that exposes control characters
+by this i mean a program that monitors output from the computer and translates
+the escape code to something like the character sequence esc
+then a raw sescapes itself never gets sent to the terminal
+so the reprogramming mechanism is never activated
+pp
+not only should you avoid executing programs written by people you dont
+trust but in extreme cases you should take the utmost care in fianyfr
+interaction with untrustworthy people em even reading their electronic
+mail
+sh trojan horses getting under the skin
+pp
+the famous legend tells of a huge hollow wooden horse filled with greek
+soldiers which was left ostensibly as a gift at the gates of the city of
+troy
+when it was brought inside the soldiers came out at night and
+opened the gates to the greek army which destroyed the city
+to this day something used to subvert an organization from within by abusing
+misplaced trust is called a trojan horse
+pp
+in any computer system for which security is a concern there must be things
+that need protecting
+these invariably constitute some kind of information since the computer is
+at heart an information processor and such information invariably outlasts
+a single login session and is therefore stored in the computers file system
+consequently the file system is the bastion to be kept secure and will be
+the ultimate target of any invader
+some files contain secret information that not just anyone may read
+others are vital to the operation of an organization and must at all costs
+be preserved from surreptitious modification or deletion
+a rather different thing that must be protected is the identity of each
+user
+false identity could be exploited by impersonating someone else in order to
+send mail
+ultimately of course this is the same as changing data in mailbox files
+conversely since for each and every secret file fisomeonefr must
+have permission to read and alter it preserving file system security
+requires that identities be kept intact
+rh what might a trojan horse do
+the simplest kind of trojan horse turns a common program like a text editor
+into a security threat by implanting code in it which secretly reads
+or alters files it is not intended to
+an editor normally has access to all the users
+files otherwise they couldnt be altered
+in other words the program runs with the users own privileges
+a trojan horse in it can do anything the user himself could do including
+reading writing or deleting files
+pp
+it is easy to communicate stolen information back to the person who bugged
+the editor
+most blatantly the access permission of a secret file could be changed so
+that anyone can read it
+alternatively the file could be copied temporarily to disk em most systems
+allocate scratch disk space for programs that need to create temporary working
+files em and given open access
+another program could continually check for it and when
+it appeared read and immediately delete it to destroy the trace
+more subtle ways of communicating small amounts of information might be to
+rearrange disk blocks physically so that their addresses formed a code or to
+signal with the runidle status of the process to anyone who monitored the
+systems job queue
+clearly any method of communication will be detectable by others em in
+theory
+but so many things go on in a computer system that messages can easily be
+embedded in the humdrum noise of countless daily events
+pp
+trojan horses dont necessarily do bad things
+some are harmless but annoying created to meet a challenge rather than to
+steal secrets
+one such bug the cookie monster signals its presence by announcing
+to the unfortunate user i want a cookie
+merely typing the word cookie will satiate the monster and cause it to
+disappear as though nothing had happened
+but if the user ignores the request although the monster appears to go
+away it returns some minutes later with im hungry i really want a
+cookie
+as time passes the monster appears more and more frequently with increasingly
+insistent demands until it makes a serious
+threat  ill remove some of your files if you dont give me a cookie
+at this point the poor user realizes that the danger is real and is
+effectively forced into appeasing the monsters appetite by supplying the word
+cookie
+although an amusing story to tell it is not pleasant to imagine being
+intimidated by an inanimate computer program
+pp
+a more innocuous trojan horse installed by a system programmer to commemorate
+leaving her job occasionally drew a little teddybear on the graphplotter
+this didnt happen often roughly every tenth plot and even when it did
+it occupied a remote corner of the paper well outside the normal plotting
+area
+but although they initially shared the joke management soon ceased to
+appreciate the funny side and ordered the programmers replacement to get rid
+of it
+unfortunately the bug was well disguised and many fruitless hours were spent
+seeking it in vain
+management grew more irate and the episode ended when the originator
+received a desperate phonecall from her replacement whose job was by now at
+risk begging her to divulge the secret
+rh installing a trojan horse
+the difficult part is installing the trojan horse into a trusted program
+system managers naturally take great care that only a few people get access
+to suitable host programs
+if anyone outside the select circle of system people is ever given an
+opportunity to modify a commonlyused program like a text editor
+for example to add a new feature all changes will be closely scrutinized by
+the system manager before being installed
+through such measures the integrity of system programs is preserved
+note however that constant vigilance is required for once bugged a system
+can remain compromised forever
+the chances of a slipup may be tiny but the consequences are unlimited
+pp
+one good way of getting bugged code installed in the system is to write a
+popular utility program
+as its user community grows more and more people will copy the program into
+their disk areas so that they can use it easily
+eventually if it is successful the utility will be installed as a system
+program
+this will be done to save disk space em so that the users can delete their
+private versions em and perhaps also because the code can now be made
+sharable in that several simultaneous users can all execute a single copy
+in main memory
+as a system program the utility may inherit special privileges and so be
+capable of more damage
+it may also be distributed to other sites spreading the trojan horse far and
+wide
+pp
+installing a bug in a system utility like a text editor puts anyone who uses
+that program at the mercy of whoever perpetrated the bug
+but it doesnt allow that person to get in and do damage at any time for
+nothing can be done to a users files until that user invokes the bugged
+program
+some system programs however have a special privilege which allows them
+access to files belonging to fianyonefr not just the current user
+well refer to this as the ultimate privilege since nothing could be more
+powerful
+an example of a program with the ultimate privilege is the filoginfr program
+which administers the logging in sequence accepting the user name and
+password and creating an appropriate initial process
+although sunixs filoginfr runs as a normal process it must have the
+power to masquerade as any user since that is in effect the goal of the
+logging in procedure
+from an infiltrators point of view this would be an excellent
+target for a trojan horse
+for example it could be augmented to grant access automatically to any user
+who typed the special password trojanhorse see panel 
+then the infiltrator could log in as anyone at any time
+naturally any changes to filoginfr will be checked especially carefully
+by the system administrators
+pp
+some other programs are equally vulnerable em but not many
+of several hundred utilities in sunixs only around a dozen have the
+ultimate privilege that filoginfr enjoys
+among them are the fimailfr facility the fipasswdfr program which lets
+users change their passwords fipsfr which examines the status of all
+processes in the system filquotafr that enforces disk quotas fidffr
+which shows how much of the disk is free and so on
+these speciallyprivileged programs are prime targets for trojan horses since
+they allow access to any file in the system at any time
+rh bugs can lurk in compilers
+assuming infiltrators can never expect to be able to modify the source code of
+powerful programs like filoginfr is there any way a bug can be planted
+indirectly
+yes there is
+remember that it is the object code em the file containing executable
+machine instructions em that actually runs the logging in process
+it is this that must be bugged
+altering the source code is only one way
+the object file could perhaps be modified directly but this is likely to be
+just as tightly guarded as the filoginfr source
+more sophisticated is a modification to the compiler itself
+a bug could try to recognize when it is filoginfr that is being compiled
+and if so insert a trojan horse automatically into the compiled code
+pp
+panel  shows the idea
+the sunixs filoginfr program is written in the c programming language
+we need to modify the compiler so that it recognizes when it is compiling
+the filoginfr program
+only then will the bug take effect so that all other compilations proceed
+exactly as usual
+when filoginfr is recognized an additional line is inserted into it by
+the compiler at the correct place em so that exactly the same bug is
+planted as in panel 
+but this time the bug is placed there by the compiler itself and does not
+appear in the source of the filoginfr program
+it is important to realize that nothing about this operation depends on the
+programming language used
+all examples in this article could be redone using say pascal
+however c has the advantage that it is actually used in a widespread
+operating system
+pp
+the true picture would be more complicated than this simple sketch
+in practice a trojan horse would likely require several extra lines of code
+not just one and they would need to be inserted in the right place
+moreover the code in panel  relies on the filoginfr program being laid
+out in exactly the right way em in fact it assumes a rather unusual
+convention for positioning the line breaks
+there would be extra complications if a more common layout style were used
+but such details although vital when installing a trojan horse in practice
+do not affect the principle of operation
+pp
+we have made two implicit assumptions that warrant examination
+first the infiltrator must know what the filoginfr program looks like in
+order to choose a suitable pattern from it
+this is part of what we mean by openness
+second the bug would fail if the filoginfr program were altered so that the
+pattern no longer matched
+this is certainly a real risk though probably not a very big one in practice
+for example one could simply check for the text strings login and
+password em it would be very unlikely that anything other than the
+filoginfr program would contain those strings and also very unlikely that
+filoginfr would be altered so that it didnt
+if one wished more sophisticated means of program identification could be
+used
+the problem of identifying programs from their structure despite superficial
+changes is of great practical interest in the context of detecting cheating
+in student programming assignments
+there has been some research on the subject which could be exploited to make
+such bugs more reliable
+pp
+the trojan horses we have discussed can all be detected quite easily by casual
+inspection of the source code
+it is hard to see how such bugs could be hidden effectively
+but with the compilerinstalled bug the filoginfr program is compromised
+even though its source is clean
+in this case one must seek elsewhere em namely in the compiler em for the
+source of trouble but it will be quite evident to anyone who glances in the
+right place
+whether such bugs are likely to be discovered is a moot point
+in real life people simply dont go round regularly em or even irregularly
+em inspecting working code
+sh viruses spreading infection like an epidemic
+pp
+the thought of a compiler planting trojan horses into the
+object code it produces raises the specter of bugs being inserted into a large
+number of programs not just one
+and a compiler could certainly wreak a great deal of havoc since it has
+access to a multitude of object programs
+consequently system programs like compilers software libraries and so on
+will be very well protected and it will be hard to get a chance to bug them
+even though they dont possess the ultimate privilege themselves
+but perhaps there are other ways of permeating bugs throughout a computer
+system
+pp
+unfortunately there are
+the trick is to write a bug em a virus em that spreads itself like an
+infection from program to program
+the most devastating infections are those that dont affect their carriers
+em at least not immediately em but allow them to continue to live normally
+and in ignorance of their disease innocently infecting others while going
+about their daily business
+people who are obviously sick arent nearly so effective at spreading
+disease as those who appear quite healthy
+in the same way a program a can corrupt another program b silently
+unobtrusively in such a way that when b is invoked by an innocent and
+unsuspecting user it spreads the infection still further
+pp
+the neat thing about this from the point of view of whoever plants the bug
+is that infection can pass from programs written by one user to those written
+by another and gradually permeate the whole system
+once it has gained a foothold it can clean up incriminating evidence
+which points to the originator and continue to spread
+recall that whenever you execute a program written by another you place
+yourself in their hands
+for all you know the program you use may harbor a trojan horse designed to do
+something bad to you like activate a cookie monster
+let us suppose that being aware of this you are careful not to execute
+programs belonging to other users except those written by your closest and
+most trusted friends
+even though you hear of wonderful programs created by those outside
+your trusted circle which could be very useful to you and save a great deal
+of time you are strongminded and deny yourself their use
+but maybe your friends are not so circumspect
+perhaps one of them has invoked a hackers bugged program and unknowingly
+caught the disease
+some of your friends own programs are infected
+fortunately perhaps they arent the ones you happen to use
+but day by day as your friend works the infection spreads throughout all his
+or her programs
+and then you use one of them 
+rh how viruses work
+surely this cant be possible
+how can mere programs spread bugs from one to the other
+actually its very simple
+imagine
+take any useful program that others may want to execute and modify it as
+follows
+add some code to the beginning so that whenever it is executed before
+entering its main function and unknown to the user it acts as a virus
+in other words it does the following
+it searches the users files for one which is
+lb
+np
+an executable program rather than say a text or data file
+np
+writable by the user so that they have permission to modify it
+np
+not infected already
+le
+having found its victim the virus infects the file
+it simply does this by putting a piece of code at the beginning which makes
+that file a virus too
+panel  shows the idea
+pp
+notice that in the normal case a program that you invoke can write or
+modify any files that fiyoufr are allowed to write or modify
+its not a matter of whether the programs author or owner can alter the
+files
+its the person who invoked the program
+evidently this must be so for otherwise you couldnt use say editors
+created by other people to change your own files
+consequently the virus isnt confined to programs written by its perpetrator
+as figure  illustrates people who use any infected program will have one of
+their own programs infected
+any time an afflicted program runs it tries to pollute another
+once you become a carrier the germ will eventually spread em slowly
+perhaps em to all your programs
+and anyone who uses one of your programs even once will get in trouble too
+all this happens without you having an inkling that anything untoward is going
+on
+pp
+would you ever find out
+well if the virus took a long time to do its dirty work you might wonder why
+the computer was so slow
+more likely than not you would silently curse management for passing up
+that last opportunity to upgrade the system and forget it
+the real giveaway is that file systems store a whenlastmodified date with
+each file and you may possibly notice that a program you thought you
+hadnt touched for years seemed suddenly to have been updated
+but unless youre very security conscious youd probably never look at the
+files date
+even if you did you may well put it down to a mental aberration em or
+some inexplicable foible of the operating system
+pp
+you might very well notice however if all your files changed their
+lastwritten date to the same day
+this is why the virus described above only infects one file at a time
+sabotage like making love is best done slowly
+probably the virus should lie low for a week or two after being installed in a
+file
+it could easily do this by checking its hosts lastwritten date  c
+given time a cautious virus will slowly but steadily spread throughout a
+computer system
+a hasty one is much more likely to be discovered
+richard dawkins fascinating book fithe selfish genefr gives a gripping
+account of the methods that nature has evolved for selfpreservation
+which are far more subtle than the computer virus i have described
+perhaps this bodes ill for computer security in the future
+pp
+so far our virus sought merely to propagate itself not to inflict damage
+but presumably its perpetrator had some reason for planting it
+maybe they wanted to read a file belonging to some particular person
+whenever it woke up the virus would check who had actually invoked the
+program it resided in
+if it was the unfortunate victim em bingo it would spring into action
+another reason for unleashing a virus is to disrupt the computer system
+again this is best done slowly
+the most effective disruption will be achieved by doing nothing at all for a
+few weeks or months other than just letting the virus spread
+it could watch a certain place on disk for a signal to start doing damage
+it might destroy information if its perpetrators computer account had been
+deleted say they had been rumbled and fired
+or the management might be held to ransom
+incidentally the most devastating way of subverting a system is by destroying
+its files randomly a little at a time
+erasing whole files may be more dramatic but is not nearly so disruptive
+contemplate the effect of changing a random bit on the disk every day
+rh experience with a virus
+earlier i said imagine
+no responsible computer professional would do such a thing as unleashing a
+virus
+computer security is not a joke
+moreover a bug such as this could very easily get out of control and end up
+doing untold damage to every single user
+pp
+however with the agreement of a friend that we would try to bug each other
+i did once plant a virus
+long ago like many others he had put one of my file directories on his
+search path for i keep lots of useful programs there
+it is a tribute to human trust em or foolishness em that many users
+including this friend fistillfp have my directory on their search paths
+despite my professional interest in viruses  c
+so it was easy for me to plant a modified version of the filsfr command
+which lists file directories
+my modification checked the name of the user who had invoked filsfr and if
+it was my friend infected one of his files
+actually because it was sloppily written and made the filsfr command
+noticeably slower than usual my friend twigged what was happening almost
+immediately
+he aborted the filsfr operation quickly but not quickly enough for the
+virus had already taken hold
+moreover i told him where the source code was that did the damage and he was
+able to inspect it
+even so  of his files had been infected and a few of his graduate
+students too before he was able to halt the spreading epidemic
+pp
+like a real virus this experimental one did nothing but reproduce itself at
+first
+whenever any infected program was invoked it looked for a program in one
+of my directories and executed it first if it existed
+thus i was able to switch on the sabotage part whenever i wanted
+but my sabotage program didnt do any damage
+most of the time it did nothing but there was a  chance of it
+starting up a process which waited a random time up to  minutes and printed
+a rude message on my friends vdt screen
+as far as the computer was concerned of course this was fihisfr process
+not mine so it was free to write on his terminal
+he found this incredibly mysterious partly because it didnt often happen
+and partly because it happened long after he had invoked the program which
+caused it
+its impossible to fathom cause and effect when faced with randomness and long
+time delays
+pp
+in the end my friend found the virus and wiped it out
+for safetys sake it kept a list of the files it had infected so
+that we could be sure it had been completely eradicated  c
+but to do so he had to study the source code i had written for the virus
+if i had worked secretly he would have had very little chance of discovering
+what was going on before the whole system had become hopelessly infiltrated
+rh exorcising a virus
+if you know theres a virus running around your computer system how can you
+get rid of it
+in principle its easy em
+simply recompile all programs that might conceivably have been infected
+of course you have to take care not to execute any infected programs in the
+meantime
+if you do the virus could attach itself to one of the programs you thought
+you had cleansed
+if the compiler is infected the trouble is more serious for the virus must be
+excised from it first
+removing a virus from a single program can be done by hand editing the
+object code if you understand exactly how the virus is written
+pp
+but is it really feasible to recompile all programs at the same time
+it would certainly be a big undertaking since all users of the system will
+probably be involved
+probably the only realistic way to go about it would be for the system
+manager to remove all object programs from the system and leave it up to
+individual users to recreate their own
+in any reallife system this would be a very major disruption comparable
+to changing to a new incompatible version of the operating system em
+but without the benefits of progress
+pp
+another possible way to eliminate a virus without having to delete all object
+programs is to design an antibody
+this would have to know about the exact structure of the virus in order to
+disinfect programs that had been tainted
+the antibody would act just like a virus itself except that before attaching
+itself to any program it would remove any infection that already existed
+also every time a disinfected program was run it would first check it
+hadnt been reinfected
+once the antibody had spread throughout the system so that no object files
+remained which predated its release it could remove itself
+to do this every time its host was executed the antibody would check a
+prearranged file for a signal that the virus had finally been purged
+on seeing the signal it would simply remove itself from the object file
+pp
+will this procedure work
+there is a further complication
+even when the antibody is attached to every executable file in the system
+some files may still be tainted having been infected since the antibody
+installed itself in the file
+it is important that the antibody checks for this eventuality when finally
+removing itself from a file
+but wait  em when that object program was run the original virus would
+have got control first before the antibody had a chance to destroy it
+so now some other object program from which the antibody has already removed
+itself may be infected with the original virus
+oh no
+setting a virus to catch a virus is no easy matter
+sh surviving recompilation the ultimate parasite
+pp
+despite the devastation that trojan horses and viruses can cause neither is
+the perfect bug from an infiltrators point of view
+the trouble with a trojan horse is that it can be seen in the source code
+it would be quite evident to anyone who looked that something fishy was
+happening
+of course the chances that anyone would be browsing through any particular
+piece of code in a large system are tiny but it could happen
+the trouble with a virus is that it although it lives in object code which
+hides it from inspection it can be eradicated by recompiling affected
+programs
+this would cause great disruption in a shared computer system since no
+infected program may be executed until everything has been recompiled but
+its still possible
+pp
+how about a bug which both survives recompilation fiandfp lives in object
+code with no trace in the source
+like a virus it couldnt be spotted in source code since it only
+occupies object programs
+like a trojan horse planted by the compiler
+it would be immune to recompilation
+surely its not possible
+pp
+astonishingly it is possible to create such a monster under any operating
+system whose base language is implemented in a way that has a special
+selfreferencing property described below
+this includes the sunixs system as was pointed out in  by
+ken thompson himself
+the remainder of this section explains how this amazing feat can be
+accomplished
+suspend disbelief for a minute while i outline the gist of the idea details
+will follow
+pp
+panel  showed how a compiler can insert a bug into the filoginfr
+program whenever the latter is compiled
+once the bugged compiler is installed the bug can safely be removed from the
+compilers source
+it will still infest filoginfr every time that program is compiled until
+someone recompiles the compiler itself thereby removing the bug
+from the compilers object code
+most modern compilers are written in the language they compile
+for example c compilers are written in the c language
+each new version of the compiler is compiled by the previous version
+using exactly the same technique described above for filoginfr the compiler
+can insert a bug into the new version of itself when the latter is compiled
+but how can we ensure that the bug propagates itself from version to version
+ad infinitum
+well imagine a bug that fireplicatesfr itself
+whenever it is executed it produces a new copy of itself
+that is just like having a program that when executed prints itself
+it may sound impossible but in fact is not difficult to write
+pp
+now for the details
+firstly we see how and why compilers are written in their own language and
+hence compile themselves
+then we discover how programs can print themselves
+finally we put it all together and make the acquaintance of a horrible bug
+which lives forever in the object code of a compiler even though all trace has
+been eradicated from the source program
+rh compilers compile themselves
+most modern programming languages implement their own compiler
+although this seems to lead to paradox em how can a program possibly
+compile itself em it is in fact a very reasonable thing to do
+pp
+imagine being faced with the job of writing the firstever compiler for a
+particular language em call it c em on a naked computer with no
+software at all
+the compiler must be written in machine code the primitive language
+whose instructions the computer implements in hardware
+its hard to write a large program like a compiler from scratch particularly
+in machine code
+in practice auxiliary software tools would be created first to help with
+the job em an assembler and loader for example em but for conceptual
+simplicity we omit this step
+it will make our task much easier if we are content with writing an
+fiinefficientfr compiler em one which not only runs slowly itself but
+produces inefficient machine code whenever it compiles a program
+pp
+suppose we have created the compiler called v version  but now want a
+better one
+it will be much simpler to write the new version v in the language being
+compiled rather than in machine code
+for example c compilers are easier to write in c than in machine code
+when it compiles a program v will produce excellent machine code because
+we have taken care to write it just so that it does
+unfortunately in order to run v it has to be compiled into
+machine code by the old compiler v
+although this works all right it means that v is rather slow
+it produces good code but it takes a long time to do it
+now the final step is clear
+use the compiled version of v fion itselffr
+although it takes a long time to complete the compilation it produces fast
+machine code
+but this machine code is itself a compiler
+it generates good code for it is just a machine code version of the v
+algorithm fiand it runs fastfr for it has been compiled by the v
+algorithm
+figure  illustrates the process
+pp
+once you get used to this topsyturvy world of bootstrapping as it is
+called you will recognize that it is really the natural way to write a
+compiler
+the first version v is a throwaway program written in machine code
+it doesnt even have to cope with the complete language just a large enough
+subset to write a compiler in
+once v has been compiled and has compiled itself v is no longer of any
+interest
+new versions of the compiler source em v v  em will be
+modifications of v and as the language evolves changes in it will be
+reflected in successive versions of the compiler source code
+for example if the c language is enhanced to c the compiler source code
+will be modified to accept the new language and compiled em creating a c
+compiler
+then it may be desirable to modify the compiler to take advantage of the new
+features offered by the enhanced language
+finally the modified compiler now written in c will itself be compiled
+leaving no trace of the old language standard
+rh programs print themselves
+the next tool we need is reproduction
+a selfreplicating bug must be able to reproduce into generation after
+generation of the compiler
+to see how to do this we first study a program which when executed
+prints itself
+pp
+selfprinting programs have been a curiosity in computer laboratories for
+decades
+on the face of it it seems unlikely that a program could print itself
+for imagine a program that prints an ordinary text message like hello
+world see panel 
+it must include that message somehow
+and the addition of code to print the message must make the program
+bigger than the message
+so a program which prints itself must include itself and therefore be
+bigger than itself
+how can this be
+pp
+well there is really no contradiction here
+the biggerness argument founded on our physical intuition is just
+wrong
+in computer programs the part does not have to be smaller than the whole
+the trick is to include in the program something that does double duty em
+that is printed out twice in different ways
+pp
+figure  shows a selfprinting program that is written for clarity rather
+than conciseness
+it could be made a lot smaller by omitting the comment for example
+but there is a lesson to be learned here em excess baggage can
+be carried around quite comfortably by a selfprinting program
+by making this baggage code instead of comments a selfprinting program
+can be created to do any task at all
+for example we could write a program that calculates the value of pi and
+also prints itself or em more to the point em a program that installs a
+trojan horse and also prints itself
+rh bugs reproduce themselves
+now let us put these pieces together
+recall the compiler bug in panel  which identifies the filoginfr program
+whenever it is compiled and attaches a trojan horse to it
+the bug lives in the object code of the compiler and inserts another bug
+into the object code of the filoginfr program
+now contemplate a compiler bug which identifies and attacks the compiler
+instead
+as we have seen the compiler is just another program written in its own
+language which is recompiled periodically em just like filoginfr
+such a bug would live in the object code of the compiler and transfer itself
+to the new object code of the new version without appearing in the source of
+the new version
+pp
+panel  shows how to create precisely such a bug
+its no more complex than the filoginfrattacking bug presented earlier
+moreover just as that bug didnt appear in the source of the
+filoginfr program
+the new bug doesnt appear in the source of the compiler program
+you do have to put it there to install the bug of course but once
+the bug has been compiled you can remove it from the compiler source
+then it waits until the compiler is recompiled once more and at that point
+does its dirty deed em even though no longer appearing in the compiler
+source
+in this sense it inserts the bug into the second generation of the
+compiler
+unfortunately from the point of view of the infiltrator the bug disappears
+when the third generation is created
+pp
+its almost as easy to target the bug at the third em or indeed the
+finfrth em generation instead of the second using exactly the same
+technique
+let us review what is happening here
+an infiltrator gets access to the compiler surreptitiously inserts a line
+of bad code into it and compiles it
+then the telltale line is immediately removed from the source leaving it
+clean exactly as it was before
+the whole process takes only a few minutes and afterwards the compiler source
+is exactly the same as before
+nobody can tell that anything has happened
+several months down the road when the compiler is recompiled for the
+finfrth time it starts behaving mysteriously
+with the bug exhibited in panel  every time it compiles a line of code it
+prints
+lb
+hello world
+le
+as well
+again inspection of the source shows nothing untoward
+and then when the compiler is recompiled once more the bug vanishes without
+trace
+pp
+the final stage is clear
+infiltrators doesnt want a bug that mysteriously appears in just one
+version of the compiler and then vanishes
+they want one that propagates itself from version to version indefinitely
+we need to apply the lesson learned from the selfprinting program to break
+out of our crude attempt at selfpropagation and create a true
+selfreplicating bug
+and that is exactly what panel  accomplishes
+pp
+as soon as the selfreplicating bug is installed in the object code version of
+the compiler it should be removed from the source
+whenever the compiler recompiles a new version of itself the bug effectively
+transfers itself from the old object code to the new object code
+fiwithout appearing in the sourcefr
+once bugged always bugged
+of course the bug would disappear if the compiler was changed so that the
+bug ceased to recognize it
+in panel s scheme this would involve a trivial format change adding a
+space say to one crucial line of the compiler
+actually this doesnt seem terribly likely to happen in practice
+but if one wanted to a more elaborate compilerrecognition procedure could
+be programmed into the bug
+pp
+once installed nobody would ever know about this bug
+there is a moment of danger during the installation procedure for the
+lastwritten dates on the files containing the compilers source and object
+code will show that they have been changed without the system administrators
+knowledge
+as soon as the compiler is legitimately recompiled after that however the
+file dates lose all trace of the illegitimate modification
+then the only record of the bug is in the object code and only someone
+singlestepping through a compile operation could discover it
+rh using a virus to install a selfreplicating bug
+five minutes alone with the compiler is all an infiltrator needs to equip it
+with a permanent selfreplicating trojan horse
+needless to say getting this opportunity is the hard bit
+good system administrators will know that even though the compiler does not
+have the ultimate privilege it needs to be guarded just as well as if it did
+for it creates the object versions of programs like filoginfr which
+do have the ultimate privilege
+pp
+it is natural to consider whether a selfreplicating trojan horse could be
+installed by releasing a virus to do the job
+in addition to spreading itself a virus could check whether its unsuspecting
+user had permission to write any file containing a language compiler
+if so it could install a trojan horse automatically
+this could be a completely trivial operation
+for example a hacker might doctor the compiler beforehand and save the
+bugged object code in one of their own files
+the virus would just install this as the systems compiler leaving the source
+untouched
+pp
+in order to be safe from this threat system administrators must ensure that
+they fineverfr execute a program belonging to any other user while they
+are logged in with sufficient privilege to modify system compilers
+of course they will probably have to execute many system programs while
+logged in with such privileges
+consequently they must ensure that the virus never spreads to fianyfr system
+programs and they therefore have to treat all system programs with the
+same care as the compiler
+by the same token all these programs must be treated as carefully as those
+few such as filoginfr which enjoy the ultimate privilege
+there is no margin for error
+no wonder system programmers are paranoid about keeping tight control on
+access to seemingly innocuous programs
+sh networks micros
+pp
+it is worth contemplating briefly whether the techniques introduced above can
+endanger configurations other than single timeshared operating systems
+what about networks of computers or standalone micros
+of course these are vast topics in their own right and we can do no more than
+outline some broad possibilities
+pp
+can the sort of bugs discussed be spread through networks
+the first thing to note is that the best way to infect another computer system
+is probably to send a tape with a useful program on it which contains a virus
+cynics might want to add that another way is to write an article like this
+one about how insecure computers are with examples of viruses trojan horses
+and the like  my response is that all users need to know about these
+possibilities in order to defend themselves
+pp
+the programmableterminal trick where a piece of innocentlooking mail
+reprograms a key on the victims terminal will work remotely just as it
+does locally
+someone on another continent could send me mail which deleted all my files
+when i next hit sreturns
+thats why i take care to read my mail inside a program which does not
+pass escape codes to the terminal
+pp
+in principle there is no reason why you shouldnt install any kind of bug
+through a programmable terminal
+suppose you could program a key to generate an arbitrarily long string when
+depressed
+this string could create for example a bugged version of a commonlyused
+command and install it in one of the victims directories
+or it could create a virus and infect a random file
+the virus could be targetted at a language compiler as described above
+in practice however these possibilities seem somewhat farfetched
+programmable terminals have little memory and it would be hard to get such
+bugs down to a reasonable size
+probably you are safe
+but dont count on it
+pp
+surely one would be better off using a microcomputer that nobody else could
+access
+not necessarily
+the danger comes when you take advantage of software written by other people
+if you use other peoples programs infection could reach you via a floppy
+disk
+admittedly it would be difficult to spread a virus to a system which had no
+hard disk storage
+in fact the smaller and more primitive the system the safer it is
+best not to use a computer at all em stick to paper and pencil
+sh the moral
+pp
+despite advances in authentication and encryption methods
+computer systems are just as vulnerable as ever
+technical mechanisms cannot limit the damage that can be done by an
+infiltrator em there is no limit
+the only effective defences against infiltration are oldfashioned ones
+pp
+the first is mutual trust between users of a system coupled with physical
+security to ensure that all access is legitimate
+the second is a multitude of checks and balances
+educate users encourage securityminded attitudes let them know when and
+where they last logged in check frequently for unusual occurrences check
+dates of files regularly and so on
+the third is secrecy
+distasteful as it may seem to openminded computer scientists who value
+free exchange of information and disclosure of all aspects of system
+operation knowledge is power
+familiarity with a system increases an infiltrators capacity for damage
+immeasurably
+in an unfriendly environment secrecy is paramount
+pp
+finally talented programmers reign supreme
+the real power resides in their hands
+if they can create programs that everyone wants to use if their personal
+libraries of utilities are so comprehensive that others put them on their
+search paths if they are selected to maintain critical software em to the
+extent that their talents are sought by others they have absolute and
+devastating power over the system and all it contains
+cultivate a supportive trusting atmosphere to ensure they are never
+tempted to wield it
+sh acknowledgements
+pp
+i would especially like to thank brian wyvill and roy masrani for sharing with
+me some of their experiences in computer insecurity and bruce macdonald and
+harold thimbleby for helpful comments on an early draft of this article
+my research is supported by the natural sciences and engineering research
+council of canada
+sh further reading
+sp
+inn
+
+denning  cryptography and data security
+
+
+morris thompson 
+
+
+dawkins  selfish gene
+
+
+thompson  comm acm
+
+
+ritchie  security of unix
+
+
+grampp morris  unix security
+
+
+reeds weinberger  file security unix
+
+
+filipski hanko  making unix secure
+
+
+brunner  shockwave rider
+
+
+shoch hupp  worm programs
+
+
+list
+
+in
+bp
+sh panel  em oneway functions
+sp
+a oneway function is irreversible in that although the output can be
+calculated from the input the input cant be calculated from the output
+for example suppose we have a way of scrambling a password by permuting
+the bits in it
+this is not oneway since every permutation has an inverse
+but suppose we apply the permutation a number of times which depends
+on the original password
+for example add together the numeric codes for each character of the
+password and save just the loworder  bits of the sum
+this gives a number between  and  say m
+now repeat the permutation m times
+sp
+consider the problem faced by an intruder trying to guess the password
+suppose they know the output of the function and the permutation used
+they can certainly apply the inverse permutation
+but this does not help very much since they do not know m and m
+is dependent on the fioriginalfp password
+however they could repeatedly apply the inverse permutation and try to
+recognize when the original password was encountered
+in our example this would be easy em just look at the loworder 
+bits of the sum of the character codes and see if that equalled the number of
+times the permutation had been applied
+sp
+the function can be made more secure by complicating it
+suppose that after permuting m times the whole operation is repeated
+by calculating a new value for m and permuting again using a different
+permutation
+suppose the number of times we repeat the operation depends on the
+initial password
+suppose we have a large number of different permutations and switch between
+them depending on the password
+it quickly becomes effectively impossible to invert the function
+sp
+such fiad hocfp complications of an originally simple procedure can give
+a false sense of security
+it fimayfp be possible for a sufficiently clever intruder to see a way to
+invert the function
+consequently there is a great deal of interest in methods of producing
+oneway functions which are theoretically analyzable and fiprovablyfp
+difficult to invert
+but this leads us too far from our story
+bp
+sh panel  em installing a trojan horse in the filoginfp program
+sp
+here is how one logs in to sunixs
+de lc
+br
+ev
+lb
+
+de ld
+br
+le
+ev
+
+lc
+ta wlogin ian            u
+login ianfihere i type my login name which is ianfr
+passwordfihere i type my secret password which im not going to tell youfr
+ld
+the login fiprogramfr which administers the login procedure is written in
+the c programming language and in outline is something like this
+lc
+ta i i i i i i i i i i i
+main 
+printlogin   readusername
+printpassword   readpassword
+if checkusername password  ok 
+filet the user infr
+
+else 
+fithrow the user outfr
+
+
+sp
+checkusername password 
+sp
+fihere is the code for actually checking the passwordfr
+
+ld
+for simplicity some liberties have been taken with the language
+for example variables are not declared
+fimainfr just says that this is the main program
+fiprintfr and fireadfr print and read character strings on the terminal
+the ficheckusername passwordfr subroutine will check that the user has
+typed the password correctly although the code isnt shown
+sp
+suppose an extra line was inserted into the ficheckfr subroutine to
+make it like this
+lc
+checkusername password 
+sp
+if matchpassword trojanhorse return ok
+sp
+fisame code as before for checking other passwordsfr
+
+ld
+fimatchfr just compares two character strings
+now the password trojanhorse will work for any user as well as the
+regular one
+users who arent in on the secret will notice no difference
+but those who are will be able to impersonate anyone without having to know
+their password
+bp
+sh panel  em using the compiler to install a trojan horse in the filoginfp program
+sp
+here is a critical part of a compiler a subroutine which
+compiles the next line of code
+lc
+ta i i i i i i i i i i i
+
+  part of the c compiler which is called to compile the next line of source program
+ 
+sp
+compiles 
+ficode to compile a line of source programfr
+
+ld
+ficompilesfr is called with its argument the character string fisfr
+containing the next input line
+it inserts into the output stream the compiled version of this line
+the code that does the compiling is not shown since it is irrelevant for our
+purpose
+in actuality the structure of the compiler is likely to be considerably more
+complicated than this
+for one thing it will take more than one pass through the source code
+before producing output  c
+however this simplified caricature is quite good enough to convey the idea
+note that the compiler really is written in the c language
+as is explained later on in the main text
+sp
+here is a bugged version of the compiler which works exactly as
+normal except when compiling the filoginfr program
+lc
+
+  the compiler modified to include a trojan horse which matches code in the login program
+  login is miscompiled to accept the password trojanhorse as well as the legitimate one
+ 
+sp
+compiles 
+ficompile the statement in the normal wayfr
+sp
+if matchs checkusername password 
+compileif matchpassword trojanhorse return ok
+
+ld
+it looks for a line which occurs in the source of filoginfr
+the line that has been chosen is the header of the ficheckfr function
+see panel 
+having satisfied itself that what is being compiled is really filoginfr
+ie when fimatchfr succeeds the bugged compiler compiles an extra line
+into the program
+that extra line
+lb
+if matchpassword trojanhorse return ok
+le
+is exactly the trojan horse that was used in the filoginfr program
+in panel 
+the  in the code above is just cs way of including quotation marks
+within quoted strings
+bp
+sh panel  em how viruses work
+sp
+figure  illustrates an uninfected program and the same program infected
+by a virus
+the clean version just contains program code and when it is executed the
+system reads it into main memory and begins execution at the beginning
+the infected program is exactly the same except that preceding this
+is a new piece of code which does the dirty work
+when the system reads this program into main memory it will as usual begin
+execution at the beginning
+thus the dirty work is done and then the program operates exactly as usual
+nobody need know that the program is not a completely normal clean one
+sp
+but what is the dirty work
+well whoever wrote the virus probably has their own ideas what sort
+of tricks they want it to play
+as well as doing this though the virus attempts to propagate itself further
+whenever it is executed
+to reproduce it just identifies as its target an executable program
+which it has sufficient permission to alter
+of course it makes sense to check that the target is not already infected
+and then the virus copies itself to the beginning of the target infecting it
+sp
+figure  illustrates how the infection spreads from user to user
+suppose i em picture me standing over my files em am currently uninfected
+i spy a program of someone elses that i want to use to help me do a job
+unknown to me it is infected
+as i execute it symbolized by copying it up to where i am working the virus
+gains control and em unknown to me em infects one of my own files
+if the virus is written properly there is no reason why i should ever suspect
+that anything untoward has happened em until the virus starts its dirty
+work
+bp
+sh panel  em a program that prints itself
+sp
+how could a program print itself
+here is a program which prints the message hello world
+lc
+ta i i i i i i i i i i i
+main 
+printhello world
+
+ld
+a program to print the above program would look like this
+lc
+main 
+printmain printhello world
+
+ld
+again  is cs way of including quotation marks within quoted strings
+this program prints something like the first program actually it doesnt
+get the spacing and line breaks right but it is close enough
+however it certainly doesnt print itself
+to print it would need something like
+lc
+main 
+printmain printmain printhello world
+
+ld
+were clearly fighting a losing battle here developing a potentially infinite
+sequence of programs each of which prints the previous one
+but this is getting no closer to a program that prints itself
+sp
+the trouble with all these programs is that they have two separate parts  the
+program itself and the string it prints
+a selfprinting program seems to be an impossibility because the string it
+prints obviously cannot be as big as the whole program itself
+sp
+the key to resolving the riddle is to recognize that something in the
+program has to do double duty em be printed twice in different ways
+figure  shows a program that does print itself
+t is an array of characters and is initialized to the sequence of
+ characters shown
+the fiforfr loop prints out the characters one by one then
+the final fiprintfr prints out the entire string of characters again
+sp
+c cognoscenti will spot some problems with this program
+for one thing the layout on the page is not preserved for example no
+newlines are specified in the t array
+moreover the for loop actually prints out a list of integers not characters
+for the d specifies integer format
+the actual output of figure  is all on one line with integers instead of
+the quoted character strings
+thus it is not quite a selfreplicating program
+but its output which is a valid program is in fact a true selfreplicating
+one
+sp
+much shorter selfprinting programs can be written
+for those interested here are a couple of lines that do the job
+lc
+char t  char t  csc mainchar qd nd printftqtqqnnc
+mainchar q n printftqtqqnn
+ld
+again this needs to be compiled and executed once before becoming a true
+selfreplicating program
+bp
+sh panel  em using a compiler to install a bug in itself
+sp
+here is a modification of the compiler just like that of panel  but
+which attacks the compiler itself instead of the filoginfr program
+lc
+compiles 
+ficompile the statement in the normal wayfr
+sp
+if matchs compiles 
+compileprinthello world
+
+ld
+imagine that this version of the compiler is compiled and installed in
+the system
+of course it doesnt do anything untoward em until it compiles any program
+that includes the line compiles 
+now suppose the extra stuff above is immediately removed from the compiler
+leaving the ficompilesfr routine looking exactly as it is supposed to
+with no bug in it
+when the nowclean compiler is next compiled the above code will be
+executed and will insert the statement fiprinthello worldfr into the
+object code
+whenever this second generation compiler is executed it prints
+lb
+hello world
+le
+after compiling every line of code
+this is not a very devastating bug
+but the important thing to notice is that a bug has been inserted into the
+compiler even though its source was clean when it was compiled em just
+as a bug can be inserted into filoginfr even though its source is clean
+sp
+of course the bug will disappear as soon as the clean compiler is recompiled
+a second time
+to propagate the bug into the third generation instead of the second the
+original bug should be something like
+lc
+compiles 
+ficompile the statement in the normal wayfr
+sp
+if matchs compiles 
+compileif matchs compiles  compileprinthello world
+
+ld
+by continuing the idea further it is possible to arrange that the bug
+appears in the finfrth generation
+bp
+sh panel  em installing a selfreplicating bug in a compiler
+sp
+here is a compiler modification which installs a selfreplicating bug
+it is combines the idea of panel  to install a bug in the compiler with
+that of panel  to make the bug selfreplicating
+lc
+compiles 
+ficompile the statement in the normal wayfr
+sp
+char t    fihere is a character string defined like that of figure fr  
+sp
+if matchs compiles  
+compilechar t  
+for i ti ii
+compileti
+compilet
+compileprinthello world
+
+
+ld
+the code is very similar to that of figure 
+instead of printing the output though it passes it to the ficompilesfr
+procedure in a recursive call
+this recursive call will compile the code instead of printing it
+it will not cause further recursion because the magic line compiles 
+isnt passed recursively
+the other salient differences with figure  are the inclusion of the test
+lb
+if matchs compiles 
+le
+that makes sure we only attack the compiler itself as well as the actual bug
+lb
+compileprinthello world
+le
+that we plant in it
+sp
+there are some technical problems with this program fragment
+for example the c language permits variables to be defined only at the
+beginning of a procedure and not in the middle like fitfr is
+also calls to ficompilefr are made with arguments of different types
+however such errors are straightforward and easy to fix
+if you know the language well enough to recognize them you will be able to
+fix them yourself
+the resulting correct version will not be any different conceptually but
+considerably more complicated in detail
+sp
+a more fundamental problem with the selfreplicating bug is that although it
+is supposed to appear at the fiendfr of the ficompilesfr routine it
+replicates itself at the fibeginningfr of it just after the header line
+lb
+compiles 
+le
+again this technicality could be fixed
+it doesnt seem worth fixing however because the whole concept of a
+ficompilesfr routine which compiles single lines is a convenient fiction
+in practice the selfreplicating bug is likely to be considerably more
+complex than indicated here
+but it will embody the same basic principle
+bp
+sh panel  em worm programs
+sp
+an interesting recent development is the idea of worm programs presaged
+by brunner  in the science fiction novel fithe shockwave riderfr
+see computer crime science fiction and science fact fiabacusfp spring
+
+and developed in fascinating detail by shoch  hupp 
+a worm consists of several segments each being a program running in
+a separate workstation in a computer network
+the segments keep in touch through the network
+each segment is at risk because a user may reboot the workstation it currently
+occupies at any time em indeed one of the attractions of the idea is that
+segments only occupy machines which would otherwise be idle
+when a segment is lost the other segments conspire to replace it
+on another processor
+they search for an idle workstation load it with a copy of themselves and
+start it up
+the worm has repaired itself
+sp
+worms can be greedy trying to create as many segments as possible or they
+may be content with a certain target number of live segments
+in either case they are very robust
+stamping one out is not easy for all workstations must be rebooted
+fisimultaneouslyfr
+otherwise any segments which are left will discover idle machines in which to
+replicate themselves
+sp
+while worms may seem to be a horrendous security risk it is clear that they
+can only invade cooperative workstations
+network operating systems do not usually allow foreign processes to
+indiscriminately start themselves up on idle machines
+in practice therefore although worms provide an interesting example of
+software which is deviant in the same sense as viruses or selfreplicating
+trojan horses they do not pose a comparable security risk
+bp
+sh captions for figures
+sp
+nf
+ta wfigure   u
+figure my entry in the password file
+figure cracking passwords of different lengths
+figure breakdown of  actual passwords data from morris  thompson 
+figure part of a file hierarchy
+figure anatomy of a virus
+figure how a virus spreads
+a i spot a program of theirs that i want to use 
+b  and unknowingly catch the infection
+figure bootstrapping a compiler
+figure a program that prints itself
+fi

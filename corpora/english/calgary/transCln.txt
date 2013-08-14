@@ -1,0 +1,2796 @@
+login ian
+password
+last login fri aug   from vaxb
+this login fri aug   from vaxb
+ bsdnfs unix  fri aug   mdt 
+
+there is a new version of the verdix ada compiler installed on vaxc  all
+persons using this compiler please contact terry as soon as possible  also
+if there is anyone using the nyu ada or telesoft ada compilers please let
+terry know we would like to remove them from the system if they are not
+being used we need the disk space thanks
+
+the imagen is once again operational but with reduced capacity one of the
+memory boards is being repaired  large documents may not work
+
+vaxbian      ttyp   aug        vaxb
+welcome to freedmans input line editor file  version 
+please wait until your shell prompt appears esc for help
+hi terminal is ambxl
+you are already logged in somewhere
+harold as adjunct  and reply to his mail
+rlogin vaxb   tee transcript
+vaxb cd coursescd courses
+vaxb lsls
+assignmentscoreinfosheettopics
+assignmentsinfosheettopics
+vaxb roff a assignments lpq palwroff a assignments lpq palw
+ 
+vaxb cd cd 
+vaxb lsls
+synopsissynopsissynopsissynopsistemp
+vaxb cp infosheet cp infosheet 
+vaxb e infosheete infosheet
+phlphlhjhloading timehhdonehpxrhkhpn 
+ls
+ce
+the university of calgary
+department of computer science
+sp
+ps
+ce
+cpsc  em artificial intelligence
+ps
+sp
+lb
+np
+ul
+instructor
+ian h witten  ma   
+sp
+np
+ul
+office hours
+mondays and wednesdays 
+sp
+np
+ul
+tutorial instructor
+dave maulsby ma  
+sp
+np
+ul
+lectures
+st  tuesdays and thursdays 
+sp
+np
+ul
+labs
+l ss  mondays and wednesdays 
+l sb a tuesdays and thursdays 
+sp
+np
+ul
+course texts
+sp
+winston ph
+fiartificial intelligencefr
+addisonwesley reading massachusetts  second edition
+br
+winston ph  horn bkp
+filsispsfr
+addisonwesley reading massachusetts  second edition
+sp
+np
+ul
+assessment
+ta wmidterm exam in class time    u
+sp
+midterm exam in class time    
+br
+final exam      
+memacs infosheet          time and load   text filltopmhhmpm    text filltopmhno entries
+
+vaxb sending to vaxa
+rank   owner      job  files                                 total size
+st    ian          standard input                       bytes
+phlhjpn 
+ls
+ce
+the university of calgary
+department of computer science
+sp
+ps
+ce
+cpsc  em artificial intelligence
+ps
+sp
+lb
+np
+ul
+instructor
+ian h witten  ma   
+sp
+np
+ul
+office hours
+mondays and wednesdays 
+sp
+np
+ul
+tutorial instructor
+dave maulsby ma  
+sp
+np
+ul
+lectures
+st  tuesdays and thursdays 
+sp
+np
+ul
+labs
+l ss  mondays and wednesdays 
+l sb a tuesdays and thursdays 
+sp
+np
+ul
+course texts
+sp
+winston ph
+fiartificial intelligencefr
+addisonwesley reading massachusetts  second edition
+br
+winston ph  horn bkp
+filsispsfr
+addisonwesley reading massachusetts  second edition
+sp
+np
+ul
+assessment
+ta wmidterm exam in class time    u
+sp
+midterm exam in class time    
+br
+final exam      
+memacs infosheet          pm    text filltopmh
+
+
+
+
+
+
+
+chmmhp
+
+
+
+
+
+
+mphlphjohn handreaep ma hkmemacs infosheet          pm    text filltopm
+cpn 
+lsk
+cek
+the university of calgary
+department of computer science
+csp
+ps
+cek
+cpsc  em artificial intelligencek
+cps
+sp
+lb
+npk
+ul
+instructork
+john h andreae ma k
+ian h witten  ma   k
+csp
+npk
+ulk
+office hoursk
+mondays and wednesdays 
+csp
+np
+ulk
+tutorial instructork
+dave maulsby ma  
+spk
+nphhfind file courseshmpm mhmpm mhtempotemporaryandreaek
+khthe department welcomes john andreae on sabbatical from the university of
+canterbury christchurch new zealand  john is a visiting research associate
+and will be with us until the end of november  he is new zealands foremost
+researcher in artificial intelligence and has a longstanding international
+reputation for his seminal work on the foundations of learning and the
+simulation of learning mechanisms  he will be teaching the first part of cpsc
+ and working with john cleary and bruce macdonald whose phd theses he
+supervised in new zealand brian gaines david hill ian witten and anyone
+else who is interestedk
+k
+johns office is room  phone   he and molly andreae are presently
+staying at the macdonaldstodart residence
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+khmemacs andreae            pm    text fillallmhh 
+  
+h
+
+hphlphtuesdays and thursdays  both hmpm mhmpm mhinstructorsmondays and wednesdays phphmphkhnphh
+hmark sethhkh
+
+
+
+phmphul
+lectures
+st  tuesdays and thursdays 
+sp
+nphphmphul
+labs
+l ss  mondays and wednesdays 
+l sb a tuesdays and thursdays 
+sp
+np
+ul
+course texts
+sp
+winston ph
+fiartificial intelligencefr
+addisonwesley reading massachusetts  second edition
+br
+winston ph  horn bkp
+filsispsfr
+addisonwesley reading massachusetts  second edition
+sp
+np
+ul
+assessment
+ta wmidterm exam in class time    u
+sp
+midterm exam in class time    
+br
+final exam      
+br
+assignment     
+br
+assignment     h
+
+
+
+
+ppcck
+hmark sethhkh
+
+
+
+
+phmphbr
+project
+br
+interim report  
+br
+final report    hhmpm mh
+
+
+
+
+phlphnpk
+ulk
+office hours
+cuesdays and thursdays  both instructors
+spk
+npk
+ulk
+lectures
+ tuesdays and thursdays 
+cspk
+npk
+ul
+course texts
+csp
+winston ph
+fiartificial intelligencefrk
+addisonwesley reading massachusetts  second edition
+cbrhfind file courseshwinston ph  horn bkp
+filsispsfr
+addisonwesley reading massachusetts  second edition
+sp
+np
+ul
+assessment
+ta wmidterm exam in class time    u
+sp
+midterm exam in class time    
+memacs infosheet          pm    text fill mhm mhsynopsis
+khpn 
+ls
+cek
+he university of calgaryk
+department of computer science
+csp
+ps
+cek
+cpsc  em artificial intelligencek
+cps
+sp
+for  this course will take place in two parts
+lbk
+ta wwinter     u wdr ja andreae    u
+fall        dr jh andreae machine learning
+brk
+winter      dr ih witten  artificial intelligencek
+cle
+the parts will be assessed separately and the first will be available as
+a  course for students wishing to take it alone
+this organization reflects a current proposal to replace cpsc  by several
+half courses in future including cpsc  machine learning and
+cpsc  artificial intelligence  c
+lectures will take place on tuesdays and thursdays  am
+rh machine learning
+this will include the following topicsk
+clb
+npk
+memacs synopsis            pm    text filltopmhclbk
+npk
+dimensions of classification of machine learning problems and systems
+npk
+theoretical foundations of inductive inference
+cnpk
+similaritybased learning the generalizationassearch paradigm and its
+implementations
+npk
+explanationbased learning and systems which embody it
+cnpk
+exploration and discovery mechanisms functional induction and theory formation
+cnp
+learning procedural knowledgek
+npk
+cognitive aspects of human learning
+lek
+the text for this part will be
+lbk
+rs michalski jg carbonell and tm mitchell editors 
+fimachine learning volume fpk
+morgan kaufmann los altos cak
+lek
+other relevant books includek
+clbk
+forsyth r and rada r k
+cul
+machine learning applications in expert systems and information retrievalhmmhhmpm mhmpm mh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hmmmmmhmark sethhkh
+
+
+
+
+
+
+
+
+
+
+phmphfinal exam      
+br
+assignment     
+br
+assignment     
+br
+project
+br
+interim report  
+br
+final report    
+brh
+
+
+
+c wtermc pwwinterc termc c c  uc hautosavinghhdonehhkhphhmpm mhmpm mhphlphfall termassignmentphlphpro
+hmark sethhkhkphmphfinal report    hkphmphbrh
+tfinal examafinal examkefinal examhfinal exam      ofinal exammefinal exam exampccccccchmpm mhmpm mhkkhmh
+ch
+c
+phmphhkphmphbrhkphmphhwtotal  utotal  hphmphsphmmkphmphsphphmphta wdemonstrations    uhhhmark sethphlphbrk
+takehome exam  
+
+
+
+
+
+kh
+brphlphk
+
+mmmkphmphsphmmmmmm
+
+ccccccpinterim reportrointerim report       ginterim reportreinterim reportssinterim report
+ report k
+h
+cchhmpm  mail   text fillmhmpm  mail   text fill mhhcckkhhkkh
+kphmphkhsphphmphta wdemonstrations    uhhmark sethphlphfinal report    
+br
+phlphfinal report    
+br
+
+
+
+
+
+khccccifinal reportnfinal reportfinal reportcfinal report       lafinal reportssfinal report
+ final reportprfinal reportefinal report       sfinal reportefinal reportntatfinal reportionfinal report      reportpcpccckkkkkkh
+cphlphspmmmmhhh
+mmhhmpm mhmpm mhphmphbr
+hwtotal  utotal  
+sp
+sp
+ta wdemonstrations    u
+np
+ul
+guest lectures
+there may be guest lectures on topics such as
+lb
+np
+ul
+lsisps flavors
+np
+ul
+an advanced ai programming environment eg knowledgecraft
+np
+ul
+an implementation of the version space concept learning technique
+np
+ul
+the japanese initiatives in new generation computing
+le
+np
+ul
+demonstrations
+it is hoped to arrange demonstrations of
+lb
+nphh
+hmark sethhkh
+
+
+
+
+
+
+
+
+phmphul
+nexpert expert system shellhmark sethphlphfall term       assignment      
+br
+project
+br
+progress report 
+br
+final report    
+br
+inclass presentation   
+br
+takehome exam  
+phlphfall term       assignment      
+br
+project
+br
+progress report 
+br
+final report    
+br
+inclass presentation   
+br
+takehome exam  
+sp
+hkhmmmmmmmmmmphlpphlphsp
+wfall terminfall termhautosavinghhdonehhkhterfall term term    cassignmentlassignmentaassignmentsassignmentsassignment assignment       passignmentreassignmentsassignmenteassignmentnassignmenttassignmentaassignment       tioassignmentnassignment  psh
+hhhhhhh
+home exam    
+thome examehome examrmhome exam home exampahome exam      perhome exam exampc    hmpm  mailmhhphmphulhhhh
+hmark sethhkh
+
+an implementation of the version space concept learning technique
+npk
+ul
+the japanese initiatives in new generation computing
+cle
+npk
+ulk
+demonstrations
+it is hoped to arrange demonstrations of
+clb
+npk
+ulk
+nexpert expert system shell
+npk
+ul
+xerox lsisps machine
+cnp
+ulk
+loops programming environment film
+lek
+np
+ulk
+facilities
+vaxak
+le
+bpk
+sh about the course
+spk
+winstons textbook is excellent and has been widely acclaimed
+i think that in the main it is quite understandable probably too easy
+you should fistudy it carefullyfr not just read it casually
+set aside some time each weekk
+do some of the exercises
+the main function of the lectures is to take you through the text
+providing additional explanation where necessary
+there will not be time however to cover everything in lectures
+cp
+this is not a course on programming and we will not be talking much about
+programming in lectures
+however by the end of the course all students are expected to have a working
+knowledge of the lsisps language and assignments and projects are to be
+done in lsisps
+people welleducated in ai need to know the basics of
+fibothfr psrologs and lsisps
+each has strengths and weaknesses that it is important to understand and
+can only be appreciated properly through experience
+ppk
+many students will have had some prior exposure to lsisps and all are
+well versed in psrologs
+you are expected to pick up lsisps programming by yourself
+you do finotfr need to become expert in lsisps
+there will be no exam questions involving tricky language details em
+at most you might have to read some code or discuss pros and cons of ai
+programming in lsisps vs psrologs vs psascals
+cbp
+sh planned timetablehmmhcbp
+sh planned timetable
+spk
+nf
+ta wbeginning  u i wlsisps ch    u wmon u
+ulk
+week    material covered        reading deadlines
+cul
+beginning
+spk
+ jan introduction lsisps      ai ch  tue     assignment  set
+                lsisps ch 
+csp
+ jan  representations blocks worlds  ai ch  tue     assignment  set
+                lsisps ch  
+csp
+ jan  constraints     ai ch  tue     assignment  due
+spk
+ jan  searching       ai ch  tue     assignment  due
+                lsisps ch 
+spk
+ feb control strategies objects flavors    ai ch  tue     project proposal due
+                lsisps ch 
+spk
+ feb more on oop prolog smalltalk ai ch 
+        rulebased systems      lsisps ch 
+cs
+ feb  fireading week em no classesfr
+
+ feb  em            tue     midterm examk
+        more on rulebased systemsk
+spk
+ mar logic and planning      ai ch  tue     project interim report due
+spk
+ mar knowledge representation       ai ch k
+        using frames cd theory lsisps ch 
+spk
+ mar  understanding natural language  ai ch 
+                lsisps ch k
+spk
+ mar  vision       ai ch k
+                lsisps ch k
+spk
+ mar  concept learning        ai ch k
+        versionspace techniquek
+spk
+ apr learning rules  ai ch k
+        summary
+                        fri     project final report duek
+spk
+ apr final exam scheduled by registrark
+fik
+bpk
+sh bibliographyk
+spk
+here is a representative selection of recent books on ai with a bias towards
+practical aspectskhmmhphlphassessment
+ta wwinter term    u wmidterm exam in class time    u
+sp
+fall term       assignment      
+br
+project
+br
+progress report 
+br
+final report    
+br
+inclass presentation   
+br
+takehome exam  
+sp
+winter term     class presentations     
+br
+project
+br
+progress report 
+br
+final report    
+br
+inclass presentation   
+br
+term paper      
+sp
+
+br
+hwtotal  utotal  hm mhhmpm mhhwrote vaxbuserbprofsiancoursesinfosheethphmhmhlphkhwinter term     class presentationsherm paper    
+
+
+br
+hwtotal  utotal  
+bp
+sh planned timetable
+sp
+nf
+ta wbeginning  u i wlsisps ch    u wmon u
+ul
+week    material covered        reading deadlines
+ul
+beginning
+sp
+ jan introduction lsisps      ai ch  tue     assignment  set
+lsisps ch 
+sp
+memacs infosheet          pm  mail   text fill mhmemacs infosheet          pm  mail   text fill mhhfind file coursesinfosheet
+khpn k
+ls
+cek
+the university of calgary
+department of computer sciencek
+csp
+psk
+ce
+cpsc  em computer graphics ik
+cps
+spk
+lb
+npk
+ul
+instructork
+ian h witten  ma   hpk
+np
+ul
+office hoursk
+tuesdays and thursdays 
+spk
+np
+ulk
+tutorial assistants
+jeff allan ma   and dave maulsby ma  k
+spk
+nphm       pm  mail   text filltopmhhisearchhh p hhkhhl hha hhn hhn hhe hhd hhkh
+this is not a course on programming and we will not be talking much about
+programming in lectures
+however by the end of the course all students are expected to have a working
+knowledge of the c programing language and assignments and projects are to be
+coded in ck
+the text gives all examples in pascal for pedagogical reasons only part of the
+assignment work involves demonstrating your understanding of algorithms by
+recoding them
+c is the principal modern graphics programming language in use today and
+anyone welleducated in computer graphics need to know how to use it and to
+interface with programs written in it
+you are expected to pick up c programming by yourself the ta will be more than
+happy to help you with language constructs and points of syntax
+cbp
+sh planned timetable
+spk
+nf
+ta wbeginning  u i wlsisps ch    u wmon u
+
+week    material covered        reading deadlines
+ulk
+beginning
+csp
+ sep                 thu     all assignments set
+spk
+ sepk
+
+ sephmmhhmark setkhhkh
+hmark sethhkhspk
+ sepk
+spk
+ sep                  tue     assignment  duek
+spk
+ octk
+spk
+ oct                  thu     assignment  due
+spk
+ oct                  thu     test k
+spk
+ octk
+spk
+ nov                 tue     assignment  duehpk
+ nov
+                        thu     reading days no class
+cspk
+ nov                  tue     test 
+spk
+ nov
+spk
+ nov
+spk
+ dec                 tue     test 
+                        thu     assignment  due
+cfi
+khmbotmhcfi
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+kh
+phmphlsisps ch  
+sp
+ jan  constraints     ai ch  tue     assignment  due
+sp
+ jan  searching       ai ch  tue     assignment  due
+lsisps ch 
+sp
+ feb control strategies objects flavors    ai ch  tue     project proposal due
+lsisps ch 
+sp
+ feb more on oop prolog smalltalk ai ch 
+rulebased systems      lsisps ch 
+sp
+ feb  fireading week em no classesfr
+sp
+ feb  em            tue     midterm exam
+more on rulebased systems
+sp
+ mar logic and planning      ai ch  tue     project interim report due
+sp
+ mar knowledge representation       ai ch 
+using frames cd theory lsisps ch 
+sp
+ mar  understanding natural language  ai ch 
+lsisps ch 
+sp
+ mar  vision       ai ch 
+lsisps ch h
+
+hmark sethphlphsp
+nf
+ta wbeginning  u i wlsisps ch    u wmon u
+ul
+week    material covered        reading deadlines
+ul
+beginning
+sp
+ sep                 thu     all assignments set
+sp
+ sep
+sp
+ sep
+sp
+ sep                  tue     assignment  due
+sp
+ oct
+sp
+ oct                  thu     assignment  due
+sp
+ oct                  thu     test 
+sp
+ oct
+sp
+ nov                 tue     assignment  due
+sp
+ nov
+thu     reading days no class
+sp
+ nov                  tue     test 
+sp
+ nov
+sp
+ nov
+sp
+ dec                 tue     test 
+thu     assignment  due
+fi
+sh planned timetablehmemacs infosheet          pm  mail   text fill mh
+
+
+
+khspk
+nf
+ta wbeginning  u i wlsisps ch    u wmon u
+cul
+week    material covered        reading deadlines
+cul
+beginningk
+csp
+ jan introduction lsisps      ai ch  tue     assignment  set
+                lsisps ch 
+spk
+ jan  representations blocks worlds  ai ch  tue     assignment  set
+        lsisps ch  
+csp
+ jan  constraints     ai ch  tue     assignment  due
+cs
+ jan  searching       ai ch  tue     assignment  due
+                lsisps ch 
+csp
+ feb control strategies objects flavors    ai ch  tue     project proposal due
+                lsisps ch k
+csp
+ feb more on oop prolog smalltalk ai ch 
+        rulebased systems      lsisps ch 
+spk
+ feb  fireading week em no classesfr
+spk
+ feb  em            tue     midterm exam
+        more on rulebased systems
+
+ mar logic and planning      ai ch  tue     project interim report dueh mar knowledge representation       ai ch 
+        using frames cd theory lsisps ch 
+spk
+ mar  understanding natural language  ai ch 
+                lsisps ch k
+
+c mar  vision       ai ch 
+                lsisps ch 
+spk
+ mar  concept learning        ai ch 
+        versionspace technique
+spk
+ apr learning rules  ai ch 
+        summaryk
+                        fri     project final report due
+spk
+ apr final exam scheduled by registrar
+fik
+b
+sh bibliographyk
+spk
+here is a representative selection of recent books on ai with a bias towards
+practical aspectsk
+clb
+tinhmmhclb
+tin
+barr a and feigenbaum ea editors  ck
+fithe handbook of artificial intelligencefr
+kaufmann los altos ca fivolume ifr k
+and fivolume iifr 
+spk
+tin
+bratko ik
+fipsrologs programming for artificial intelligencefr
+addisonwesley wokingham england 
+spk
+tink
+bundy a
+fithe computer modelling of mathematical reasoningfrk
+academic press london 
+spk
+tink
+bundy a editor
+cficatalogue of artificial intelligence toolsfrk
+springerverlag berlin 
+spk
+tin
+cohen pr and feigenbaum ea editors  ck
+fithe handbook of artificial intelligence volume iiifr
+kaufmann los altos ca 
+spk
+tin
+charniak e riesbeck ck and mcdermott dv
+fiartificial intelligence programmingfr
+lawrence erlbaum associates hillsdale new jersey 
+spk
+tin
+gevarter wbk
+fiintelligent machinesfrk
+prenticehall englewood cliffs nj 
+spk
+tink
+michalski rs carbonnell jg and mitchell tm editors  c
+fimachine learningfr tioga palo alto ca  and
+fimachine learning volume iifrk
+kaufmann los altos ca 
+spk
+tink
+nilsson nj
+cfiprinciples of artificial intelligencefr
+tioga palo alto ca 
+spk
+tin
+schank rc and riesbeck ckk
+fiinside computer understanding five programs plus miniaturesfr
+lawrence erlbaum associates hillsdale new jersey hpk
+tin
+sowa jfk
+ficonceptual structuresfr
+addisonwesley reading massachusetts 
+cspkhmmhhmpm  mailmhaddisonwesley reading massachusetts 
+cspk
+tink
+waterman dak
+fia guide to expert systemsfrk
+addisonwesley reading ma 
+
+
+wilensky rhlsispscraftfr  wwnorton new york k
+spk
+tin
+winograd t
+filanguage as a cognitive process  volume i em syntaxfr
+addisonwesley reading massachusetts k
+spk
+tin
+winston ph
+fiartificial intelligencefr
+addisonwesley reading massachusetts  second edition
+spk
+tin
+winston ph  horn bkp
+filsispsfrk
+addisonwesley reading massachusetts  second edition
+lek
+bp 
+cek
+the university of calgaryk
+department of computer sciencek
+spk
+ps
+cek
+cpsc  em artificial intelligence
+psk
+sh assignment   introduction to slisps
+ of course marks
+cspk
+fully commented code together with answers to the questions posed in q
+must be handed in on tuesday january thk
+there will bek
+ulk
+no extension of this deadline except for good documented medical reasons
+clb   
+ni   k
+  ck
+write a recursive function spoweroftwos that computes the
+finfrth power of two eg
+spoweroftwos  returns 
+a simple test of functiondefinition and recursion
+spk
+ni   k
+  c
+write your own version of the lisp function sassocs
+sassocs looks up a value in a list of lists and returns the first
+list it finds whose first element matches the desired value
+for examplek
+sassocs sys sxs sas sys sbs szmmhspk
+nf
+a wbeginning  u i wlsisps ch    u wmon u
+ulk
+week    material covered        reading deadlines
+ulk
+beginning
+cspk
+ jan introduction lsisps      ai ch  tue     assignment  set
+                lsisps ch k
+
+ jan  representations blocks worlds  ai ch  tue     assignment  set
+                lsisps ch  
+spk
+ jan  constraints     ai ch  tue     assignment  due
+
+ jan  searching       ai ch  tue     assignment  due
+                lsisps ch 
+spk
+ feb control strategies objects flavors    ai ch  tue     project proposal due
+                lsisps ch 
+spk
+ feb more on oop prolog smalltalk ai ch 
+        rulebased systems      lsisps ch k
+csp
+ feb  fireading week em no classesfr
+cspk
+ feb  em            tue     midterm exam
+        more on rulebased systemshk
+ mar logic and planning      ai ch  tue     project interim report due
+csp
+ mar knowledge representation       ai ch 
+        using frames cd theory lsisps ch hpk
+ mar  understanding natural language  ai ch 
+                lsisps ch 
+spk
+ mar  vision       ai ch k
+                lsisps ch 
+csp
+ mar  concept learning        ai ch k
+        versionspace technique
+cspk
+ apr learning rules  ai ch 
+        summaryk
+                        fri     project final report due
+spk
+ apr final exam scheduled by registrark
+cfi
+bpk
+sh bibliography
+spk
+here is a representative selection of recent books on ai with a bias towards
+practical aspectsk
+lbk
+tinkhmm
+mhlb
+tin
+barr a and feigenbaum ea editors  ck
+fithe handbook of artificial intelligencefr
+kaufmann los altos ca fivolume ifr k
+and fivolume iifr 
+spk
+tin
+bratko ik
+fipsrologs programming for artificial intelligencefr
+addisonwesley wokingham england 
+spk
+tink
+bundy a
+fithe computer modelling of mathematical reasoningfrk
+academic press london 
+spk
+tink
+bundy a editor
+cficatalogue of artificial intelligence toolsfrk
+springerverlag berlin 
+spk
+tin
+cohen pr and feigenbaum ea editors  ck
+fithe handbook of artificial intelligence volume iiifr
+kaufmann los altos ca 
+spk
+tin
+charniak e riesbeck ck and mcdermott dv
+fiartificial intelligence programmingfr
+lawrence erlbaum associates hillsdale new jersey 
+spk
+tin
+gevarter wbk
+fiintelligent machinesfrk
+prenticehall englewood cliffs nj 
+spk
+tink
+michalski rs carbonnell jg and mitchell tm editors  c
+fimachine learningfr tioga palo alto ca  and
+fimachine learning volume iifrk
+kaufmann los altos ca 
+spk
+tink
+nilsson nj
+cfiprinciples of artificial intelligencefr
+tioga palo alto ca 
+spk
+tin
+schank rc and riesbeck ckk
+fiinside computer understanding five programs plus miniaturesfr
+lawrence erlbaum associates hillsdale new jersey hpk
+tin
+sowa jfk
+ficonceptual structuresfr
+addisonwesley reading massachusetts 
+cspkhmmh
+mcsp
+nfk
+ta wbeginning  u i wlsisps ch    u wmon u
+ulk
+week    material covered        reading deadlines
+ulk
+beginning
+cspk
+ jan introduction lsisps      ai ch  tue     assignment  set
+                lsisps ch k
+spk
+ jan  representations blocks worlds  ai ch  tue     assignment  set
+                lsisps ch  
+spk
+ jan  constraints     ai ch  tue     assignment  due
+spk
+ jan  searching       ai ch  tue     assignment  due
+                lsisps ch 
+spk
+ feb control strategies objects flavors    ai ch  tue     project proposal duek
+                lsisps ch 
+cspk
+ feb more on oop prolog smalltalk ai ch 
+        rulebased systems      lsisps ch k
+spk
+ feb  fireading week em no classesfr
+cspk
+ feb  em            tue     midterm examk
+        more on rulebased systemsk
+spk
+ mar logic and planning      ai ch  tue     project interim report due
+cspk
+ mar knowledge representation       ai ch 
+        using frames cd theory lsisps ch 
+spk
+ mar  understanding natural language  ai ch 
+                lsisps ch 
+spk
+ mar  vision       ai ch k
+                lsisps ch 
+spk
+ mar  concept learning        ai ch 
+        versionspace technique
+spk
+ apr learning rules  ai ch k
+        summaryk
+                        fri     project final report due
+cspk
+ apr final exam scheduled by registrar
+fik
+bpk
+h bibliography
+cspk
+here is a representative selection of recent books on ai with a bias towards
+practical aspectsk
+lbk
+tinhmm
+mmmmmmmphmphbarr a and feigenbaum ea editors  c
+fithe handbook of artificial intelligencefr
+kaufmann los altos ca fivolume ifr 
+and fivolume iifr 
+sp
+tin
+bratko i
+fipsrologs programming for artificial intelligencefr
+addisonwesley wokingham england 
+sp
+tin
+bundy a
+fithe computer modelling of mathematical reasoningfr
+academic press london 
+sp
+tin
+bundy a editor
+ficatalogue of artificial intelligence toolsfr
+springerverlag berlin 
+sp
+tin
+cohen pr and feigenbaum ea editors  c
+fithe handbook of artificial intelligence volume iiifr
+kaufmann los altos ca 
+sp
+tin
+charniak e riesbeck ck and mcdermott dv
+fiartificial intelligence programmingfr
+lawrence erlbaum associates hillsdale new jersey 
+sp
+tin
+gevarter wb
+fiintelligent machinesfr
+prenticehall englewood cliffs nj 
+sp
+tin
+michalski rs carbonnell jg and mitchell tm editors  c
+fimachine learningfr tioga palo alto ca  and
+fimachine learning volume iifr
+kaufmann los altos ca 
+sp
+tin
+nilsson nj
+fiprinciples of artificial intelligencefr
+tioga palo alto ca 
+sp
+tin
+schank rc and riesbeck ck
+fiinside computer understanding five programs plus miniaturesfr
+lawrence erlbaum associates hillsdale new jersey 
+sphcs
+winter term     class presentations     
+cbr
+        projectk
+brk
+        progress report 
+cbrk
+        final report    k
+brk
+        inclass presentation   
+brk
+        term paper      
+cspk
+        
+brk
+        hwtotal  utotal  k
+cb
+sh planned timetable
+spk
+nfk
+ta wbeginning  u i wlsisps ch    u wmon u
+cul
+week    material covered        reading deadlines
+ulk
+beginningk
+spk
+ sep                 thu     all assignments set
+cspk
+ sepk
+spk
+ sepk
+
+ sep                  tue     assignment  due
+spk
+ octk
+spk
+ oct                  thu     assignment  due
+cspk
+ oct                  thu     test 
+spk
+ octk
+
+ nov                 tue     assignment  due
+spk
+ novk
+                        thu     reading days no class
+spk
+ nov                  tue     test 
+cspk
+ novk
+spk
+ novk
+
+ dec                 tue     test 
+                        thu     assignment  due
+fik
+bpk
+h bibliographyhm m
+mmmmmhmmmmk
+
+
+
+
+
+k
+
+
+
+khmpm  mailmh
+
+k
+
+
+
+k
+
+
+phmphsph
+k
+
+
+
+
+
+kphmph                 thu     assignment  due
+
+
+
+
+here is a representative selection of recent books on ai with a bias towardshk
+
+
+cchh
+ sepk
+csp
+ sepk
+csp
+ octk
+csp
+ octk
+csp
+ octk
+csp
+ octk
+
+ novk
+csp
+ novk
+cs
+ novk
+
+ nov
+cspk
+ nov
+spk
+ dec
+fik
+b
+sh bibliography
+
+here is a representative selection of recent books on ai with a bias towards
+practical aspects
+lbk
+tin
+barr a and feigenbaum ea editors  c
+fithe handbook of artificial intelligencefr
+kaufmann los altos ca fivolume ifr 
+and fivolume iifr 
+spk
+tin
+bratko i
+fipsrologs programming for artificial intelligencefr
+addisonwesley wokingham england 
+
+tink
+bundy a
+cfithe computer modelling of mathematical reasoningfr
+academic press london 
+spk
+tin
+bundy a editor
+ficatalogue of artificial intelligence toolsfr
+springerverlag berlin 
+
+tink
+cohen pr and feigenbaum ea editors  c
+fithe handbook of artificial intelligence volume iiifr
+kaufmann los altos ca 
+
+tinkhmmhhh
+ckphmphpractical aspectshcharniak e riesbeck ck and mcdermott dvhkhwrote vaxbuserbprofsiancoursesinfosheethhmmhhkhphlph nov
+
+ nov
+
+ novk
+
+ nov
+
+ dec
+cfi
+bpk
+h bibliography
+sp
+here is a representative selection of recent books on ai
+lb
+tin
+barr a and feigenbaum ea editors  c
+fithe handbook of artificial intelligencefr
+kaufmann los altos ca fivolume ifr 
+and fivolume iifr 
+sp
+tin
+bratko i
+fipsrologs programming for artificial intelligencefr
+addisonwesley wokingham england 
+sphfind file courseshtin
+kmemacs infosheet          pm  mail   text fillmhsynopsis
+khlb
+npk
+dimensions of classification of machine learning problems and systems
+npk
+theoretical foundations of inductive inference
+npk
+similaritybased learning the generalizationassearch paradigm and its
+implementations
+cnp
+explanationbased learning and systems which embody it
+cnp
+exploration and discovery mechanisms functional induction and theory formation
+cnpk
+learning procedural knowledge
+npk
+cognitive aspects of human learning
+clek
+the text for this part will bek
+lbk
+rs michalski jg carbonell and tm mitchell editors 
+fimachine learning volume fp
+morgan kaufmann los altos ca
+clek
+other relevant books include
+lbk
+forsyth r and rada r k
+cul
+machine learning applications in expert systems and information retrievalhmsynopsis            pm  mail   text fillmhhmpm mhmpm mhhhtin
+bundy a
+fithe computer modelling of mathematical reasoningfr
+academic press london 
+
+tin
+bundy a editor
+ficatalogue of artificial intelligence toolsfr
+springerverlag berlin 
+spk
+tin
+cohen pr and feigenbaum ea editors  c
+fithe handbook of artificial intelligence volume iiifr
+kaufmann los altos ca 
+spk
+tin
+charniak e riesbeck ck and mcdermott dv
+fiartificial intelligence programmingfrk
+lawrence erlbaum associates hillsdale new jersey 
+spk
+tink
+gevarter wb
+fiintelligent machinesfr
+prenticehall englewood cliffs nj 
+spk
+tink
+michalski rs carbonnell jg and mitchell tm editors  c
+fimachine learningfr tioga palo alto ca  and
+fimachine learning volume iifrhmmhh
+
+
+
+
+
+
+
+
+hmark sethhkh
+phmphellis horwood
+chichester england
+sp
+rs michalski jg carbonell and tm mitchell editors 
+ul
+machine learning  an artificial intelligence approach
+tioga palo alto ca
+sp
+tm mitchell jg carbonell and rs michalski editors 
+ul
+machine learning  a guide to current research
+kluwer boston ma
+sp
+osherson dn stob d and weinstein s hmmh
+h
+
+h
+
+
+hmark sethphlphforsyth r and rada r 
+ul
+machine learning applications in expert systems and information retrieval
+ellis horwood
+chichester englandhmmh
+
+
+
+khspphlphk
+gevarter wb
+tink
+gevarter wbk
+phmphfiintelligent machinesfr
+prenticehall englewood cliffs nj 
+sp
+tin
+michalski rs carbonnell jg and mitchell tm editors  c
+fimachine learningfr tioga palo alto ca  and
+fimachine learning volume iifr
+kaufmann los altos ca 
+sp
+tin
+nilsson nj
+fiprinciples of artificial intelligencefr
+tioga palo alto ca 
+sp
+tinhmmhhc
+hmark sethhkh
+
+
+
+
+
+
+hmpm mhmpm mh
+h
+
+
+
+hmark sethphlpphlphrs michalski jg carbonell and tm mitchell editors 
+ul
+machine learning  an artificial intelligence approach
+tioga palo alto ca
+sp
+tm mitchell jg carbonell and rs michalski editors 
+ul
+machine learning  a guide to current research
+kluwer boston ma
+
+
+
+kmmmkphmphfimachine learning volume iifr
+mphmphkaufmann los altos ca 
+mkphmphsp
+mkphmphtin
+mmmmmtinphlphk
+tm mitchell jg carbonell and rs michalski editors 
+spphlphk
+tm mitchell jg carbonell and rs michalski editors 
+tinphlphk
+tm mitchell jg carbonell and rs michalski editors 
+mmhmmmmmmmmmmmmmmmmmmmmmhmark sethhkh
+
+h
+
+
+
+
+
+mark sethrs michalski jg carbonell and tm mitchell editors 
+fimachine learning volume fp
+morgan kaufmann los altos cak
+csp
+tink
+m
+
+
+kmmphmphtm mitchell jg carbonell and rs michalski editors 
+ul
+machine learning  a guide to current research
+kluwer boston ma
+sp
+tin
+nilsson nj
+fiprinciples of artificial intelligencefr
+tioga palo alto ca 
+sp
+tin
+schank rc and riesbeck ck
+fiinside computer understanding five programs plus miniaturesfr
+lawrence erlbaum associates hillsdale new jersey 
+sphmmh
+
+
+
+
+
+
+
+kphmphtin
+sowa jf
+
+mark sethphlphsp
+tin
+sp
+tin
+
+
+
+khmhhsp
+osherson dn stob d and weinstein s 
+cul
+systems that learnk
+mit press cambridge ma
+spk
+ulk
+proceedings of the fourth international workshop on machine learning
+june 
+morgan kaufmann los altos cahe
+rh artificial intelligencek
+this part will review the foundations of artificial intelligence and
+illustrate the problem of relating formal systems to human intelligence byk
+examining some key aspects of knowledge representation
+in particular the recently proposed theory of situational semantics
+will be studied in some detail to bring into focus the problems involved in
+representing meaningk
+clb
+npk
+he ai hypothesis that human thinking and machine computing are radically the
+same
+npk
+knowledge representation case study   inheritance systems
+npk
+nowledge representation case study   uncertain knowledge
+cnp
+a theory of meaning situational semantics  abstract situationshmmhhmpm  mailmhmpm  mailmh
+hmark seth
+hkh
+
+
+
+
+
+
+
+
+
+h
+
+
+
+
+mark sethphm
+
+
+
+
+lphosherson dn stob d and weinstein s 
+ul
+systems that learn
+mit press cambridge ma
+sp
+ul
+proceedings of the fourth international workshop on machine learning
+june 
+morgan kaufmann los altos ca
+
+
+
+
+lawrence erlbaum associates hillsdale new jersey 
+sp
+tin
+sowa jf
+ficonceptual structuresfr
+addisonwesley reading massachusetts 
+sp
+tin
+waterman da
+fia guide to expert systemsfr
+addisonwesley reading ma hmmhhkhmmmcultuliulululnulphlphk
+ul
+hhnp
+a theory of meaning situational semantics  abstract situations
+events eventtypes roles constraints constrainttypes
+linguistic meaning attitudes
+representing mental states and events
+cle
+the text for this part will be
+lbk
+barwise j and perry j 
+ulk
+situations and attitudes
+mit press cambridge mak
+lek
+other relevant books includek
+lbk
+cohen pr k
+ulk
+heuristic reasoning about uncertainty an artificial intelligence approach
+pitmans advanced program london england
+csp
+haugeland j k
+ulk
+artificial intelligence the very idea
+mit press cambridge mak
+csp
+anal ln and lemmer jfeditors k
+cul
+uncertainty in artificial intelligencekhmmh
+
+
+
+
+
+
+
+phmphnorth holland amsterdam
+sp
+touretzky d 
+ul
+the mathematics of inheritance systems
+pitman london
+le
+
+memacs synopsis            pm  mail   text fillbotmhhundohosherson dn stob d and weinstein s hystems that learnkhsp
+ulk
+proceedings of the fourth international workshop on machine learning
+june k
+morgan kaufmann los altos ca
+lek
+rh artificial intelligencek
+this part will review the foundations of artificial intelligence and
+illustrate the problem of relating formal systems to human intelligence by
+examining some key aspects of knowledge representation
+in particular the recently proposed theory of situational semantics
+will be studied in some detail to bring into focus the problems involved in
+representing meaning
+lbk
+np
+the ai hypothesis that human thinking and machine computing are radically the
+samek
+np
+knowledge representation case study   inheritance systems
+cnp
+knowledge representation case study   uncertain knowledge
+npk
+a theory of meaning situational semantics  abstract situations
+events eventtypes roles constraints constrainttypeshmemacs synopsis            pm  mail   text fillmhphm
+
+lphkh
+
+linguistic meaning attitudes
+representing mental states and events
+le
+the text for this part will be
+lb
+barwise j and perry j 
+ul
+situations and attitudes
+mit press cambridge ma
+le
+other relevant books include
+lb
+cohen pr 
+ul
+heuristic reasoning about uncertainty an artificial intelligence approach
+pitmans advanced program london england
+sp
+haugeland j 
+ul
+artificial intelligence the very idea
+mit press cambridge ma
+sp
+kanal ln and lemmer jfeditors 
+ul
+uncertainty in artificial intelligence
+north holland amsterdamhmmh
+
+
+
+
+
+
+hmark sethhkh
+
+
+hhmachine learning applications in expert systems and information retrieval
+ellis horwoodk
+chichester englandk
+
+
+gevarter wbk
+fiintelligent machinesfr
+prenticehall englewood cliffs nj 
+spk
+tin
+rs michalski jg carbonell and tm mitchell editors 
+
+machine learning  an artificial intelligence approachk
+tioga palo alto ca
+spk
+tin
+rs michalski jg carbonell and tm mitchell editors 
+fimachine learning volume fp
+morgan kaufmann los altos cak
+spk
+tin
+tm mitchell jg carbonell and rs michalski editors 
+ulk
+machine learning  a guide to current research
+kluwer boston mak
+
+
+nilsson njkhprinciples of artificial intelligencefrhmm
+mhbratko ik
+fipsrologs programming for artificial intelligencefr
+addisonwesley wokingham england 
+
+
+bundy akhthe computer modelling of mathematical reasoningfr
+academic press london k
+
+
+bundy a editork
+ficatalogue of artificial intelligence toolsfr
+springerverlag berlin k
+spk
+tin
+cohen pr and feigenbaum ea editors  c
+fithe handbook of artificial intelligence volume iiifrk
+kaufmann los altos ca k
+spk
+tin
+charniak e riesbeck ck and mcdermott dvhspk
+ octk
+spk
+ nov
+cspk
+ novk
+spk
+ novk
+
+ nov
+spk
+ novk
+spk
+ dec
+cfik
+bpk
+sh bibliographyk
+spk
+here is a representative selection of recent books on ai
+clbk
+tink
+barr a and feigenbaum ea editors  ck
+fithe handbook of artificial intelligencefr
+kaufmann los altos ca fivolume ifr k
+and fivolume iifr 
+
+
+bratko ikhsrologs programming forhmm
+mhmpm mhmpm m
+mm
+
+
+mark sethphmhlphbarwise j and perry j 
+ul
+situations and attitudes
+mit press cambridge ma
+
+
+addisonwesley wokingham england 
+sp
+tin
+bundy a
+fithe computer modelling of mathematical reasoningfr
+academic press london 
+sp
+tin
+bundy a editor
+ficatalogue of artificial intelligence toolsfr
+springerverlag berlin 
+sp
+tinhmmhhkhspphlphk
+bratko i
+tiphlphnk
+bratko i
+h
+
+
+hmark sethhkh
+hhficatalogue of artificial intelligence toolsfr
+springerverlag berlin k
+csp
+
+cohen prh volume iiifrhk
+spk
+tin
+charniak e riesbeck ck and mcdermott dv
+fiartificial intelligence programmingfr
+lawrence erlbaum associates hillsdale new jersey 
+spk
+tink
+forsyth r and rada r 
+culk
+machine learning applications in expert systems and information retrieval
+ellis horwoodk
+chichester englandk
+
+
+gevarter wbhintelligent machinesfrk
+prenticehall englewood cliffs nj 
+
+
+rs michalski jg carbonell and tm mitchell editors 
+ulk
+machine learning  an artificial intelligence approach
+mmh
+
+
+
+
+
+
+
+
+hmark sethphlphcohen pr 
+ul
+heuristic reasoning about uncertainty an artificial intelligence approach
+pitmans advanced program london england
+hkhspphlphk
+charniak e riesbeck ck and mcdermott dv
+tinphlphk
+charniak e riesbeck ck and mcdermott dv
+mmhmark sethhkh
+
+
+
+phmphprenticehall englewood cliffs nj 
+sp
+tin
+rs michalski jg carbonell and tm mitchell editors 
+ulhmmmmmmmmmmmhmark sethphlpphlphcharniak e riesbeck ck and mcdermott dv
+fiartificial intelligence programmingfr
+lawrence erlbaum associates hillsdale new jersey 
+sp
+tin
+mhmpm  mailmhmpm  mailmhhkhgevarter wbk
+fiintelligent machinesfrk
+prenticehall englewood cliffs nj 
+cspk
+tink
+rs michalski jg carbonell and tm mitchell editors 
+ulk
+machine learning  an artificial intelligence approach
+tioga palo alto ca
+spk
+tink
+rs michalski jg carbonell and tm mitchell editors 
+fimachine learning volume fp
+morgan kaufmann los altos ca
+spk
+tin
+tm mitchell jg carbonell and rs michalski editors k
+ulk
+machine learning  a guide to current research
+kluwer boston ma
+spk
+tin
+nilsson njk
+fiprinciples of artificial intelligencefr
+tioga palo alto ca 
+
+
+osherson dn stob d and weinstein s 
+ulkhmmh
+
+
+kphmphsystems that learnhphmphmit press cambridge mahhmark sethphlphphlpphlphsp
+tin
+sp
+tin
+hkhmh
+hmark sethhkh
+
+
+
+
+
+
+phmphsp
+touretzky d 
+ul
+the mathematics of inheritance systems
+pitman london
+lehmbotmhhhmark sethphlpphlphhaugeland j 
+ul
+artificial intelligence the very idea
+mit press cambridge ma
+sp
+kanal ln and lemmer jfeditors 
+ul
+uncertainty in artificial intelligence
+north holland amsterdam
+hkhmmmtinphlphk
+kanal ln and lemmer jfeditors 
+phmhlhlphtink
+tm mitchell jg carbonell and rs michalski editors 
+ul
+machine learning  a guide to current research
+kluwer boston ma
+sp
+tin
+nilsson njhprinciples of artificial intelligencefr
+tioga palo alto ca k
+
+
+osherson dn stob d and weinstein s 
+
+systems that learnk
+
+
+
+ulk
+proceedings of the fourth international workshop on machine learning
+june k
+
+
+
+schank rc and riesbeck ck
+fiinside computer understanding five programs plus miniaturesfr
+lawrence erlbaum associates hillsdale new jersey k
+sp
+tinhmmhhautosavinghhdonehhkhspk
+tink
+sowa jf
+ficonceptual structuresfrk
+addisonwesley reading massachusetts 
+
+
+waterman daha guide to expert systemsfrk
+addisonwesley reading ma 
+
+
+wilensky rk
+filsispscraftfr  wwnorton new york 
+spk
+tink
+winograd t
+filanguage as a cognitive process  volume i em syntaxfr
+addisonwesley reading massachusetts 
+spk
+tink
+winston phk
+fiartificial intelligencefr
+addisonwesley reading massachusetts  second edition
+spk
+tink
+winston ph  horn bkpk
+filsispsfr
+addisonwesley reading massachusetts  second editionhmmh
+
+
+
+
+kphmphlehkphmphbp hhmark sethphlphkhspk
+tin
+sp
+tin
+waterman da
+mmh
+hmark sethhkh
+
+
+hhmark sethphlpphlphtouretzky d 
+ul
+the mathematics of inheritance systems
+pitman london
+hkhmpm m
+winston ph
+fiartificial intelligencefr
+addisonwesley reading massachusetts  second edition
+spk
+tink
+winston ph  horn bkp
+filsispsfr
+addisonwesley reading massachusetts  second edition
+cle
+bp k
+cek
+the university of calgary
+department of computer science
+spk
+psk
+cek
+cpsc  em artificial intelligence
+cpsk
+sh assignment   introduction to slisps
+ of course marksk
+
+fully commented code together with answers to the questions posed in q
+must be handed in on tuesday january th
+there will bek
+ulk
+no extension of this deadline except for good documented medical reasons
+clb   
+ni   k
+  ckhmpm  mail   text fillmh
+
+
+
+
+
+
+
+
+hmark sethhkhni   k
+  ck
+write a recursive function spoweroftwos that computes the
+finfrth power of two eg
+spoweroftwos  returns 
+a simple test of functiondefinition and recursion
+spk
+ni   k
+  c
+write your own version of the lisp function sassocs
+sassocs looks up a value in a list of lists and returns the first
+list it finds whose first element matches the desired value
+for examplek
+sassocs sys sxs sas sys sbs szs scs
+returns sys sbs
+another simple test of functiondefinition and recursion
+cspk
+ni   k
+  ck
+in fbproblem fp p and p winston  horn define
+sourintersections ask
+sp k
+lbk
+nf
+ta wu wsconds u wuk
+sdefuns sourintersections sxs sys
+        sconds snulls sxs snils
+                smembers scars sxs sys
+mmhhmark sethnote that for all projects choice of experiments and
+ulk
+presentation and analysis of resultsk
+in the final report forms a particularly important part of the assessment
+due on friday april th the last day of the winter termk
+innk
+cle
+i hope that it will be found useful to discuss project progress in class
+and demonstrate them when complete
+spk
+there will bek
+ulk
+no extension of deadlines
+on the project except for good documented medical reasonsk
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+khmbotmhhkhlbk
+np
+ulk
+project proposal k
+innk
+a nominally twopage report which describes the project and defines its
+scope
+although this is not assessed itk
+ulk
+must be handed in on time
+due on tuesday february rd
+cinn
+npk
+ulk
+interim report 
+inn
+detailed specification of the project with plans for implementing the
+program and investigating its behavior
+must describe how the programs performance is to be assessed and what tests
+and analysis are planned
+due on tuesday march rd
+inn
+np
+ul
+final report 
+inn
+complete demonstration and documentation of what was done
+note that for all projects choice of experiments and
+ulhmm
+mha general frame system for knowledge representation
+
+
+atn parser for a simple subset of english
+cnpk
+ulk
+a version of marcuss deterministic waitandsee parsing scheme
+npk
+
+a semantic grammar interpreter in a particular domain
+npk
+ulk
+a concept learning system eg the m procedure
+cle
+of course you may suggest your own project topic
+cppk
+the project is to be undertaken as a scientific investigationk
+it is finotfr a test of whether you can hack together a system
+grades are given for the reports not for programs although programs mayk
+be included in an appendix
+as well as constructing a system you are expected to investigate and analyze
+its performance and report on your findings
+all projects will be done in lsisps unless there are fiveryfr special
+reasons for using another language to be discussed and agreed with me
+ppk
+i intend that projects will mostly be done in pairs
+assessment will be based on written documents as followsk
+lbk
+nphmm
+mhulk
+an experimental comparison of several different search procedures in a particular domain
+npk
+ul
+a gameplaying program for some simple twoperson game using the alphabeta treesearching techniquekhrule interpreter and the implementation of some rudimentary rulebased system in it
+cnp
+ulk
+a system which converts wellformed formulae in firstorder predicate calculus into clausal formk
+cnp
+ulk
+a resolution theorem proverk
+npk
+ulk
+a stripslike planner in a blocks worldk
+npk
+ulk
+a system to simplify differentiate and integrate expressions in symbolic algebra
+npk
+ulk
+a general frame system for knowledge representationhmm
+mhfully commented code together with a brief user manual and transcript
+of an interactive session must be handed in on tuesday january thk
+there will be
+cul
+no extension of this deadline except for good documented medical reasons
+sp k
+attachment   blocksl
+cbr
+attachment   commented transcript
+bp k
+cek
+the university of calgary
+department of computer science
+spk
+psk
+ce
+cpsc  em artificial intelligence
+psk
+sh project
+total of  of course marks
+ppk
+the aim of the project is to give you handson experience of designing and
+implementing an ai program of modest size and investigating and reporting on
+its performancek
+possible project topics are
+clb
+np
+ulk
+an experimental comparison of several different search procedures in a particulmm
+mmhmmmmmmmmphmphar domain
+np
+ul
+a gameplaying program for some simple twoperson game using the alphabeta treesearching technique
+np
+ul
+a rule interpreter and the implementation of some rudimentary rulebased system in it
+nphphlphdepartment of computer science
+sp
+ps
+ce
+cpsc  em artificial intelligence
+ps
+sh assignment   introduction to slisps
+ of course marks
+sp
+fully commented code together with answers to the questions posed in q
+must be handed in on tuesday january th
+there will be
+ul
+no extension of this deadline except for good documented medical reasons
+lb   hmmhmmmmmmmmmmmmmmhmark sethhkh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phmphpossible project topics are
+lb
+np
+ul
+an experimental comparison of several different search procedures in a particular domain
+np
+ul
+a gameplaying program for some simple twoperson game using the alphabeta treesearching technique
+np
+ul
+a rule interpreter and the implementation of some rudimentary rulebased system in it
+np
+ul
+a system which converts wellformed formulae in firstorder predicate calculus hphlphaddisonwesley reading massachusetts 
+sp
+tin
+winston ph
+fiartificial intelligencefr
+addisonwesley reading massachusetts  second edition
+sp
+tin
+winston ph  horn bkp
+filsispsfr
+addisonwesley reading massachusetts  second edition
+le
+bp 
+ce
+the university of calgaryhmmhhmpm mhmpm mh
+
+
+
+
+cp
+
+
+ccpphh
+
+
+hphmphnp
+ul
+an experimental comparison of several different search procedures in a particular domain
+np
+ul
+a gameplaying program for some simple twoperson game using the alphabeta treesearching technique
+np
+ul
+a rule interpreter and the implementation of some rudimentary rulebased system in it
+np
+ul
+a system which converts wellformed formulae in firstorder predicate calculus mmhhulk
+a system which converts wellformed formulae in firstorder predicate calculus into clausal form
+cnp
+ulk
+a resolution theorem prover
+cnpk
+ulk
+a stripslike planner in a blocks world
+npk
+ulk
+a system to simplify differentiate and integrate expressions in symbolic algebrak
+np
+ul
+a general frame system for knowledge representation
+npk
+ulk
+atn parser for a simple subset of english
+cnp
+ulk
+a version of marcuss deterministic waitandsee parsing schemehsemantic grammar interpreter in a particular domaink
+npk
+ul
+a concept learning system eg the m procedure
+lekhmmha concept learning system eg the m procedure
+lek
+of course you may suggest your own project topic
+cpp
+the project is to be undertaken as a scientific investigation
+it is finotfr a test of whether you can hack together a system
+grades are given for the reports not for programs although programs may
+be included in an appendix
+as well as constructing a system you are expected to investigate and analyze
+its performance and report on your findings
+all projects will be done in lsisps unless there are fiveryfr special
+reasons for using another language to be discussed and agreed with mek
+pp
+i intend that projects will mostly be done in pairs
+assessment will be based on written documents as follows
+lbk
+
+
+project proposal k
+cinn
+a nominally twopage report which describes the project and defines its
+scopek
+although this is not assessed it
+
+must be handed in on timek
+due on tuesday february rd
+cinn
+npk
+ulhmmhhwrote vaxbuserbprofsiancoursesinfosheethhmmhhkhhhloading shellhhdonehhkhroff ak
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+khmemacs shell             pm  mail   shell runallmh
+vaxb corsekureksesinfosheet lpq palwhmpm mhmpm mh
+no entries
+
+vaxb sending to vaxa
+rank   owner      job  files                                 total size
+st    ian          standard input                       bytes
+vaxbchmpm  mailmhmpm  mailmhhmpm mhmpm mhhmpm  mailmhmpm  mailmhhmpm  mailmhmpm  mailmhhmpm  mailmhmpm  mailmhhmpm mhmpm mhhmpm  mailmhmpm  mailmhhmpm  mailmhmpm  mailmhhmpm  mailmhmpm  mailmhhmpm mhmpm mhhmpm  mailmhmpm  mailmhhmpm  mailmhmpm  mailmhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm  mailmhmpm  mailmhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhczhh rhhloading rmailhhdonehhkhhcounting messageshhhhgarbage collectingkhhcounting messageshhdonehhnew messageshhdone hhwrote vaxbuserbprofsianrmailhh new message readkhhfrom danhua mo movaxblocalk
+date  aug  mst
+subject paper
+to ianvaxblocalk
+k
+hi i hate to bother you again but it would be highly appreciatedk
+if you would take a look at the final draft of my paper i put it in
+your mbox on the th floor i am very busy at making the format right
+now because the deadline is on monday
+
+mohm emacs rmail  pm  mail  rmail  narrow allmhhmpm   rmail  narrow allmhmpm    text fillmhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhkhdate fri  aug   mdt
+from tim bell belltvaxblocal
+to clearyvaxblocal ianvaxblocal
+subject text compression corpushere is a list of the texts we decided on a while ago for the corpus could
+you please give me a pathname where i can get the texts that youk
+volunteered also any suggestions changes k
+k
+ta
+timk
+
+text compression corpus
+
+abbrev  source
+
+book   hardy  far from the madding crowd
+book   ians speech book
+paper  ian
+paper  ian
+paper  ian
+paper  john
+paper  john
+paper  john
+news    usenet sample
+progc   c dan k
+progp   pascal john
+progm   modulahmanswered narrow topmhfrom danhua mo movaxblocalk
+date  aug  mstk
+subject paperk
+to ianvaxblocalkhi i hate to bother you again but it would be highly appreciatedk
+if you would take a look at the final draft of my paper i put it in
+your mbox on the th floor i am very busy at making the format right
+now because the deadline is on monday
+k
+mo
+k
+k
+
+k
+
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+khm narrow allmhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhhmark sethpn k
+ls
+cek
+the university of calgary
+department of computer sciencek
+spk
+psk
+cek
+cpsc  em artificial intelligencek
+psk
+spk
+lbk
+np
+ulk
+instructork
+john h andreae  ma   
+ian h witten  ma   
+csp
+npk
+ulk
+office hoursk
+tuesdays and thursdays  both instructors
+spk
+np
+ulk
+lecturesk
+ tuesdays and thursdays 
+csp
+nphmtopmhhkh
+
+
+
+
+
+
+
+
+
+
+
+
+shmmh
+ andhmpm mhmpm mh
+h
+
+hhh
+
+
+c
+
+mtpa ppp
+phmphul
+assessment
+ta wwinter term    u wmidterm exam in class time    u
+sp
+fall term       assignment      
+br
+project
+br
+progress report 
+br
+final report    
+br
+inclass presentation   
+br
+takehome exam  
+m mh
+
+
+
+hquery replace
+mark setk
+query replacing  with chk
+
+
+
+k
+
+ckhkhh        projectk
+brk
+        progress report 
+cbr
+        final report    
+brk
+        inclass presentation   k
+cbr
+        takehome exam  
+csp
+winter term     class presentations     
+brk
+        project
+cbr
+        progress report 
+brk
+        final report    k
+cbr
+        inclass presentation   
+
+term paper      
+csp
+k
+
+hwtotal  utotal  khp
+sh planned timetablek
+csp
+nfkhmmhhmpm mhmpm mhkk
+
+ckhkhhdonekhkhh
+hisearchhh m hhkh
+
+hi hhkhhsh bibliography
+csp
+here is a representative selection of recent books on aihc hhh hhkhhpk
+tin
+caugeland j k
+cul
+artificial intelligence the very ideak
+mit press cambridge ma
+spk
+tin
+kanal ln and lemmer jfeditors 
+cul
+uncertainty in artificial intelligencek
+north holland amsterdam
+spk
+tin
+rs michalski jg carbonell and tm mitchell editors 
+cul
+machine learning  an artificial intelligence approach
+tioga palo alto ca
+spk
+tin
+rs michalski jg carbonell and tm mitchell editors 
+fimachine learning volume fp
+morgan kaufmann los altos ca
+csp
+tink
+tm mitchell jg carbonell and rs michalski editors 
+culk
+machine learning  a guide to current research
+kluwer boston ma
+mmhhmark setkhhkh
+hmark sethhkhcc
+hdefining kbd macrohhm def allmhm defmhhmark setkhhisearchhh   hhkhh  j hhfailing isearch  jhhmark setkhhkhhkeyboard macro definedhhm allmhmmhhautosavingkhhkeyboard macro definedhhkhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm   rmail  narrow allmhmpm    text fillmhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhhloading sendmailhhdonehhmailaliaskhhdonehhkhtok
+subjectk
+fcc mboxoutk
+text follows this line
+
+k
+k
+k
+k
+
+khmemacs mail              pm    mail fillallmh ghmmhaines
+stuffh
+hmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhhmpm mhmpm mhplease stikkkleave me the bratkocstuff about extending id to dealcwith intervals
+and the bkdefinitive book on decision trees
+have a good trip wherever
+ian
+hmpm mhmpm mhhsendinghhwrote vaxbuserbprofsianmboxouthhsendingdonekhhmmhhkhh
+
+hdefining kbd macrohhm defallmhm defmhhmark setkhhisearchhh   hhmark setkhhkhp
+pc hmark sethrshmpm mhmpm mhhisearch   hhkhchmark setkhhkhhkeyboard macro definedhhmallmhmmhhkhhczhhkhcarbonell jgcmitchell tmchhh
+
+michalski rs carbonell jgmitchell tmc
+h
+
+mitchell tmcarbonell jg and michalski rsc
+
+
+
+
+wrote vaxbuserbprofsiancoursesinfosheethhmmhhmpm mhmpm mh
+
+
+
+
+khphmhmphmichalski rs carbonell jg and mitchell tm editors 
+fimachine learning volume fp
+morgan kaufmann los altos cak
+
+
+mitchell tm carbonell jg and michalski rs hvaxb roff a coursesinfosheet lpq palw
+no entries
+k
+vaxb sending to vaxak
+rank   owner      job  files                                 total size
+st    ian          standard input                       bytes
+vaxbk
+k
+k
+k
+k
+k
+k
+k
+kmemacs shell             pm    shell runallmhsp
+tin
+nilsson njhmmhcd courseshdirectory vaxbuserbprofsiancourseshhkhroff
+vaxb roff  a infosheet lpq palw
+hmpm mhmpm mhmpm mhalw is ready and printing
+rank   owner      job  files                                 total size
+active andrews      infodvi regsdvi                     bytes
+
+vaxb sending to vaxa
+phmphrank   owner      job  files                                 total sizehmbotmhvaxbchmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm    mail fillallmhmpm    shell runbotmhmpm    text fillmhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhmpm  mail   mail fillallmhmpm  mail   shell runbotmhmpm  mail   text fillmhhmpm  mailmhmpm  mailmhmpm  mailmhhmpm  mailmhmpm  mailmhmpm  mailmhhmpm mhmpm mhmpm mhhmpm  mailmhmpm  mailmhmpm  mailmhhmpm  mailmhmpm  mailmhmpm  mailmhhmpm  mailmhmpm  mailmhmpm  mailmhhmpm mhmpm mhmpm mhhmpm  mailmhmpm  mailmhmpm  mailmhhmpm  mailmhmpm  mailmhmpm  mailmhhhghmmhhautosavinghhdonehhkhkhfrom danhua mo movaxblocal
+date  aug  mst
+subject paper
+to ianvaxblocalk
+k
+hi i hate to bother you again but it would be highly appreciated
+if you would take a look at the final draft of my paper i put it in
+your mbox on the th floor i am very busy at making the format right
+now because the deadline is on monday
+
+mohm emacs rmail  pm  mail  rmail  narrow allmhhcounting new messageshhdone hhwrote vaxbuserbprofsianrmailhh new message readkhdate fri  aug   mdt
+from mr invisible kittlitzvaxblocal
+to ianvaxblocal
+k
+ to unbundle sh this file
+echo interc k
+ cat interc end of interck
+include weirdhk
+define maxlines                 number of lines read in a time  max  ofclines
+                                      of one command result 
+
+typedef char filenamemaxstr
+extern char homep
+filename namearraymaxlines         array of file lines 
+filename namep  namearray memp  namearray
+file comfp
+file resfp
+file locfp
+struct rightentry ihead itail    pointers to list of commands to be savedc
+int lineno  
+short done   abortit   save    haveold  
+
+interresult command location
+
+char result command location
+
+m narrow topmhhmpm   rmail  narrow topmhmpm    shell runbotmhmpm    text fillmhhno following nondeleted messagehhkhfrom danhua mo movaxblocalk
+date  aug  mstk
+subject paperk
+to ianvaxblocal
+k
+hi i hate to bother you again but it would be highly appreciated
+if you would take a look at the final draft of my paper i put it in
+your mbox on the th floor i am very busy at making the format right
+now because the deadline is on mondayk
+k
+mok
+
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+
+k
+
+khm narrow allmhdate fri  aug   mdt
+from mr invisible kittlitzvaxblocal
+to ianvaxblocal
+k
+ to unbundle sh this file
+echo interc k
+ cat interc end of interck
+include weirdhk
+define maxlines                 number of lines read in a time  max  ofclines
+                                      of one command result 
+
+typedef char filenamemaxstr
+extern char homep
+filename namearraymaxlines         array of file lines 
+filename namep  namearray memp  namearray
+file comfp
+file resfp
+file locfp
+struct rightentry ihead itail    pointers to list of commands to be savedc
+int lineno  
+short done   abortit   save    haveold  
+
+interresult command location
+
+char result command locationhm narrow topmhhmpm mhmpm mhmpm mhhmpm mhmpm mhmpm mhhsave file vaxbuserbprofsianrmail y or nhh nhhkhhcheck all savedhhklhphj   done                  roff a assignments lpq palw 
+vaxb dlogout
+you are still logged in somewhere
+hj

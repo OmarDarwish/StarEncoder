@@ -1,0 +1,982 @@
+ attention  conservez cette licence si vous redistribuez ce fichier 
+license abu
+
+version  aout 
+
+copyright c  association de bibliophiles universels
+   httpabucnamfr
+   abucnamfr
+
+la base de textes de lassociation des bibliophiles universels abu
+est une oeuvre de compilation elle peut tre copie diffuse et
+modifie dans les conditions suivantes 
+
+  toute copie  des fins prives  des fins dillustration de lenseignement
+    ou de recherche scientifique est autorise
+
+  toute diffusion ou inclusion dans une autre oeuvre doit
+
+     a soit inclure la presente licence sappliquant a lensemble de la
+        diffusion ou de loeuvre drivee
+
+     b soit permettre aux bnficiaires de cette diffusion ou de cette
+        oeuvre drive den extraire facilement et gratuitement une version
+        numrise de chaque texte inclu muni de la prsente licence  cette
+        possibilit doit tre mentionne explicitement et de faon claire
+        ainsi que le fait que la prsente notice sapplique aux documents
+        extraits
+
+     c permettre aux bnficiaires de cette diffusion ou de cette
+        oeuvre drive den extraire facilement et gratuitement la version
+        numrise originale munie le cas chant des amliorations vises au
+        paragraphe  si elles sont prsentent dans la diffusion ou la nouvelle
+        oeuvre cette possibilit doit tre mentionne explicitement et de
+        faon claire ainsi que le fait que la prsente notice sapplique aux
+        documents extraits
+
+   dans tous les autres cas la prsente licence sera rpute sappliquer
+    lensemble de la diffusion ou de loeuvre drive
+
+
+ lentte qui accompagne chaque fichier doit tre intgralement 
+   conserve au sein de la copie
+
+ la mention du producteur original doit tre conserve ainsi
+   que celle des contributeurs ultrieurs
+
+ toute modification ultrieure par correction derreurs
+   additions de variantes mise en forme dans un autre format ou autre
+   doit tre indique  lindication des diverses contributions devra tre
+   aussi prcise que possible et date
+
+ ce copyright sapplique obligatoirement  toute amlioration
+   par simple correction derreurs ou doublis mineurs orthographe
+   phrase manquante  cestdire ne correspondant pas 
+   ladjonction dune autre variante connue du texte qui devra donc
+   comporter la prsente notice
+
+ fin de la licence abu 
+
+ attention  conservez cet entete si vous redistribuez ce fichier 
+ident journalism
+identauteurs ginistyp
+identcopistes swaelensg
+archive httpwwwabuorg
+version 
+droits 
+titre anthologie du journalisme
+genre vers
+auteur paul ginisty 
+copiste g j swaelens compuservecom
+notesprod
+
+paul ginisty  a crit de nombreux romans et tudes historiques 
+notamment sur le thtre  il fut directeur de lodon de   et sur paris et ses 
+moeurs la prsente dition de son anthologie du journalisme a t publie en  
+une anne aprs son dcs dans une note annexe  la notice sur la rvolution de 
+ pginisty renvoie le lecteur  un deuxime tome quil na probablement pas pu 
+mener  bien aucune mention de ce deuxime tome napparat dans le catalogue de la 
+bibliothque nationale de france
+ledition qui a servi de base a la presente numerisation peut etre
+consultee a la bibliotheque publique et universitaire de geneve
+
+paul ginisty  wrote several novels and historical essays namely on 
+paris the theatre and contemporary mores this anthologie du journalisme was 
+published the year following his death in a footnote of the notice devoted to the  
+revolution he refers to a second volume which death probably prevented him from 
+completing no trace of this second volume is found in the catalogue of the 
+bibliothque nationale de france
+the original volume from which the following digital version has been
+produced can be consulted at the bibliotheque publique et universitaire de
+geneve in geneva switzerland
+
+jai spar les notes biographiques des textes proprement dits par cinq astrisques 
+ les poques rvolution etc par sept astrisques  et lorsquune 
+sparation simposait au milieu dun texte pour un commentaire par exemple jy ai 
+mis trois astrisques  deux astrisques introduisent des commentaires de 
+ginisty au milieu dun texte cit tout cela nest pas simple mais cest faute de mieux
+ le but tait de remplacer des textes composs dans un corps plus petit pour les 
+diffrencier de leur contexte
+
+a titre de curiosit je signale la biographie de victor considrant o il est dit quil 
+a failli tre fusill dans la cour du cnam celui de thophile gautier sur ce que sera 
+lan  crit en  lexplication historique de j mry sur le climat de paris le 
+texte mystique sur paris vu par les saintsimoniens notice sur duveyrier et la 
+misogynie du paragraphe en faveur des femmes de gozlan il y a dautres textes 
+amusants ou passionnants bien sr mais ceuxl mont assez diverti
+
+notesprod
+ fin de lentete 
+
+ debut du fichier journalism 
+
+collection pallas e dition 
+
+anthologie du journalisme 
+
+
+du xviie sicle  nos jours par paul ginisty 
+
+
+tomei 
+
+
+la rvolution  le premier empire la restauration  la seconde restauration le gouvernement de juillet la rvolution de  
+
+
+paris librairie delagrave  rue soufflot   
+
+
+ 
+
+
+table des matires 
+
+
+introduction 
+
+
+la rvolution 
+
+
+mirabeau la libert de la presse 
+
+
+lyse loustalot contre la peine de mort 
+
+
+condorcet mes principes 
+
+
+rivarol traits et maximes les actes des aptres 
+
+
+camille desmoulins spartiates et athniens le comit de clmence 
+
+
+maximilien robespierre des ftes nationales et des honneurs publics 
+
+
+andr chnier des manoeuvres des jacobins 
+
+
+marat rveillonsnous il en est temps 
+
+
+hbert la plus grande de toutes les joies du pre duchesne 
+
+
+gracchus babeuf les moeurs du jour 
+
+
+mallet du pan la dictature 
+
+
+roederer dune nouvelle maladie de la jeunesse 
+
+
+mmede genlis les valets de comdie 
+
+
+ange pitou la mort du genre humain 
+
+
+jfive la politique dun philosophe 
+
+
+le premier empire 
+
+
+geoffroy les bourgeoises  la mode 
+
+
+fguizot limpolitesse 
+
+
+chateaubriand nron mais tacite 
+
+
+de jouy lauteur mcontent 
+
+
+kratry gens de lettres dautrefois 
+
+
+la restauration 
+
+
+benjamin constant le retour de lle delbe 
+
+
+j tmerle paris  la fin de juin 
+
+
+la seconde restauration 
+
+
+victor hugo un bilan 
+
+
+paullouis courier la peur de la presse 
+
+
+etienne le respect de la charte 
+
+
+martainville lassassinat du duc de berry 
+
+
+charles nodier du mot monsieur polichinelle 
+
+
+etienne bquet malheureuse france 
+
+
+henri de latouche fausses nouvelles vraisemblables 
+
+
+lm fontan le mouton enrag 
+
+
+adolphe thiers protestations des journalistes contre les ordonnances 
+
+
+le gouvernement de juillet 
+
+
+saintmarc girardin la cure 
+
+
+alfred de musset la chute du bal de lopra 
+
+
+charles duveyrier le paris saintsimonien 
+
+
+flix pyat le thtrefranais 
+
+
+armand marrast attendre et se prparer 
+
+
+barthlemy a monsieur de lamartine 
+
+
+ch philipon afin que si jamais letat leur manque ils ne manquent du moins jamais dtat si la justice a toujours deux poids du moins elle ne garde plus de mesures 
+
+
+louis desnoyers les botiens de paris 
+
+
+saintebeuve les soires littraires 
+
+
+ajay contre les romantiques 
+
+
+armand carrel un dfi 
+
+
+honor de balzac la revue parisienne 
+
+
+gustave planche le mtier de journaliste 
+
+
+victor considrant le nouveau champ de bataille 
+
+
+jules janin frdrick lematre aux foliesdramatiques 
+
+
+lm de cormenin une rforme judiciaire 
+
+
+mile de girardin la presse 
+
+
+thophile gautier lan  et lan  
+
+
+joseph mry le climat de paris 
+
+
+roger de beauvoir le touriste 
+
+
+mmemile de girardin le premier voyage en chemin de fer 
+
+
+le docteur vron rachel 
+
+
+grard de nerval histoire vridique du canard 
+
+
+eugne briffault les bains froids 
+
+
+ej delcluze de la barbarie de ce temps 
+
+
+alphonse karr la difficult dcrire lhistoire 
+
+
+nestor roqueplan le chic 
+
+
+tienne arago le figurant 
+
+
+philibert audebrand sductions et dangers du thtre 
+
+
+louis reybaud balzac jug par un de ses contemporains 
+
+
+taxile delord chicard 
+
+
+champfleury delacroix 
+
+
+granier de cassagnac les mots et les choses 
+
+
+henri murger souvenirs du corsairesatan 
+
+
+elzar blaze chasseurs et chasseurs 
+
+
+charles maurice talma hugo et la parodie le piano de rossini rubini 
+
+
+silvestre de sacy la morale naturelle 
+
+
+cuvillierfleury jules janin 
+
+
+mile dr la bdollire la politique de linvalide 
+
+
+la rvolution de  
+
+
+pierre leroux aux politiques 
+
+
+pj proudhon la proprit laffirmation par la ngation 
+
+
+george sand au peuple 
+
+
+amde achard le club du village 
+
+
+lon gozlan un paragraphe en faveur des femmes 
+
+
+louis blanc la solidarit des intrts 
+
+
+auguste blanqui mes calomniateurs 
+
+
+auguste lireux la morale au thtre 
+
+
+lamennais silence aux pauvres 
+
+
+les journaux de femmes rponse de george sand 
+
+
+de leuven et brunswick et le journal vaudeville 
+
+
+ 
+
+
+anthologie du journalisme 
+
+
+introduction 
+
+
+i 
+
+
+du premier numro de la gazette de thophraste renaudot au journal actuel quel chemin parcouru par la presse 
+
+
+la fondation de la presse en france date vritablement de cette petite feuille hebdomadaire qui commena  paratre le mai   sur quatre pages in au bureau dadresses autre invention de lingnieux renaudot  lenseigne du grand coq sortant du marchneuf prs le palais dbuts modestes mais quelle ide tait plus grosse davenir 
+
+
+ les premiers numros ne portaient dautre indication quun signe alphabtique cest par induction une date apparaissant en tte du sixime numro juillet  quon a tabli pour le numro initial celle du  mai 
+
+
+cerveau sans cesse occup de conceptions neuves le mdecin thophraste renaudot avait voyag en observateur curieux cest de ltranger quil avait rapport le principe dinstitutions charitables dvelopp avec son tour desprit personnel et son sens avis des ralisations pratiques les gazettes vnitiennes et hollandaises et un crit priodique anglais lui inspirrent la pense dune publication plus ordonne et plus mthodique plus vridique aussi ce souci de la vrit fort altre par les colporteurs de nouvelles quand elle ntait pas travestie par les auteurs de pamphlets clandestins le proccupait fort mes gazettes ditil dans un de ces exposs o il commentait et dfendait son oeuvre seront maintenues pour lutilit quen reoivent le public et les particuliers le public pour ce quelles empeschent plusieurs faux bruits qui servent souvent dallumettes aux mouvements et sditions intestines les particuliers chacun deux ajustant volontiers ses affaires au modle du temps 
+
+
+le privilge de la gazette tait exclusif ds le mois de novembre de cette anne  un arrt du conseil du roi spcifiait que quiconque porterait prjudice  renaudot seroit puni de six mille livres damende louis xiii et richelieu rien ne reste plus aujourdhui de la lgende romantique de louis xiii fantme de roi entre les mains du cardinal avaient compris toute limportance dun organe de publicit mais ils avaient compris en mme temps les dangers pour le pouvoir de la presse naissante ils prvenaient lopposition en ne lui laissant pas de moyens dexpression son privilge renaudot le dfendit parfois avec pret mais ce ntait que contre des contrefacteurs la concurrence tait impossible ce ntait pas seulement la faveur royale qui soutenait lauteur de la gazette ctait un intrt de gouvernement 
+
+
+louis xiii ne se bornait pas  accorder son efficace protection  la gazette il tait le plus important de ses collaborateurs anonymes et de cette collaboration il reste la trace des notes de la main mme du roi conserves aux manuscrits de la bibliothque nationale fonds franais  ces notes avaient trait surtout aux oprations militaires mais louis xiii adressait aussi  renaudot des comptes rendus des ballets de cour et il en fut ainsi notamment pour le ballet de la merlaizon quil avait compos 
+
+
+la gazette noffrit dabord que des informations fort brves commenant par les lieux les plus loigns pour finir par la france pour la france ce ntalent gure que des nouvelles de la cour et des dplacements royaux ds le mois de novembre renaudot doubla son format il y eut bientt aussi les extraordinaires sortes de supplments consacrs aux vnements officiels dont le rcit demandait quelques dtails ou  des biographies de personnages dont la mort tait rcente le pre du journalisme avait tout entrevu en  il accompagnait certains faits de quelques rflexions sommaires mais il avait accoutum gnralement une fois par mois de se plaire  une manire de causerie avec ses lecteurs pleine de bonhomie et parfois de malice o il rpondait  ses dtracteurs il navait pas manqu den avoir o il disait ses projets o il constatait son succs o il mettait aussi le public au courant des difficults quil rencontrait o il sexcusait de quelque erreur commise malgr sa bonne foi gure de gens possible ne remarquent la diffrence qui est entre lhistoire et la gazette ce qui moblige de vous dire que lhistoire est le rcit des choses advenues la gazette seulement le bruit qui en court la premire est tenue de dire toujours la vrit la seconde fait assez si elle empche de mentir et elle ne ment pas mme quand elle rapporte quelque nouvelle fausse qui lui a t donne pour vritable il ny a que le seul mensonge quelle controuverait  dessein qui la puisse rendre digne de blasme 
+
+
+dans une de ces causeries il parlait des mesures prises par des etats trangers contre la circulation de la gazette il en parlait non sans hauteur et dune faon prophtique ferayje en ce lieu prire aux princes et estats estranges de ne point perdre inutilement le temps  vouloir fermer passage  mes nouvelles veu que cest une marchandise dont le commerce ne sest jamais pu deffendre et qui tient cela de la nature des torrents quil se grossit par la rsistance 
+
+
+la gazette paraissait le samedi et tait vendue par cinquante colporteurs se rpandant dans paris un sol parisis une estampe contemporaine mlant la ralit  lallgorie montre un de ces colporteurs son panier en bandoulire et y entassant les exemplaires quant  la gazette elle est reprsente sous la figure dune femme assise sur un trne  le futur quatrime pouvoir ce trne a pour marches quantit de feuillets dimprimerie la gazette fait tomber le masque du mensonge elle est vtue dune robe toute parseme doreilles 
+
+
+la gazette assise sur un trne par linspirateur de lestampe nen tait pas moins forcment fort dpendante de ses puissants protecteurs telle note mane de richelieu devait tre parfois insre durgence dton arrter le tirage commenc et supprimer pour faire place  cette copie politique un nombre de lignes quivalent a la mort de louis x thophraste renaudot dj trs attaqu par les mdecins ne lui pardonnant pas lautorisation quil avait obtenue de btir l htel des consultations charitables dans lequel ils voyaient une facult rivale employant contre lui toutes les influences dont ils disposaient risqua fort une disgrce complte on se faisait une arme contre lui auprs de la rgente anne dautriche dune de ces notes de richelieu o  mots couverts il avait quelque dix ans auparavant menac la reine  propos de son attitude  lgard de lespagne  
+
+
+ voir sur toutes les luttes queut  soutenir le fondateur de la gazette louvrage du regrett docteur gilles de la tourette thophraste renaudot 
+
+
+renaudot bien quil pt prouver quil navait fait quobir  un ordre du cardinal ne se tira pas sans difficults du pril ce ne fut qu force dadresse et de souplesse quil maintint ses privilges mais ses ennemis multipliaient contre lui les pamphlets tels que celui dont guy patin tait peuttre lauteur intitul le nez pourri de thophraste renaudot alchymiste charlatan empirique usurier comme juif perfide comme un turc mchant comme un rengat grand fourbe grand gazettier de france renaudot se dfendit nergiquement contre toutes ces attaques il rentra en faveur  la cour et fut mme nomm historiographe de france 
+
+
+pendant la fronde il ne pouvait pas hsiter sur sa ligne de conduite et il installa la gazette  saintgermain mais en homme avis il prvoyait toutes les ventualits il avait suivi mazarin si cependant la cause du parlement triomphait il tait assez malais alors de deviner exactement lavenir renaudot eut une ide admirable dingniosit du moins de faon  ne pas tre victime des vnements quels quils fussent la gazette  saintgermain dfendait le parti de la cour  paris les fils de renaudot isaac et eusbe ses collaborateurs trs dvous eurent un journal  la dvotion du parlement ce fut le courrier franais qui eut douze numros les deux feuilles rivales sentendaient  merveille au fond quand la cour rentra  paris le fondateur de la gazette revendiqua ses droits et le courrier franais qui avait t un habile expdient disparut 
+
+
+renaudot eut  lutter souvent contre les contrefacteurs qui semparaient de ses gazettes par une entente avec les colporteurs et tiraient profit de ces reproductions illicites il en arriva  marquer de signes particuliers mme de lettres chinoises les exemplaires authentiques dans ses dernires annes il avait un peu largi sa manire et dans des poques troubles il donnait plus librement cours  ses sentiments personnels il y a une sorte dloquence dans la faon dont il dplore les divisions risquant de compromettre la grandeur du pays les ennemis ont grand sujet de rire de nos dissensions perptuelles qui leur donnent le moyen quils nauroyent pas autrement de rparer les affronts quils ont reus dans les campagnes prcdentes ou ailleurs fautil que ma plume qui navoit accoustum de vous entretenir que des clbres victoires de nostre monarque sur ses ennemis estrangers ne vous apprenne plus maintenant que celles quil remporte sur ses sujets renaudot mourut le octobre  ses fils puis son neveu lui succdrent dans la rdaction de la gazette il est piquant de se reporter  la premire chronique du premier journal franais et est ce autre chose quune chronique en effet que cette page o thophraste renaudot dune faon vive et alerte exposait les embarras du journaliste devant les prtentions de tous ceux qui voudraient tre cits par lui et devant les exigences du public 
+
+
+ 
+
+
+les cueils du journaliste 
+
+
+la difficult que je dis rencontrer en la composition de mes gazettes nest pas mise ici en avant pour en faire plus estimer mon ouvrage ceux qui me connoissent peuvent dire aux autres si je ne trouve pas de lemploy honorable aussi bien ailleurs quen ces feuilles cest pour excuser mon style sil ne respond pas toujours  la dignit de son sujet le sujet  votre humeur et tous deux  votre mrite les capitaines y voudroient rencontrer tous les jours des batailles ou des siges levs et des villes prises les plaideurs des arrests en pareil cas les personnes devotieuses y cherchent les noms des prdicateurs des confesseurs de remarque ceux qui nentendent rien aux mystres de la cour les y voudroient trouver en grosses lettres tel sil a port un paquet en cour ou men une compagnie dun village  lautre sans perte dhommes ou pay le quart de quelque mdiocre office se fche si le roi ne voit son nom dans la gazette dautres y voudroient avoir ces noms de monseigneur ou de monsieur rpts  chaque personne dont je parle  faute de remarquer que ces titres ne sont pas ici apposs comme trop vulgaires joint que ces compliments tant omis en tous ne peuvent donner jalousie  aucuns 
+
+
+il sen trouve qui ne pensent quau langage fleuri dautres qui veulent que mes relations semblent  un squelette dcharn de sorte que la relation en soit toute une ce qui ma fait essayer de contenter les uns et les autres 
+
+
+se peutil faire que vous ne me plaigniez pas en toutes ces rencontres et que vous nexcusiez pas ma plume si elle ne peut plaire  tout le monde en quelque posture quelle se mette non plus que ce paysan et son fils quoiquil se misse premirement seuls et puis ensemble tantost  pied et tantost sur leur asne et si la crainte de dplaire  leur sicle a empesch plusieurs bons auteurs de toucher  lhistoire de leur aage quelle doit estre la difficult descrire celle de la semaine voire du jour mme o elle est publie joignezy la brivet du temps que limpatience de votre humeur me donne et je suis bien tromp si les plus riches censeurs ne trouvent digne de quelque excuse un ouvrage qui se doit faire en quatre heures de jour que la venue des courriers me laisse pour assembler ajuster et imprimer ces lignes 
+
+
+mais non je me trompe estimant par ces remontrances pouvoir tenir la bride  votre censure et si je le pouvois je ne dois pas le faire cette libert de reprendre ntant pas le moindre plaisir de ce genre de lecture et votre plaisir et votre divertissement tant lune des causes pour lesquelles cette nouveaut a t invente jouissez donc  votre aise de cette libert franaise et que chacun dise hardiment quil et ost ceci ou chang cela quil auroit bien mieux fait je le confesse 
+
+
+et une seule chose ne cderai je  personne en la recherche de la vrit de laquelle nanmoins je ne me fais pas son garant tant malais quentre cinq cents nouvelles crites  la haste il nen chappe quelque une  nos correspondants qui mrite dtre corrige par son pre le temps mais encore se trouveratil des personnes curieuses de savoir qu ce tempsl tel bruit tait tenu pour vritable ceux qui se scandalisent possible de deus ou trois faux bruits seront par l invits  dbiter au public par ma plume que je leur offre  cette fin les nouvelles quils croient plus vraies et comme telles plus dignes de lui tre communiques que ceux qui soccupent  syndiquer mes crits ou mes oeuvres viennent maider et nous verrons  faire mieux ensemble 
+
+
+ 
+
+
+la muse historique de jean loret qui commena sa publication en  ntait point  proprement parler un journal pour lamusement de mllede longueville sa protectrice loret avait entrepris de conter en petits vers les menus vnements de chaque semaine de ces bavardages rims on tira des copies qui furent de plus en plus demandes ctait en somme un gazetier mais non clandestin et mme pensionn si renaudot crivait lhistoire hebdomadaire loret crivait lhistoriette la forme de ce verbiage est insupportable mais ce recueil est prcieux aujourdhui pour les traits de moeurs quil se trouve enregistrer pour les nomenclatures de personnes quil donne pour les faons de juger du temps ce qui le caractrise cest une extrme familiarit loret par exemple termine ainsi une de ses gazettes 
+
+
+fait en avril le vingthuit avant que mon souper ft cuit 
+
+
+ce railleur  la raillerie facile navait pas manqu de prendre pour cible thophraste renaudot quand le fondateur de la gazette savisa sur le tard de se remarier 
+
+
+je ne devais pas oublier mais ds lautre mois publier car cest assez plaisante chose que le sieur gazetier en prose autrement monsieur renaudot en donnant un fort ample dot pour dissiper mlancolie a pris une femme jolie qui nest encor quen son printemps quoiquil ait plus de septante ans pour avoir si jeune compagne il faut quil ait mis en campagne multitude de ces louis par qui la vue est blouie 
+
+
+loret au milieu de tous ses bavardages eut une heure de courage ce fut aprs la disgrce de fouquet lun de ses protecteurs  de ses abonns pourraiton dire car fouquet lavait inscrit dans ses libralits pour une rente de deux cent cinquante cus  loret osa le plaindre ajoutant que sil pouvait 
+
+
+de son sort adoucir la rigueur il le ferait de tout son coeur 
+
+
+la muse historique anctre des chos dura jusquen  
+
+
+si la gazette fut le premier journal franais le journal des savants qui date de  fut la premire revue franaise  
+
+
+ le journal des savants avait t fond par mde sallo conseiller au parlement de paris 
+
+
+il tait consacr  des dissertations de littrature et de science puis ce fut sous une forme plus vivante et avec des prtentions beaucoup moins graves le mercure galant de donneau de vis  paraissant sous la forme dun volume de petit format comprenant trois cents pages tous les trois mois dabord puis tous les mois 
+
+
+donneau de vis tait un personnage assez entreprenant qui avait commenc par crire des satires contre corneille contre molire contre quinault mais qui constatant bientt linanit de ces attaques contre des crivains illustres chercha une plus sre faon dattirer sur lui lattention lide du mercure pour tablir un lien entre paris et les provinces naquit en son esprit a la vrit le journalisme moderne est en germe dans le mercure et ds son premier numro qui sous le prtexte de lettres  une dame contient  un peu en dsordre sans doute  toutes les rubriques actuelles 
+
+
+vous saurez disait donneau de vis  cette correspondante imaginaire les morts et les mariages de consquence avec des circonstances qui pourront quelquefois vous donner des plaisirs que ces sortes de nouvelles nont pas dellesmmes comme on entend de temps en temps parler de procs si extraordinaires et si remplis daventures que les romans les plus surprenants nont rien qui sen approche je ne manquerai pas de vous en divertir il annonait aussi quil naurait garde de ne pas mander ce qui concerne les modes 
+
+
+dans ce mme numro la critique dramatique tait reprsente par un discours sur bajazet du sieur racine la chronique par le rcit comment du voyage de lacadmie franaise  versailles les faits divers par plusieurs aventures singulires dont celle dun gentilhomme tranger dpourvu de scrupules qui pour soustraire des perles appartenant  sa matresse les avait avales le feuilleton par l histoire de la fillesoldat les chos ctaient la rception du duc de la feuillade dans la charge de colonel du rgiment de gardesfranaises le dpart du duc destres pour son ambassade  rome le rcit de galanteries turques bientt donneau de vis sassociait thomas corneille et le frre du grand corneille tait comme on sait un crivain infatigable  
+
+
+ mgustave reynier a eu la bonne fortune de retrouver lacte dassociation qui prvoyait toutes les formes de bnfices du mercure cest  savoir que nous dits sieurs corneille et de vis partagerons chacun par moiti tout le profit qui pourra revenir soit de la vente des livres soit des prsents qui pourraient tre faits en argent meubles bijoux et pensions et mme si le roi accordait  lun de nous une pension elle serait galement partage comme les autres choses cidessus la pension arriva elle attribuait  donneau de vis cinq cents cus et le logement au louvre en qualit dhistoriographe de sa majest 
+
+
+la priodicit du recueil fut ds lors rgulire dans cette association donneau de vis tait videmment lhomme daffaires il avait en la divination de la rclame ingnieusement dissimule et il ne se faisait pas faute de prodiguer les louanges intresses on peut dire quil inventa aussi le canard qui devait avoir une longue carrire et a encore la vie dure au milieu darticles littraires ou mondains donneau de vis se plaisait  exciter la curiosit de son lecteur telle entre autres en  lhistoire fort extraordinaire de 
+
+
+ 
+
+
+la couleuvre du dauphin 
+
+
+dans le mois de mai dernier au village de dolomieu en dauphin entre morestel et la tour du pin un fermier nomm jacques tirenet ayant remarqu plusieurs fois quun dragon volant qui paraissait tout en feu on lui donne aussi le nom de couleuvre passait entre dix et onze heures du soir audessus de sa maison demandait  tout le monde do pouvait venir ce feu comme il ntait pas le seul qui le remarquait il entendit dire  quelquesuns que cette couleuvre portait dans sa tte une escarboucle qui jetait cette lumire et que ny ayant point de pierre plus rare elle navait point de prix le fermier se mit plusieurs nuits  lafft deux ou trois fois ayant vu venir la couleuvre il nosa tirer enfin il se montra un peu plus hardi et ajusta si bien le monstre quil lui pera le gosier sil let frapp par un autre endroit le coup net pas t mortel  cause de la duret de lcaille cette bte ayant perdu beaucoup de sang par cette blessure mourut deux heures aprs mais avec des sifflements pouvantables 
+
+
+le paysan effray demeura longtemps hors de luimme tant  cause de la peur que lui causrent divers lancements quelle fit que pour lodeur empeste quelle rpandait aux environs aussitt quil vit le dragon sans mouvement il sen approcha et prit lescarboucle il neut pas de peine  la trouver lclat dont elle brillait la montrait assez ctait une si grande lumire que le fermier ayant mis lescarboucle sur la table quand il se coucha quelques valets qui sortirent dans la cour pendant la nuit crurent voir toute la maison en feu et mirent lalarme dans le village 
+
+
+ la pierre est de la grosseur dun jaune doeuf un peu en ovale et a une croix au milieu elle est de plusieurs couleurs qui paraissent par bandes rouges blanches jaunes et couleur de sang quant au dragon il avait environ deux pas de long la tte dun chat avec des oreilles de mulet des ailes semblables  celles des chauvessouris et une arte sur lpine du dos courte hrisse dun grand poil il tait presque caill partout et sa grosseur surpassait celle de la cuisse dun homme 
+
+
+les naturalistes prtendent que si lon voit si peu descarboucles cest parce quil ny en a que dans les plus vieilles de ces couleuvres qui ne verraient pas  se conduire si elles navaient un pareil secours quelles la portent entre leurs dents o elle sattache au moyen du trou quelle a et que la mettant  terre pour manger et boire elles la reprennent aprs quelles ont mang 
+
+
+ nestce pas l le prototype des faits divers dans le genre de lhistoire fameuse du serpent de mer tablant avec quelque audace sur la crdulit du lecteur 
+
+
+cest dans le mercure galant aussi que commena la longue vogue des nigmes proposes  la sagacit des devineurs le mercure de donneau de vis cherchait avant tout  tre amusant et relativement actuel cest l actualit qui y faisait parfois traiter des questions srieuses ou soutenir des tournois littraires 
+
+
+le mercure qui inspira la comdie de boursault tait destin  grandir au xviiie sicle en importance et en autorit surtout faute de concurrence en devenant le mercure de france dufresny succda  donneau de vis ce bohme  qui louis xiv voulait du bien en raison dune illustre btardise tout en disant en riant quil ntait pas assez riche pour prserver de la misre un homme aussi expert  faire foudre largent entre ses doigts ce fantaisiste qui pousa un jour sa blanchisseuse ne pouvant acquitter la note de quelques cus quelle lui prsentait ne prpara pas lvolution elle se fit avec ses successeurs lefvre labb bariche de la roque leclerc de la brure boissy marmontel le brevet du mercure rapportait vingtcinq mille livres  la brure aprs lui le mercure dut sur les bnfices dune entreprise prospre servir des pensions  des gens de lettres dsigns par la cour ou  des favoriss ainsi en  ces pensions taient accordes  cahuzac  livres  labb raynal  livres  piron  livres  marmontel  livres  mde senoncourt cidevant consul au caire  livres au chevalier de la nigrie frre de leclerc de la brure  livres  mdard de la garde  livres ces pensions plus tard montrent jusqu  livres 
+
+
+marmontel accrut le succs du mercure auquel sous la direction de boissy il avait donn ses contes moraux puis par la protection de mmede pompadour il en obtint le brevet en avril et rdigea une sorte de profession de foi de journaliste 
+
+
+ 
+
+
+un programme 
+
+
+la forme du mercure le rend susceptible de tous les genres dagrment et dutilit et les talents nont ni fleurs ni fruit dont il ne se couronne il extrait il recueille il annonce il embrasse toutes les productions du gnie et du got il est comme le rendezvous des sciences et des arts et le canal de leur commerce cest un champ qui peut devenir de plus en plus fertile et par les soins de la culture et par les richesses quon y rpandra il peut tre considr comme extrait ou comme recueil comme extrait cest moi quil regarde comme recueil son succs dpend des secours que je recevrai dans la partie critique lhomme estimable  qui je succde sans oser prtendre  le remplacer me laisse un exemple dexactitude et de sagesse de candeur et dhonntet que je me fais une loi de suivre je me propose de parler aux gens de lettres le langage de la vrit de la dcence et de lestime et mon attention  relever les beauts de leurs ouvrages justifiera la libert avec laquelle jen observerai les dfauts je sais mieux que personne et je ne rougis pas de lavouer combien un jeune auteur est  plaindre lorsque abandonn  linsulte il a assez de pudeur pour sinterdire une dfense personnelle cet auteur quel quil soit trouvera en moi non pas un vengeur passionn mais selon mes lumires un apprciateur quitable une ironie une parodie une raillerie ne prouvent rien et nclairent personne ces traits amusent quelquefois ils sont mme plus intressants pour le bas peuple des lecteurs quune critique correcte et sense le ton modr de la raison na rien de consolant pour lenvie rien de flatteur pour la malignit mais mon dessein nest pas de prostituer ma plume aux envieux et aux mchants a lgard de la partie collective de cet ouvrage quoique je me propose dy contribuer autant quil est en moi ne ftce que pour remplir les vides je ne compte pour rien ce que je suis tout mon espoir est dans la bienveillance et le secours des gens de lettres et jose croire quil est fond si quelquesuns des plus estimables nont pas ddaign de confier au mercure les amusements de leur loisir souvent mme les fruits dune tude srieuse dans le temps que le succs de ce journal ntait qu lavantage dun seul homme quel secours ne doisje pas attendre du concours des talents intresss  le soutenir le mercure nest plus un fonds particulier cest un domaine public dont je ne suis que le cultivateur et lconome 
+
+
+ 
+
+
+le mercure au xviiiesicle ne reflte pas tout son temps sa collection nen reste pas moins par sa continuit une source prcieuse dinformations 
+
+
+le xviiiesicle vit encore natre le journal de trvoux rserv  des travaux scientifiques et dans cet ordre des revues comme nous dirions aujourdhui le spectateur franais de marivaux riche de fines observations le pour et le contre o labb prvost avait appliqu son ide dun crit priodique comme ceux qui existaient  londres ce titre signifiait que le journaliste sexpliquerait sans prendre parti sur rien cette feuille dura de  elle est faite de compilations et de traductions on est l fort loin de manon lescaut ce sont parfois dassez invraisemblables faits divers comme lhistoire du trsor dun navire ayant fait naufrage trsor qui fut retrouv dune faon bien singulire on avait dcouvert et sauv toute la cargaison du navire sauf la caisse qui contenait de lor et des diamants or un jour des pcheurs de colchester aperurent chou sur le rivage un monstrueux poisson on savisa tandis que lagitaient de derniers soubresauts quun lien le retenait  un objet lointain ballott par les flots on lacheva et on louvrit et on reconnut quil avait aval le crochet qui avait pntr jusquau fond de ses entrailles fix  une corde on tira sur la corde et on amena ainsi fort miraculeusement la prcieuse caisse on croit que le capitaine avait accroch la caisse  sa ceinture en se jetant  la mer et que ayant t dvor par le poisson cet animal goulu stait enferr de luimme en avalant jusquau crochet 
+
+
+les rflexions sont assez rares il en est pourtant a et l qui ne laissent pas que dtre curieuses 
+
+
+ 
+
+
+il est fort ordinaire dentendre souhaiter que les bons naturels puissent se rencontrer et sunir surtout dans ltat de mariage mais ce souhait est contraire au bien de la socit il arriverait de l par une consquence ncessaire que les mauvais caractres suniraient ainsi et quels dsordres ne verraiton pas natre dune oeuvre si pernicieuse au lieu que le mlange tel que la providence le permet dans toutes les conditions de la vie sert galement aux uns et aux autres  ceuxci par les exemples du bien quils devraient suivre  ceuxl par la vue du mal quils doivent viter 
+
+
+ 
+
+
+puis ce sont lavant coureur  et lanne littraire de frron de frron si durement excut par voltaire en pleine comdie franaise dans son cossaise avec une telle svrit que le malheureux journaliste porte encore devant la postrit la marque des coups reus ce soirl et est demeur un peu trop calomni bien que sa mmoire ne soit pas des plus nettes  
+
+
+ la prface que donnait frron  son anne littraire commenait ainsi la critique mapparut dernirement en songe environne dune foule de potes dorateurs dhistoriens et de romanciers japerus dans une de ses mains un faisceau de dards dans lautre quelques branches de lauriers son aspect loin dinspirer la crainte inspirait la confiance aux plus ignors amants des savantes soeurs ils osaient lenvisager dun oeil fixe et semblaient dfier son courroux la desse indigne faisait pleuvoir sur eux une grle de traits quelques crivains dont la modestie rehaussait les talents obtenaient des couronnes plusieurs recevaient  la fois des rcompenses et des chtiments cette vision ma fourni lide de ces lettres o lloge et la censure seront galement dispenss 
+
+
+il faut arriver  lanne  pour rencontrer le premier journal quotidien le  journal de paris fond sur le modle des gazettes anglaises il est piquant de voir aujourdhui avec quel scepticisme fut accueillie la nouvelle de son apparition on doutait quil pt voir le jour et le projet paraissait extravagant 
+
+
+ 
+
+
+il est question dune feuille que lon veut composer dans cette capitale  linstar du london evening post qui paratrait tous les jours elle contiendrait tout ce qui peut intresser les habitants de cette ville ainsi que les trangers et si le prospectus tait rempli vous nauriez pas besoin de moi  bien des gards on ne croit point quil soit jamais excut sous le point de vue quil prsente il y a mme des gens qui parient que ce journal naura point lieu et sera touff avant sa naissance indpendamment de la difficult de remplir le projet par des entraves que la police donnera aux rdacteurs par celles quexigeront beaucoup de corps et biens de particuliers de considration presque tous les autres journaux existants sont intresss  empcher lessor dun rival qui leur fera tort plus ou moins par son essence en les gagnant toujours de primaut ce qui fait encore plus douter de la russite du projet cest que les entrepreneurs ne sont pas des gens dont les entours ou le mrite personnel soient fort recommandables ils paraissent devoir se briser  coup sr contre les checs quils prouveront indispensablement  
+
+
+ 
+
+
+ lespion anglais tomeiv p 
+
+
+il tait difficile de se tromper plus lourdement sur lavenir du journal quotidien celuici ttonnait un peu tout dabord ses fondateurs corene la place cadet frre dun membre de lacadmie des sciences et dussieux se heurtaient dailleurs  des premires difficults et si incolore que paraisse aujourdhui cette feuille elle connut tt les rigueurs de la suspension 
+
+
+le journal de politique et de littrature de linguet du bouillant et versatile linguet avait t cr en  le privilge en fut retir deux ans plus tard  son rdacteur et demeura dans les mains du prudent la harpe linguet cependant continuait dans lexil son oeuvre de polmiste dans un autre organe les annales politiques et littraires transportait aprs quelques annes son journal  paris tait enferm  la bastille o il restait deux ans reprenait une existence aventureuse qui devait se terminer tragiquement il exige disait un contemporain en parlant de linguet quon croie que tout le bon sens rside dans sa tte toute la justice dans son coeur toute lhonntet dans ses procds et non seulement il le pense ou semble le penser mais il le dit il le rpte il lcrit et le dira le rptera et lcrira jusqu ce que la parole lui manque ou la plume lui tombe des doigts 
+
+
+avec un journal des spectacles et un journal du commerce telle tait la presse  la veille de la rvolution le libraire panckouke avait fini par runir presque toutes ces feuilles 
+
+
+ii 
+
+
+mais cette vocation  grands traits de la presse  ses origines ne serait pas complte si lon ne parlait pas des nouvellistes et des gazetiers  la main les premiers journaux dpendant dun ou plusieurs censeurs taient loin de pouvoir tout dire disposant dailleurs de peu de place ils ne suffisaient pas  satisfaire la curiosit de ceux qui voulaient tout connatre cest dans les gazettes  la main que naquit vraiment linformation que naquit aussi  cho bien franais de race ces gazettes gnralement clandestines furent tantt perscutes tantt tolres bien que leur existence officielle ne ft pas reconnue dans leur premire priode elles constituaient un recueil de nouvelles  lusage dun cercle prive un gazetier tait un luxe de grande maison et ne faisait gure plus figure quune sorte de domestique puis des offices dinformations se constiturent ayant leurs abonns qui recevaient les feuilles manuscrites rgulirement  moins quil ne ft arriv quelque malheur au gazetier quil net t envoy par exemple  la bastille les nouvellistes  la main comptrent leurs martyrs lun des premiers dentre eux nicolas brunel fut condamn  mort et une estampe conserve  la bibliothque nationale reprsente son supplice dautres furent enferms au mont saint  michel dans une cage de fer dautres furent publiquement fouetts audessous dun criteau qui portait cette mention gazetier  la main dautres furent envoys aux galres dautres encore furent enrgiments de force dans les troupes du roi les svrits exceptionnelles de louis xiv contre ce quon appelait les nouvellistes detat nempchrent pas ces interprtes de lopinion plus ou moins bien renseigns dtre nombreux sous son rgne justifiant le mot dun de ceux qui par ses ordres les avaient traqus sans relche quils constituaient un mal sans remde  
+
+
+ voir le curieux chapitre sur la rpression des nouvellistes  la main dans figaro et ses devanciers de mfunckbrentano avec la collaboration de mpaul destree le plus rcent travail et le plus riche en informations et en documents excellemment mis en oeuvre sur lhistoire des nouvellistes 
+
+
+les nouvellistes qui ne soccupaient que des menues nouvelles de la ville taient moins exposs aux rigueurs mais ils couraient dautres risques comme le gazetier montandr  qui le marquis de vardes coupa le nez non parce que ce folliculaire avait parl de sa soeur mais parce quil nen avait pas bien parl 
+
+
+en dpit de tout les gazetins se multiplirent nombre de leurs collections compltes ou non ont t conserves elles forment une source prcieuse de renseignements sur les moeurs et sur les faons de juger et de sentir dune poque a ct des journaux encore si sommaires elles reprsentent la presse vive et lgre touchant  tout souvent avec verve et avec esprit les gazetiers saffinrent dailleurs et la concurrence quils se faisaient les obligeait  plus defforts il y eut des priodes o le pouvoir comprit quil avait mieux  faire que de poursuivre les nouvellistes  la main se servir deux tait plus habile des ministres savisrent davoir ce quon appellerait aujourdhui leurs agences qui leur permettaient de tter lopinion puis une raction succda  une demilibert toujours fragile dailleurs mais de nouveau elle fut impuissante  djouer les ruses des nouvellistes qui bien que bictre les menat trouvaient toujours le moyen dcrire et de rpandre leurs feuilles mfunckbrentano dont les travaux sont dfinitifs sur cette matire a retrouv les prix dabonnement  ces gazetins il y en avait qui slevaient jusqu six cents livres par an le prix moyen tait de douze livres par mois il ny avait que les nouvellistes de second ordre pillant leurs confrres qui livrassent leurs informations pour trois livres par mois ctaient les cumeurs de la profession tel gazetier bien cot comme gaultier ou comme felm ne comptait pas moins de soixante  soixantedix abonns ces journalistes davant le journal ne laissaient pas que de faire volontiers leur propre loge et de vanter la sret de leurs nouvelles en assurant quils nen forgeaient point en  rambaud chef dune entreprise de nouvelles dsesprait de les faire copier  la main pour ses deux cent quatrevingts abonns chiffre par lequel ayant fait des progrs sur ses devanciers il laissait loin derrire lui ses rivaux et il imaginait de les faire graver le graveur fut arrt au bout de peu de temps 
+
+
+les nouvelles  la main forment lhistoire au jour le jour une histoire qui nest pas toujours la vrit absolue mais elles refltent les motions les curiosits voire les prjugs dun temps elles sont ce quon dit  ct de ce qui scrit officiellement elles gardent la trace de ces conversations o tait lme de paris ou qui faisaient lobjet des runions des nouvellistesamateurs au jardin du palais royal groups sous le fameux arbre de cracovie on a publi plusieurs de ces recueils conservs dans des dpts franais ou trangers comme les feuilles de jean buvat concernant lpoque de la rgence  abondantes en renseignements sur le systme de law ou sur la conspiration de cellamare comme les nouvelles de la cour et de la ville de  comme la premire correspondance secrte 
+
+
+ a la date du  de juin on lit dans les nouvelles  la main de buvat on va envoyer  pierreencise le jeune avocat dont on a saisi les papiers qui contiennent des choses effroyables sur les choses les plus saintes et les personnes les plus respectables il y sera sans encre et papier et pour le reste de ses jours on a agit si on le chasserait du royaume mais on a dit que de l il crirait contre tout le genre humain et que ctait une peste quil fallait le squestrer de la socit civile  on sait que voltaire ne subit pas de telles rigueurs et quil se tira du mauvais pas avec onze mois demprisonnement  la bastille on lui laissa si bien encre et papier que cest pendant ce sjour  la bastille quil crivit sa tragdie doedipe  
+
+
+mmravaisson de lescure de barthlemy campardon se sont particulirement occups de ces crits des nouvellistes on peut citer parmi ces fondateurs du reportage gens bien informs mais plus ou moins tars charles de julie spcialiste des nouvelles mondaines et du thtre nicolas tollot le chevalier de mouby qui eut quelque temps voltaire pour abonn  abonn mcontent il est vrai chevrier lanant en  la feuille manuscrite quil intitule le courrier de paris  devient bientt un enrag pamphltaire qui se doit rfugier pour distiller son venin  bruxelles et en hollande 
+
+
+ le courrier de paris traqu par la police avait imagin pour la dpister de commencer la feuille sur le ton dune lettre adresse  un particulier selon la qualit et les occupations de labonn 
+
+
+mais voici les grands nouvellistes cest bachaumont le pre des chos de paris lami de mmedoublet cette curieuse physionomie cette femme avise dont lge ne parvint pas  teindre la curiosit dont le nom est associ  lhistoire du journalisme  avant que le journal et droit de vie son salon ont dit les goncourt tait le rendez vous des chos le cabinet noir o lon dcachetait les nouvelles plemle y tombait le xviiiesicle heure par heure un je ne sais quoi sans ordre une moisson  peine brasse de paroles et de choses salon envi confessionnal du xviiiesicle o tant desprit sest confess ce salon on le surnommait la paroisse et ses htes les paroissiens formaient une manire de trs vivante acadmie en  bachaumont par dilettantisme plus que par intrt car ce philosophe picurien tait fort  son aise se plut  runir  filtrer  commenter ces nouvelles qui de tous les cts aboutissaient chez mmedoublet  
+
+
+ voici comment il annonait ses nouvelles  la main ce prospectus est un document de lhistoire de la presse un crivain connu entreprend de donner deux fois chaque semaine une feuille de nouvelles manuscrites ce ne sera point un recueil de petits faits secs et peu intressants comme les feuilles qui se dbitent depuis quelques annes avec les vnements publics que fournit ce quon appelle le cours des affaires on se propose de rapporter toutes las aventures journalires de paris et des capitales de leurope et dy joindre quelques rflexions sans malignit nanmoins sans partialit dans le seul dessein dinstruire et de plaire par un rcit o la vrit paratra toujours avec quelques agrment un recueil suivi de ces feuilles formera proprement lhistoire de notre temps il sera de lintrt de ceux qui les prendront de nen laisser tirer de copie  personne et den mnager mme le secret autant pour ne pas les avilir en les rendant trop communes que pour ne pas se faire de querelles avec les arbitres de la librairie a chaque ordinaire on portera  ceux qui voudront prendre les nouvelles a la main devinrent en  les mmoires secrets les mmoires secrets contenaient une mine si riche dinformations sur le xviiiesicle quils furent recueillis et imprims ds  par chopin de versey ils ont eu depuis comme diteurs successifs merle ravenel paul lacroix etc 
+
+
+avec lui le nouvelliste prenait une tout autre envergure bachaumont pour malicieux quil ft tait un galant homme estim exerant au moins thoriquement une charge nayant pas de besoins dargent cultiv ayant fait ses preuves dcrivain de bon connaisseur et de spirituel observateur tout ce qui se passait tait de son domaine en traits lgers et mordants il donnait la formule de la chronique rapide nouvelles de la cour de la ville du thtre des lettres aventures galantes tout lui tait bon et il tenait la promesse quil avait faite de donner a quelques agrments  ses informations en y joignant souvent les couplets qui couraient paris ou les parodies dont le temps tait si friand bachaumont qui sil nen avait pas t linitiateur avait singulirement perfectionn le genre mourut en  et vraiment la plume  la main son dernier cho tait relatif au scandale de la naissance dun enfant de la duchesse de durfort spare de son mari scandale pour lequel le chroniqueur tait dailleurs assez indulgent ne retenant que la chanson faite  cette occasion 
+
+
+les mmoires secrets furent continus par pidansat de mairobert qui donna un tragique aliment  la chronique par un suicide accompli dans des conditions de singulire dtermination et par moufle dangerville qui devait continuer la tradition des gazetiers envoys  la bastille 
+
+
+cest en mme temps la correspondance secrte connue sous le nom de correspondance secrte de metra bien que metra y ait t probablement tranger ctait lhomme le mieux inform de paris que dit le bonhomme metra demandait parfois louis xvi il tait quant  lui nouvelliste par dilettantisme mais des gens aviss ne laissaient pas que de recueillir ses nouvelles et den tirer profit 
+
+
+celui de tous qui fait la figure la plus importante cest grimm ses abonns  lui taient gens de consquence la plupart taient des souverains  
+
+
+ grimm se chargea de la correspondance littraire en  et la continua jusquen  eu dehors des souverains aux libralits desquels il sen remettait expert  les provoquer il avait pour abonns des particuliers lui versant trois cents livres par an cest par eux que la correspondance se rpandait dans paris 
+
+
+saintebeuve fait grand cas de grimm apprciant particulirement chez lui le mrite dexprimer des jugements qui lui appartiennent en propre prcdant les autres il conte quil avait quelques prventions contre lui dabord et quen en cherchant la cause il trouva quelle reposait uniquement sur le tmoignage de jjrousseau dans ses confessions or ce tmoignage est souvent suspect jeanjacques toutes les fois que son amourpropre et ses airs de vanit malade sont en jeu ne se gne en rien pour mentir  mmedepinay avec quelque partialit assurment a trac de grimm ce portrait sa figure est agrable par un mlange de navet et de finesse sa physionomie est intressante sa contenance nglige et nonchalante son me est ferme tendre gnreuse et leve elle a prcisment la dose de fiert qui fait quon se respecte sans humilier personne en parlant mal personne ne se fait mieux couter il me semble quen matire de got nul na le tact plus dlicat plus fin ni plus sr il a un tour de plaisanterie qui lui est propre et ne sied qu lui il a lart de prsenter  ses amis les plus dures vrits avec autant de mnagements que de force personne nest plus clair sur les intrts des autres ni ne consulte mieux 
+
+
+on sait quel habile homme tait ce natif de ratisbonne devenu trs parisien et dont voltaire disait de quoi savise ce bohmien davoir plus desprit que nous le cadre de cette introduction ne permet pas de parler de son rle dans la socit du xviiiesicle il ne sagit ici que du journaliste il ltait essentiellement il tait n surtout rdacteur en chef ayant le flair des collaborateurs utiles et il eut en effet nombre de collaborateurs dont mmedepinay engage avec lui dans une liaison clbre diderot toujours bouillant dides toujours prt  tmoigner son amiti  qui il demanda ses fameux salons son secrtaire meister la correspondance littraire quon imprima en  cinq ans aprs la mort de grimm est devenue un des documents les plus prcieux de lhistoire du xviiiesicle par lindpendance habituelle de ses jugements netelle donn que les salons de diderot quelle mriterait lestime dans laquelle elle est tenue avec son enthousiasme coutumier diderot attribuait  ses conversations avec grimm sa comptence en fait dart si jai quelques notions rflchies de la peinture et de la sculpture crivaitil un jour  grimm cest  vous que je le dois quel journal au sens moderne du mot et fait lauteur de la correspondance littraire avec son don de bien mettre les hommes  leur place et de deviner les talents attach au duc dorlans introduit dans le monde diplomatique li avec les encyclopdistes habitu des salons de mmegeoffrin et du baron dholbach il tait  la source de tout ce qui tait sujet de proccupations intellectuelles on disait de lui en faisant allusion  un lger dfaut de constructions de son visage il a le nez tourn mais toujours du bon ct 
+
+
+a ct de ces correspondances parmi lesquelles on pourrait encore citer celle de la harpe il y avait aussi se rattachant  lhistoire de la presse naissante les correspondances qui taient des manires de revues comme lespion anglais ne sattachant qu un seul objet dactualit trait avec abondance tantt pamphlets tantt commentaires sur un vnement et dans toutes ces publications qui simprimaient gnralement en hollande ne pouvant prtendre qu une curiosit phmre ctait dj le ton du journal et sa vivacit le journal tait tout arm et navait plus  simproviser au moment o la libert allait lui donner son essor 
+
+
+en dpit de priodes de vicissitudes il allait jouer un rle de plus en plus important en reprsentant une force avec laquelle en fin de compte tout doit se mesurer lopinion 
+
+
+il devait dans les heures graves o le salut du pays tait en jeu tre lui aussi un combattant  se contraigntil  accepter une discipline qui pesait  son fougueux temprament  et propageant le sentiment du droit soutenant et stimulant les nergies exaltant les hrosmes fltrissant les crimes et les manoeuvres de lennemi apportant des ressources de clairvoyance et de lucidit dans loeuvre de la dfense sattester plus que jamais comme un indispensable lment de la vie nationale 
+
+
+ 
+
+
+la rvolution 
+
+
+avec la rvolution le journal qui na t jusquel quaux ordres du pouvoir devient luimme une puissance  dans leffervescence des esprits est lanne de la brochure du pamphlet du mmoire vhment  est lanne du journal conqurant sa libert mme avant le juillet ds le mois de juin ce sont le journal des etats gnraux de mirabeau le courrier de versailles  paris de gorsas le point du jour de barre le patriote franais de brissot puis voici paraissant presque en mme temps le journal politique national auquel collabore rivarol le bulletin de lassemble nationale de maret  le futur duc de bassano  les annales patriotiques de mercier et carra les rvolutions de paris de prudhomme et loustalot lorateur du peuple de frron la gazette nationale fonde par lclectique panckoucke le journal des dbats et dcrets dont lide appartient  gaultier du biauzat le prix de labonnement est de livres pour deux mois pour tout le royaume le journal de la socit de  dont andr chnier est lun des rdacteurs la chronique de paris o condorcet exprime ses ides les rvolutions de france et de brabant de camille desmoulins le publiciste parisien de marat qui  partir du sixime numro deviendra lami du peuple pour prendre ensuite dautres titres etc le journal gnral de la cour et de la ville plus connu sous le titre de petit gaultier les spirituels actes des aptres cest des aptres de la rvolution quil sagit la gazette de paris de rozoy puis lami du roi de labb royou etc reprsentent les luttes des royalistes contre les ides qui acquirent chaque jour plus de hardiesse et plus de force on ne saurait dnombrer ici ces publications priodiques dont beaucoup sont phmres et dont les titres sont souvent singuliers il faut renvoyer aux travaux bibliographiques de mmaurice tourneux toutes les opinions toutes les nuances dopinions sont reprsentes aujourdhui dit un contemporain les journalistes exercent le ministre public ils dnoncent dcrtent rglent  lextraordinaire absolvent et condamnent tous les jours ils montent  la tribune et il est parmi eux des poitrines de stentors les places pour entendre lorateur ne cotent que deux sols les journaux pleuvent tous les matins comme la manne du ciel et cinquante feuilles viennent chaque jour clairer lhorizon cest un prodigieux mouvement dides la presse a fait tat de sa libert mme avant la sance du aot  o lassemble nationale la dcrte cependant comme les limites de cette libert ne sont pas encore dtermines cest la municipalit de paris qui agit a contre les imprims calomnieux propres  produire une fermentation dangereuse le septembre marat est dnonc au procureur du roi et ses presses sont saisies dans cette priode la question des abus commis par la voie de la presse revient souvent est rsolue  peu de jours de distance dans des sens opposs on rvoque les mesures de rigueur on en rtablit dautres qui ne sont pas excutes cependant en  camille desmoulins et frron sont poursuivis et dfrs au chtelet la constitution de  tablit les cas o les poursuites peuvent tre exerces les circonstances donnent aux lois peu daction 
+
+
+aprs le aot la plupart des journaux royalistes disparaissaient  la fois par les mesures prises par le conseil gnral de la commune et en raison du mouvement irrsistible de lopinion cependant quelques feuilles  tendances monarchiques se substituent  celles qui ont t supprimes ou ont abandonn le combat le bulletin de paris ou feuille du matin lavertisseur le journal franais de nicolle de ladevze mais la lutte nest plus bientt quentre journaux de la gironde et journaux de la montagne au patriote que dirige brissot au courrier de gorsas  la sentinelle de louvet ru thermomtre du jour de dulaure aux annales de carra sopposent les journaux de camille desmoulins de marat de frron dhbert 
+
+
+puis aprs la chute de la gironde  qui elle mme avait forg les armes par lesquelles elle devait prir et notamment suscit le dcret du mars  punissant de mort les crits provoquant  la dissolution de la convention nationale  cest entre les vainqueurs de la veille que reprend la guerre elle se fait avec des moyens terribles quenregistre le bulletin du tribunal criminel rvolutionnaire les enrags et les indulgents succomberont tour  tour aprs hbert et son pre duchesne camille desmoulins et son courageux vieux cordelier le comit de salut public a sa presse officieuse la feuille du salut public que rdige rousselin cest lui qui sest acharn contre les comdiensfranais aprs laffaire de pamla le journal universel daudouin le journal des hommes libres de vatar lantifdraliste le moniteur reoit une souscription avec cette restriction que labonnement cessera aussitt que le moniteur cesserait dtre compos dans le sens de la rvolution rpublicaine il y a en lanii le courrier de legalit le rpublicain universel la montagne etc puis ce sont les journaux destins aux armes la soire du camp  la rdaction de laquelle veille carnot le bulletin gnral des armes et de la convention le postillon des armes etc mais encore une fois il ne peut sagir ici dune numration qui dpasserait le cadre de cette rapide tude densemble sur un sujet qui prterait  tant de dveloppements 
+
+
+du moins peuton voquer si sommairement que ce soit quelques figures caractristiques dans les divers camps  ct de celles dont le rle historique est le plus connu cest dans la premire priode de la rvolution lenthousiaste et gnreux elise loustalot dont il sera question plus loin cest le pittoresque cousin jacques abel beffroy de reigny qui salue avec des transports de belle humeur laurore de la rvolution dans les lunes journal comme on nen a jamais fait o il se pique de donner des leons de gaiet les lunes se transforment en courrier des plantes o le cousin jacques vaticine avec la mme candeur 
+
+
+cest plus tard le journaliste royaliste durozoy le fondateur de la gazette de paris le premier publiciste payant alors de sa vie ses convictions traduit en jugement quelques jours aprs le aot non pour ses crits  la vrit mais pour ses actes inculp de participation  un complot durozoy mourait avec une intrpidit ddaigneuse cest limptueux tmraire brouillon compromettant suleau rdigeant une feuille intitule le journal de msuleau capable de toutes les impertinences de toutes les fanfaronnades de toutes les absurdits revenu un peu de son royalisme perdu en raison de lingratitude de ceux quil a dfendus mais conspirant encore par habitude et essayant  la veille de lcroulement de la monarchie de provoquer un soulvement dans un tableau de sa throigne de mricourt mpaul hervieu a port  la scne sa mort tragique aux tuileries cest gorsas rsolument patriote dabord et objet de toutes les railleries des journaux royalistes pour avoir dit dans son courrier des dpartements au moment de la fuite de mesdames tantes du roi parties avec des fonds relativement considrables que tout ce quelles possdaient tait  la nation et que rien ne leur appartenait pas mme leurs chemises dput  la convention il combattit violemment la montagne fut proscrit avec les girondins chercha  provoquer la rsistance en normandie des raisons sentimentales le ramenrent  paris o il fut arrt et envoy  lchafaud cest un autre journaliste girondin girey dupr le collaborateur dvou de brissot au patriote arrt le novembre  il se prsente ironiquement devant le tribunal rvolutionnaire ayant dj fait sa toilette de condamn  mort les cheveux coups le col de la chemise chancr dans ses rponses il se pique daphorismes  lantique dans la charrette qui le mne  la guillotine il entonne le chant dont alexandre dumas devait utiliser le refrain 
+
+
+mourons pour la patrie cest le sort le plus beau le plus digne denvie 
+
+
+plus tard encore cest ce pauvre diable de marcandier vengeur des girondins qui imprime lui mme dans un grenier les onze numros de son vritable ami du peuple dans le style du pre duchesne mais dans un sens tout contraire sa femme exalte comme lui va la nuit afficher au distribuer ces pamphlets 
+
+
+aprs la mort de robespierre la raction thermidorienne fait natre une foule de feuilles antijacobines pitinant le parti cras rdiges avec la dernire violence prodiguant les insultes aux morts les feuilles satiriques haineuses pullulent lombre du vaincu du  thermidor fait encore peur frron lancien terroriste qui a chang le titre de son orateur du peuple en celui dami du peuple se trouve  la tte de cette raction le fougueux martainville qui se livrera  tant de palinodies est le bouffon enrag du parti contrervolutionnaire dans laccusateur public richerserizy attaque perdument avec une verve furieuse tous les hommes de la rvolution des journaux royalistes apparaissent les nouvelles politiques la quotidienne o suard qui a refus asile  condorcet son ami se montre brave  prsent quil ny a plus de danger le petit gautier reprend sa mordante publication imit par la petite poste le directoire est cribl de railleries hoffmann qui sera lun des rdacteurs du journal des dbats fonde le menteur journal par excellence qui en affectant de les louer tourne en drision les actes du gouvernement le th de bertin dantilly apporte sa note narquoise les journauxpamphlets se multiplient le jury dailleurs acquitte les journalistes qui lui sont dfrs les journaux rpublicains le dfenseur de la patrie le tlgraphe le journal universel le courrier de paris le rdacteur sont submergs par le flot des feuilles dopposition les opinions moyennes ont pour organes le journal de paris le journal de perlet qui nest pas encore le policier perlet le journal du soir la dcade philosophique politique et littraire se tient en quilibre au milieu des partis le journal des dbats et dcrets se borne encore au rle denregistreur des dlibrations des conseils le moniteur qui a toujours t de lopinion du pouvoir garde ses habitudes gracchus babeuf dans le tribun du peuple voir plus loin expose avec vhmence ses thories sociales une figure singulire entre autres dans cette presse du directoire poultier rdacteur de lami des lois membre du conseil des cinqcents qui jadis a t successivement bndictin militaire chanteur  lopra 
+
+
+mais le coup detat du  fructidor anv impose silence par des mesures rigoureuses  la violence des journaux implique leurs rdacteurs dans une conspiration contre la sret de la rpublique ces mesures ne dsarment pas entirement la presse cependant malgr les scells mis sur leurs presses les frres bertin notamment continuent par un artifice ingnieux  faire paratre leur journal leclair deux ans plus tard cest la proscription cest la dportation  lle dolron des journalistes qui pervertissent lopinion 
+
+
+en dix annes par quelles phases diverses a pass la presse 
+
+
+ 
+
+
+mirabeau 
+
+
+ 
+
+
+mirabeau fut le premier dputjournaliste bien que dans sa vie si agite il soit impossible disoler en quelque sorte un des aspects de cette orageuse physionomie il ne saurait tre question ici que de laction de mirabeau dans la presse  en  il avait propos au ministre des affaires trangres mde montmorin de crer un journal qui serait une analyse fidle mais dcente nerveuse mais adroite des papiers nouvelles anglais cette feuille parut de   novembre enlevant dassaut la libert de la presse mirabeau fondait en mai le journal des etats gnraux dont un arrt du conseil interdisait bientt la circulation il ludait cette dfense en appelant ce journal lettres de mirabeau  ses commettants sous cette forme cette publication se poursuivit jusquau juillet  o elle prit le nom de courrier de provence paraissant trois fois par semaine 
+
+
+mirabeau eut comme collaborateurs au courrier de provence dumont duroveray lun et lautre de genve qui prirent part plus dune fois  la prparation de ses discours dumont a crit des souvenirs sur mirabeau puis mejan chamfort reybaz 
+
+
+en fvrier mirabeau abandonna la direction du courrier de provence qui tait selon lexpression dedmond rousse le journal et la chronique de luimme  clavire le futur ministre des finances de  celuici devait lanne suivante aprs son arrestation se tuer dans sa prison 
+
+
+mirabeau avait pressenti la puissance du journal il lprouva et lpigraphe quil avait donne au sien novus rerum nascitur ordo tait vraiment prophtique 
+
+
+dans le premier numro du journal des etats gnraux il stait lev contre ltiquette suranne qui avait prsid  la runion des etats contre la distinction des costumes imposs aux trois ordres dans la premire lettre aux commettants il protestait nergiquement contre la mesure qui avait atteint son journal le ton de cette protestation est violent ctait cependant le moment o il crivait ailleurs le meilleur moyen de faire avorter la rvolution est de trop demander il est certain que la nation nest pas mre la rvolution a dpass notre aptitude et notre instruction je me conduis en consquence 
+
+
+ 
+
+
+la libert dela presse 
+
+
+il est donc vrai que loin daffranchir la nation on ne cherche qu river ses fers que cest en face de la nation assemble quon ose produire ces dcrets auliques o lon attente  ses droits les plus sacrs et que joignant linsulte  la drision on a lincroyable impritie de lui faire envisager cet acte de despotisme et diniquit comme un provisoire utile  ses intrts il est heureux quon ne puisse imputer au monarque ces prescriptions que les circonstances rendent encore plus criminelles personne nignore aujourdhui que les arrts du conseil sont des faux ternels o les ministres se permettent dapposer le nom du roi on ne prend mme pas la peine de dguiser cette trange malversation tant il est vrai que nous en sommes au point o les formes les plus despotiques marchent aussi rondement quune administration lgale 
+
+
+vingtcinq millions de voix rclament la libert de la presse la nation et le roi demandent unanimement le concours de toutes les lumires eh bien cest alors quon nous prsente un veto ministriel cest alors quaprs nous avoir leurrs dune tolrance illusoire et perfide un ministre soidisant populaire ose effrontment mettre le scell sur nos penses privilgier le trafic du mensonge et traiter comme un objet de contrebande lindispensable exportation de la vrit 
+
+
+quels sont les papiers publics que lon autorise tous ceux avec lesquels on se flatte dgarer lopinion coupables lorsquils parlent plus coupables lorsquils se taisent on sait que tout en eux est leffet de la complaisance la plus servile et la plus criminelle sil tait ncessaire de citer des faits je ne serais embarrass que du choix 
+
+
+jai regard messieurs comme le devoir essentiel de lhonorable mission dont vous mavez charg celui de vous prmunir contre ces coupables manoeuvres on doit voir que leur rgne est fini quil est temps de prendre une autre allure ou sil est vrai que lon nait assembl la nation que pour consommer avec plus de facilit le crime de sa mort politique et morale que ce ne soit pas du moins en affectant de vouloir le rgnrer que la tyrannie se montre avec franchise et nous verrons alors si nous devons nous raidir ou nous envelopper la tte 
+
+
+ lettres du comte de mirabeau  ses commettants mai  
+
+
+ 
+
+
+par contre les apprciations qui suivent la sance du juin  o mirabeau pronona les paroles auxquelles la lgende a donn cette forme dfinitive allez dire  ceux qui vous envoient que nous sommes ici par la volont nationale et que nous nen sortirons que par la puissance des baonnettes ces apprciations sont dun ton mesur et rflchi 
+
+
+ 
+
+
+la journe du juin a fait sur ce peuple inquiet et malheureux une impression dont je crains les suites o les reprsentants de la nation nont vu quune erreur de lautorit le peuple a cru voir un dessein formel dattaquer leurs droits et leurs pouvoirs il na pas encore eu loccasion de connatre toute la fermet de ses mandataires sa confiance en eux na point encore des racines assez profondes qui ne sait dailleurs comment les alarmes se propagent comment la vrit mme dnature par les craintes exagres par les chos dune grande ville empoisonne par suite des passions peut occasionner une fermentation violente qui dans les circonstances actuelles et la crise de la misre publique serait une calamit ajoute  une calamit le mouvement de versailles et bientt le mouvement de paris lagitation de la capitale se communique aux provinces voisines et chaque commotion stendant  un cercle plus vaste de proche en proche produit enfin une agitation universelle telle est limage faible mais vraie des mouvements populaires et je nai pas besoin de prouver que les derniers vnements dnaturs par la crainte interprts par la dfiance accompagns de toutes les rumeurs publiques risquent dgarer limagination du peuple dj prpare aux impressions sinistres par une situation vraiment dtestable 
+
+
+quand on se rappelle les dsastres occasionns dans la capitale par une cause infiniment disproportionne  ses suites cruelles tant de scnes o le sang des citoyens a coul par le fer des soldats et le glaive des bourreaux on sent la ncessit de prvenir de nouveaux excs de frnsie et de vengeance car les agitations les tumultes les excs ne servent que les ennemis de la libert je considre tous les bons effets dune marche ferme sage et tranquille cest par elle seule quon peut se rendre les vnements favorables quon profite des fautes de ses adversaires pour le triomphe du bon droit au lieu que jets peuttre hors de mesures sages les reprsentants de la nation ne seraient plus les matres de leurs mouvements ils verraient dun jour  lautre les progrs dun mal quils ne pourraient plus arrter et ils seraient rduits au plus grand des malheurs celui de navoir plus que le choix des fautes 
+
+
+les dlgus de la nation ont pour eux la souveraine des vnements la ncessit qui les pousse au but salutaire quils se sont propos elle soumettra tout par sa propre force mais sa force est dans sa raison rien ne lui est plus tranger que les tumultes les cris du dsordre les agitations sans objet et sans rgle la raison veut vaincre par ses propres armes tous ces auxiliaires sditieux sont ses plus grands ennemis a qui dans ce moment convientil mieux quaux dputs de france dclairer de calmer de sauver le peuple des excs que pourrait produire livresse dun zle furieux 
+
+
+ quatorzime lettre de mirabeau  ses commettants 
+
+
+ 
+
+
+lyse loustalot 
+
+
+ 
+
+
+cest laurore de la rvolution qui svoque avec ce jeune homme ardent probe dsintress mort  vingtneuf ans que manuel appelait l evangliste et qui fut en effet un de ceux qui dfendirent avec le plus denthousiasme les ides nouvelles il fut le rdacteur principal des rvolutions de paris le journal que fit paratre prudhommc trois jours aprs la prise de la bastille et qui fut pendant la premire priode de sa publication la feuille la plus rpandue et la plus lue lexistence de loustalot fut courte mais les deux dernires annes de sa vie furent singulirement remplies la brusque disparition de ce vaillant combattant de la presse dont les clubs des jacobins et des cordeliers portrent le deuil pendant trois jours donna naissance  la lgende dun empoisonnement aujourdhui controverse avec loustalot cest le temps de toutes les gnreuses illusions cest ainsi que dans le no xxiv des rvolutions il se dclarait le partisan de la suppression de la peine de mort 
+
+
+ 
+
+
+contre la peine de mort 
+
+
+ quoi donc tous les jugements  mort qui ont t rendus ne sont que des assassinats judiciaires prcisment et de plus ils ne sont excuss ni par la ncessit ni par lutilit 
+
+
+la peine de mort est ncessaire diton pour empcher le malfaiteur de rcidiver eh garrottezle faitesen un esclave de peine rendezle bon  quelque chose quoi vingt quatre millions de citoyens nont pas une assez grande force publique pour mettre quelques centaines de malfaiteurs hors dtat de rcidiver comment fait limpratrice de russie comment fait joseph luimme ce joseph dont le nom nest prononc dans ce moment quavec horreur il a aboli la peine de mort ah que de travaux publics qui crasent qui avilissent le citoyen et auxquels on ne devrait employer que les malfaiteurs 
+
+
+leur mort est utile parfois pour effrayer les mchants et les contenir dans la terreur quiconque a vu une excution et est entr dans un bagne sent bien le vide de cette objection et toute la justesse de cette ide de beccaria le frein le plus propre  arrter les crimes nest pas tant le spectacle terrible et momentan de la mort dun sclrat que le spectacle continuel dun homme priv de sa libert transform en quelque sorte en bte de somme et restituant  la socit par un travail pnible le dommage quil lui a fait 
+
+
+dans notre affreuse pratique la peine de mort ne punissait vraiment pas le criminel elle le retranchait seulement du nombre des vivants il napprenait jamais son jugement quune heure avant lexcution il tait alors livr aux exhortations dun prtre et quelques minutes de souffrance lui enlevaient bientt la facult de rflchir sur lnormit de son crime je parle du plus ordinaire des supplices car je ne veux pas savoir pour lhonneur de la france quelle en emploie quelquesuns o lart de prolonger la vie et les douleurs sexerce par une atroce habilet digne des plus cruels cannibales 
+
+
+si la peine de mort nest ni utile pour effrayer les mchants ni ncessaire pour mettre le coupable hors dtat de rcidiver si la servitude de peine remplit parfaitement au contraire lun et lautre objet la nation franaise savancera sans doute jusquaux rangs des nations humaines en abolissant ce supplice la dclaration des droits dit la loi ne doit tablir que des peines strictement et videmment ncessaires or il est vident que la peine de mort nest pas ncessaire et que dans un gouvernement qui a de grandes forces de vastes moyens cest une lchet de la part de ceux qui gouvernent que dy avoir recours 
+
+
+il y a une considration contre la peine de mort dont je suis tonn que lon nait pas t frapp la vie nest pas un bienfait de la socit mais de la nature on dit que la socit nous la conserve cest une supposition toute gratuite car qui peut savoir si dans lordre naturel ma vie et t attaque si je ne leusse pas dfendue et si je neusse pas t le plus fort la vie nest donc sous aucun point de vue un bienfait de la socit or peut elle ter par une peine plus quelle na donn et tout son pouvoir ne doitil pas se borner  priver celui qui enfreint le pacte social des avantages qui en rsultent la privation absolue de la libert est donc le dernier terme du pouvoir souverain en matire pnale 
+
+
+il est injuste dailleurs demployer comme peine un moyen que la socit ne peut faire cesser en cas derreur lorsquune fois elle la mis en usage la socit ntant compose que dhommes les hommes tant tous sujets  lerreur il peut arriver par mille causes diffrentes que lhomme le plus innocent paraisse le plus videmment coupable et lorsque lerreur ou la mchancet des tmoins ou des juges lui a fait perdre la vie toutes les nations sassembleraient vainement pour la lui rendre si la socit net pas employ des peines hors de sa porte calas vivrait encore et ne lui restatil quune heure  vivre le plaisir dtre reconnu innocent la joie de revoir sa famille les bndictions de tout un peuple lui feraient oublier une injuste servitude et de longues souffrances 
+
+
+ les rvolutions de paris du  au  dc  
+
+
+ 
+
+
+condorcet  
+
+
+on sait le portrait trac par mllede lespinasse du cher et bon condorcet comme elle disait elle louait en lui cette simplicit parfaite qui ne parat jamais souponner ltonnement quo causent ltendue et la supriorit de son esprit ce calme de lhomme pour tout ce qui nintresse que lui tandis quil est tout mouvement tout activit ds que le malheur ou lamiti rclament son secours cet amour vrai de lhumanit qui le dispose  y sacrifier ses facults et mme sa gloire son indiffrence pour toute injustice personnelle tandis qu la moindre injustice il montre une nergie que la douceur naturelle de son caractre ne ferait pas supposer longtemps avant la rvolution il avait annonc montr enseign tout ce quavait  faire la france nouvelle pour sa rgnration et il avait dj livr de grandes batailles dides nul navait t plus que lui pntr de lesprit de rforme dans ses crits philosophiques il avait davance tabli la dclaration des droits de lhomme secrtaire perptuel de lacadmie des sciences membre de lacadmie franaise clbre comme mathmaticien et comme penseur ctait un rare journaliste que celui qui allait user de la puissance dexpansion de la presse journaliste il devait ltre dune manire assidue rgulire aprs avoir pris part  la rdaction du journal de la socit de  aprs avoir donn nombre de pages  la bouche de fer fut un des fondateurs du journal qui ds le mois de juin prenait ce titre le rpublicain puis au journal de paris il faisait le compte rendu des sances de lassemble nationale mais ses ides taient plus avances que celles de cette feuille et il passait  la chronique de paris o jusquen mars il crivit un article quotidien a ct de ses polmiques souvent vhmentes il dveloppait plus longuement ses thories et ses doctrines dans la revue du mois et le journal dinstruction sociale condorcet peut tre considr comme un prcurseur de la cause des droits politiques des femmes ce fut dans ses tudes sociales une des ides sur lesquelles il revint souvent  dput  la convention condorcet vota dans le procs du roi pour la peine la plus grave qui ne ft pas celle de mort pendant la lutte de la gironde et de la montagne il avait essay loeuvre impossible de concilier les deux partis il tait donc en dehors de la conspiration girondine ce qui le perdit ce fut la publication de sa brochure a tous les franais o pousant aprs la mort des vaincus leur cause perdue il slevait contre la convention opposait  la nouvelle constitution le projet dont il avait t le rapporteur rclamait la runion dune nouvelle assemble des attaques injustes o ne se retrouvait plus sa hauteur de vues habituelles taient mles  ses critiques ctait se livrer de luimme aux reprsailles dcrt daccusation le juillet  il se mit aprs avoir rpondu par une lettre hautaine qui avait le ton dun dfi  labri des poursuites dans condorcet sa vie son oeuvre le docteur robinet a cont minutieusement les mouvantes pripties du sjour du proscrit chez la femme courageuse qui lui avait donn lhospitalit mmevernet rue servandoni de la fuite du conventionnel condamn ne voulant pas exposer plus longtemps sa gnreuse htesse au danger quelle avait accept de sa stoque mort volontaire dans la prison de bourglareine devenu bourgegalit 
+
+
+je dplairai aux partis avait dit prophtiquement condorcet dans un article o il faisait une profession de foi philosophique et politique 
+
+
+ 
+
+
+mes principes 
+
+
+puisque vous croyez pouvoir accorder quelquefois  mes rflexions une place dans vos feuilles jai pens quun tableau simple de mes principes les mettrait plus  porte dapprcier mes opinions particulires 
+
+
+je crois lespce humaine indfiniment perfectible et quainsi elle doit faire vers la paix la libert et lgalit cestdire vers le bonheur et la vertu des progrs dont il est impossible de fixer le terme 
+
+
+je crois aussi que ces progrs doivent tre louvrage de la raison fortifie par la mditation appuye par lexprience 
+
+
+daprs mes principes ma philosophie doit tre froide et patiente 
+
+
+je dois tre beaucoup moins effray des bruits de conspiration que des mauvais systmes qui peuvent retarder plus longtemps le progrs des lumires 
+
+
+je dois tre plus ennemi des fausses opinions lorsquelles sont nouvelles lorsquelles flattent lesprit du moment que des vieux prjugs dont la ruine est infaillible et qui npouvantent plus que par la masse de leurs dbris 
+
+
+comme suivant cette manire de voir le droit et la justice doivent tre les seuls principes de toute opration politique je paratrai tantt porter  lexcs lamour de lgalit et aspirer  une perfection chimrique et tantt je ne serai quun citoyen tide et presque protecteur des abus 
+
+
+je ne dirai pas tout est bien mais tout sera bien et par l je dplairai aux deux partis 
+
+
+les prjugs ont reu depuis un an de si violentes secousses que pour faire de grands progrs vers le bien il suffit de laisser  la raison humaine un peu trop agite le temps de reprendre quelque calme 
+
+
+tous nos maux actuels disparatraient bientt devant elle et alors dans tous les partis sil en reste encore quelques traces tous diront que les dsordres de la fronde ont t bien plus cruels et nont valu  la france que cent ans de despotisme 
+
+
+ la bouche de fer  
+
+
+ 
+
+
+rivarol 
+
+
+un dilettantisme aristocratique caractrise dabord rivarol dans le journal politique national il philosophe plus quil ne polmique et avant de se dcider tout  fait pour la cause royaliste il a louvoy quelque temps une fois son parti pris il npargne gure plus dailleurs ses amis que ses ennemis lorsquon veut empcher une rvolution critil il faut la vouloir et la faire soigner elle tait trop ncessaire en france pour ne pas tre invitable lui qui a tant desprit il garde mme en dfendant les ides monarchiques une hautaine indpendance  ftce  lgard de ses lecteurs quelques uns de ces lecteurs se sont plaints du style de nos rsums ils prtendent que cette manire dcrire donne trop  penser et quil nexiste point de journal o lon ait si peu dgards pour eux nous les avertissons que nous ferons rarement le sacrifice de notre manire dailleurs si nous descendions toujours pour leur pargner la peine de monter nous laisserions la bonne compagnie qui nous suit depuis lontemps et qui est plus aise  vivre quon ne pense puisquelle nexige pas quon spare les gards qui lui sont dus de ceux quon doit  la langue au got au vritable ton et  la majest de lhistoire il se dfinit ainsi luimme parfaitement il pense tre toujours dans les salons o il tait un merveilleux causeur disant des choses srieuses avec une grce frivole levant les choses frivoles jusqu en dgager de la pense ayant sur tout des opinions originales salu  la ronde  chaque coup de griffe incisif au point de se moquer de lui aussi aprs son mariage malheureux avec une aventurire quil avait faite aussi facilement grande dame quil stait cr luimme grand seigneur en dpit de son humble origine je mtais avis de mdire de lamour il ma envoy lhymen pour se venger 
+
+
+le journaliste en rivarol sera le mieux reprsent par les traits et par les maximes parfois contradictoires o se retrouve le grand matre de la causerie 
+
+
+ 
+
+
+ le peuple donne sa faveur jamais sa confiance 
+
+
+ les droits sont des proprits appuyes sur la puissance si la puissance tombe les droits tombent aussi 
+
+
+ le gnie en politique consiste non  crer mais  conserver non  changer mais  fixer ce nest pas la meilleure loi mais la plus fixe qui est la bonne 
+
+
+ il en est de la personne des rois comme des statues des dieux les premiers coups portent sur le dieu mme les derniers ne tombent plus que sur un marbre dfigur 
+
+
+ limprimerie est lartillerie de la pense 
+
+
+ voltaire a dit plus les hommes seront clairs et plus ils seront libres ses successeurs ont dit au peuple que plus ils seront libres plus ils seront clairs ce qui a tout perdu 
+
+
+ malheur  ceux qui remuent le fond dune nation 
+
+
+ la philosophie tant le fruit dune longue mditation et le rsultat de la vie entire ne peut ne doit jamais tre prsente au peuple qui est toujours au dbut de la vie 
+
+
+ quand neptune veut calmer les temptes ce nest pas aux flots mais aux vents quil sadresse 
+
+
+ les vices de tous ont commenc la rvolution les vices du peuple lachveront 
+
+
+ il faut attaquer lopinion avec les armes de la raison on ne tire pas des coups de fusil aux ides 
+
+
+ la religion unit les hommes dans les mmes dogmes la politique les unit dans les mmes principes et la philosophie les resserre dans les lois cest le dissolvant de la socit 
+
+
+ les souverains ne doivent jamais oublier que les crivains peuvent recruter parmi les soldats et quun gnral ne peut recruter parmi les lecteurs 
+
+
+ le peuple est un souverain qui ne demande qu manger sa majest est tranquille quand elle digre 
+
+
+ les nobles daujourdhui ne sont plus que les mnes de leurs anctres 
+
+
+ la populace de paris et celle des autres villes du royaume ont encore bien des crimes  commettre avant dgaler les sottises de la cour et des grands 
+
+
+ il nest point de sicles de lumire pour la populace la populace est toujours et en tout pays la mme toujours cannibale toujours anthropophage 
+
+
+ lamiti entre le monarque et le sujet doit toujours trembler comme cette nymphe de la fable que jupiter ne soublie un jour et ne lui apparaisse environn de foudres et dclairs 
+
+
+ le crdit est la seule aumne quon puisse faire  un homme detat 
+
+
+ la postrit aura peine  croire tout ce qua fait le gouvernement et tout ce quil na pas fait il y a eu comme un concert de btises dans le conseil 
+
+
+ quand les peuples cessent destimer ils cessent dobir 
+
+
+ rgle gnrale les nations que les rois assemblent et consultent commencent par des voeux et finissent par des volonts 
+
+
+ quand mde calonne assembla les notables il dcouvrit aux yeux du peuple ce quil ne faut jamais leur rvler le dfaut de lumires plus encore que le dfaut dargent 
+
+
+ les maximes actuelles ne tendent qu dtruire elles ont dj ruin les riches sans enrichir les pauvres et au lieu de lgalit des biens nous navons encore que lgalit des misres et des maux 
+
+
+ ceux qui excutent une rvolution et ceux mmes qui en sont les simples tmoins voudraient quon partaget leur effervescence et quon justifit des excs mais nous avons cru devoir crire ce qui se passe sous nos yeux comme voudra le lire la gnration suivante 
+
+
+ dans les rois la bont ne convient qu la puissance un roi honnte homme et qui nest que cela est un pauvre homme de roi 
+
+
+ 
+
+
+les actes des apotres 
+
+
+ 
+
+
+mais selon lexpression de rivarol luimme tous les grands coups ont t frapps la rvolution ne peut plus tre endigue alors rivarol abandonne le ton philosophique quil a gard dans le journal politique national la rvolution il la combat avec dautres armes avec des flches acres  et souvent empoisonnes  par la raillerie en cherchant  la ridiculiser et il est au premier rang des tirailleurs des actes de aptres les actes de aptres a dit mde lescure lhistorien de rivarol cest la rvolution mise en vaudeville la raction en pontsneufs cest lentreprise insense courageuse frivole puissante banale originale insolente strile de gens prts  tout sacrifier  un bon mot cest une fronde contrervolutionnaire une carnavalade politique cest la parade de lchafaud joue par des suspects en belle humeur cest un piquenique de mdisances une dbauche de satire une orgie de personnalits cest tacite avec des grelots montesquieu avec une marotte ou de maistre brouill avec du beaumarchais du voltaire mtin de vad cest la politique  coups de poing la philosophie  coups de sifflet cest une carmagnole de sansculottes  talon rouge un club daristocrate grasseyant la langue des faubourgs rivarol se rencontre l avec champcemetz son clair de lune peltier montlosier suleau qui expiera massacr sur la terrasse des feuillants ses attaques contre throigne de mricourt langnon mirabeau cadet etc dailleurs rivarol se dcide  migrer et  quitter paris le juin  
+
+
+ce que fut cette guerre de plume des actes des aptres  par les mousquetaires de la contrervolution on ne peut ici en donner quune ide sommaire par quelques citations de ces chos mordants ce sont des parodies comme celle du songe dathalie 
+
+
+oui je viens dans un temple adorer mirabeau 
+
+
+de prtendues copies dactes officiels ou dimaginaires comptes rendus des sanc

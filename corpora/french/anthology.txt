@@ -1,0 +1,982 @@
+--- ATTENTION : CONSERVEZ CETTE LICENCE SI VOUS REDISTRIBUEZ CE FICHIER ---
+License ABU
+-=-=-=-=-=-
+Version 1.1, Aout 1999
+
+Copyright (C) 1999 Association de Bibliophiles Universels
+   http://abu.cnam.fr/
+   abu@cnam.fr
+
+La base de textes de l'Association des Bibliophiles Universels (ABU)
+est une oeuvre de compilation, elle peut être copiée, diffusée et
+modifiée dans les conditions suivantes :
+
+1.  Toute copie à des fins privées, à des fins d'illustration de l'enseignement
+    ou de recherche scientifique est autorisée.
+
+2.  Toute diffusion ou inclusion dans une autre oeuvre doit
+
+     a) soit inclure la presente licence s'appliquant a l'ensemble de la
+        diffusion ou de l'oeuvre dérivee.
+
+     b) soit permettre aux bénéficiaires de cette diffusion ou de cette
+        oeuvre dérivée d'en extraire facilement et gratuitement une version
+        numérisée de chaque texte inclu, muni de la présente licence.  Cette
+        possibilité doit être mentionnée explicitement et de façon claire,
+        ainsi que le fait que la présente notice s'applique aux documents
+        extraits.
+
+     c) permettre aux bénéficiaires de cette diffusion ou de cette
+        oeuvre dérivée d'en extraire facilement et gratuitement la version
+        numérisée originale, munie le cas échéant des améliorations visées au
+        paragraphe 6, si elles sont présentent dans la diffusion ou la nouvelle
+        oeuvre. Cette possibilité doit être mentionnée explicitement et de
+        façon claire, ainsi que le fait que la présente notice s'applique aux
+        documents extraits.
+
+   Dans tous les autres cas, la présente licence sera réputée s'appliquer
+   à l'ensemble de la diffusion ou de l'oeuvre dérivée.
+
+
+3. L'en-tête qui accompagne chaque fichier doit être intégralement 
+   conservée au sein de la copie.
+
+4. La mention du producteur original doit être conservée, ainsi
+   que celle des contributeurs ultérieurs.
+
+5. Toute modification ultérieure, par correction d'erreurs,
+   additions de variantes, mise en forme dans un autre format, ou autre,
+   doit être indiquée.  L'indication des diverses contributions devra être
+   aussi précise que possible, et datée.
+
+6. Ce copyright s'applique obligatoirement à toute amélioration
+   par simple correction d'erreurs ou d'oublis mineurs (orthographe,
+   phrase manquante, ...), c'est-à-dire ne correspondant pas à
+   l'adjonction d'une autre variante connue du texte, qui devra donc
+   comporter la présente notice.
+
+----------------------- FIN DE LA LICENCE ABU --------------------------------
+
+--- ATTENTION : CONSERVEZ CET EN-TETE SI VOUS REDISTRIBUEZ CE FICHIER ---
+<IDENT journalism>
+<IDENT_AUTEURS ginistyp>
+<IDENT_COPISTES swaelensg>
+<ARCHIVE http://www.abu.org/>
+<VERSION 1>
+<DROITS 0>
+<TITRE Anthologie du Journalisme>
+<GENRE vers>
+<AUTEUR Paul Ginisty (1855-1932)>
+<COPISTE G. J. Swaelens (100112.3376@compuserve.com)>
+<NOTESPROD>
+
+Paul GINISTY (1855-1932), a écrit de nombreux romans et études historiques, 
+notamment sur le théâtre - il fut directeur de l'Odéon de1896 à1906 - et sur Paris et ses 
+moeurs. La présente édition de son Anthologie du Journalisme a été publiée en 1933, 
+une année après son décès. Dans une note annexée à la notice sur la Révolution de 
+1848, P.Ginisty renvoie le lecteur à un deuxième tome qu'il n'a probablement pas pu 
+mener à bien. Aucune mention de ce deuxième tome n'apparaît dans le catalogue de la 
+Bibliothèque Nationale de France.
+L'edition qui a servi de base a la presente numerisation peut etre
+consultee a la Bibliotheque Publique et Universitaire de Geneve.
+
+Paul GINISTY (1855-1932), wrote several novels and historical essays namely on 
+Paris, the theatre and contemporary mores. This "Anthologie du Journalisme" was 
+published the year following his death. In a footnote of the notice devoted to the 1848 
+revolution, he refers to a second volume which death probably prevented him from 
+completing. No trace of this second volume is found in the Catalogue of the 
+Bibliothèque Nationale de France.
+The original volume from which the following digital version has been
+produced can be consulted at the Bibliotheque Publique et Universitaire de
+Geneve, in Geneva, Switzerland.
+
+J'ai séparé les notes biographiques des textes proprement dits par cinq astérisques 
+(*****), les époques (Révolution, etc) par sept astérisques (*******) et lorsqu'une 
+séparation s'imposait au milieu d'un texte (pour un commentaire, par exemple), j'y ai 
+mis trois astérisques. (***). Deux astérisques (**).introduisent des commentaires de 
+Ginisty au milieu d'un texte cité. Tout cela n'est pas simple, mais c'est faute de mieux.
+ Le but était de remplacer des textes composés dans un corps plus petit pour les 
+différencier de leur contexte.
+
+A titre de curiosité, je signale la biographie de Victor Considérant où il est dit qu'il 
+a failli être fusillé dans la cour du CNAM, celui de Théophile Gautier sur ce que sera 
+l'an 1941 (écrit en 1842), l'explication historique de J. Méry sur le climat de Paris, le 
+texte mystique sur Paris vu par les saint-simoniens (notice sur Duveyrier) et la 
+misogynie du «Paragraphe en faveur des femmes» de Gozlan. Il y a d'autres textes 
+amusants ou passionnants, bien sûr, mais ceux-là m'ont assez diverti...
+
+</NOTESPROD>
+----------------------- FIN DE L'EN-TETE --------------------------------
+
+------------------------- DEBUT DU FICHIER journalism1 --------------------------------
+
+COLLECTION PALLAS 3e Édition 
+
+Anthologie du Journalisme 
+
+
+Du XVIIe siècle à nos jours. par Paul Ginisty 
+
+
+TomeI 
+
+
+La Révolution. -- Le Premier Empire. La Restauration. -- La seconde Restauration. Le Gouvernement de Juillet. La Révolution de 1848. 
+
+
+PARIS LIBRAIRIE DELAGRAVE 15, RUE SOUFFLOT, 15 1933 
+
+
+***** 
+
+
+TABLE DES MATIÈRES: 
+
+
+INTRODUCTION 
+
+
+LA RÉVOLUTION 
+
+
+MIRABEAU La liberté de la presse 
+
+
+ÉLYSÉE LOUSTALOT Contre la peine de mort 
+
+
+CONDORCET Mes principes 
+
+
+RIVAROL Traits et maximes Les Actes des Apôtres 
+
+
+CAMILLE DESMOULINS Spartiates et Athéniens Le comité de clémence 
+
+
+MAXIMILIEN ROBESPIERRE Des fêtes nationales et des honneurs publics 
+
+
+ANDRÉ CHÉNIER Des manoeuvres des Jacobins 
+
+
+MARAT Réveillons-nous, il en est temps 
+
+
+HÉBERT La plus grande de toutes les joies du Père Duchesne 
+
+
+GRACCHUS BABEUF Les moeurs du jour 
+
+
+MALLET DU PAN La dictature 
+
+
+ROEDERER D'une nouvelle maladie de la jeunesse 
+
+
+MmeDE GENLIS Les Valets de comédie 
+
+
+ANGE PITOU La mort du genre humain 
+
+
+J.FIÉVÉE La politique d'un philosophe 
+
+
+LE PREMIER EMPIRE 
+
+
+GEOFFROY Les bourgeoises à la mode 
+
+
+F.GUIZOT L'impolitesse 
+
+
+CHATEAUBRIAND Néron... mais Tacite 
+
+
+DE JOUY L'auteur mécontent 
+
+
+KÉRATRY Gens de lettres d'autrefois 
+
+
+LA RESTAURATION 
+
+
+BENJAMIN CONSTANT Le retour de l'île d'Elbe 
+
+
+J.- T.MERLE Paris à la fin de juin1815 
+
+
+LA SECONDE RESTAURATION 
+
+
+VICTOR HUGO Un bilan 
+
+
+PAUL-LOUIS COURIER La peur de la presse. 
+
+
+ETIENNE Le respect de la Charte 
+
+
+MARTAINVILLE L'assassinat du Duc de Berry 
+
+
+CHARLES NODIER Du mot, «Monsieur» Polichinelle 
+
+
+ETIENNE BÉQUET Malheureuse France! 
+
+
+HENRI DE LATOUCHE Fausses nouvelles vraisemblables 
+
+
+L.M. FONTAN Le mouton enragé 
+
+
+ADOLPHE THIERS Protestations des journalistes contre les ordonnances. 
+
+
+LE GOUVERNEMENT DE JUILLET 
+
+
+SAINT-MARC GIRARDIN La curée 
+
+
+ALFRED DE MUSSET La chute du bal de l'Opéra 
+
+
+CHARLES DUVEYRIER Le Paris saint-simonien 
+
+
+FÉLIX PYAT Le Théâtre-Français 
+
+
+ARMAND MARRAST Attendre et se préparer! 
+
+
+BARTHÉLEMY A Monsieur de Lamartine 
+
+
+CH. PHILIPON Afin que si jamais l'Etat leur manque, ils ne manquent du moins jamais d'état. Si la justice a toujours deux poids, du moins elle ne garde plus de mesures. 
+
+
+LOUIS DESNOYERS Les Béotiens de Paris 
+
+
+SAINTE-BEUVE Les soirées littéraires 
+
+
+A.JAY Contre les romantiques 
+
+
+ARMAND CARREL Un défi 
+
+
+HONORÉ DE BALZAC La revue parisienne 
+
+
+GUSTAVE PLANCHE Le métier de journaliste 
+
+
+VICTOR CONSIDÉRANT Le nouveau champ de bataille 
+
+
+JULES JANIN Frédérick Lemaître aux Folies-Dramatiques 
+
+
+L.-M. DE CORMENIN Une réforme judiciaire 
+
+
+ÉMILE DE GIRARDIN La Presse 
+
+
+THÉOPHILE GAUTIER L'an 1841 et l'an 1941 
+
+
+JOSEPH MÉRY Le climat de Paris 
+
+
+ROGER DE BEAUVOIR Le touriste 
+
+
+MmeÉMILE DE GIRARDIN Le premier voyage en chemin de fer. 
+
+
+LE DOCTEUR VÉRON Rachel 
+
+
+GÉRARD DE NERVAL Histoire véridique du canard 
+
+
+EUGÈNE BRIFFAULT Les bains froids 
+
+
+E.-J. DELÉCLUZE De la barbarie de ce temps 
+
+
+ALPHONSE KARR La difficulté d'écrire l'histoire 
+
+
+NESTOR ROQUEPLAN Le «chic» 
+
+
+ÉTIENNE ARAGO Le figurant 
+
+
+PHILIBERT AUDEBRAND Séductions et dangers du théâtre 
+
+
+LOUIS REYBAUD Balzac jugé par un de ses contemporains 
+
+
+TAXILE DELORD. Chicard 
+
+
+CHAMPFLEURY Delacroix 
+
+
+GRANIER DE CASSAGNAC Les mots et les choses. 
+
+
+HENRI MURGER Souvenirs du Corsaire-Satan. 
+
+
+ELZÉAR BLAZE Chasseurs et chasseurs 
+
+
+CHARLES MAURICE. Talma Hugo et la parodie Le piano de Rossini Rubini 
+
+
+SILVESTRE DE SACY La morale naturelle 
+
+
+CUVILLIER-FLEURY Jules Janin 
+
+
+ÉMILE DR LA BÉDOLLIÈRE La politique de l'invalide 
+
+
+LA RÉVOLUTION DE 1848 
+
+
+PIERRE LEROUX Aux politiques 
+
+
+P.-J. PROUDHON La propriété L'affirmation par la négation 
+
+
+GEORGE SAND Au peuple 
+
+
+AMÉDÉE ACHARD Le club du village 
+
+
+LÉON GOZLAN Un paragraphe en faveur des femmes 
+
+
+LOUIS BLANC La solidarité des intérêts. 
+
+
+AUGUSTE BLANQUI Mes calomniateurs 
+
+
+AUGUSTE LIREUX La morale au théâtre. 
+
+
+LAMENNAIS Silence aux pauvres! 
+
+
+LES JOURNAUX DE FEMMES Réponse de George Sand 
+
+
+DE LEUVEN ET BRUNSWICK ET LE Journal- Vaudeville. 
+
+
+***** 
+
+
+ANTHOLOGIE DU JOURNALISME 
+
+
+INTRODUCTION 
+
+
+I 
+
+
+Du premier numéro de la Gazette de Théophraste Renaudot au journal actuel, quel chemin parcouru par la Presse! 
+
+
+La fondation de la Presse, en France, date véritablement de cette petite feuille hebdomadaire qui commença à paraître le 30mai 1631 (1) sur quatre pages in-4°, au «Bureau d'adresses», autre invention de l'ingénieux Renaudot, à l'enseigne du Grand Coq, «sortant du Marché-Neuf, près le Palais». Débuts modestes, mais quelle idée était plus grosse d'avenir? 
+
+
+[(1) Les premiers numéros ne portaient d'autre indication qu'un signe alphabétique. C'est par induction, une date apparaissant en tête du sixième numéro (4juillet 1631) qu'on a établi, pour le numéro initial, celle du 30 mai.] 
+
+
+Cerveau sans cesse occupé de conceptions neuves, le médecin Théophraste Renaudot avait voyagé, en observateur curieux. C'est de l'étranger qu'il avait rapporté le principe d'institutions charitables, développé avec son tour d'esprit personnel et son sens avisé des réalisations pratiques. Les gazettes vénitiennes et hollandaises et un écrit périodique anglais lui inspirèrent la pensée d'une publication plus ordonnée et plus méthodique, plus véridique aussi. Ce souci de la vérité, fort altérée par les colporteurs de nouvelles, quand elle n'était pas travestie par les auteurs de pamphlets clandestins, le préoccupait fort. «Mes gazettes, dit-il dans un de ces exposés où il commentait et défendait son oeuvre, seront maintenues pour l'utilité qu'en reçoivent le public et les particuliers: le public, pour ce qu'elles empeschent plusieurs faux bruits qui servent souvent d'allumettes aux mouvements et séditions intestines;... les particuliers, chacun d'eux ajustant volontiers ses affaires au modèle du temps.» 
+
+
+Le privilège de la Gazette était exclusif. Dès le mois de novembre de cette année 1631, un arrêt du Conseil du roi spécifiait que «quiconque porterait préjudice à Renaudot seroit puni de six mille livres d'amende» Louis XIII et Richelieu (rien ne reste plus, aujourd'hui, de la légende romantique de Louis XIII, fantôme de roi entre les mains du cardinal) avaient compris toute l'importance d'un organe de publicité; mais ils avaient compris, en même temps, les dangers, pour le Pouvoir, de la presse naissante. Ils prévenaient l'opposition en ne lui laissant pas de moyens d'expression. Son privilège, Renaudot le défendit parfois avec âpreté, mais ce n'était que contre des contrefacteurs. La concurrence était impossible. Ce n'était pas seulement la faveur royale qui soutenait l'auteur de la Gazette, c'était un intérêt de gouvernement. 
+
+
+Louis XIII ne se bornait pas à accorder son efficace protection à la Gazette. Il était le plus important de ses collaborateurs anonymes, et de cette collaboration il reste la trace, des notes de la main même du roi, conservées aux manuscrits de la Bibliothèque nationale (fonds français 3840). Ces notes avaient trait surtout aux opérations militaires, mais Louis XIII adressait aussi à Renaudot des comptes rendus des ballets de cour, et il en fut ainsi, notamment, pour le ballet de la Merlaizon, qu'il avait composé. 
+
+
+La Gazette n'offrit d'abord que des «informations» fort brèves, «commençant par les lieux les plus éloignés pour finir par la France». Pour la France, ce n'étalent guère que des nouvelles de la cour et des déplacements royaux. Dès le mois de novembre, Renaudot doubla son format. Il y eut bientôt aussi les «Extraordinaires», sortes de «suppléments» consacrés aux événements officiels dont le récit demandait quelques détails ou à des biographies de personnages dont la mort était récente. Le père du journalisme avait tout entrevu! En 1632 il accompagnait certains faits de quelques réflexions sommaires. Mais il avait accoutumé, généralement une fois par mois, de se plaire à une manière de causerie avec ses lecteurs, pleine de bonhomie et parfois de malice, où il répondait à ses détracteurs (il n'avait pas manqué d'en avoir), où il disait ses projets, où il constatait son succès, où il mettait aussi le public au courant des difficultés qu'il rencontrait, où il s'excusait de quelque erreur commise malgré sa bonne foi. «Guère de gens possible ne remarquent la différence qui est entre l'Histoire et la Gazette, ce qui m'oblige de vous dire que l'Histoire est le récit des choses advenues, la Gazette seulement le bruit qui en court. La première est tenue de dire toujours la vérité, la seconde fait assez si elle empêche de mentir. Et elle ne ment pas, même quand elle rapporte quelque nouvelle fausse qui lui a été donnée pour véritable. Il n'y a que le seul mensonge qu'elle controuverait à dessein qui la puisse rendre digne de blasme.» 
+
+
+Dans une de ces causeries, il parlait des mesures prises par des Etats étrangers contre la circulation de la Gazette. Il en parlait non sans hauteur et d'une façon prophétique: «Feray-je en ce lieu prière aux princes et Estats estranges de ne point perdre inutilement le temps à vouloir fermer passage à mes Nouvelles, veu que c'est une marchandise dont le commerce ne s'est jamais pu deffendre et qui tient cela de la nature des torrents qu'il se grossit par la résistance.» 
+
+
+La Gazette paraissait le samedi et était vendue, par cinquante colporteurs se répandant dans Paris, un sol parisis. Une estampe contemporaine, mêlant la réalité à l'allégorie, montre un de ces colporteurs, son panier en bandoulière et y entassant les exemplaires. Quant à la Gazette, elle est représentée sous la figure d'une femme, assise sur un trône, -- le futur quatrième Pouvoir! Ce trône a pour marches quantité de feuillets d'imprimerie. La Gazette fait tomber le masque du Mensonge. Elle est vêtue d'une robe toute parsemée d'oreilles. 
+
+
+La Gazette, assise sur un trône par l'inspirateur de l'estampe, n'en était pas moins, forcément, fort dépendante de ses puissants protecteurs. Telle note émanée de Richelieu devait être parfois insérée d'urgence, dût-on arrêter le tirage commencé et supprimer, pour faire place à cette «copie», politique, un nombre de lignes équivalent. A la mort de Louis X111, Théophraste Renaudot, déjà très attaqué par les médecins, ne lui pardonnant pas l'autorisation qu'il avait obtenue de bâtir l' «Hôtel des consultations charitables», dans lequel ils voyaient une Faculté rivale, employant contre lui toutes les influences dont ils disposaient, risqua fort une disgrâce complète. On se faisait une arme contre lui, auprès de la régente Anne d'Autriche, d'une de ces notes de Richelieu où, à mots couverts, il avait, quelque dix ans auparavant, menacé la reine à propos de son attitude à l'égard de l'Espagne (1). 
+
+
+[(1) Voir sur toutes les luttes qu'eut à soutenir le fondateur de la Gazette, l'ouvrage du regretté docteur Gilles de la Tourette, Théophraste Renaudot,.] 
+
+
+Renaudot, bien qu'il pût prouver qu'il n'avait fait qu'obéir à un ordre du cardinal, ne se tira pas sans difficultés du péril. Ce ne fut qu'à force d'adresse et de souplesse qu'il maintint ses privilèges. Mais ses ennemis multipliaient contre lui les pamphlets, tels que celui, dont Guy Patin était peut-être l'auteur, intitulé: le Nez pourri de Théophraste Renaudot, alchymiste, charlatan, empirique, usurier comme juif, perfide comme un Turc, méchant comme un renégat, grand fourbe, grand gazettier de France. Renaudot se défendit énergiquement contre toutes ces attaques; il rentra en faveur à la cour et fut même nommé historiographe de France. 
+
+
+Pendant la Fronde, il ne pouvait pas hésiter sur sa ligne de conduite, et il installa la Gazette à Saint-Germain. Mais, en homme avisé, il prévoyait toutes les éventualités. Il avait suivi Mazarin. Si, cependant, la cause du Parlement triomphait? Il était assez malaisé, alors, de deviner exactement l'avenir. Renaudot eut une idée admirable d'ingéniosité, du moins de façon à ne pas être victime des événements, quels qu'ils fussent. La Gazette, à Saint-Germain, défendait le parti de la cour; à Paris, les fils de Renaudot, Isaac et Eusèbe, ses collaborateurs très dévoués, eurent un journal à la dévotion du Parlement. Ce fut le Courrier français, qui eut douze numéros. Les deux feuilles rivales s'entendaient à merveille, au fond. Quand la cour rentra à Paris, le fondateur de la Gazette revendiqua ses droits, et le Courrier français, qui avait été un habile expédient, disparut. 
+
+
+Renaudot eut à lutter souvent contre les contrefacteurs, qui s'emparaient de ses gazettes, par une entente avec les colporteurs, et tiraient profit de ces reproductions illicites Il en arriva à marquer de signes particuliers, même de lettres chinoises, les exemplaires authentiques. Dans ses dernières années, il avait un peu élargi sa manière et, dans des époques troublées, il donnait plus librement cours à ses sentiments personnels. Il y a une sorte d'éloquence dans la façon dont il déplore les divisions, risquant de compromettre la grandeur du pays «Les ennemis ont grand sujet de rire de nos dissensions perpétuelles qui leur donnent le moyen qu'ils n'auroyent pas autrement de réparer les affronts qu'ils ont reçus dans les campagnes précédentes.» Ou ailleurs: «Faut-il que ma plume qui n'avoit accoustumé de vous entretenir que des célèbres victoires de nostre monarque sur ses ennemis estrangers, ne vous apprenne plus, maintenant que celles qu'il remporte sur ses sujets?» Renaudot mourut le 25octobre 1653. Ses fils puis son neveu, lui succédèrent dans la rédaction de la Gazette. Il est piquant de se reporter à la première chronique du premier journal français. Et est- ce autre chose qu'une chronique, en effet, que cette page où Théophraste Renaudot, d'une façon vive et alerte exposait les embarras du journaliste devant les prétentions de tous ceux qui voudraient être cités par lui et devant les exigences du public? 
+
+
+***** 
+
+
+LES ÉCUEILS DU JOURNALISTE 
+
+
+La difficulté que je dis rencontrer en la composition de mes gazettes n'est pas mise ici en avant pour en faire plus estimer mon ouvrage: ceux qui me connoissent peuvent dire aux autres si je ne trouve pas de l'employ honorable aussi bien ailleurs qu'en ces feuilles C'est pour excuser mon style, s'il ne respond pas toujours à la dignité de son sujet, le sujet à votre humeur et tous deux à votre mérite. Les capitaines y voudroient rencontrer tous les jours des batailles ou des sièges levés et des villes prises, les plaideurs des arrests en pareil cas; les personnes devotieuses y cherchent les noms des prédicateurs, des confesseurs de remarque. Ceux qui n'entendent rien aux mystères de la cour les y voudroient trouver en grosses lettres. Tel, s'il a porté un paquet en cour ou mené une compagnie d'un village à l'autre sans perte d'hommes, ou payé le quart de quelque médiocre office, se fâche si le Roi ne voit son nom dans la gazette. D'autres y voudroient avoir ces noms de Monseigneur ou de Monsieur répétés à chaque personne dont je parle, à faute de remarquer que ces titres ne sont pas ici apposés comme trop vulgaires, joint que ces compliments, étant omis en tous, ne peuvent donner jalousie à aucuns. 
+
+
+Il s'en trouve qui ne pensent qu'au langage fleuri, d'autres qui veulent que mes relations semblent à un squelette décharné, de sorte que la relation en soit toute une, ce qui m'a fait essayer de contenter les uns et les autres. 
+
+
+Se peut-il faire que vous ne me plaigniez pas en toutes ces rencontres et que vous n'excusiez pas ma plume si elle ne peut plaire à tout le monde, en quelque posture qu'elle se mette, non plus que ce paysan et son fils, quoiqu'il se misse premièrement seuls et puis ensemble, tantost à pied et tantost sur leur asne? Et si la crainte de déplaire à leur siècle a empesché plusieurs bons auteurs de toucher à l'histoire de leur aage, quelle doit estre la difficulté d'escrire celle de la semaine, voire du jour même où elle est publiée: joignez-y la brièveté du temps que l'impatience de votre humeur me donne: et je suis bien trompé si les plus riches censeurs ne trouvent digne de quelque excuse un ouvrage qui se doit faire en quatre heures de jour que la venue des courriers me laisse pour assembler, ajuster et imprimer ces lignes. 
+
+
+...Mais non, je me trompe, estimant par ces remontrances pouvoir tenir la bride à votre censure, et, si je le pouvois, je ne dois pas le faire, cette liberté de reprendre n'étant pas le moindre plaisir de ce genre de lecture et votre plaisir et votre divertissement étant l'une des causes pour lesquelles cette nouveauté a été inventée. Jouissez donc à votre aise de cette liberté française, et que chacun dise hardiment qu'il eût osté ceci ou changé cela, qu'il auroit bien mieux fait, je le confesse. 
+
+
+Et une seule chose ne céderai je à personne: en la recherche de la vérité, de laquelle, néanmoins, je ne me fais pas son garant, étant malaisé qu'entre cinq cents nouvelles écrites à la haste, il n'en échappe quelque une à nos correspondants qui mérite d'être corrigée par son père le Temps. Mais encore se trouvera-t-il des personnes curieuses de savoir qu'à ce temps-là, tel bruit était tenu pour véritable. Ceux qui se scandalisent possible de deus ou trois faux bruits, seront par là invités à débiter au public par ma plume (que je leur offre à cette fin) les nouvelles qu'ils croient plus vraies, et, comme telles, plus dignes de lui être communiquées. Que ceux qui s'occupent à syndiquer mes écrits ou mes oeuvres viennent m'aider, et nous verrons à faire mieux ensemble. 
+
+
+***** 
+
+
+La Muse Historique de Jean Loret, qui commença sa publication en 1651, n'était point à proprement parler un journal: pour l'amusement de Mllede Longueville, sa protectrice, Loret avait entrepris de conter en petits vers les menus événements de chaque semaine. De ces bavardages rimés on tira des copies, qui furent de plus en plus demandées. C'était, en somme, un gazetier, mais non clandestin et même pensionné. Si Renaudot écrivait l'histoire hebdomadaire, Loret écrivait l'historiette. La forme de ce verbiage est insupportable, mais ce recueil est précieux aujourd'hui, pour les traits de moeurs qu'il se trouve enregistrer, pour les nomenclatures de personnes qu'il donne, pour les façons de juger du temps. Ce qui le caractérise, c'est une extrême familiarité. Loret, par exemple, termine ainsi une de ses gazettes: 
+
+
+Fait en avril, le vingt-huit, Avant que mon souper fût cuit. 
+
+
+Ce railleur, à la raillerie facile, n'avait pas manqué de prendre pour cible Théophraste Renaudot quand le fondateur de la Gazette s'avisa, sur le tard, de se remarier: 
+
+
+Je ne devais pas oublier, Mais dès l'autre mois publier (Car c'est assez plaisante chose) Que le sieur Gazetier en prose, Autrement Monsieur Renaudot En donnant un fort ample dot, Pour dissiper mélancolie A pris une femme jolie Qui n'est encor qu'en son printemps, Quoiqu'il ait plus de septante ans. Pour avoir si jeune compagne Il faut qu'il ait mis en campagne Multitude de ces louis Par qui la vue est éblouie... 
+
+
+Loret, au milieu de tous ses bavardages, eut une heure de courage. Ce fut après la disgrâce de Fouquet, l'un de ses protecteurs, -- de ses abonnés, pourrait-on dire, car Fouquet l'avait inscrit dans ses libéralités pour une rente de deux cent cinquante écus. -- Loret osa le plaindre, ajoutant que s'il pouvait 
+
+
+De son sort adoucir la rigueur, Il le ferait de tout son coeur. 
+
+
+La Muse Historique, ancêtre des «échos», dura jusqu'en 1659. 
+
+
+Si la Gazette fut le premier journal français, le Journal des savants, qui date de 1665, fut la première revue française (1). 
+
+
+[(1) Le Journal des Savants avait été fondé par M.de Sallo, conseiller au Parlement de Paris._] 
+
+
+Il était consacré à des dissertations de littérature et de science. Puis ce fut, sous une forme plus vivante et avec des prétentions beaucoup moins graves, le Mercure galant de Donneau de Visé (1672), paraissant sous la forme d'un volume de petit format, comprenant trois cents pages, tous les trois mois d'abord, puis tous les mois. 
+
+
+Donneau de Visé était un personnage assez entreprenant, qui avait commencé par écrire des satires contre Corneille, contre Molière, contre Quinault, mais qui, constatant bientôt l'inanité de ces attaques contre des écrivains illustres, chercha une plus sûre façon d'attirer sur lui l'attention. L'idée du Mercure, pour établir un lien entre Paris et les provinces, naquit en son esprit. A la vérité, le journalisme moderne est en germe dans le Mercure et dès son premier numéro, qui, sous le prétexte de lettres à une dame, contient -- un peu en désordre, sans doute -- toutes les rubriques actuelles. 
+
+
+«Vous saurez, disait Donneau de Visé à cette correspondante imaginaire, les morts et les mariages de conséquence, avec des circonstances qui pourront quelquefois vous donner des plaisirs que ces sortes de nouvelles n'ont pas d'elles-mêmes. Comme on entend de temps en temps parler de procès si extraordinaires et si remplis d'aventures que les romans les plus surprenants n'ont rien qui s'en approche, je ne manquerai pas de vous en divertir.» Il annonçait aussi qu'il n'aurait garde de ne pas mander ce qui concerne les modes. 
+
+
+Dans ce même numéro, la critique dramatique était représentée par un discours sur Bajazet, du sieur Racine; la chronique par le récit commenté du voyage de l'Académie française à Versailles; les faits divers, par plusieurs aventures singulières, dont celle d'un gentilhomme étranger dépourvu de scrupules qui, pour soustraire des perles appartenant à sa maîtresse, les avait avalées; le feuilleton, par l' «Histoire de la Fille-Soldat_». Les «échos» c'étaient la réception du duc de La Feuillade dans la charge de colonel du régiment de gardes-françaises, le départ du duc d'Estrées pour son ambassade à Rome, le récit de galanteries turques. Bientôt, Donneau de Visé s'associait Thomas Corneille, et le frère du grand Corneille était, comme on sait, un écrivain infatigable. (1) 
+
+
+[(1) M.Gustave Reynier a eu la bonne fortune de retrouver l'acte d'association, qui prévoyait toutes les formes de bénéfices du Mercure: «C'est à savoir que nous dits sieurs Corneille et de Visé partagerons chacun par moitié tout le profit qui pourra revenir, soit de la vente des livres, soit des présents qui pourraient être faits en argent, meubles, bijoux et pensions, et même si le Roi accordait à l'un de nous une pension, elle serait également partagée comme les autres choses ci-dessus.» La pension arriva: elle attribuait à Donneau de Visé cinq cents écus et le logement au Louvre, en qualité d'historiographe de Sa Majesté.] 
+
+
+La périodicité du recueil fut dès lors régulière. Dans cette association, Donneau de Visé était évidemment l'homme d'affaires. Il avait en la divination de la réclame ingénieusement dissimulée, et il ne se faisait pas faute de prodiguer les louanges intéressées. On peut dire qu'il inventa aussi le «canard», qui devait avoir une longue carrière et a encore la vie dure. Au milieu d'articles littéraires ou mondains, Donneau de Visé se plaisait à exciter la curiosité de son lecteur. Telle, entre autres, en 1680, l'Histoire, fort extraordinaire, de 
+
+
+***** 
+
+
+LA COULEUVRE DU DAUPHINÉ 
+
+
+Dans le mois de mai dernier, au village de Dolomieu en Dauphiné, entre Morestel et la Tour du Pin, un fermier, nommé Jacques Tirenet, ayant remarqué plusieurs fois qu'un dragon volant qui paraissait tout en feu (on lui donne aussi le nom de couleuvre) passait, entre dix et onze heures du soir, au-dessus de sa maison, demandait à tout le monde d'où pouvait venir ce feu. Comme il n'était pas le seul qui le remarquait, il entendit dire à quelques-uns que cette couleuvre portait dans sa tête une escarboucle qui jetait cette lumière, et que, n'y ayant point de pierre plus rare, elle n'avait point de prix. Le fermier se mit plusieurs nuits à l'affût. Deux ou trois fois, ayant vu venir la couleuvre, il n'osa tirer. Enfin, il se montra un peu plus hardi et ajusta si bien le monstre qu'il lui perça le gosier. S'il l'eût frappé par un autre endroit, le coup n'eût pas été mortel, à cause de la dureté de l'écaille. Cette bête, ayant perdu beaucoup de sang par cette blessure, mourut deux heures après, mais avec des sifflements épouvantables. 
+
+
+Le paysan, effrayé, demeura longtemps hors de lui-même, tant à cause de la peur que lui causèrent divers élancements qu'elle fit que pour l'odeur empestée qu'elle répandait aux environs. Aussitôt qu'il vit le dragon sans mouvement, il s'en approcha et prit l'escarboucle. Il n'eut pas de peine à la trouver, l'éclat dont elle brillait la montrait assez. C'était une si grande lumière que, le fermier ayant mis l'escarboucle sur la table quand il se coucha, quelques valets qui sortirent dans la cour pendant la nuit crurent voir toute la maison en feu et mirent l'alarme dans le village. 
+
+
+... La pierre est de la grosseur d'un jaune d'oeuf, un peu en ovale et a une croix au milieu. Elle est de plusieurs couleurs qui paraissent par bandes, rouges, blanches, jaunes et couleur de sang. Quant au dragon, il avait environ deux pas de long, la tête d'un chat, avec des oreilles de mulet, des ailes semblables à celles des chauves-souris et une arête sur l'épine du dos, courte, hérissée d'un grand poil. Il était presque écaillé partout, et sa grosseur surpassait celle de la cuisse d'un homme. 
+
+
+Les naturalistes prétendent que si l'on voit si peu d'escarboucles, c'est parce qu'il n'y en a que dans les plus vieilles de ces couleuvres, qui ne verraient pas à se conduire si elles n'avaient un pareil secours, qu'elles la portent entre leurs dents, où elle s'attache au moyen du trou qu'elle a et que, la mettant à terre pour manger et boire, elles la reprennent après qu'elles ont mangé. 
+
+
+*** N'est-ce pas là le prototype des faits divers dans le genre de l'histoire fameuse du serpent de mer, tablant avec quelque audace sur la crédulité du lecteur? 
+
+
+C'est dans le Mercure galant aussi que commença la longue vogue des énigmes, proposées à la sagacité des devineurs. Le Mercure de Donneau de Visé cherchait avant tout à être amusant et relativement actuel. C'est l' «actualité» qui y faisait parfois traiter des questions sérieuses ou soutenir des tournois littéraires. 
+
+
+Le Mercure, qui inspira la comédie de Boursault, était destiné à grandir au XVIIIe siècle, en importance et en autorité (surtout faute de concurrence), en devenant le Mercure de France. Dufresny succéda à Donneau de Visé: ce bohème, à qui Louis XIV voulait du bien, en raison d'une illustre bâtardise, tout en disant en riant qu'il n'était pas assez riche pour préserver de la misère un homme aussi expert à faire foudre l'argent entre ses doigts, ce fantaisiste qui épousa un jour sa blanchisseuse, ne pouvant acquitter la note de quelques écus qu'elle lui présentait, ne prépara pas l'évolution. Elle se fit avec ses successeurs, Lefèvre, l'abbé Bariche, de la Roque, Leclerc de La Bruère, Boissy, Marmontel. Le brevet du Mercure rapportait vingt-cinq mille livres à La Bruère; après lui, le Mercure dut, sur les bénéfices d'une entreprise prospère, servir des pensions à des gens de lettres désignés par la Cour ou à des favorisés. Ainsi, en 1754, ces pensions étaient accordées à Cahuzac (2.000 livres), à l'abbé Raynal (2.000 livres), à Piron (1.200 livres), à Marmontel (1.200 livres), à M.de Senoncourt, ci-devant consul au Caire (2.000 livres), au chevalier de la Nigérie, frère de Leclerc de La Bruère (1.200 livres), à Médard de la Garde (1.200 livres)´ Ces pensions, plus tard, montèrent jusqu'à 30.000 livres. 
+
+
+Marmontel accrut le succès du Mercure, auquel, sous la direction de Boissy, il avait donné ses Contes Moraux, puis, par la protection de Mmede Pompadour, il en obtint le brevet, en avril1758, et rédigea une sorte de profession de foi de journaliste. 
+
+
+***** 
+
+
+UN PROGRAMME 
+
+
+La forme du Mercure le rend susceptible de tous les genres d'agrément et d'utilité, et les talents n'ont ni fleurs ni fruit dont il ne se couronne. Il extrait, il recueille, il annonce, il embrasse toutes les productions du génie et du goût; il est comme le rendez-vous des sciences et des arts, et le canal de leur commerce. C'est un champ qui peut devenir de plus en plus fertile, et par les soins de la culture et par les richesses qu'on y répandra. Il peut être considéré comme extrait ou comme recueil. Comme extrait, c'est moi qu'il regarde; comme recueil, son succès dépend des secours que je recevrai. Dans la partie critique, l'homme estimable à qui je succède, sans oser prétendre à le remplacer, me laisse un exemple d'exactitude et de sagesse, de candeur et d'honnêteté, que je me fais une loi de suivre. Je me propose de parler aux gens de lettres le langage de la vérité, de la décence et de l'estime, et mon attention à relever les beautés de leurs ouvrages justifiera la liberté avec laquelle j'en observerai les défauts. Je sais mieux que personne, et je ne rougis pas de l'avouer, combien un jeune auteur est à plaindre, lorsque, abandonné à l'insulte, il a assez de pudeur pour s'interdire une défense personnelle. Cet auteur, quel qu'il soit, trouvera en moi, non pas un vengeur passionné, mais, selon mes lumières un appréciateur équitable. Une ironie, une parodie, une raillerie ne prouvent rien et n'éclairent personne; ces traits amusent quelquefois; ils sont même plus intéressants pour le bas peuple des lecteurs qu'une critique correcte et sensée: le ton modéré de la raison n'a rien de consolant pour l'envie, rien de flatteur pour la malignité; mais mon, dessein n'est pas de prostituer ma plume aux envieux et aux méchants. A l'égard de la partie collective de cet ouvrage, quoique je me propose d'y contribuer autant qu'il est en moi, ne fût-ce que pour remplir les vides, je ne compte pour rien ce que je suis: tout mon espoir est dans la bienveillance et le secours des gens de lettres, et j'ose croire qu'il est fondé. Si quelques-uns des plus estimables n'ont pas dédaigné de confier au _Mercure les amusements de leur loisir, souvent même les fruits d'une étude sérieuse, dans le temps que le succès de ce journal n'était qu'à l'avantage d'un seul homme, quel secours ne dois-je pas attendre du concours des talents intéressés à le soutenir? Le Mercure_ n'est plus un fonds particulier: c'est un domaine public, dont je ne suis que le cultivateur et l'économe. 
+
+
+*** 
+
+
+Le Mercure_, au XVIIIesiècle, ne reflète pas tout son temps. Sa collection n'en reste pas moins, par sa continuité, une source précieuse d'informations. 
+
+
+Le XVIIIesiècle vit encore naître le Journal de Trévoux réservé à des travaux scientifiques, et dans cet ordre des Revues, comme nous dirions aujourd'hui, le Spectateur français de Marivaux, riche de fines observations, le Pour et le Contre, où l'abbé Prévost avait appliqué son idée d'un écrit périodique comme ceux qui existaient à Londres. Ce titre signifiait que le journaliste s'expliquerait sans prendre parti sur rien. Cette feuille dura de1733 à1740. Elle est faite de compilations et de traductions. On est là fort loin de Manon Lescaut! Ce sont parfois d'assez invraisemblables «faits divers», comme l'histoire du trésor d'un navire ayant fait naufrage, trésor qui fut retrouvé d'une façon bien singulière. On avait découvert et sauvé toute la cargaison du navire, sauf la caisse qui contenait de l'or et des diamants. Or, un jour, des pêcheurs de Colchester aperçurent, échoué sur le rivage, un monstrueux poisson. On s'avisa, tandis que l'agitaient de derniers soubresauts, qu'un lien le retenait à un objet lointain ballotté par les flots. On l'acheva et on l'ouvrit, et on reconnut qu'il avait avalé le crochet, «qui avait pénétré jusqu'au fond de ses entrailles», fixé à une corde. On tira sur la corde, et on amena ainsi fort miraculeusement la précieuse caisse. «On croit que le capitaine avait accroché la caisse à sa ceinture, en se jetant à la mer, et que, ayant été dévoré par le poisson, cet animal goulu s'était enferré de lui-même, en avalant jusqu'au crochet.» 
+
+
+Les réflexions sont assez rares. Il en est pourtant ça et là qui ne laissent pas que d'être curieuses: 
+
+
+***** 
+
+
+Il est fort ordinaire d'entendre souhaiter que les bons naturels puissent se rencontrer et s'unir, surtout dans l'état de mariage; mais ce souhait est contraire au bien de la société. Il arriverait de là, par une conséquence nécessaire, que les mauvais caractères s'uniraient ainsi et quels désordres ne verrait-on pas naître d'une oeuvre si pernicieuse? Au lieu que le mélange, tel que la Providence le permet dans toutes les conditions de la vie, sert également aux uns et aux autres, à ceux-ci par les exemples du bien qu'ils devraient suivre, à ceux-là par la vue du mal qu'ils doivent éviter! 
+
+
+*** 
+
+
+Puis ce sont l'Avant. Coureur (1760-1766) et l'Année Littéraire de Fréron, de Fréron si durement «exécuté» par Voltaire, en pleine Comédie française, dans son Écossaise, avec une telle sévérité que le malheureux journaliste porte encore devant la postérité la marque des coups reçus ce soir-là et est demeuré un peu trop calomnié, bien que sa mémoire ne soit pas des plus nettes. (1). 
+
+
+[(1) La Préface que donnait Fréron à son Année littéraire commençait ainsi: «La critique m'apparut dernièrement en songe, environnée d'une foule de poètes, d'orateurs, d'historiens et de romanciers. J'aperçus dans une de ses mains un faisceau de dards, dans l'autre quelques branches de lauriers. Son aspect, loin d'inspirer la crainte, inspirait la confiance aux plus ignorés amants des savantes Soeurs. Ils osaient l'envisager d'un oeil fixe et semblaient défier son courroux. La déesse indignée faisait pleuvoir sur eux une grêle de traits. Quelques écrivains dont la modestie rehaussait les talents obtenaient des couronnes; plusieurs recevaient à la fois des récompenses et des châtiments. Cette vision m'a fourni l'idée de ces lettres où l'éloge et la censure seront également dispensés.»] 
+
+
+Il faut arriver à l'année 1777 pour rencontrer le premier journal quotidien, le , Journal de Paris, fondé sur le modèle des gazettes anglaises. Il est piquant de voir, aujourd'hui, avec quel scepticisme fut accueillie la nouvelle de son apparition. On doutait qu'il pût voir le jour, et le projet paraissait extravagant. 
+
+
+***** 
+
+
+Il est question d'une feuille que l'on veut composer dans cette capitale, à l'instar du London Evening Post, qui paraîtrait tous les jours; elle contiendrait tout ce qui peut intéresser les habitants de cette ville, ainsi que les étrangers, et si le prospectus était rempli, vous n'auriez pas besoin de moi à bien des égards. On ne croit point qu'il soit jamais exécuté, sous le point de vue qu'il présente. Il y a même des gens qui parient que ce journal n'aura point lieu et sera étouffé avant sa naissance. Indépendamment de la difficulté de remplir le projet par des entraves que la police donnera aux rédacteurs, par celles qu'exigeront beaucoup de corps et biens de particuliers de considération, presque tous les autres journaux existants sont intéressés à empêcher l'essor d'un rival qui leur fera tort plus ou moins par son essence, en les gagnant toujours de primauté. Ce qui fait encore plus douter de la réussite du projet, c'est que les entrepreneurs ne sont pas des gens dont les entours ou le mérite personnel soient fort recommandables. Ils paraissent devoir se briser à coup sûr contre les échecs qu'ils éprouveront indispensablement (1). 
+
+
+***** 
+
+
+[(1) L'Espion anglais, tomeIV, p.365-66.] 
+
+
+Il était difficile de se tromper plus lourdement sur l'avenir du journal quotidien! Celui-ci tâtonnait un peu, tout d'abord. Ses fondateurs, Corenée, La Place, Cadet, frère d'un membre de l'Académie des Sciences, et Dussieux, se heurtaient d'ailleurs à des premières difficultés, et si incolore que paraisse aujourd'hui cette feuille, elle connut tôt les rigueurs de la suspension. 
+
+
+Le Journal de politique et de littérature de Linguet, du bouillant et versatile Linguet, avait été créé en 1777. Le privilège en fut retiré deux ans plus tard à son rédacteur et demeura dans les mains du prudent La Harpe. Linguet, cependant, continuait, dans l'exil, son oeuvre de polémiste dans un autre organe, les Annales politiques et littéraires, transportait, après quelques années, son journal à Paris, était enfermé à la Bastille, où il restait deux ans, reprenait une existence aventureuse qui devait se terminer tragiquement. «Il exige, disait un contemporain en parlant de Linguet, qu'on croie que tout le bon sens réside dans sa tête, toute la justice dans son coeur, toute l'honnêteté dans ses procédés et non seulement il le pense ou semble le penser mais il le dit, il le répète, il l'écrit et le dira, le répétera et l'écrira jusqu'à ce que la parole lui manque ou la plume lui tombe des doigts.» 
+
+
+Avec un Journal des spectacles, et un Journal du commerce, telle était la presse, à la veille de la Révolution. Le libraire Panckouke avait fini par réunir presque toutes ces feuilles. 
+
+
+II 
+
+
+Mais cette évocation à grands traits de la presse à ses origines ne serait pas complète si l'on ne parlait pas des nouvellistes et des «gazetiers à la main». Les premiers journaux, dépendant d'un ou plusieurs censeurs, étaient loin de pouvoir tout dire. Disposant d'ailleurs de peu de place, ils ne suffisaient pas à satisfaire la curiosité de ceux qui voulaient tout connaître. C'est dans les gazettes à la main que naquit vraiment l'«information», que naquit aussi 1' «écho», bien français de race. Ces gazettes, généralement clandestines, furent tantôt persécutées, tantôt tolérées, bien que leur existence officielle ne fût pas reconnue. Dans leur première période, elles constituaient un recueil de nouvelles à l'usage d'un cercle prive. Un gazetier était un luxe de grande maison, et ne faisait guère plus figure qu'une sorte de domestique. Puis des offices d'informations se constituèrent ayant leurs abonnés, qui recevaient les feuilles manuscrites régulièrement,... à moins qu'il ne fût arrivé quelque malheur au gazetier, qu'il n'eût été envoyé, par exemple, à la Bastille. Les nouvellistes à la main comptèrent leurs martyrs. L'un des premiers d'entre eux, Nicolas Brunel, fut condamné à mort, et une estampe conservée à la Bibliothèque nationale représente son supplice. D'autres furent enfermés au Mont Saint - Michel, dans une cage de fer. D'autres furent publiquement fouettés, au-dessous d'un écriteau qui portait cette mention: «Gazetier à la main.» D'autres furent envoyés aux galères, d'autres encore furent enrégimentés de force dans les troupes du roi. Les sévérités exceptionnelles de Louis XIV contre ce qu'on appelait les «Nouvellistes d'Etat» n'empêchèrent pas ces interprètes de l'opinion, plus ou moins bien renseignés, d'être nombreux sous son règne, justifiant le mot d'un de ceux qui, par ses ordres, les avaient traqués sans relâche, qu'ils constituaient «un mal sans remède (1)». 
+
+
+[(1) Voir le curieux chapitre sur la répression des nouvellistes à la main dans Figaro et ses devanciers, de M.Funck-Brentano, avec la collaboration de M.Paul d'Estree, le plus récent travail, et le plus riche en informations et en documents, excellemment mis en. oeuvre, sur l'histoire des Nouvellistes.] 
+
+
+Les nouvellistes qui ne s'occupaient que des menues nouvelles de la ville étaient moins exposés aux rigueurs, mais ils couraient d'autres risques, comme le gazetier Montandré, à qui le marquis de Vardes coupa le nez, non parce que ce folliculaire avait parlé de sa soeur, mais parce qu'il n'en avait pas bien parlé. 
+
+
+En dépit de tout, les «gazetins» se multiplièrent: nombre de leurs collections, complètes ou non, ont été conservées. Elles forment une source précieuse de renseignements sur les moeurs et sur les façons de juger et de sentir d'une époque. A côté des journaux, encore si sommaires, elles représentent la presse, vive et légère, touchant à tout, souvent avec verve et avec esprit. Les gazetiers s'affinèrent, d'ailleurs, et la concurrence qu'ils se faisaient les obligeait à plus d'efforts. Il y eut des périodes où le Pouvoir comprit qu'il avait mieux à faire que de poursuivre les nouvellistes à la main: se servir d'eux était plus habile. Des ministres s'avisèrent d'avoir ce qu'on appellerait aujourd'hui leurs agences, qui leur permettaient de tâter l'opinion. Puis une réaction succéda à une demi-liberté toujours fragile, d'ailleurs, mais, de nouveau, elle fut impuissante à déjouer les ruses des nouvellistes qui, bien que Bicêtre les menaçât trouvaient toujours le moyen d'écrire et de répandre leurs feuilles. M.Funck-Brentano, dont les travaux sont définitifs sur cette matière, a retrouvé les prix d'abonnement à ces gazetins; il y en avait qui s'élevaient jusqu'à six cents livres par an. Le prix moyen était de douze livres par mois. Il n'y avait que les nouvellistes de second ordre, pillant leurs confrères, qui livrassent leurs informations pour trois livres par mois: c'étaient les écumeurs de la profession. Tel gazetier bien coté, comme Gaultier ou comme Felmé, ne comptait pas moins de soixante à soixante-dix abonnés. Ces journalistes d'avant le journal ne laissaient pas que de faire volontiers leur propre éloge et de vanter la sûreté de leurs nouvelles, en assurant «qu'ils n'en forgeaient point». En 1742, Rambaud, chef d'une entreprise de nouvelles, désespérait de les faire copier à la main pour ses deux cent quatre-vingts abonnés, chiffre par lequel, ayant fait des progrès sur ses devanciers, il laissait loin derrière lui ses rivaux, et il imaginait de les faire graver. Le graveur fut arrêté au bout de peu de temps. 
+
+
+Les nouvelles à la main forment l'histoire au jour le jour, une histoire qui n'est pas toujours la vérité absolue, mais elles reflètent les émotions, les curiosités, voire les préjugés d'un temps. Elles sont «ce qu'on dit» à côté de ce qui s'écrit officiellement. Elles gardent la trace de ces conversations où était l'âme de Paris, ou qui faisaient l'objet des réunions des nouvellistes-amateurs, au Jardin du Palais Royal, groupés sous le fameux «arbre de Cracovie». On a publié plusieurs de ces recueils, conservés dans des dépôts français ou étrangers, comme les feuilles de Jean Buvat, concernant l'époque de la Régence (1), abondantes en renseignements sur le système de Law ou sur la conspiration de Cellamare comme les Nouvelles de la cour et de la ville de1734 à1738, comme la première Correspondance secrète. 
+
+
+[(1) A la date du 4 de juin1717, on lit dans les nouvelles à la main de Buvat: «On va envoyer à Pierre-Encise le jeune avocat, dont on a saisi les papiers qui contiennent des choses effroyables sur les choses les plus saintes et les personnes les plus respectables. Il y sera sans encre et papier, et pour le reste de ses jours. On a agité si on le chasserait du royaume, mais on a dit que, de là, il écrirait contre tout le genre humain, et que c'était une peste, qu'il fallait le séquestrer de la société civile. » On sait que Voltaire ne subit pas de telles rigueurs, et qu'il se tira du mauvais pas avec onze mois d'emprisonnement à la Bastille. On lui laissa si bien «encre et papier »que c'est pendant ce séjour à la Bastille qu'il écrivit. sa tragédie d'OEdipe. ] 
+
+
+MM.Ravaisson, de Lescure, de Barthélemy, Campardon, se sont particulièrement occupés de ces écrits des nouvellistes. On peut citer, parmi ces fondateurs du «reportage», gens bien informés, mais plus ou moins tarés, Charles de Julie spécialiste des nouvelles mondaines et du théâtre Nicolas Tollot, le chevalier de Mouby, qui eut quelque temps Voltaire pour abonné, -- abonné mécontent, il est vrai. Chevrier, lançant, en 1752, la feuille manuscrite qu'il intitule le Courrier de Paris (1), devient bientôt un enragé pamphlétaire, qui se doit réfugier, pour distiller son venin, à Bruxelles et en Hollande. 
+
+
+[(1) Le Courrier de Paris, traqué par la police, avait imaginé pour la dépister, de commencer la feuille sur le ton d'une lettre adressée à un particulier, selon la qualité et les occupations de l'abonné.] 
+
+
+Mais voici les grands nouvellistes. C'est Bachaumont, «le père des échos de Paris», l'ami de MmeDoublet, cette curieuse physionomie, cette femme avisée, dont l'âge ne parvint pas à éteindre la curiosité, dont le nom est associé à l'histoire du journalisme, -- avant que le journal eût droit de vie. «Son salon, ont dit les Goncourt, était le rendez- vous des échos, le cabinet noir où l'on décachetait les nouvelles. Pêle-mêle y tombait le XVIIIesiècle, heure par heure. un je ne sais quoi sans ordre, une moisson à peine brassée de paroles et de choses. salon envié, confessionnal du XVIIIesiècle, où tant d'esprit s'est confessé.» Ce salon, on le surnommait la «Paroisse», et ses hôtes, les «paroissiens», formaient une manière de très vivante académie. En 1740, Bachaumont, par dilettantisme plus que par intérêt, car ce «philosophe épicurien» était fort à son aise, se plut à réunir, à filtrer, à commenter ces nouvelles qui, de tous les côtés, aboutissaient chez MmeDoublet. (2) 
+
+
+[(2) Voici comment il annonçait ses nouvelles à la main: ce prospectus est un document de l'histoire de la Presse: «Un écrivain connu entreprend de donner, deux fois chaque semaine, une feuille de nouvelles manuscrites. Ce ne sera point un recueil de petits faits secs et peu intéressants, comme les feuilles qui se débitent depuis quelques années. Avec les événements publics que fournit ce qu'on appelle le cours des affaires, on se propose de rapporter toutes las aventures journalières de Paris et des capitales de l'Europe, et d'y joindre quelques réflexions sans malignité, néanmoins sans partialité, dans le seul dessein d'instruire et de plaire, par un récit où la vérité paraîtra toujours avec quelques agrément. Un recueil suivi de ces feuilles formera proprement l'histoire de notre temps. Il sera de l'intérêt de ceux qui les prendront de n'en laisser tirer de copie à personne et d'en ménager même le secret, autant pour ne pas les avilir, en les rendant trop communes, que pour ne pas se faire de querelles avec les arbitres de la librairie. A chaque ordinaire, on portera à ceux qui voudront prendre.» Les Nouvelles a la main devinrent en 1762 les Mémoires secrets. Les Mémoires secrets contenaient une mine si riche d'informations sur le XVIIIesiècle qu'ils furent recueillis et imprimés dès 1788 par Chopin de Versey. Ils ont eu, depuis, comme éditeurs successifs, Merle, Ravenel, Paul Lacroix, etc.] 
+
+
+Avec lui, le nouvelliste prenait une tout autre envergure. Bachaumont, pour malicieux qu'il fût, était un galant homme, estimé, exerçant, au moins théoriquement, une charge, n'ayant pas de besoins d'argent, cultivé, ayant fait ses preuves d'écrivain, de bon connaisseur et de spirituel observateur. Tout ce qui se passait était de son domaine. En traits légers et mordants, il donnait la formule de la chronique rapide. Nouvelles de la cour, de la ville, du théâtre, des lettres, aventures galantes, tout lui était bon, et il tenait la promesse qu'il avait faite de donner a quelques agréments, à ses informations, en y joignant souvent les couplets qui couraient Paris ou les parodies dont le temps était si friand. Bachaumont, qui, s'il n'en avait pas été l'initiateur, avait singulièrement perfectionné le genre, mourut en 1771, et vraiment la plume à la main. Son dernier «écho» était relatif au scandale de la naissance d'un enfant de la duchesse de Durfort, séparée de son mari, scandale pour lequel le chroniqueur était d'ailleurs assez indulgent, ne retenant que la chanson faite à cette occasion. 
+
+
+Les Mémoires secrets furent continués par Pidansat de Mairobert, qui donna un tragique aliment à la chronique par un suicide accompli dans des conditions de singulière détermination, et par Moufle d'Angerville, qui devait continuer la tradition des gazetiers envoyés à la Bastille. 
+
+
+C'est, en même temps, la Correspondance secrète, connue sous le nom de Correspondance secrète de Metra, bien que Metra y ait été probablement étranger. C´était l'homme le mieux informé de Paris. «Que dit le bonhomme Metra?», demandait parfois Louis XVI. Il était, quant à lui, nouvelliste par dilettantisme, mais des gens avisés ne laissaient pas que de recueillir ses nouvelles et d'en tirer profit. 
+
+
+Celui de tous qui fait la figure la plus importante, c'est Grimm. Ses abonnés à lui étaient gens de conséquence: la plupart étaient des souverains (1). 
+
+
+[(1) Grimm se chargea de la Correspondance littéraire en 1753 et la continua jusqu'en 1790. Eu dehors des souverains, aux libéralités desquels il s'en remettait, expert à les provoquer, il avait pour abonnés des particuliers, lui versant trois cents livres par an. C'est par eux que la correspondance se répandait dans Paris. 
+
+
+Sainte-Beuve fait grand cas de Grimm, appréciant particulièrement chez lui le mérite d'exprimer des jugements qui lui appartiennent en propre, précédant les autres. Il conte qu'il avait quelques préventions contre lui, d'abord, et qu'en en cherchant la cause, il trouva qu'elle reposait uniquement sur le témoignage de J.-J.Rousseau dans ses Confessions. Or, ce témoignage est souvent suspect. «Jean-Jacques, toutes les fois que son amour-propre et ses airs de vanité malade sont en jeu, ne se gêne en rien pour mentir.» -- Mmed'Epinay, avec quelque partialité, assurément, a tracé de Grimm ce portrait: «Sa figure est agréable par un mélange de naïveté et de finesse, sa physionomie est intéressante, sa contenance négligée et nonchalante; son âme est ferme, tendre, généreuse et élevée; elle a précisément la dose de fierté qui fait qu'on se respecte sans humilier personne. En parlant mal, personne ne se fait mieux écouter; il me semble qu'en matière de goût, nul n'a le tact plus délicat, plus fin ni plus sûr. Il a un tour de plaisanterie qui lui est propre et ne sied qu'à lui. Il a l'art de présenter à ses amis les plus dures vérités avec autant de ménagements que de force. Personne n'est plus éclairé sur les intérêts des autres ni ne consulte mieux.»] 
+
+
+On sait quel habile homme était ce natif de Ratisbonne, devenu très Parisien, et dont Voltaire disait: «De quoi s'avise ce Bohémien d'avoir plus d'esprit que nous?» Le cadre de cette introduction ne permet pas de parler de son rôle dans la société du XVIIIesiècle. Il ne s'agit ici que du journaliste. Il l'était essentiellement; il était né surtout rédacteur en chef, ayant le flair des collaborateurs utiles, et il eut, en effet, nombre de collaborateurs, dont Mmed'Epinay, engagée avec lui dans une liaison célèbre, Diderot, toujours bouillant d'idées, toujours prêt à témoigner son amitié, à qui il demanda ses fameux «Salons», son secrétaire Meister. La Correspondance littéraire, qu'on imprima en 1812, cinq ans après la mort de Grimm, est devenue un des documents les plus précieux de l'histoire du XVIIIesiècle, par l'indépendance habituelle de ses jugements. N'eût-elle donné que les «Salons» de Diderot, qu'elle mériterait l'estime dans laquelle elle est tenue. Avec son enthousiasme coutumier, Diderot attribuait à ses conversations avec Grimm sa compétence en fait d'art: «Si j'ai quelques notions réfléchies de la peinture et de la sculpture, écrivait-il un jour à Grimm, c'est à vous que je le dois.» Quel journal, au sens moderne du mot, eût fait l'auteur de la Correspondance littéraire, avec son don de bien mettre les hommes à leur place et de deviner les talents! Attaché au duc d'Orléans, introduit dans le monde diplomatique, lié avec les encyclopédistes, habitué des salons de MmeGeoffrin et du baron d'Holbach, il était à la source de tout ce qui était sujet de préoccupations intellectuelles. On disait de lui, en faisant allusion à un léger défaut de constructions de son visage: «Il a le nez tourné, mais toujours du bon côté.» 
+
+
+A côté de ces correspondances (parmi lesquelles on pourrait encore citer celle de La Harpe), il y avait aussi, se rattachant à l'histoire de la presse naissante, les correspondances qui étaient des manières de revues, comme l'Espion anglais, ne s'attachant qu'à un seul objet d'actualité, traité avec abondance, tantôt pamphlets, tantôt commentaires sur un événement. Et dans toutes ces publications qui s'imprimaient généralement en Hollande, ne pouvant prétendre qu'à une curiosité éphémère, c'était déjà le ton du journal et sa vivacité. Le journal était tout armé et n'avait plus à s'improviser au moment où la liberté allait lui donner son essor. 
+
+
+En dépit de périodes de vicissitudes, il allait jouer un rôle de plus en plus important, en représentant une force avec laquelle, en fin de compte, tout doit se mesurer: l'Opinion. 
+
+
+Il devait, dans les heures graves où le salut du pays était en jeu, être, lui aussi, un combattant, -- se contraignît-il à accepter une discipline qui pesait à son fougueux tempérament, -- et, propageant le sentiment du droit, soutenant et stimulant les énergies, exaltant les héroïsmes, flétrissant les crimes et les manoeuvres de l'ennemi, apportant des ressources de clairvoyance et de lucidité dans l'oeuvre de la défense, s'attester, plus que jamais, comme un indispensable élément de la vie nationale. 
+
+
+***** 
+
+
+LA RÉVOLUTION 
+
+
+Avec la Révolution, le journal, qui n'a été jusque-là qu'aux ordres du Pouvoir, devient lui-même une puissance. 1788, dans l'effervescence des esprits, est l'année de la brochure, du pamphlet, du mémoire véhément; 1789 est l'année du journal, conquérant sa liberté, même avant le 14juillet. Dès le mois de juin, ce sont le Journal des Etats généraux, de Mirabeau; le Courrier de Versailles à Paris, de Gorsas; le Point du jour, de Barère; le Patriote français, de Brissot. Puis voici, paraissant presque en même temps, le Journal politique national, auquel collabore Rivarol; le Bulletin de l'Assemblée nationale, de Maret, -- le futur duc de Bassano; -- les Annales patriotiques, de Mercier et Carra; les Révolutions de Paris, de Prudhomme et Loustalot; l'Orateur du Peuple, de Fréron, la Gazette nationale, fondée par l'éclectique Panckoucke; le Journal des Débats et Décrets, dont l'idée appartient à Gaultier du Biauzat (le prix de l'abonnement est de 10livres pour deux mois pour tout le royaume); le Journal de la Société de 1789, dont André Chénier est l'un des rédacteurs; la Chronique de Paris, où Condorcet exprime ses idées; les Révolutions de France et de Brabant, de Camille Desmoulins; le Publiciste parisien, de Marat, qui, à partir du sixième numéro, deviendra l'Ami du Peuple, pour prendre ensuite d'autres titres, etc. Le Journal général de la cour et de la ville, plus connu sous le titre de Petit Gaultier, les spirituels Actes des Apôtres (c'est des apôtres de la Révolution qu'il s'agit), la Gazette de Paris, de Rozoy, puis l'Ami du Roi, de l'abbé Royou, etc., représentent les luttes des royalistes contre les idées qui acquièrent chaque jour plus de hardiesse et plus de force. On ne saurait dénombrer ici ces publications périodiques, dont beaucoup sont éphémères et dont les titres sont souvent singuliers: il faut renvoyer aux travaux bibliographiques de M.Maurice Tourneux. Toutes les opinions, toutes les nuances d'opinions, sont représentées. «Aujourd'hui, dit un contemporain, les journalistes exercent le ministère public: ils dénoncent, décrètent, règlent à l'extraordinaire, absolvent et condamnent. Tous les jours ils montent à la tribune, et il est parmi eux des poitrines de Stentors. Les places pour entendre l'orateur ne coûtent que deux sols. Les journaux pleuvent tous les matins comme la manne du ciel, et cinquante feuilles viennent chaque jour éclairer l'horizon.» C'est un prodigieux mouvement d'idées. La presse a fait état de sa liberté, même avant la séance du 26août 1789 où l'Assemblée nationale la décrète. Cependant, comme les limites de cette liberté ne sont pas encore déterminées, c'est la municipalité de Paris qui agit a contre les imprimés calomnieux propres à produire une fermentation dangereuse». Le 28septembre, Marat est dénoncé au procureur du roi, et ses presses sont saisies. Dans cette période, la question des abus commis par la voie de la presse revient souvent, est résolue, à peu de jours de distance, dans des sens opposés. On révoque les mesures de rigueur, on en rétablit d'autres, qui ne sont pas exécutées. Cependant, en 1790, Camille Desmoulins et Fréron sont poursuivis et déférés au Châtelet. La constitution de 1791 établit les cas où les poursuites peuvent être exercées: les circonstances donnent aux lois peu d'action. 
+
+
+Après le 10août, la plupart des journaux royalistes disparaissaient, à la fois par les mesures prises par le Conseil général de la Commune et en raison du mouvement irrésistible de l'opinion. Cependant, quelques feuilles à tendances monarchiques se substituent à celles qui ont été supprimées ou ont abandonné le combat: le Bulletin de Paris ou Feuille du Matin, l'Avertisseur, le Journal Français, de Nicolle de Ladevèze. Mais la lutte n'est plus, bientôt, qu'entre journaux de la Gironde et journaux de la Montagne. Au Patriote, que dirige Brissot, au Courrier de Gorsas, à la Sentinelle, de Louvet, RU Thermomètre du jour, de Dulaure, aux Annales, de Carra, s'opposent les journaux de Camille Desmoulins, de Marat, de Fréron, d'Hébert. 
+
+
+Puis, après la chute de la Gironde, -- qui, elle même, avait forgé les armes par lesquelles elle devait périr, et, notamment, suscité le décret du 29mars 1793, punissant de mort les écrits «provoquant à la dissolution de la Convention Nationale», -- c'est entre les vainqueurs de la veille que reprend la guerre. Elle se fait avec des moyens terribles, qu'enregistre le Bulletin du Tribunal criminel révolutionnaire.. Les «enragés» et les «indulgents» succomberont tour à tour: après Hébert et son Père Duchesne, Camille Desmoulins et son courageux Vieux Cordelier. Le Comité de salut public a sa presse officieuse, la Feuille du Salut public, que rédige Rousselin (c'est lui qui s'est acharné contre les comédiens-français après l'affaire de Paméla), le Journal universel, d'Audouin, le Journal des Hommes libres, de Vatar, l'Anti-Fédéraliste. Le Moniteur reçoit une souscription, avec cette restriction «que l'abonnement cessera aussitôt que le Moniteur cesserait d'être composé dans le sens de la révolution républicaine». Il y a, en l'anII, le Courrier de l'Egalité, le Républicain universel, la Montagne, etc., puis ce sont les journaux destinés aux armées, la Soirée du camp, à la rédaction de laquelle veille Carnot, le Bulletin général des armées et de la Convention, le Postillon des armées, etc. Mais, encore une fois, il ne peut s'agir ici d'une énumération qui dépasserait le cadre de cette rapide étude d'ensemble sur un sujet qui prêterait à tant de développements. 
+
+
+Du moins peut-on évoquer, si sommairement que ce soit, quelques figures caractéristiques, dans les divers camps, à côté de celles dont le rôle historique est le plus connu. C'est, dans la première période de la Révolution, l'enthousiaste et généreux Elisée Loustalot, dont il sera question plus loin; c'est le pittoresque «Cousin Jacques» (Abel Beffroy de Reigny), qui salue avec des transports de belle humeur l'aurore de la Révolution dans les Lunes, «journal comme on n'en a jamais fait», où il se pique de donner des leçons de gaieté. Les Lunes se transforment en Courrier des Planètes, où le «Cousin Jacques» vaticine avec la même candeur. 
+
+
+C'est, plus tard, le journaliste royaliste Durozoy, le fondateur de la Gazette de Paris, le premier publiciste payant alors de sa vie ses convictions. Traduit en jugement quelques jours après le 10août, non pour ses écrits, à la vérité, mais pour ses actes, inculpé de participation à un complot, Durozoy mourait avec une intrépidité dédaigneuse; c'est l'impétueux, téméraire brouillon, compromettant Suleau, rédigeant une feuille intitulée le Journal de M.Suleau, capable de toutes les impertinences, de toutes les fanfaronnades, de toutes les absurdités, revenu un peu de son royalisme perdu en raison de l'ingratitude de ceux qu'il a défendus, mais conspirant encore par habitude et essayant, à la veille de l'écroulement de la monarchie, de provoquer un soulèvement: dans un tableau de sa Théroigne de Méricourt, M.Paul Hervieu a porté à la scène sa mort tragique aux Tuileries. C'est Gorsas, résolument patriote d'abord, et objet de toutes les railleries des journaux royalistes pour avoir dit, dans son Courrier des Départements, au moment de la fuite de Mesdames, tantes du roi, parties avec des fonds relativement considérables, que tout ce qu'elles possédaient était à la nation, et que rien ne leur appartenait, «pas même leurs chemises». Député à la Convention, il combattit violemment la Montagne, fut proscrit avec les Girondins, chercha à provoquer la résistance en Normandie; des raisons sentimentales le ramenèrent à Paris où il fut arrêté et envoyé à l'échafaud. C'est un autre journaliste girondin, Girey Dupré, le collaborateur dévoué de Brissot au Patriote, arrêté le 21novembre 1793, il se présente ironiquement devant le tribunal révolutionnaire, ayant déjà fait sa toilette de condamné à mort, les cheveux coupés, le col de la chemise échancré. Dans ses réponses, il se pique d'aphorismes à l'antique; dans la charrette qui le mène à la guillotine, il entonne le chant dont Alexandre Dumas devait utiliser le refrain: 
+
+
+Mourons pour la patrie, C'est le sort le plus beau, le plus digne d'envie. 
+
+
+Plus tard encore, c'est ce pauvre diable de Marcandier, vengeur des Girondins, qui imprime lui. même dans un grenier les onze numéros de son Véritable Ami du peuple, dans le style du Père Duchesne, mais dans un sens tout contraire. Sa femme, exaltée comme lui, va, la nuit, afficher au distribuer ces pamphlets. 
+
+
+Après la mort de Robespierre, la réaction thermidorienne fait naître une foule de feuilles anti-jacobines, piétinant le parti écrasé, rédigées avec la dernière violence, prodiguant les insultes aux morts. Les feuilles satiriques haineuses pullulent: l'ombre du vaincu du 9 thermidor fait encore peur. Fréron, l'ancien terroriste, qui a changé le titre de son Orateur du Peuple en celui d'Ami du Peuple, se trouve à la tête de cette réaction. Le fougueux Martainville, qui se livrera à tant de palinodies, est le bouffon enragé du parti contre-révolutionnaire. Dans l'Accusateur public, Richer-Serizy attaque éperdument, avec une verve furieuse, tous les hommes de la Révolution. Des journaux royalistes apparaissent: les Nouvelles politiques, la Quotidienne, où Suard, qui a refusé asile à Condorcet, son ami, se montre brave, à présent qu'il n'y a plus de danger. Le Petit Gautier reprend sa mordante publication, imité par la Petite Poste. Le Directoire est criblé de railleries. Hoffmann, qui sera l'un des rédacteurs du Journal des Débats, fonde le Menteur, «journal par excellence» qui, en affectant de les louer, tourne en dérision les actes du gouvernement. Le Thé, de Bertin d'Antilly, apporte sa note narquoise. Les journaux-pamphlets se multiplient; le jury, d'ailleurs, acquitte les journalistes qui lui sont déférés. Les journaux républicains, le Défenseur de la Patrie, le Télégraphe, le Journal universel, le Courrier de Paris, le Rédacteur, sont submergés par le flot des feuilles d'opposition. Les opinions moyennes ont pour organes le Journal de Paris, le Journal de Perlet (qui n'est pas encore le policier Perlet), le Journal du soir; la Décade philosophique, politique et littéraire se tient en équilibre au milieu des partis; le Journal des Débats et Décrets se borne encore au rôle d'enregistreur des délibérations des Conseils; le Moniteur, qui a toujours été de l'opinion du Pouvoir, garde ses habitudes; Gracchus Babeuf, dans le Tribun du Peuple (voir plus loin), expose avec véhémence ses théories sociales. Une figure singulière, entre autres, dans cette presse du Directoire: Poultier, rédacteur de l'Ami des Lois_, membre du Conseil des Cinq-Cents, qui, jadis, a été successivement bénédictin, militaire, chanteur à l'Opéra. 
+
+
+Mais le coup d'Etat du 18 fructidor anV impose silence, par des mesures rigoureuses, à la violence des journaux, implique leurs rédacteurs dans une conspiration contre la sûreté de la République. Ces mesures ne désarment pas entièrement la presse, cependant. Malgré les scellés mis sur leurs presses, les frères Bertin, notamment, continuent, par un artifice ingénieux, à faire paraître leur journal, l'Eclair. Deux ans plus tard, c'est la proscription, c'est la déportation à l'île d'Oléron des journalistes qui «pervertissent l'opinion». 
+
+
+En dix années, par quelles phases diverses a passé la presse! 
+
+
+***** 
+
+
+MIRABEAU 
+
+
+(1749-1791) 
+
+
+Mirabeau fut le premier député-journaliste. Bien que, dans sa vie si agitée, il soit impossible d'isoler, en quelque sorte, un des aspects de cette orageuse physionomie, il ne saurait être question ici que de l'action de Mirabeau dans la presse. -- En 1787, il avait proposé au ministre des affaires étrangères, M.de Montmorin, de créer un journal «qui serait une analyse fidèle, mais décente, nerveuse, mais adroite, des papiers- nouvelles anglais». Cette feuille parut de 1787 à novembre1789. Enlevant d'assaut la liberté de la presse, Mirabeau fondait en mai le Journal des Etats généraux, dont un arrêt du conseil interdisait bientôt la circulation. Il éludait cette défense en appelant ce journal Lettres de Mirabeau à ses commettants. Sous cette forme, cette publication se poursuivit jusqu'au 6juillet 1789, où elle prit le nom de Courrier de Provence paraissant trois fois par semaine. 
+
+
+Mirabeau eut comme collaborateurs au Courrier de Provence Dumont, Duroveray, l'un et l'autre de Genève, qui prirent part, plus d'une fois, à la préparation de ses discours (Dumont a écrit des souvenirs sur Mirabeau), puis Mejan, Chamfort Reybaz. 
+
+
+En février1790, Mirabeau abandonna la direction du Courrier de Provence qui était, selon l'expression d'Edmond Rousse, «le journal et la chronique de lui-même», à Clavière, le futur ministre des finances de 1792. Celui-ci devait, l'année suivante, après son arrestation, se tuer dans sa prison. 
+
+
+Mirabeau avait pressenti la puissance du journal: il l'éprouva, et l'épigraphe qu'il avait donnée au sien, Novus rerum nascitur ordo, était vraiment prophétique. 
+
+
+Dans le premier numéro du Journal des Etats généraux, il s'était élevé contre l'étiquette surannée qui avait présidé à la réunion des Etats, contre la distinction des costumes imposés aux trois ordres. Dans la première Lettre aux commettants, il protestait énergiquement contre la mesure qui avait atteint son journal. Le ton de cette protestation est violent. C'était, cependant, le moment où il écrivait ailleurs: «Le meilleur moyen de faire avorter la révolution est de trop demander. Il est certain que la nation n'est pas mûre. La Révolution a dépassé notre aptitude et notre instruction; je me conduis en conséquence.» 
+
+
+***** 
+
+
+LA LIBERTÉ DELA PRESSE 
+
+
+Il est donc vrai que, loin d'affranchir la nation, on ne cherche qu'à river ses fers! que c'est en face de la nation assemblée qu'on ose produire ces décrets auliques où l'on attente à ses droits les plus sacrés et que, joignant l'insulte à la dérision, on a l'incroyable impéritie de lui faire envisager cet acte de despotisme et d'iniquité comme un provisoire utile à ses intérêts. Il est heureux qu'on ne puisse imputer au monarque ces prescriptions que les circonstances rendent encore plus criminelles. Personne n'ignore aujourd'hui que les arrêts du conseil sont des faux éternels, où les ministres se permettent d'apposer le nom du roi: on ne prend même pas la peine de déguiser cette étrange malversation, tant il est vrai que nous en sommes au point où les formes les plus despotiques marchent aussi rondement qu'une administration légale! 
+
+
+Vingt-cinq millions de voix réclament la liberté de la presse; la nation et le roi demandent unanimement le concours de toutes les lumières. Eh bien! c'est alors qu'on nous présente un veto ministériel; c'est alors qu'après nous avoir leurrés d'une tolérance illusoire et perfide, un ministère soi-disant populaire ose effrontément mettre le scellé sur nos pensées, privilégier le trafic du mensonge et traiter comme un objet de contrebande l'indispensable exportation de la vérité! 
+
+
+Quels sont les papiers publics que l'on autorise? Tous ceux avec lesquels on se flatte d'égarer l'opinion: coupables lorsqu'ils parlent, plus coupables lorsqu'ils se taisent, on sait que tout en eux est l'effet de la complaisance la plus servile et la plus criminelle. S'il était nécessaire de citer des faits, je ne serais embarrassé que du choix. 
+
+
+J'ai regardé, messieurs, comme le devoir essentiel de l'honorable mission dont vous m'avez chargé celui de vous prémunir contre ces coupables manoeuvres: on doit voir que leur règne est fini, qu'il est temps de prendre une autre allure; ou, s'il est vrai que l'on n'ait assemblé la nation que pour consommer avec plus de facilité le crime de sa mort politique et morale, que ce ne soit pas, du moins en affectant de vouloir le régénérer! que la tyrannie se montre avec franchise, et nous verrons alors si nous devons nous raidir ou nous envelopper la tête! 
+
+
+( Lettres du comte de Mirabeau à ses commettants, 10mai 1789.) 
+
+
+*** 
+
+
+Par contre, les appréciations qui suivent la séance du 23juin 1789, où Mirabeau prononça les paroles auxquelles la légende a donné cette forme définitive: «Allez dire à ceux qui vous envoient que nous sommes ici par la volonté nationale, et que nous n'en sortirons que par la puissance des baïonnettes,» ces appréciations sont d'un ton mesuré et réfléchi: 
+
+
+***** 
+
+
+La journée du 23juin a fait sur ce peuple inquiet et malheureux une impression dont je crains les suites. Où les représentants de la Nation n'ont vu qu'une erreur de l'autorité, le peuple a cru voir un dessein formel d'attaquer leurs droits et leurs pouvoirs. Il n'a pas encore eu l'occasion de connaître toute la fermeté de ses mandataires Sa confiance en eux n'a point encore des racines assez profondes. Qui ne sait, d'ailleurs, comment les alarmes se propagent, comment la vérité même, dénaturée par les craintes exagérées, par les échos d'une grande ville, empoisonnée par suite des passions, peut occasionner une fermentation violente qui, dans les circonstances actuelles et la crise de la misère publique, serait une calamité ajoutée à une calamité! Le mouvement de Versailles et bientôt le mouvement de Paris, l'agitation de la capitale, se communique aux provinces voisines, et chaque commotion, s'étendant à un cercle plus vaste de proche en proche, produit enfin une agitation universelle. Telle est l'image faible, mais vraie, des mouvements populaires, et je n'ai pas besoin de prouver que les derniers événements, dénaturés par la crainte, interprétés par la défiance, accompagnés de toutes les rumeurs publiques, risquent d'égarer l'imagination du peuple déjà préparée aux impressions sinistres par une situation vraiment détestable. 
+
+
+Quand on se rappelle les désastres occasionnés dans la capitale par une cause infiniment disproportionnée à ses suites cruelles, tant de scènes où le sang des citoyens a coulé par le fer des soldats et le glaive des bourreaux, on sent la nécessité de prévenir de nouveaux excès de frénésie et de vengeance, car les agitations, les tumultes, les excès, ne servent que les ennemis de la liberté. Je considère tous les bons effets d'une marche ferme, sage et tranquille: c'est par elle seule qu'on peut se rendre les événements favorables, qu'on profite des fautes de ses adversaires pour le triomphe du bon droit; au lieu que, jetés peut-être hors de mesures sages, les représentants de la nation ne seraient plus les maîtres de leurs mouvements; ils verraient d'un jour à l'autre les progrès d'un mal qu'ils ne pourraient plus arrêter, et ils seraient réduits au plus grand des malheurs, celui de n'avoir plus que le choix des fautes. 
+
+
+Les délégués de la nation ont pour eux la souveraine des événements: la nécessité, qui les pousse au but salutaire qu'ils se sont proposé; elle soumettra tout par sa propre force, mais sa force est dans sa raison. Rien ne lui est plus étranger que les tumultes., les cris du désordre, les agitations sans objet et sans règle. La raison veut vaincre par ses propres armes; tous ces auxiliaires séditieux sont ses plus grands ennemis. A qui, dans ce moment, convient-il mieux qu'aux députés de France d'éclairer, de calmer, de sauver le peuple des excès que pourrait produire l'ivresse d'un zèle furieux? 
+
+
+( Quatorzième lettre de Mirabeau à ses commettants.) 
+
+
+***** 
+
+
+ÉLYSÉE LOUSTALOT 
+
+
+(1761-1790) 
+
+
+C'est l'aurore de la Révolution qui s'évoque avec ce jeune homme ardent, probe, désintéressé, mort à vingt-neuf ans, que Manuel appelait l' «Evangéliste» et qui fut, en effet, un de ceux qui défendirent avec le plus d'enthousiasme les idées nouvelles. Il fut le rédacteur principal des Révolutions de Paris, le journal que fit paraître Prudhommc trois jours après la prise de la Bastille, et qui fut, pendant la première période de sa publication, la feuille la plus répandue et la plus lue. L'existence de Loustalot fut courte, mais les deux dernières années de sa vie furent singulièrement remplies. La brusque disparition de ce vaillant combattant de la presse, dont les clubs des Jacobins et des Cordeliers portèrent le deuil pendant trois jours, donna naissance à la légende d'un empoisonnement, aujourd'hui controversée. Avec Loustalot, c'est le temps de toutes les généreuses illusions. C'est ainsi que dans le No XXIV des Révolutions il se déclarait le partisan de la suppression de la peine de mort. 
+
+
+***** 
+
+
+CONTRE LA PEINE DE MORT 
+
+
+... Quoi donc! tous les jugements à mort qui ont été rendus ne sont que des assassinats judiciaires? Précisément, et de plus, ils ne sont excusés ni par la nécessité ni par l'utilité. 
+
+
+La peine de mort est nécessaire, dit-on, pour empêcher le malfaiteur de récidiver. Eh! garrottez-le, faites-en un esclave de peine, rendez-le bon à quelque chose! Quoi! vingt- quatre millions de citoyens n'ont pas une assez grande force publique pour mettre quelques centaines de malfaiteurs hors d'état de récidiver! Comment fait l'impératrice de Russie, comment fait Joseph lui-même, ce Joseph dont le nom n'est prononcé dans ce moment qu'avec horreur? Il a aboli la peine de mort. Ah! que de travaux publics qui écrasent, qui avilissent le citoyen, et auxquels on ne devrait employer que les malfaiteurs! 
+
+
+Leur mort est utile, parfois, pour effrayer les méchants et les contenir dans la terreur? Quiconque a vu une exécution et est entré dans un bagne sent bien le vide de cette objection et toute la justesse de cette idée de Beccaria: «Le frein le plus propre à arrêter les crimes n'est pas tant le spectacle terrible et momentané de la mort d'un scélérat que le spectacle continuel d'un homme privé de sa liberté, transformé, en quelque sorte, en bête de somme et restituant à la société par un travail pénible le dommage qu'il lui a fait.» 
+
+
+Dans notre affreuse pratique, la peine de mort ne punissait vraiment pas le criminel; elle le retranchait seulement du nombre des vivants. Il n'apprenait jamais son jugement qu'une heure avant l'exécution. Il était alors livré aux exhortations d'un prêtre, et quelques minutes de souffrance lui enlevaient bientôt la faculté de réfléchir sur l'énormité de son crime. Je parle du plus ordinaire des supplices, car je ne veux pas savoir, pour l'honneur de la France, qu'elle en emploie quelques-uns où l'art de prolonger la vie et les douleurs s'exerce par une atroce habileté, digne des plus cruels cannibales. 
+
+
+Si la peine de mort n'est ni utile pour effrayer les méchants, ni nécessaire pour mettre le coupable hors d'état de récidiver, si la servitude de peine remplit parfaitement, au contraire, l'un et l'autre objet, la nation française s'avancera sans doute jusqu'aux rangs des nations humaines en abolissant ce supplice. La Déclaration des Droits dit: «La loi ne doit établir que des peines strictement et évidemment nécessaires. »Or, il est évident que la peine de mort n'est pas nécessaire et que, dans un gouvernement qui a de grandes forces, de vastes moyens, c'est une lâcheté de la part de ceux qui gouvernent que d'y avoir recours. 
+
+
+Il y a une considération contre la peine de mort, dont je suis étonné que l'on n'ait pas été frappé. La vie n'est pas un bienfait de la société, mais de la nature. On dit que la société nous la conserve: c'est une supposition toute gratuite, car qui peut savoir si, dans l'ordre naturel, ma vie eût été attaquée, si je ne l'eusse pas défendue et si je n'eusse pas été le plus fort? La vie n'est donc, sous aucun point de vue, un bienfait de la société. Or, peut- elle ôter par une peine plus qu'elle n'a donné, et tout son pouvoir ne doit-il pas se borner à priver celui qui enfreint le pacte social des avantages qui en résultent? La privation absolue de la liberté est donc le dernier terme du pouvoir souverain en matière pénale. 
+
+
+Il est injuste, d'ailleurs, d'employer comme peine un moyen que la société ne peut faire cesser, en cas d'erreur, lorsqu'une fois elle l'a mis en usage. La société n'étant composée que d'hommes, les hommes étant tous sujets à l'erreur, il peut arriver, par mille causes différentes, que l'homme le plus innocent paraisse le plus évidemment coupable; et lorsque l'erreur ou la méchanceté des témoins ou des juges lui a fait perdre la vie, toutes les nations s'assembleraient vainement pour la lui rendre. Si la société n'eût pas employé des peines hors de sa portée, Calas vivrait encore; et, ne lui resta-t-il qu'une heure à vivre, le plaisir d'être reconnu innocent, la joie de revoir sa famille, les bénédictions de tout un peuple, lui feraient oublier une injuste servitude et de longues souffrances. 
+
+
+( Les Révolutions de Paris, du 19 au 26 déc. 1789.) 
+
+
+***** 
+
+
+CONDORCET (1743-1794) 
+
+
+On sait le portrait tracé par Mllede Lespinasse du «cher et bon Condorcet», comme elle disait. Elle louait en lui «cette simplicité parfaite qui ne paraît jamais soupçonner l'étonnement quo causent l'étendue et la supériorité de son esprit ce calme de l'homme pour tout ce qui n'intéresse que lui, tandis qu'il est tout mouvement, tout activité, dès que le malheur ou l'amitié réclament son secours, cet amour vrai de l'humanité qui le dispose à y sacrifier ses facultés et même sa gloire; son indifférence pour toute injustice personnelle, tandis qu'à la moindre injustice, il montre une énergie que la douceur naturelle de son caractère ne ferait pas supposer...» Longtemps avant la Révolution, il avait annoncé, montré enseigné tout ce qu'avait à faire la France nouvelle pour sa régénération, et il avait déjà livré de grandes batailles d'idées. Nul n'avait été, plus que lui, pénétré de l'esprit de réforme: dans ses écrits philosophiques il avait d'avance établi la Déclaration des droits de l'homme. Secrétaire perpétuel de l'Académie des sciences, membre de l'Académie française, célèbre comme mathématicien et comme penseur, c'était un rare journaliste que celui qui allait user de la puissance d'expansion de la presse. Journaliste, il devait l'être d'une manière assidue, régulière. Après avoir pris part à la rédaction du Journal de la société de 1789, après avoir donné nombre de pages à la Bouche de fer, fut un des fondateurs du journal qui dès le mois de juin1792, prenait ce titre: le Républicain. Puis, au Journal de Paris, il faisait le compte rendu des séances de l'Assemblée nationale, mais ses idées étaient plus avancées que celles de cette feuille, et il passait à la Chronique de Paris, où, jusqu'en mars1793, il écrivit un article quotidien. A côté de ses polémiques souvent véhémentes, il développait plus longuement ses théories et ses doctrines dans la Revue du mois et le Journal d'Instruction sociale. Condorcet peut être considéré comme un précurseur de la cause des droits politiques des femmes; ce fut, dans ses études sociales, une des idées sur lesquelles il revint souvent. -- Député à la Convention, Condorcet vota, dans le procès du roi, «pour la peine la plus grave qui ne fût pas celle de mort» Pendant la lutte de la Gironde et de la Montagne, il avait essayé l'oeuvre impossible de concilier les deux partis. Il était donc en dehors de la conspiration girondine. Ce qui le perdit, ce fut la publication de sa brochure A tous les Français, où, épousant, après la mort des vaincus, leur cause perdue, il s'élevait contre la Convention, opposait à la nouvelle constitution le projet dont il avait été le rapporteur, réclamait la réunion d'une nouvelle assemblée. Des attaques injustes, où ne se retrouvait plus sa hauteur de vues habituelles, étaient mêlées à ses critiques. C'était se livrer de lui-même aux représailles. Décrété d'accusation le 8juillet 1793, il se mit, après avoir répondu par une lettre hautaine, qui avait le ton d'un défi, à l'abri des poursuites. Dans Condorcet, sa vie, son oeuvre le docteur Robinet a conté minutieusement les émouvantes péripéties du séjour du proscrit chez la femme courageuse qui lui avait donné l'hospitalité, MmeVernet, rue Servandoni, de la fuite du conventionnel condamné, ne voulant pas exposer plus longtemps sa généreuse hôtesse au danger qu'elle avait accepté, de sa stoïque mort volontaire dans la prison de Bourg-la-Reine, devenu Bourg-Egalité. 
+
+
+«Je déplairai aux partis,» avait dit prophétiquement Condorcet dans un article où il faisait une profession de foi philosophique et politique. 
+
+
+***** 
+
+
+MES PRINCIPES 
+
+
+Puisque vous croyez pouvoir accorder quelquefois à mes réflexions une place dans vos feuilles, j'ai pensé qu'un tableau simple de mes principes les mettrait plus à portée d'apprécier mes opinions particulières. 
+
+
+Je crois l'espèce humaine indéfiniment perfectible, et qu'ainsi elle doit faire vers la paix, la liberté et l'égalité, c'est-à-dire vers le bonheur et la vertu, des progrès dont il est impossible de fixer le terme. 
+
+
+Je crois aussi que ces progrès doivent être l'ouvrage de la raison, fortifiée par la méditation, appuyée par l'expérience. 
+
+
+D'après mes principes, ma philosophie doit être froide et patiente. 
+
+
+Je dois être beaucoup moins effrayé des bruits de conspiration que des mauvais systèmes qui peuvent retarder plus longtemps le progrès des lumières. 
+
+
+Je dois être plus ennemi des fausses opinions, lorsqu'elles sont nouvelles, lorsqu'elles flattent l'esprit du moment, que des vieux préjugés, dont la ruine est infaillible et qui n'épouvantent plus que par la masse de leurs débris. 
+
+
+Comme, suivant cette manière de voir le droit et la justice doivent être les seuls principes de toute opération politique, je paraîtrai tantôt porter à l'excès l'amour de l'égalité et aspirer à une perfection chimérique, et tantôt je ne serai qu'un citoyen tiède et presque protecteur des abus. 
+
+
+Je ne dirai pas «tout est bien» mais «tout sera bien» et, par là, je déplairai aux deux partis. 
+
+
+Les préjugés ont reçu, depuis un an, de si violentes secousses que, pour faire de grands progrès vers le bien, il suffit de laisser à la raison humaine, un peu trop agitée, le temps de reprendre quelque calme. 
+
+
+Tous nos maux actuels disparaîtraient bientôt devant elle, et, alors, dans tous les partis (s'il en reste encore quelques traces), tous diront que les désordres de la Fronde ont été bien plus cruels et n'ont valu à la France que cent ans de despotisme. 
+
+
+( La Bouche de fer, 1790.) 
+
+
+***** 
+
+
+RIVAROL 
+
+
+Un dilettantisme aristocratique caractérise d'abord Rivarol. Dans le Journal politique national il philosophe plus qu'il ne polémique, et, avant de se décider tout à fait pour la cause royaliste, il a louvoyé quelque temps. Une fois son parti pris, il n'épargne guère plus, d'ailleurs, ses amis que ses ennemis: «Lorsqu'on veut empêcher une révolution, écrit-il, il faut la vouloir et la faire soigner: elle était trop nécessaire en France pour ne pas être inévitable.» Lui qui a tant d'esprit, il garde, même en défendant les idées monarchiques une hautaine indépendance -- fût-ce à l'égard de ses lecteurs: «Quelques- uns de ces lecteurs se sont plaints du style de nos résumés; ils prétendent que cette manière d'écrire donne trop à penser, et qu'il n'existe point de journal où l'on ait si peu d'égards pour eux. Nous les avertissons que nous ferons rarement le sacrifice de notre manière. D'ailleurs, si nous descendions toujours, pour leur épargner la peine de monter, nous laisserions la bonne compagnie qui nous suit depuis lontemps, et qui est plus aisée à vivre qu'on ne pense, puisqu'elle n'exige pas qu'on sépare les égards qui lui sont dus de ceux qu'on doit à la langue, au goût, au véritable ton et à la majesté de l'histoire.» Il se définit ainsi lui-même parfaitement: il pense être toujours dans les salons, où il était un merveilleux causeur, disant des choses sérieuses avec une grâce frivole, élevant les choses frivoles jusqu'à en dégager de la pensée, ayant sur tout des opinions originales «salué à la ronde à chaque coup de griffe», incisif au point de se moquer de lui aussi, après son mariage malheureux avec une aventurière qu'il avait faite aussi facilement grande dame qu'il s'était créé lui-même grand seigneur, en dépit de son humble origine: «Je m'étais avisé de médire de l'amour: il m'a envoyé l'hymen pour se venger.» 
+
+
+Le journaliste, en Rivarol, sera le mieux représenté par les traits et par les maximes parfois contradictoires où se retrouve «le grand maître de la causerie». 
+
+
+***** 
+
+
+-- Le peuple donne sa faveur, jamais sa confiance. 
+
+
+-- Les droits sont des propriétés appuyées sur la puissance: si la puissance tombe, les droits tombent aussi. 
+
+
+- Le génie, en politique, consiste, non à créer, mais à conserver; non à changer, mais à fixer. Ce n'est pas la meilleure loi, mais la plus fixe, qui est la bonne. 
+
+
+-- Il en est de la personne des rois comme des statues des dieux: les premiers coups portent sur le dieu même; les derniers ne tombent plus que sur un marbre défiguré. 
+
+
+-- L'imprimerie est l'artillerie de la pensée. 
+
+
+-- Voltaire a dit: «Plus les hommes seront éclairés, et plus ils seront libres.» Ses successeurs ont dit au peuple que plus ils seront libres, plus ils seront éclairés, ce qui a tout perdu. 
+
+
+-- Malheur à ceux qui remuent le fond d'une nation. 
+
+
+-- La philosophie étant le fruit d'une longue méditation et le résultat de la vie entière, ne peut, ne doit jamais être présentée au peuple, qui est toujours au début de la Vie. 
+
+
+-- Quand Neptune veut calmer les tempêtes, ce n'est pas aux flots, mais aux vents qu'il s'adresse. 
+
+
+-- Les vices de tous ont commencé la Révolution; les vices du peuple l'achèveront. 
+
+
+-- Il faut attaquer l'opinion avec les armes de la raison: on ne tire pas des coups de fusil aux idées. 
+
+
+-- La religion unit les hommes dans les mêmes dogmes, la politique les unit dans les mêmes principes, et la philosophie les resserre dans les lois; c'est le dissolvant de la société. 
+
+
+-- Les souverains ne doivent jamais oublier que les écrivains peuvent recruter parmi les soldats, et qu'un général ne peut recruter parmi les lecteurs. 
+
+
+-- Le peuple est un souverain qui ne demande qu'à manger: Sa Majesté est tranquille quand elle digère. 
+
+
+-- Les nobles d'aujourd'hui ne sont plus que les mânes de leurs ancêtres 
+
+
+-- La populace de Paris et celle des autres villes du royaume ont encore bien des crimes à commettre avant d'égaler les sottises de la cour et des grands. 
+
+
+-- Il n'est point de siècles de lumière pour la populace. La populace est, toujours et en tout pays, la même: toujours cannibale, toujours anthropophage. 
+
+
+-- L'amitié entre le monarque et le sujet doit toujours trembler, comme cette nymphe de la Fable, que Jupiter ne s'oublie un jour, et ne lui apparaisse environné de foudres et d'éclairs. 
+
+
+-- Le crédit est la seule aumône qu'on puisse faire à un homme d'Etat 
+
+
+-- La postérité aura peine à croire tout ce qu'a fait le gouvernement et tout ce qu'il n'a pas fait. Il y a eu comme un concert de bêtises dans le conseil 
+
+
+-- Quand les peuples cessent d'estimer, ils cessent d'obéir. 
+
+
+-- Règle générale: les nations que les rois assemblent et consultent commencent par des voeux et finissent par des volontés. 
+
+
+-- Quand M.de Calonne assembla les Notables il découvrit aux yeux du peuple ce qu'il ne faut jamais leur révéler: le défaut de lumières plus encore que le défaut d'argent. 
+
+
+-- Les maximes actuelles ne tendent qu'à détruire. Elles ont déjà ruiné les riches sans enrichir les pauvres, et, au lieu de l'égalité des biens, nous n'avons encore que l'égalité des misères et des maux. 
+
+
+-- Ceux qui exécutent une révolution et ceux mêmes qui en sont les simples témoins voudraient qu'on partageât leur effervescence et qu'on justifiât des excès; mais nous avons cru devoir écrire ce qui se passe sous nos yeux comme voudra le lire la génération suivante. 
+
+
+-- Dans les rois, la bonté ne convient qu'à la puissance. Un roi honnête homme et qui n'est que cela est un pauvre homme de roi. 
+
+
+*** 
+
+
+LES ACTES DES APOTRES 
+
+
+*** 
+
+
+Mais, selon l'expression de Rivarol lui-même, «tous les grands coups ont été frappés». La Révolution ne peut plus être endiguée. Alors, Rivarol abandonne le ton philosophique qu'il a gardé dans le Journal politique national. La Révolution, il la combat avec d'autres armes avec des flèches acérées -- et souvent empoisonnées -- par la raillerie, en cherchant à la ridiculiser. Et il est au premier rang des tirailleurs des -Actes de, Apôtres-. «Les Actes de, Apôtres, a dit M.de Lescure, l'historien de Rivarol, c'est la Révolution mise en vaudeville, la réaction en ponts-neufs. C'est l'entreprise insensée, courageuse, frivole, puissante, banale, originale, insolente, stérile, de gens prêts à tout sacrifier à un bon mot. C'est une Fronde contre-révolutionnaire, une carnavalade politique. C'est la parade de l'échafaud, jouée par des suspects en belle humeur; c'est un pique-nique de médisances, une débauche de satire, une orgie de personnalités. C'est Tacite avec des grelots, Montesquieu avec une marotte ou de Maistre brouillé avec du Beaumarchais, du Voltaire mâtiné de Vadé. C'est la politique à coups de poing, la philosophie à coups de sifflet. C'est une carmagnole de sans-culottes à talon rouge, un club d'aristocrate grasseyant la langue des faubourgs.» Rivarol se rencontre là avec Champcemetz, «son clair de lune», Peltier, Montlosier, Suleau, qui expiera, massacré, sur la terrasse des Feuillants, ses attaques contre Théroigne de Méricourt, Langnon, Mirabeau cadet, etc. D'ailleurs, Rivarol se décide à émigrer et à quitter Paris le 10juin 1792. 
+
+
+Ce que fut cette guerre de plume des Actes des Apôtres (1789-1791), par les «mousquetaires de la contre-révolution», on ne peut ici en donner qu'une idée sommaire par quelques citations de ces «échos» mordants. Ce sont des parodies comme celle du songe d'Athalie: 
+
+
+Oui, je viens dans un temple adorer Mirabeau. 
+
+
+de prétendues copies d'actes officiels, ou d'imaginaires comptes rendus des séanc

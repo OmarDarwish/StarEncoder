@@ -1,0 +1,431 @@
+ifndef lint
+static char rcsid 
+    id fieldscv    geoff exp 
+endif
+
+
+  log fieldscv 
+  revision       geoff
+  get rid of all references to system v string routines for portability
+  sigh
+ 
+  revision       geoff
+  add the maxf parameter
+ 
+  revision       geoff
+  make the increments settable fieldlineinc and fieldfieldinc
+  add support for the fldnoshrink flag
+ 
+  revision       geoff
+  fix some lint complaints and some parenthesization errors
+ 
+  revision       geoff
+  add a return value to fieldwrite  add support for backquotes and for
+  unstripped backslashes
+ 
+  revision       geoff
+  fix a stupid nullpointer bug
+ 
+  revision       geoff
+  initial revision
+ 
+ 
+
+include stdioh
+include configh
+include fieldsh
+
+fieldt fieldread p file  file char  delims
+  int flags int maxf
+ read a line with fields from a file 
+fieldt fieldmake p char  line int allocated char  delims
+  int flags int maxf
+ make a field structure from a line 
+static fieldt  fieldparse p fieldt  fieldp char  line char  delims
+  int flags int maxf
+ parse the fields in a line 
+static intfieldbackch p char  str char  out int strip
+ process backslash sequences 
+intfieldwrite p file  file fieldt  fieldp int delim
+ write a line with fields to a file 
+voidfieldfree p fieldt  fieldp
+ free a field returned by fieldread 
+
+unsigned intfieldfieldinc    increment to increase  fields by 
+unsigned intfieldlineinc    incr to increase line length by 
+
+ifndef usg
+define strchrindex
+endif  usg 
+
+extern voidfree 
+extern char malloc 
+extern char realloc 
+extern char strchr 
+extern intstrlen 
+
+
+  read one line of the given file into a buffer break it up into
+  fields and return them to the caller  the fieldt structure
+  returned must eventually be freed with fieldfree
+ 
+fieldt  fieldread file delims flags maxf
+    file file file to read lines from 
+    char delims characters to use for field delimiters 
+    intflags option flags  see fieldsh 
+    intmaxf maximum number of fields to parse 
+    
+    register char linebuf  buffer to hold the line read in 
+    intlinemax  maximum line buffer size 
+    intlinesize  current line buffer size 
+
+    linebuf  char  malloc fieldlineinc
+    if linebuf  null
+return null
+    linemax  fieldlineinc
+    linesize  
+    
+      read in the line
+     
+    while fgets linebuflinesize linemax  linesize file
+       null
+
+linesize  strlen linebuflinesize
+if linebuflinesize    n
+    break
+else
+    
+    linemax  fieldlineinc
+    linebuf  char  realloc linebuf linemax
+    if linebuf  null
+return null
+    
+
+    if linesize  
+
+free linebuf
+return null
+
+    return fieldmake linebuf  delims flags maxf
+    
+
+fieldt  fieldmake line allocated delims flags maxf
+    char line line to make into a field structure 
+    intallocated  nz if line allocated with malloc 
+    char delims characters to use for field delimiters 
+    intflags option flags  see fieldsh 
+    intmaxf maximum number of fields to parse 
+    
+    register fieldt fieldp structure describing the fields 
+    intlinesize  current line buffer size 
+
+    fieldp  fieldt  malloc sizeof fieldt
+    if fieldp  null
+return null
+    fieldpnfields  
+    fieldplinebuf  allocated  line  null
+    fieldpfields  null
+    fieldphadnl  
+    linesize  strlen line
+    if linelinesize    n
+
+linelinesize  
+fieldphadnl  
+
+    
+      shrink the line buffer if necessary
+     
+    if allocated    flags  fldnoshrink  
+
+line  fieldplinebuf 
+  char  realloc fieldplinebuf linesize  
+if fieldplinebuf  null
+    
+    fieldfree fieldp
+    return null
+    
+
+    return fieldparse fieldp line delims flags maxf
+    
+
+static fieldt  fieldparse fieldp line delims flags maxf
+    register fieldt fieldp field structure to parse into 
+    register char line line to be parsed 
+    char delims characters to use for field delimiters 
+    intflags option flags  see fieldsh 
+    intmaxf maximum number of fields to parse 
+    
+    intfieldmax  max size of fields array 
+    char lineout  where to store xlated char in line 
+    charquote quote character in use 
+
+    fieldpnfields  
+    fieldmax 
+      maxf      maxf  fieldfieldinc  maxf    fieldfieldinc
+    fieldpfields  char  malloc fieldmax  sizeof char 
+    if fieldpfields  null
+
+fieldfree fieldp
+return null
+
+    if flags
+ fldshquotes  fldsnglquotes  fldbackquotes  flddblquotes
+       fldshquotes
+flags  fldsnglquotes  fldbackquotes  flddblquotes
+    while 
+
+if flags  fldruns
+    
+    while line      strchr delims line  null
+line skip runs of delimiters 
+    if line  
+break
+    
+fieldpfieldsfieldpnfields  lineout  line
+
+  skip to the next delimiter  at the end of skipping line will
+  point to either a delimiter or a null byte
+ 
+if flags
+   fldshquotes  fldsnglquotes  fldbackquotes
+     flddblquotes  fldbackslash
+    
+    while line  
+
+if strchr delims line  null
+    break
+else if flags  fldsnglquotes    line  
+    flags  fldbackquotes    line  
+    flags  flddblquotes    line  
+    
+    if flags  fldshquotes  
+        line  fieldpfieldsfieldpnfields
+quote  
+    else
+quote  line
+    
+else
+    quote  
+if quote  
+    
+    if line      flags  fldbackslash
+
+line
+if line  
+    break
+line  fieldbackch line lineout
+  flags  fldstripquotes
+
+    else
+lineout  line
+    
+else
+    
+     process quoted string 
+    if flags  fldstripquotes  
+lineout  quote
+    line
+    while line  
+
+if line  quote
+    
+    if flags  fldstripquotes  
+lineout  quote
+    line go on past quote 
+    if flags  fldshquotes  
+
+while line  
+    strchr delims line  null
+    line skip to delimiter 
+
+    break
+    
+else if line  
+    
+    if flags  fldbackslash
+
+line
+if line  
+    break
+else
+    line  fieldbackch line lineout
+      flags  fldstripquotes
+
+    else
+
+lineout  
+if line  
+    break
+lineout  line
+
+    
+else
+    lineout  line
+
+    
+
+    
+else
+    
+    while line      strchr delims line  null
+line skip to delimiter 
+    lineout  line
+    
+fieldpnfields
+if line  
+    break
+if maxf      fieldpnfields  maxf
+    break
+lineout  
+if fieldpnfields  fieldmax
+    
+    fieldmax  fieldfieldinc
+    fieldpfields 
+      char  realloc fieldpfields fieldmax  sizeof char 
+    if fieldpfields  null
+
+fieldfree fieldp
+return null
+
+    
+
+    
+      shrink the field pointers and return the field structure
+     
+    if flags  fldnoshrink      fieldpnfields  fieldmax
+
+fieldpfields  char  realloc fieldpfields
+  fieldpnfields    sizeof char 
+if fieldpfields  null
+    
+    fieldfree fieldp
+    return null
+    
+
+    fieldpfieldsfieldpnfields  null
+    return fieldp
+    
+
+static int fieldbackch str out strip
+    register char str first char of backslash sequence 
+    register char out where to store result 
+    intstrip nz to convert the sequence 
+    
+    register intch character being developed 
+    char origstr original value of str 
+
+    if strip
+
+out  
+if str  x    str  x    str      str  
+    
+    out  str
+    return str  
+    
+
+    switch str
+
+case 
+    out  
+    return 
+case a
+    out  
+    return 
+case b
+    out  b
+    return 
+case f
+    out  f
+    return 
+case n
+    out  n
+    return 
+case r
+    out  r
+    return 
+case v
+    out  v
+    return 
+case x
+case x
+     hexadecimal sequence 
+    origstr  str
+    ch  
+    if str      str  
+ch  str  
+    else if str  a    str  f
+ch  str  a  xa
+    else if str  a    str  f
+ch  str  a  xa
+    if str      str  
+ch  ch    str  
+    else if str  a    str  f
+ch  ch    str  a  xa
+    else if str  a    str  f
+ch  ch    str  a  xa
+    break
+case 
+case 
+case 
+case 
+case 
+case 
+case 
+case 
+     octal sequence 
+    origstr  str
+    ch  str  
+    if str      str  
+ch  ch    str  
+    if str      str  
+ch  ch    str  
+    break
+default
+    out  str
+    return 
+
+    if strip
+
+out  ch
+return str  origstr
+
+    else
+
+for ch    origstr  str  ch
+    out  origstr
+return ch
+
+    
+
+int fieldwrite file fieldp delim
+    file file file to write to 
+    register fieldt fieldp field structure to write 
+    intdelim delimiter to place between fields 
+    
+    interror nz if an error occurs 
+    register intfieldno  number of field being written 
+
+    error  
+    for fieldno    fieldno  fieldpnfields  fieldno
+
+if fieldno  
+    error  putc delim file  eof
+error  fputs fieldpfieldsfieldno file  eof
+
+    if fieldphadnl
+error  putc n file  eof
+    return error
+    
+
+void fieldfree fieldp
+    register fieldt fieldp field structure to free 
+    
+
+    if fieldp  null
+return
+    if fieldplinebuf  null
+free char  fieldplinebuf
+    if fieldpfields  null
+free char  fieldpfields
+    free char  fieldp
+    

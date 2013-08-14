@@ -1,0 +1,118 @@
+ attention  conservez cette licence si vous redistribuez ce fichier 
+license abu
+
+version  aout 
+
+copyright c  association de bibliophiles universels
+   httpabucnamfr
+   abucnamfr
+
+la base de textes de lassociation des bibliophiles universels abu
+est une oeuvre de compilation elle peut tre copie diffuse et
+modifie dans les conditions suivantes 
+
+  toute copie  des fins prives  des fins dillustration de lenseignement
+    ou de recherche scientifique est autorise
+
+  toute diffusion ou inclusion dans une autre oeuvre doit
+
+     a soit inclure la presente licence sappliquant a lensemble de la
+        diffusion ou de loeuvre drivee
+
+     b soit permettre aux bnficiaires de cette diffusion ou de cette
+        oeuvre drive den extraire facilement et gratuitement une version
+        numrise de chaque texte inclu muni de la prsente licence  cette
+        possibilit doit tre mentionne explicitement et de faon claire
+        ainsi que le fait que la prsente notice sapplique aux documents
+        extraits
+
+     c permettre aux bnficiaires de cette diffusion ou de cette
+        oeuvre drive den extraire facilement et gratuitement la version
+        numrise originale munie le cas chant des amliorations vises au
+        paragraphe  si elles sont prsentent dans la diffusion ou la nouvelle
+        oeuvre cette possibilit doit tre mentionne explicitement et de
+        faon claire ainsi que le fait que la prsente notice sapplique aux
+        documents extraits
+
+   dans tous les autres cas la prsente licence sera rpute sappliquer
+    lensemble de la diffusion ou de loeuvre drive
+
+
+ lentte qui accompagne chaque fichier doit tre intgralement 
+   conserve au sein de la copie
+
+ la mention du producteur original doit tre conserve ainsi
+   que celle des contributeurs ultrieurs
+
+ toute modification ultrieure par correction derreurs
+   additions de variantes mise en forme dans un autre format ou autre
+   doit tre indique  lindication des diverses contributions devra tre
+   aussi prcise que possible et date
+
+ ce copyright sapplique obligatoirement  toute amlioration
+   par simple correction derreurs ou doublis mineurs orthographe
+   phrase manquante  cestdire ne correspondant pas 
+   ladjonction dune autre variante connue du texte qui devra donc
+   comporter la prsente notice
+
+ fin de la licence abu 
+
+ attention  conservez cet entete si vous redistribuez ce fichier 
+ident football
+identauteurs coubertinp
+identcopistes swaelensg
+archive httpwwwabuorg
+version 
+droits 
+titre notes sur le football 
+genre prose
+auteur pierre de coubertin 
+copiste g j swaelens compuservecom
+notesprod
+
+ce texte de pierre de coubertin qui vise  promouvoir le rugby quil appelle football en france
+a t publi dans le numro du  mai  de la revue scientifique franaise la nature revue des sciences et de leur applications aux arts et  lindustrie
+
+the purpose of this text from pierre de coubertin is to promote the game of rugby which he calls football
+in france has been published in the may   issue of  la nature revue des sciences et de leur applications
+aux arts et  lindustrie a french scientific journal
+
+notesprod
+ fin de lentete 
+
+ debut du fichier football 
+
+ mai  
+
+il y a dans les moeurs comme dans lhistoire des conqutes imprvues la marche triomphale du football  travers les habitudes jusqualors si sdentaires de notre jeunesse franaise en est un nouvel exemple le football avait tout contre lui son premier dfaut tait dtre anglais on nous rpte  chaque instant que nous sommes des anglomanes renforcs cela nest pas car  part le petit groupe de gommeux parisiens qui affectent de ne porter que du linge blanchi a londres il suffit quune mode arrive doutremanche pour quelle veille aussitt des susceptibilits  patriotiques  dans la presse et dans lopinion de plus le football faisait son entre chez nous prcd dune rputation nettement tablie de brutalit les mres franaises qui craignent les rhumes et les engelures ne pouvaient ds lors lui faire un accueil sympathique enfin cest un jeu collectif il exige la formation de deux quipes de onze ou quinze joueurs chacune pour se dployer  laise ces quipes ont besoin dun vaste espace de terrain plat et gazonn autant de motifs pour que les maitres ne fussent pas favorables  une innovation qui allait forcment compliquer la discipline et accrotre le poids de leurs responsabilits 
+
+
+mais il faut signaler un dernier dsavantage auquel nul de ceux qui ont popularis le football en france navait song et dont pour ma part jai t long  me rendre compte il est impossible au spectateur qui nest pas  au courant  de comprendre quelque chose  ce qui se passe sous ses yeux il voit une mle des bras et des jambes enchevtrs des poitrines qui se heurtent des mains qui se crispent toute une srie defforts auxquels il sintressera sil est peintre ou sculpteur qui lui feront horreur sil est pdagogue ou sil a simplement lme sensible comment en face de ce travail intense des muscles la pense lui viendraitelle que des forces intellectuelles et morales sont au mme moment mises  contribution et que rien ne sommeille dans ltre qui se dbat l devant lui  si paul bourget pourtant si bien fait pour comprendre cela na pas su lapercevoir qui donc le pourrait la description quil donne dans outremer dun match de football est une trompeuse photographie tout ce qui sy trouve reproduit est exact et rel mais elle ne reproduit pas tout cest donc que la partie crbrale du jeu  de beaucoup la plus importante  demeure invisible cest donc que le muscle y sert dcran  lintelligence 
+
+
+on maudissait le football avant de le connatre la maldiction fut bien plus nergique quand on le connut les journalistes horrifis en firent de terribles descriptions propres  donner la chair de poule aux parents les moins craintifs des listes de tus et de blesss importes dangleterre circulrent comme pices  lappui certains proviseurs prirent sur eux de linterdire aux lycens rien ny fit la mare monta avec une parfaite rgularit les jeunes gens mirent  vaincre tous les obstacles une persvrance dont nul ne les aurait crus capables les prairies manquaient ils jourent sur la terre battue dans le sable au risque de se rompre les os ils auraient pour un peu jou sur des tas de cailloux je me rappelle des parties piques au bois de boulogne sur la pelouse de saintcloud lendroit tait fort dangereux un arbre tait plant tout au milieu les joueurs pouvaient  tout instant tre prcipits sur cet arbre et sy frapper durement aux tempes ctait un chne rabougri et trs laid jai bien fait dix dmarches pour obtenir quon lenlevt mais on sait ce quil en cote pour toucher  un arbre du bois de boulogne  et ltat civil de ce personnage tait si compliqu que je ne russis jamais  trouver  lhtel de ville le suprieur hirarchique qui avait droit de dcider de sa vie en dernier ressort  deux beaux terrains furent amnags au champdemars de chaque ct de la galerie de trente mtres lorsque les btiments de lexposition de  eurent et dmolis m alphand nous les avait destins mais ils furent rclams pour les pupilles du conseil municipal les petits bambins des coles primaires vtus de jerseys rays quils sobstinaient  porter pardessus leurs chemises et coiffs de  polos   la dernire mode sen vinrent gravement pendant deux saisons occuper ces pelouses et y prendre leurs purils bats pendant que les lycens arrivs  lge o les jeux athltiques sont si ncessaires  lpanouissement viril se voyaient relgus dans des praux trop troits et exposs  des accidents graves 
+
+
+en province la question des terrains ntait pas si difficile  rsoudre avec de lingniosit et de la persvrance on trouva des champs inoccups que les propritaires consentirent  prter ou  louer  bas prix ou bien lautorit militaire la socit des courses la compagnie du chemin de fer concdrent aux lycens et aux socits athltiques lusage des terrains dont elles pouvaient disposer mais un autre inconvnient se prsenta labsence dmulation lmulation est lessence du football il ny a pas dintrt  y jouer entre camarades qui se connaissent trop bien qui vivent ensemble depuis longtemps  paris il y a dix lyces chaque ville de province nen a quun on voit par ce rapide expos toutes les chances quavait le football dexpirer faute de footballers or depuis dix ans le mouvement athltique a subi bien des vicissitudes bien des arrts il y a eu parfois des enthousiasmes exagrs plus souvent encore des dcouragements injustifis laviron na pas prospr comme on sy attendait ce sport si parfait au point de vue du travail musculaire si captivant par  livresse de nature  quil procure  ses adeptes na encore sduit quune portion relativement infime de notre jeunesse quant au jeu de longuepaume si intressant et qui a lavantage suprieur dtre pour la france un exercice traditionnel un exercice vraiment national nous avons en vain travaill  lui rendre son ancienne popularit impossible de faire prendre la boxe mme la boxe  franaise  qui est un art tout parisien a de certains moment les courses  pied ont flchi les matres de mange les professeurs descrime et de gymnastique se plaignent sans cesse de la concurrence que leur fait la bicyclette leur clientle diminue un seul sport na connu ni arrts ni reculs le football a quoi cela peutil tenir  du moment que les circonstances lui ont toujours t adverses  sinon  la valeur intrinsque du jeu luimme aux motions quil procure  lintrt quil prsente 
+
+
+si les rglements du football sont assez complexes on peut toutefois les ramener  quatre ou cinq rgles fondamentales qui sont simples que cherche le joueur il vise  semparer du ballon  lamener prs de la ligne de but de ladversaire et  lui faire toucher terre derrire cette ligne et le plus prs possible du but que marquent deux grands piquets runis  mihauteur par une barre transversale sil y parvient il marque un essai lequel se chiffre par un certain nombre de points pour son camp le ballon est alors plac sur une ligne perpendiculaire  la ligne de but et partant de lendroit o lessai a t fait on pose le ballon  terre sur un point quelconque de cette ligne et dun coup de pied savamment donn un joueur sefforce de le faire passer entre les deux piquets et audessus de la barre transversale lessai est alors  transform en but  et de nouveaux points sont compts cest leur total qui tout  lheure tablira la victoire le football en effet se joue  la diffrence de la plupart des jeuxen quatrevingts minutes la partie se divise en deux portions de quarante minutes chacune pendant lentracte qui les spare les camps changent de ct a la fin de la partie on additionne les points plus les quipes sont fortes moins levs seront les totaux si rien na t marqu daucun ct le match est nul 
+
+
+tel est le canevas en apparence trs rudimentaire que viennent compliquer quelques rgles additionnelles extrmement gniales la manire la plus avantageuse de sapprocher de la ligne du but de ladversaire cest incontestablement dy porter le ballon en courant et en vitant de se faire  arrter   on a le droit en effet darrter lhomme qui court avec le ballon en se saisissant de lui sauf par le cou ou par les jambes ce qui pourrait tre dangereux on larrte par le milieu du corps se voyant sur le point dtre arrt que va chercher le joueur  se dessaisir du ballon et  le  passer   un partenaire or il ne peut pas le passer en avant il ne peut le jeter  un partenaire que sur la mme ligne ou en arrire voil une combinaison qui rappelle certains jeux de dames pour gagner du terrain le ballon commence donc par reculer mais dautre part le joueur luimme est hors jeu sil se trouve en avant du ballon  un moment o ses partenaires se le passent il nest plus qualifi pour le prendre jusqu ce quil soit de nouveau  sa place en arrire du ballon quelque peine quon se donne pour expliquer ceci il doit forcment en rsulter de la confusion dans lesprit du lecteur ce qui peut au contraire lui devenir aisment intelligible cest lensemble de qualits physiques et morales ncessaires  un bon joueur de football pour se tirer dune situation aussi complique il lui faut de la force sans doute et du poids pour arrter ses adversaires et rsister a leurs arrts mais la souplesse llasticit lui sont bien plus ncessaires encore il doit tre bon coureur et pouvoir au milieu de sa course en modifier brusquement lallure ou la direction se jeter a droite ou  gauche se couler entre deux ennemis ou bien fondre sur eux pour les drouter au moment o il vient habilement de se dbarrasser du ballon au profit dun partenaire autant de dcisions  prendre qui exigent du coup doeil et du sangfroid de labngation mme car il faut souvent renoncer a accomplir une prouesse individuelle dans lintrt de lquipe se dessaisir du ballon au moment de tenter soimme un essai parce quun autre est mieux  mme dy russir enfin il y a lesprit de discipline qui simpose chaque quipe ne saurait voir l ensemble de la bataille cest laffaire du capitaine qui dirige ses hommes en consquence qui sait le fort et le faible de chacun qui doit prvoir les mouvements et rparer les erreurs cest lopinion des anglais quun homme inintelligent ou simplement lent dans sa comprhension ne deviendra jamais un bon footballer cest aussi lopinion de beaucoup dofficiers distingus de larme britannique quil y a dans un capitaine de football sachant son mtier ltoffe dun vritable stratgiste de pareilles louanges frquemment dcernes en disent long sur le mrite du jeu mais voici quune preuve originale et bien imprvue du caractre vritablement scientifique du football nous vient damrique 
+
+
+un avocat de boston nomm deland et qui navait dans sa jeunesse ni pratiqu ni mme vu pratiquer sous ses yeux le football  lathltisme nest pas ancien aux tatsunis cest  lissue de la guerre de scession quil sest dvelopp  assista un jour  un match universitaire il en sortit trs captiv et voulut sinitier aux rgles du jeu il les tudia donc consciencieusement et de plus en plus enthousiaste suivit assidument tous les matches de la saison cela se passait il y a quelques annes seulement tout  coup une rvlation se fit dans lesprit de m deland il se procura lhistoire du consulat et de lempire de thiers et se mit  piocher les campagnes de napolon m deland cherchait sil ny aurait pas dans la tactique impriale quelques prceptes applicables au football ceci suffit  montrer quil avait saisi la caractristique du jeu or napolon excellait  dtacher soudainement des masses dhommes pour les jeter  limproviste l o lennemi sattendait le moins  les rencontrer le capitaine de football peut en faire autant sil a un moyen de transmettre rapidement et mystrieusement  ses hommes des ordres prcis ce moyen est simple il leur parlera en langage chiffr quand m deland publia les rsultats de ses mditations le monde du football en fut rvolutionn on discuta passionnment la rforme propose et en peu de temps elle fut applique parles principales quipes universitaires en  jai suivi lentranement de lquipe de princeton les joueurs enferms dans un grand btiment sorte de mange norme sy exeraient  comprendre et  traduire aussitt en mouvements les chiffres cabalistiques que leur lanait a limproviste le capitaine le secret de ce langage tait bien entendu jalousement gard ensuite ils allaient sur le champ de jeu suivre leur entranement habituel il sagissait du match annuel qui au mois de novembre met aux prises  newyork les deux universits de yale et de princeton le grand jour arriva il y eut plus de quarante mille spectateurs et lenthousiasme fut indescriptible a tout instant les nombres appels dune voix sonore provoquaient des mouvements dun ensemble parfait et dune opportunit gniale la rapidit avec laquelle ils saccomplissaient tait foudroyante si intress que je fusse au spectacle que javais sous les yeux il me parut que la tactique deland tait doublement dfectueuse en lanant brusquement plusieurs hommes sur un seul elle accroissait beaucoup les chances daccidents il ny en eut pas ce jourl mais le danger couru nen apparaissait pas moins clairement en second lieu le rle de chaque quipier tait diminu de tout ce que gagnait le rle du capitaine sur lui reposait la plus grande part de responsabilit son initiative devenait trop puissante les autres taient rduits  une obissance trop absolue ce qui est admirable dans le football cest le perptuel mlange dindividualisme et de discipline la ncessit pour chaque homme de raisonner de calculer de se dcider pour luimme et en mme temps de subordonner ses raisonnements ses calculs ses dcisions  ceux du capitaine il nest pas jusquau sifflet de larbitre larrtant pour une  faute  quun camarade a commise et quil na pas mme aperue qui nexerce sa patience et sa force de caractre ainsi compris le football est par excellence limage de la vie une leon de choses vcue un instrument pdagogique de premier ordre 
+
+
+aux etatsunis mme on na pas tard a se rendre compte des inconvnients de la mthode deland et on la quelque peu dlaisse si je lai rappele ici cest que rien ne prouve mieux  quel point le football est un jeu scientifique le seul fait davoir pu lui faire subir une pareille transformation en lui appliquant les principes de la stratgie militaire tablit premptoirement son caractre  intellectuel  en tout ceci je nai parl que du jeu dit de rugby le football se joue aussi sous dautres rgles appeles rgles dassociation lassociation est un sport trs lgant plein de finesse mais qui ne saurait tre compar au rugby il est interdit de toucher le ballon avec les mains de le porter cest en somme un  ballon au pied  habilement rglement mais ne comportant pas les combinaisons et les pripties du rugby et maintenant ce rugby qui porte le nom du clbre collge dangleterre do partit voici cinquante ans la grandiose rforme pdagogique de thomas arnold ce rugby nestil comme on la prtendu quun driv de la soule la soule tait jadis en grand honneur parmi les paysans de normandie et les descriptions qui sont parvenues jusqu nous donnent limpression dun furieux plaisir auquel prenaient part denthousiasme des villages entiers mais je dois dire que je nai aperu nulle part la trace de ce qui rend les combinaisons du moderne football si varies et si captivantes je veux dire une rglementation scientifique 
+
+
+si les franais savaient le rle de lintelligence et de la volont la part de lesprit et du caractre dans la plupart des sports  et dans celuici en particulier  avec quel entrain ils y pousseraient leurs enfants  mais le franais est un grand sceptique saint thomas est son patron il faut quil touche du doigt on ne peut pourtant pas rendre le football obligatoire pour tous les hommes valides  partir de  ans afin de leur en faire mieux apprcier les bienfaits  alors il faut attendre que les joueurs daujourdhui deviennent pres  leur tour  cest long mais sr 
+
+
+pierre de coubertin 
+prsident du comit international des jeux olympiques 
+
+
+ fin du fichier football 
